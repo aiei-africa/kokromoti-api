@@ -1,0 +1,1521 @@
+[
+ {
+  "legacyDistId": 1,
+  "code": "A01",
+  "name": "Jomoro",
+  "capital": "Half-Assin",
+  "regionCode": "W/R"
+ },
+ {
+  "legacyDistId": 2,
+  "code": "A02",
+  "name": "Ellembelle",
+  "capital": "Ellembele",
+  "regionCode": "W/R"
+ },
+ {
+  "legacyDistId": 3,
+  "code": "A03",
+  "name": "Nzema East Municipal",
+  "capital": "Axim",
+  "regionCode": "W/R"
+ },
+ {
+  "legacyDistId": 4,
+  "code": "A04",
+  "name": "Ahanta West",
+  "capital": "Agona-Nkwanta",
+  "regionCode": "W/R"
+ },
+ {
+  "legacyDistId": 5,
+  "code": "A08",
+  "name": "Sekondi-Takoradi Metropolis",
+  "capital": "Sekondi",
+  "regionCode": "W/R"
+ },
+ {
+  "legacyDistId": 6,
+  "code": "A09",
+  "name": "Shama",
+  "capital": "Shama",
+  "regionCode": "W/R"
+ },
+ {
+  "legacyDistId": 7,
+  "code": "A10",
+  "name": "Wassa East",
+  "capital": "Daboase",
+  "regionCode": "W/R"
+ },
+ {
+  "legacyDistId": 8,
+  "code": "A11",
+  "name": "Mpohor",
+  "capital": "Mpohor",
+  "regionCode": "W/R"
+ },
+ {
+  "legacyDistId": 9,
+  "code": "A12",
+  "name": "Tarkwa-Nsuaem Municipal",
+  "capital": "Tarkwa",
+  "regionCode": "W/R"
+ },
+ {
+  "legacyDistId": 10,
+  "code": "A13",
+  "name": "Prestea-Huni Valley",
+  "capital": "Bogoso",
+  "regionCode": "W/R"
+ },
+ {
+  "legacyDistId": 11,
+  "code": "A14",
+  "name": "Amenfi East",
+  "capital": "Wassa Akropong",
+  "regionCode": "W/R"
+ },
+ {
+  "legacyDistId": 12,
+  "code": "A15",
+  "name": "Amenfi Central",
+  "capital": "Manso Amenfi",
+  "regionCode": "W/R"
+ },
+ {
+  "legacyDistId": 13,
+  "code": "A16",
+  "name": "Amenfi West",
+  "capital": "Asankrangwa",
+  "regionCode": "W/R"
+ },
+ {
+  "legacyDistId": 14,
+  "code": "A17",
+  "name": "Aowin",
+  "capital": "Enchi",
+  "regionCode": "WN/R"
+ },
+ {
+  "legacyDistId": 15,
+  "code": "A18",
+  "name": "Suaman",
+  "capital": "Dadieso",
+  "regionCode": "WN/R"
+ },
+ {
+  "legacyDistId": 16,
+  "code": "A19",
+  "name": "Bibiani-Anhwiaso-Bekwai",
+  "capital": "Bibiani",
+  "regionCode": "WN/R"
+ },
+ {
+  "legacyDistId": 17,
+  "code": "A20",
+  "name": "Sefwi Wiawso",
+  "capital": "Wiawso",
+  "regionCode": "WN/R"
+ },
+ {
+  "legacyDistId": 18,
+  "code": "A21",
+  "name": "Sefwi Akontombra",
+  "capital": "Sefwi Akontombra",
+  "regionCode": "WN/R"
+ },
+ {
+  "legacyDistId": 19,
+  "code": "A22",
+  "name": "Juaboso",
+  "capital": "Juaboso",
+  "regionCode": "WN/R"
+ },
+ {
+  "legacyDistId": 20,
+  "code": "A23",
+  "name": "Bodi",
+  "capital": "Bodi",
+  "regionCode": "WN/R"
+ },
+ {
+  "legacyDistId": 21,
+  "code": "A24",
+  "name": "Bia West",
+  "capital": "Essam",
+  "regionCode": "WN/R"
+ },
+ {
+  "legacyDistId": 22,
+  "code": "A25",
+  "name": "Bia East",
+  "capital": "Asokore Adabokrom",
+  "regionCode": "WN/R"
+ },
+ {
+  "legacyDistId": 23,
+  "code": "B01",
+  "name": "KEEA Municipal",
+  "capital": "Komenda",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 24,
+  "code": "B02",
+  "name": "Cape Coast",
+  "capital": "Cape Coast",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 25,
+  "code": "B03",
+  "name": "Abura-Asebu-Kwamankese",
+  "capital": "Abura-Dunkwa",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 26,
+  "code": "B04",
+  "name": "Mfantseman",
+  "capital": "Saltpong",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 27,
+  "code": "B05",
+  "name": "Ekumfi",
+  "capital": "Ekumfi Narkwa",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 28,
+  "code": "B06",
+  "name": "Ajumako-Enyan-Esiam",
+  "capital": "Ajumako",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 29,
+  "code": "B07",
+  "name": "Gomoa West",
+  "capital": "Apam",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 30,
+  "code": "B08",
+  "name": "Gomoa East",
+  "capital": "Fetteh",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 31,
+  "code": "B09",
+  "name": "Effutu Municipal",
+  "capital": "Winneba",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 32,
+  "code": "B10",
+  "name": "Awutu-Senya West",
+  "capital": "Awutu Senya",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 33,
+  "code": "B11",
+  "name": "Awutu-Senya East Municipal",
+  "capital": "Kasoa",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 34,
+  "code": "B12",
+  "name": "Agona West Municipal",
+  "capital": "Agona-Swedru",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 35,
+  "code": "B13",
+  "name": "Agona East",
+  "capital": "Agona-Nsaba",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 36,
+  "code": "B14",
+  "name": "Asikuma-Odoben-Brakwa",
+  "capital": "Asikuma",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 37,
+  "code": "B15",
+  "name": "Assin North Municipal",
+  "capital": "Assin-Foso",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 38,
+  "code": "B16",
+  "name": "Assin South",
+  "capital": "Nsuaem-Kyekyewere",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 39,
+  "code": "B17",
+  "name": "Twifo-Atii Morkwaa",
+  "capital": "Twifo Praso",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 40,
+  "code": "B18",
+  "name": "Hemang-Lower Denkyira",
+  "capital": "Hermang",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 41,
+  "code": "B19",
+  "name": "Upper Denkyira East Municipal",
+  "capital": "Dunkwa-On-Offin",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 42,
+  "code": "B20",
+  "name": "Upper Denkyira West",
+  "capital": "Dominase",
+  "regionCode": "C/R"
+ },
+ {
+  "legacyDistId": 43,
+  "code": "C01",
+  "name": "Ga South Municipal",
+  "capital": "Weija",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 44,
+  "code": "C02",
+  "name": "Ga Central Municipal",
+  "capital": "Sowutuom",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 45,
+  "code": "C03",
+  "name": "Ga West Municipal",
+  "capital": "Amasaman",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 46,
+  "code": "C04",
+  "name": "Ga East Municipal",
+  "capital": "Dome",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 47,
+  "code": "C05",
+  "name": "Accra Metropolis",
+  "capital": "Accra",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 48,
+  "code": "C06",
+  "name": "La-Dadekotopon Municipal",
+  "capital": "La",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 49,
+  "code": "C07",
+  "name": "La Nkwantanang-Madina Municipal",
+  "capital": "Madina",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 50,
+  "code": "C12",
+  "name": "Ledzokuku-Krowor Municipal",
+  "capital": "Teshie",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 51,
+  "code": "C13",
+  "name": "Tema Metropolis",
+  "capital": "Tema",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 52,
+  "code": "C14",
+  "name": "Kpone-Katamanso",
+  "capital": "Kpone",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 53,
+  "code": "C15",
+  "name": "Ashaiman Municipal",
+  "capital": "Ashaiman",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 54,
+  "code": "C16",
+  "name": "Adenta Municipal",
+  "capital": "Adenta",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 55,
+  "code": "C17",
+  "name": "Shai-Osudoku",
+  "capital": "Dodowa",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 56,
+  "code": "C18",
+  "name": "Ningo-Prampram",
+  "capital": "Prampram",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 57,
+  "code": "C19",
+  "name": "Ada West",
+  "capital": "Sege",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 58,
+  "code": "C20",
+  "name": "Ada East",
+  "capital": "Ada Foah",
+  "regionCode": "GA/R"
+ },
+ {
+  "legacyDistId": 59,
+  "code": "D01",
+  "name": "Keta Municipal",
+  "capital": "Keta",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 60,
+  "code": "D02",
+  "name": "Ketu South Municipal",
+  "capital": "Denu",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 61,
+  "code": "D03",
+  "name": "Ketu North",
+  "capital": "Dzodze",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 62,
+  "code": "D04",
+  "name": "Akatsi South",
+  "capital": "Akatsi",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 63,
+  "code": "D05",
+  "name": "Akatsi North",
+  "capital": "Ave Dakpa",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 64,
+  "code": "D06",
+  "name": "South Tongu",
+  "capital": "Sogakope",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 65,
+  "code": "D07",
+  "name": "Central Tongu",
+  "capital": "Adidome",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 66,
+  "code": "D08",
+  "name": "North Tongu",
+  "capital": "Battor Dugame",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 67,
+  "code": "D09",
+  "name": "Adaklu",
+  "capital": "Adaklu Waya",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 68,
+  "code": "D10",
+  "name": "Agotime-Ziope",
+  "capital": "Kpetoe",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 69,
+  "code": "D11",
+  "name": "Ho Municipal",
+  "capital": "Ho",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 70,
+  "code": "D12",
+  "name": "Ho West",
+  "capital": "Dzolokpuita",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 71,
+  "code": "D13",
+  "name": "South Dayi",
+  "capital": "Kpeve",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 72,
+  "code": "D14",
+  "name": "Kpando Municipal",
+  "capital": "Kpando",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 73,
+  "code": "D15",
+  "name": "North Dayi",
+  "capital": "Anfoega",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 74,
+  "code": "D16",
+  "name": "Hohoe Municipal",
+  "capital": "Hohoe",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 75,
+  "code": "D17",
+  "name": "Afadjato South",
+  "capital": "Ve Golokwati",
+  "regionCode": "V/R"
+ },
+ {
+  "legacyDistId": 76,
+  "code": "D18",
+  "name": "Jasikan",
+  "capital": "Jasikan",
+  "regionCode": "O/R"
+ },
+ {
+  "legacyDistId": 77,
+  "code": "D19",
+  "name": "Biakoye",
+  "capital": "Nkonya Ahenkro",
+  "regionCode": "O/R"
+ },
+ {
+  "legacyDistId": 78,
+  "code": "D20",
+  "name": "Kadjebi",
+  "capital": "Kadjebi",
+  "regionCode": "O/R"
+ },
+ {
+  "legacyDistId": 79,
+  "code": "D21",
+  "name": "Krachi East",
+  "capital": "Dambai",
+  "regionCode": "O/R"
+ },
+ {
+  "legacyDistId": 80,
+  "code": "D22",
+  "name": "Krachi West",
+  "capital": "Kete-Krachi",
+  "regionCode": "O/R"
+ },
+ {
+  "legacyDistId": 81,
+  "code": "D23",
+  "name": "Krachi Nchumuru",
+  "capital": "Chindiri",
+  "regionCode": "O/R"
+ },
+ {
+  "legacyDistId": 82,
+  "code": "D24",
+  "name": "Nkwanta South",
+  "capital": "Nkwanta",
+  "regionCode": "O/R"
+ },
+ {
+  "legacyDistId": 83,
+  "code": "D25",
+  "name": "Nkwanta North",
+  "capital": "Kpasa",
+  "regionCode": "O/R"
+ },
+ {
+  "legacyDistId": 84,
+  "code": "E01",
+  "name": "Asuogyaman",
+  "capital": "Atimpoku",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 85,
+  "code": "E02",
+  "name": "Lower Manya Krobo Municipal",
+  "capital": "Odumasi-Krobo",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 86,
+  "code": "E03",
+  "name": "Upper Manya Krobo",
+  "capital": "Asesewa",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 87,
+  "code": "E04",
+  "name": "Yilo Krobo Municipal",
+  "capital": "Somanya",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 88,
+  "code": "E05",
+  "name": "New Juaben Municipal",
+  "capital": "Koforidua",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 89,
+  "code": "E06",
+  "name": "Akwapem North",
+  "capital": "Akropong",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 90,
+  "code": "E07",
+  "name": "Akwapem South",
+  "capital": "Aburi",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 91,
+  "code": "E08",
+  "name": "Nsawam Municipal",
+  "capital": "Nsawam",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 92,
+  "code": "E09",
+  "name": "Suhum Municipal",
+  "capital": "Suhum",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 93,
+  "code": "E10",
+  "name": "Ayensuano",
+  "capital": "Coaltar",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 94,
+  "code": "E11",
+  "name": "West Akim Municipal",
+  "capital": "Asamankese",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 95,
+  "code": "E12",
+  "name": "Upper-West Akim",
+  "capital": "Adeiso",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 96,
+  "code": "E13",
+  "name": "Birim Central Municipal",
+  "capital": "Akim Oda",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 97,
+  "code": "E14",
+  "name": "Birim South",
+  "capital": "Akim Sweduro",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 98,
+  "code": "E15",
+  "name": "Akyemansa",
+  "capital": "Ofoase",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 99,
+  "code": "E16",
+  "name": "Kwabibirem",
+  "capital": "Kade",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 100,
+  "code": "E17",
+  "name": "Denkyembour",
+  "capital": "Akwatia",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 101,
+  "code": "E18",
+  "name": "Birim North",
+  "capital": "New-Abirem",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 102,
+  "code": "E19",
+  "name": "East Akim Municipal",
+  "capital": "Kibi",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 103,
+  "code": "E20",
+  "name": "Atiwa",
+  "capital": "Kwabeng",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 104,
+  "code": "E21",
+  "name": "Fanteakwa",
+  "capital": "Begoro",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 105,
+  "code": "E22",
+  "name": "Kwahu West Municipal",
+  "capital": "Nkwakaw",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 106,
+  "code": "E23",
+  "name": "Kwahu South",
+  "capital": "Mpreaso",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 107,
+  "code": "E24",
+  "name": "Kwahu East",
+  "capital": "Abetifi",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 108,
+  "code": "E25",
+  "name": "Afram Plains North",
+  "capital": "Donkorkrom",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 109,
+  "code": "E26",
+  "name": "Afram Plains South",
+  "capital": "Tease",
+  "regionCode": "E/R"
+ },
+ {
+  "legacyDistId": 110,
+  "code": "F01",
+  "name": "Adansi South",
+  "capital": "Akrofuom",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 111,
+  "code": "F02",
+  "name": "Adansi North",
+  "capital": "Asokwa",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 112,
+  "code": "F03",
+  "name": "Obuasi Municipal",
+  "capital": "Obuasi",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 113,
+  "code": "F04",
+  "name": "Bekwai Municipal",
+  "capital": "Bekwai",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 114,
+  "code": "F05",
+  "name": "Bosome Freho",
+  "capital": "Asiwa",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 115,
+  "code": "F06",
+  "name": "Amansie Central",
+  "capital": "Jacobu",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 116,
+  "code": "F07",
+  "name": "Amansie West",
+  "capital": "Manso Nkwanta",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 117,
+  "code": "F08",
+  "name": "Atwima Nwabiagya",
+  "capital": "Nkwawie",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 118,
+  "code": "F09",
+  "name": "Atwima Mponua",
+  "capital": "Nyinahin",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 119,
+  "code": "F10",
+  "name": "Bosomtwe",
+  "capital": "Kuntanase",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 120,
+  "code": "F11",
+  "name": "Atwima Kwanwoma",
+  "capital": "Foase Kokoben",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 121,
+  "code": "F12",
+  "name": "Kumasi Metropolis",
+  "capital": "Kumasi",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 122,
+  "code": "F13",
+  "name": "Asokore Mampong Municipal",
+  "capital": "Asokore Mampong",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 123,
+  "code": "F23",
+  "name": "Kwabre East",
+  "capital": "Mamponteng",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 124,
+  "code": "F24",
+  "name": "Afigya Kwabre",
+  "capital": "Kodie",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 125,
+  "code": "F25",
+  "name": "Ejisu-Juaben Municipal",
+  "capital": "Ejisu",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 126,
+  "code": "F26",
+  "name": "Asante Akim South",
+  "capital": "Juaso",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 127,
+  "code": "F27",
+  "name": "Asante Akim Central Municipal",
+  "capital": "Konongo",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 128,
+  "code": "F28",
+  "name": "Asante Akim North",
+  "capital": "Agogo",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 129,
+  "code": "F29",
+  "name": "Sekyere East",
+  "capital": "Effiduase",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 130,
+  "code": "F30",
+  "name": "Sekyere Kumawu",
+  "capital": "Kumawu",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 131,
+  "code": "F31",
+  "name": "Sekyere Afram Plains",
+  "capital": "Drobonso",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 132,
+  "code": "F32",
+  "name": "Sekyere Central",
+  "capital": "Nsuta",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 133,
+  "code": "F33",
+  "name": "Mampong Municipal",
+  "capital": "Mampong",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 134,
+  "code": "F34",
+  "name": "Ejura Sekyedumase",
+  "capital": "Ejura",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 135,
+  "code": "F35",
+  "name": "Sekyere South",
+  "capital": "Agona",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 136,
+  "code": "F36",
+  "name": "Offinso North",
+  "capital": "Offinso",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 137,
+  "code": "F37",
+  "name": "Offinso South Municipal",
+  "capital": "Akomadan",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 138,
+  "code": "F38",
+  "name": "Ahafo Ano South",
+  "capital": "Mankraso",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 139,
+  "code": "F39",
+  "name": "Ahafo Ano North",
+  "capital": "Tepa",
+  "regionCode": "A/R"
+ },
+ {
+  "legacyDistId": 140,
+  "code": "G01",
+  "name": "Asunafo South",
+  "capital": "Kukuom",
+  "regionCode": "AH/R"
+ },
+ {
+  "legacyDistId": 141,
+  "code": "G02",
+  "name": "Asunafo North Municipal",
+  "capital": "Goaso",
+  "regionCode": "AH/R"
+ },
+ {
+  "legacyDistId": 142,
+  "code": "G03",
+  "name": "Asutifi South",
+  "capital": "Hwidiem",
+  "regionCode": "AH/R"
+ },
+ {
+  "legacyDistId": 143,
+  "code": "G04",
+  "name": "Asutifi North",
+  "capital": "Kenyasi",
+  "regionCode": "AH/R"
+ },
+ {
+  "legacyDistId": 144,
+  "code": "G05",
+  "name": "Tano South",
+  "capital": "Bechem",
+  "regionCode": "AH/R"
+ },
+ {
+  "legacyDistId": 145,
+  "code": "G06",
+  "name": "Tano North",
+  "capital": "Duayaw Nkwanta",
+  "regionCode": "AH/R"
+ },
+ {
+  "legacyDistId": 146,
+  "code": "G07",
+  "name": "Sunyani Municipal",
+  "capital": "Sunyani",
+  "regionCode": "BO/R"
+ },
+ {
+  "legacyDistId": 147,
+  "code": "G08",
+  "name": "Sunyani West",
+  "capital": "Awuah Odumase",
+  "regionCode": "BO/R"
+ },
+ {
+  "legacyDistId": 148,
+  "code": "G09",
+  "name": "Dormaa West",
+  "capital": "Nkrankwanta",
+  "regionCode": "BO/R"
+ },
+ {
+  "legacyDistId": 149,
+  "code": "G10",
+  "name": "Dormaa Municipal",
+  "capital": "Dormaa Ahenkro",
+  "regionCode": "BO/R"
+ },
+ {
+  "legacyDistId": 150,
+  "code": "G11",
+  "name": "Dormaa East",
+  "capital": "Wamfie",
+  "regionCode": "BO/R"
+ },
+ {
+  "legacyDistId": 151,
+  "code": "G12",
+  "name": "Berekum Municipal",
+  "capital": "Berekum",
+  "regionCode": "BO/R"
+ },
+ {
+  "legacyDistId": 152,
+  "code": "G13",
+  "name": "Jaman South",
+  "capital": "Drobo",
+  "regionCode": "BO/R"
+ },
+ {
+  "legacyDistId": 153,
+  "code": "G14",
+  "name": "Jaman North",
+  "capital": "Sampa",
+  "regionCode": "BO/R"
+ },
+ {
+  "legacyDistId": 154,
+  "code": "G15",
+  "name": "Banda",
+  "capital": "Banda Ahenkro",
+  "regionCode": "BO/R"
+ },
+ {
+  "legacyDistId": 155,
+  "code": "G16",
+  "name": "Tain",
+  "capital": "Nsawkaw",
+  "regionCode": "BO/R"
+ },
+ {
+  "legacyDistId": 156,
+  "code": "G17",
+  "name": "Wenchi Municipal",
+  "capital": "Wenchi",
+  "regionCode": "BO/R"
+ },
+ {
+  "legacyDistId": 157,
+  "code": "G18",
+  "name": "Techiman Municipal",
+  "capital": "Techiman",
+  "regionCode": "BE/R"
+ },
+ {
+  "legacyDistId": 158,
+  "code": "G19",
+  "name": "Kintampo North Municipal",
+  "capital": "Kintampo",
+  "regionCode": "BE/R"
+ },
+ {
+  "legacyDistId": 159,
+  "code": "G20",
+  "name": "Kintampo South",
+  "capital": "Jema",
+  "regionCode": "BE/R"
+ },
+ {
+  "legacyDistId": 160,
+  "code": "G21",
+  "name": "Nkoranza North",
+  "capital": "Busunya",
+  "regionCode": "BE/R"
+ },
+ {
+  "legacyDistId": 161,
+  "code": "G22",
+  "name": "Nkoranza South",
+  "capital": "Nkoranza",
+  "regionCode": "BE/R"
+ },
+ {
+  "legacyDistId": 162,
+  "code": "G23",
+  "name": "Atebubu-Amantin Municipal",
+  "capital": "Atebubu",
+  "regionCode": "BE/R"
+ },
+ {
+  "legacyDistId": 163,
+  "code": "G24",
+  "name": "Pru",
+  "capital": "Yeji",
+  "regionCode": "BE/R"
+ },
+ {
+  "legacyDistId": 164,
+  "code": "G25",
+  "name": "Sene West",
+  "capital": "Kwame Danso",
+  "regionCode": "BE/R"
+ },
+ {
+  "legacyDistId": 165,
+  "code": "G26",
+  "name": "Sene East",
+  "capital": "Kajaji",
+  "regionCode": "BE/R"
+ },
+ {
+  "legacyDistId": 166,
+  "code": "G27",
+  "name": "Techiman North",
+  "capital": "Tuobodom",
+  "regionCode": "BE/R"
+ },
+ {
+  "legacyDistId": 167,
+  "code": "H01",
+  "name": "Bole",
+  "capital": "Bole",
+  "regionCode": "S/R"
+ },
+ {
+  "legacyDistId": 168,
+  "code": "H02",
+  "name": "Sawla-Tuna-Kalba",
+  "capital": "Sawla",
+  "regionCode": "S/R"
+ },
+ {
+  "legacyDistId": 169,
+  "code": "H03",
+  "name": "West Gonja",
+  "capital": "Damongo",
+  "regionCode": "S/R"
+ },
+ {
+  "legacyDistId": 170,
+  "code": "H04",
+  "name": "North Gonja",
+  "capital": "Daboya",
+  "regionCode": "S/R"
+ },
+ {
+  "legacyDistId": 171,
+  "code": "H05",
+  "name": "Central Gonja",
+  "capital": "Buipe",
+  "regionCode": "S/R"
+ },
+ {
+  "legacyDistId": 172,
+  "code": "H06",
+  "name": "East Gonja",
+  "capital": "Salaga",
+  "regionCode": "S/R"
+ },
+ {
+  "legacyDistId": 173,
+  "code": "H07",
+  "name": "Kpandai",
+  "capital": "Kpandai",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 174,
+  "code": "H08",
+  "name": "Nanumba North",
+  "capital": "Bimbilla",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 175,
+  "code": "H09",
+  "name": "Nanumba South",
+  "capital": "Wulensi",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 176,
+  "code": "H10",
+  "name": "Zabzugu",
+  "capital": "Zabzugu",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 177,
+  "code": "H11",
+  "name": "Tatale-Sanguli",
+  "capital": "Tatale",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 178,
+  "code": "H12",
+  "name": "Yendi Municipal",
+  "capital": "Yendi",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 179,
+  "code": "H13",
+  "name": "Mion",
+  "capital": "Sang",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 180,
+  "code": "H14",
+  "name": "Saboba",
+  "capital": "Saboba",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 181,
+  "code": "H15",
+  "name": "Chereponi",
+  "capital": "Chereponi",
+  "regionCode": "NE/R"
+ },
+ {
+  "legacyDistId": 182,
+  "code": "H16",
+  "name": "Gushiegu",
+  "capital": "Gushiegu",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 183,
+  "code": "H17",
+  "name": "Karaga",
+  "capital": "Karaga",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 184,
+  "code": "H18",
+  "name": "Savelugu-Nanton",
+  "capital": "Nanton",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 185,
+  "code": "H19",
+  "name": "Tamale Metropolis",
+  "capital": "Tamale",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 186,
+  "code": "H20",
+  "name": "Sagnarigu",
+  "capital": "Sagnarigu",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 187,
+  "code": "H21",
+  "name": "Tolon",
+  "capital": "Tolon",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 188,
+  "code": "H22",
+  "name": "Kumbungu",
+  "capital": "Kumbungu",
+  "regionCode": "N/R"
+ },
+ {
+  "legacyDistId": 189,
+  "code": "H23",
+  "name": "West Mamprusi",
+  "capital": "Walewale",
+  "regionCode": "NE/R"
+ },
+ {
+  "legacyDistId": 190,
+  "code": "H24",
+  "name": "Mamprugu-Moagduri",
+  "capital": "Yagaba",
+  "regionCode": "NE/R"
+ },
+ {
+  "legacyDistId": 191,
+  "code": "H25",
+  "name": "East Mamprusi",
+  "capital": "Gambaga",
+  "regionCode": "NE/R"
+ },
+ {
+  "legacyDistId": 192,
+  "code": "H26",
+  "name": "Bunkpurugu-Yunyoo",
+  "capital": "Bunkpurugu",
+  "regionCode": "NE/R"
+ },
+ {
+  "legacyDistId": 193,
+  "code": "J01",
+  "name": "Builsa South",
+  "capital": "Fumbisi",
+  "regionCode": "UE/R"
+ },
+ {
+  "legacyDistId": 194,
+  "code": "J02",
+  "name": "Builsa North",
+  "capital": "Sandema",
+  "regionCode": "UE/R"
+ },
+ {
+  "legacyDistId": 195,
+  "code": "J03",
+  "name": "Kassena-Nankana East Municipal",
+  "capital": "Navrongo",
+  "regionCode": "UE/R"
+ },
+ {
+  "legacyDistId": 196,
+  "code": "J04",
+  "name": "Kassena-Nankana West",
+  "capital": "Paga",
+  "regionCode": "UE/R"
+ },
+ {
+  "legacyDistId": 197,
+  "code": "J05",
+  "name": "Bolgatanga Municipal",
+  "capital": "Bolgatanga",
+  "regionCode": "UE/R"
+ },
+ {
+  "legacyDistId": 198,
+  "code": "J06",
+  "name": "Bongo",
+  "capital": "Bongo",
+  "regionCode": "UE/R"
+ },
+ {
+  "legacyDistId": 199,
+  "code": "J07",
+  "name": "Talensi",
+  "capital": "Tongo",
+  "regionCode": "UE/R"
+ },
+ {
+  "legacyDistId": 200,
+  "code": "J08",
+  "name": "Nabdam",
+  "capital": "Nangodi",
+  "regionCode": "UE/R"
+ },
+ {
+  "legacyDistId": 201,
+  "code": "J09",
+  "name": "Bawku West",
+  "capital": "Zebilla",
+  "regionCode": "UE/R"
+ },
+ {
+  "legacyDistId": 202,
+  "code": "J10",
+  "name": "Bawku Municipal",
+  "capital": "Bawku",
+  "regionCode": "UE/R"
+ },
+ {
+  "legacyDistId": 203,
+  "code": "J11",
+  "name": "Pusiga",
+  "capital": "Pusiga",
+  "regionCode": "UE/R"
+ },
+ {
+  "legacyDistId": 204,
+  "code": "J12",
+  "name": "Garu-Tempane",
+  "capital": "Garu",
+  "regionCode": "UE/R"
+ },
+ {
+  "legacyDistId": 205,
+  "code": "J13",
+  "name": "Binduri",
+  "capital": "Binduri",
+  "regionCode": "UE/R"
+ },
+ {
+  "legacyDistId": 206,
+  "code": "K01",
+  "name": "Wa Municipal",
+  "capital": "Wa",
+  "regionCode": "UW/R"
+ },
+ {
+  "legacyDistId": 207,
+  "code": "K02",
+  "name": "Wa West",
+  "capital": "Wechiau",
+  "regionCode": "UW/R"
+ },
+ {
+  "legacyDistId": 208,
+  "code": "K03",
+  "name": "Wa East",
+  "capital": "Funsi",
+  "regionCode": "UW/R"
+ },
+ {
+  "legacyDistId": 209,
+  "code": "K04",
+  "name": "Nadowli-Kaleo",
+  "capital": "Nadowli",
+  "regionCode": "UW/R"
+ },
+ {
+  "legacyDistId": 210,
+  "code": "K05",
+  "name": "Daffiama-Bussie-Issa",
+  "capital": "Issa",
+  "regionCode": "UW/R"
+ },
+ {
+  "legacyDistId": 211,
+  "code": "K06",
+  "name": "Jirapa",
+  "capital": "Jirapa",
+  "regionCode": "UW/R"
+ },
+ {
+  "legacyDistId": 212,
+  "code": "K07",
+  "name": "Lambussie-Karni",
+  "capital": "Lambussie",
+  "regionCode": "UW/R"
+ },
+ {
+  "legacyDistId": 213,
+  "code": "K08",
+  "name": "Lawra",
+  "capital": "Lawra",
+  "regionCode": "UW/R"
+ },
+ {
+  "legacyDistId": 214,
+  "code": "K09",
+  "name": "Nandom",
+  "capital": "Nandom",
+  "regionCode": "UW/R"
+ },
+ {
+  "legacyDistId": 215,
+  "code": "K10",
+  "name": "Sissala West",
+  "capital": "Gwollu",
+  "regionCode": "UW/R"
+ },
+ {
+  "legacyDistId": 216,
+  "code": "K11",
+  "name": "Sissala East",
+  "capital": "Tumu",
+  "regionCode": "UW/R"
+ },
+ {
+  "legacyDistId": 217,
+  "code": "D26",
+  "name": "Guan",
+  "capital": "Likpe-Mate",
+  "regionCode": "O/R"
+ }
+]

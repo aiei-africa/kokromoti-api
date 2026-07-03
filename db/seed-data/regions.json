@@ -1,0 +1,114 @@
+[
+ {
+  "code": "AH/R",
+  "name": "Ahafo Region",
+  "shortName": "Ahafo",
+  "capital": "Goaso",
+  "legacyRegionId": 2
+ },
+ {
+  "code": "A/R",
+  "name": "Ashanti Region",
+  "shortName": "Ashanti",
+  "capital": "Kumasi",
+  "legacyRegionId": 1
+ },
+ {
+  "code": "BO/R",
+  "name": "Bono Region",
+  "shortName": "Bono",
+  "capital": "Sunyani",
+  "legacyRegionId": 2
+ },
+ {
+  "code": "BE/R",
+  "name": "Bono East Region",
+  "shortName": "Bono East",
+  "capital": "Techiman",
+  "legacyRegionId": 2
+ },
+ {
+  "code": "C/R",
+  "name": "Central Region",
+  "shortName": "Central",
+  "capital": "Cape Coast",
+  "legacyRegionId": 3
+ },
+ {
+  "code": "E/R",
+  "name": "Eastern Region",
+  "shortName": "Eastern",
+  "capital": "Koforidua",
+  "legacyRegionId": 4
+ },
+ {
+  "code": "GA/R",
+  "name": "Greater Accra Region",
+  "shortName": "Greater Accra",
+  "capital": "Accra",
+  "legacyRegionId": 5
+ },
+ {
+  "code": "NE/R",
+  "name": "North East Region",
+  "shortName": "North East",
+  "capital": "Nalerigu",
+  "legacyRegionId": 6
+ },
+ {
+  "code": "N/R",
+  "name": "Northern Region",
+  "shortName": "Northern",
+  "capital": "Tamale",
+  "legacyRegionId": 6
+ },
+ {
+  "code": "O/R",
+  "name": "Oti Region",
+  "shortName": "Oti",
+  "capital": "Dambai",
+  "legacyRegionId": 9
+ },
+ {
+  "code": "S/R",
+  "name": "Savannah Region",
+  "shortName": "Savannah",
+  "capital": "Damongo",
+  "legacyRegionId": 6
+ },
+ {
+  "code": "UE/R",
+  "name": "Upper East Region",
+  "shortName": "Upper East",
+  "capital": "Bolgatanga",
+  "legacyRegionId": 7
+ },
+ {
+  "code": "UW/R",
+  "name": "Upper West Region",
+  "shortName": "Upper West",
+  "capital": "Wa",
+  "legacyRegionId": 8
+ },
+ {
+  "code": "V/R",
+  "name": "Volta Region",
+  "shortName": "Volta",
+  "capital": "Ho",
+  "legacyRegionId": 9
+ },
+ {
+  "code": "W/R",
+  "name": "Western Region",
+  "shortName": "Western",
+  "capital": "Sekondi-Takoradi",
+  "legacyRegionId": 10
+ },
+ {
+  "code": "WN/R",
+  "name": "Western North Region",
+  "shortName": "Western North",
+  "capital": "Sefwi Wiawso",
+  "legacyRegionId": 10
+ }
+]

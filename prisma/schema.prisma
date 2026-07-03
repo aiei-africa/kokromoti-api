@@ -1,0 +1,1124 @@
+// ═══════════════════════════════════════════════════════════════════════════
+// KOKROMOTI — Prisma Schema
+// Operated by AIEI · Built by Ayivi Solutions Limited
+// Supabase project: kokromoti-prod · schema namespace: kokromoti
+// Deployment: prisma db push (no migrate)
+// Conventions: CUIDs throughout · snake_case table/column maps ·
+//              @@schema("kokromoti") on every model · full relations + indexes
+// © 2026 Ayivi Solutions Limited / AIEI
+// ═══════════════════════════════════════════════════════════════════════════
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["multiSchema"]
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+  schemas   = ["kokromoti"]
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// ENUMS
+// ─────────────────────────────────────────────────────────────────────────────
+
+enum ElectionType {
+  PRESIDENTIAL
+  PARLIAMENTARY
+  DISTRICT_ASSEMBLY
+  REFERENDUM
+
+  @@schema("kokromoti")
+}
+
+enum ElectionStatus {
+  HISTORICAL
+  UPCOMING
+  LIVE
+  COMPLETED
+  SUSPENDED
+
+  @@schema("kokromoti")
+}
+
+enum ResultSource {
+  AGENT             // transmitted by a Kokromoti field agent (2028+)
+  EC_OFFICIAL       // entered from an official EC declaration
+  MANUAL            // manual HQ entry, flagged
+  HISTORICAL_IMPORT // migrated from legacy 1992–2016 dataset
+  COMPUTED          // aggregated upward from the level below — never entered
+
+  @@schema("kokromoti")
+}
+
+enum VerificationStatus {
+  PENDING
+  VERIFIED
+  FLAGGED
+  REJECTED
+
+  @@schema("kokromoti")
+}
+
+enum ReconciliationOutcome {
+  MATCHED
+  MISMATCH
+  MANUAL_REVIEW
+  RESOLVED
+
+  @@schema("kokromoti")
+}
+
+enum CollationStatus {
+  NOT_STARTED
+  COLLATING
+  DECLARED
+  DISPUTED
+  RERUN
+
+  @@schema("kokromoti")
+}
+
+enum StationTier {
+  URBAN
+  PERI_URBAN
+  RURAL
+
+  @@schema("kokromoti")
+}
+
+enum Gender {
+  MALE
+  FEMALE
+
+  @@schema("kokromoti")
+}
+
+enum UserRole {
+  PUBLIC
+  SUBSCRIBER
+  AGENT
+  COORDINATOR
+  REGIONAL
+  DIRECTOR
+  ADMIN
+
+  @@schema("kokromoti")
+}
+
+enum UserStatus {
+  ACTIVE
+  SUSPENDED
+  DELETED
+
+  @@schema("kokromoti")
+}
+
+enum AgentStatus {
+  RECRUITED
+  TRAINED
+  ACTIVE
+  SUSPENDED
+  RETIRED
+
+  @@schema("kokromoti")
+}
+
+enum AssignmentStatus {
+  ASSIGNED
+  CHECKED_IN
+  TRANSMITTED
+  COMPLETED
+  ABANDONED
+
+  @@schema("kokromoti")
+}
+
+enum TransmissionChannel {
+  ONLINE
+  STORE_FORWARD
+  SMS_FALLBACK
+
+  @@schema("kokromoti")
+}
+
+enum TransmissionStatus {
+  RECEIVED
+  QUEUED
+  PROCESSED
+  FAILED
+  DUPLICATE
+
+  @@schema("kokromoti")
+}
+
+enum DuressStatus {
+  ACTIVE
+  RESOLVED
+  FALSE_ALARM
+
+  @@schema("kokromoti")
+}
+
+enum PlanInterval {
+  FREE
+  MONTHLY
+  ONE_TIME
+  ANNUAL
+
+  @@schema("kokromoti")
+}
+
+enum SubscriptionStatus {
+  ACTIVE
+  PAST_DUE
+  CANCELLED
+  EXPIRED
+
+  @@schema("kokromoti")
+}
+
+enum PaymentStatus {
+  INITIATED
+  SUCCESS
+  FAILED
+  REFUNDED
+
+  @@schema("kokromoti")
+}
+
+enum FavouriteType {
+  CONSTITUENCY
+  REGION
+  PARTY
+  CANDIDATE
+
+  @@schema("kokromoti")
+}
+
+enum PushPlatform {
+  ANDROID
+  IOS
+  WEB
+
+  @@schema("kokromoti")
+}
+
+enum NotificationEventType {
+  CONSTITUENCY_DECLARED
+  LEAD_CHANGE
+  PARTY_MILESTONE
+  MAJORITY_ACHIEVED
+  RUNOFF_TRIGGERED
+  TURNOUT_MILESTONE
+  FAVOURITE_UPDATE
+
+  @@schema("kokromoti")
+}
+
+enum ApiClientTier {
+  MEDIA_STANDARD
+  MEDIA_PREMIUM
+  PARTY_INTELLIGENCE
+  INSTITUTIONAL
+
+  @@schema("kokromoti")
+}
+
+enum ApiClientStatus {
+  ACTIVE
+  SUSPENDED
+  TERMINATED
+
+  @@schema("kokromoti")
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// DOMAIN 1 — GEOGRAPHY
+// countries → regions → districts → constituencies → polling_stations
+// ─────────────────────────────────────────────────────────────────────────────
+
+model Country {
+  id        String   @id @default(cuid()) @map("id")
+  code      String   @unique @map("code") // ISO 3166-1 alpha-2, e.g. GH
+  name      String   @map("name")
+  flagUrl   String?  @map("flag_url")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  regions        Region[]
+  constituencies Constituency[]
+  elections      Election[]
+  parties        Party[]
+  users          User[]
+  apiClients     ApiClient[]
+
+  @@map("countries")
+  @@schema("kokromoti")
+}
+
+model Region {
+  id             String   @id @default(cuid()) @map("id")
+  countryId      String   @map("country_id")
+  code           String   @map("code") // e.g. V/R, O/R
+  name           String   @map("name") // Volta Region
+  shortName      String   @map("short_name") // Volta
+  capital        String   @map("capital")
+  legacyRegionId Int?     @map("legacy_region_id") // pre-2019 ten-region id, for lineage
+  createdAt      DateTime @default(now()) @map("created_at")
+  updatedAt      DateTime @updatedAt @map("updated_at")
+
+  country         Country          @relation(fields: [countryId], references: [id])
+  districts       District[]
+  constituencies  Constituency[]
+  regionalResults RegionalResult[]
+
+  @@unique([countryId, code])
+  @@index([countryId])
+  @@map("regions")
+  @@schema("kokromoti")
+}
+
+model District {
+  id             String   @id @default(cuid()) @map("id")
+  regionId       String   @map("region_id")
+  code           String   @map("code") // EC district code, e.g. A01
+  name           String   @map("name")
+  capital        String?  @map("capital")
+  legacyDistId   Int?     @map("legacy_dist_id")
+  createdAt      DateTime @default(now()) @map("created_at")
+  updatedAt      DateTime @updatedAt @map("updated_at")
+
+  region         Region         @relation(fields: [regionId], references: [id])
+  constituencies Constituency[]
+
+  @@unique([regionId, code])
+  @@index([regionId])
+  @@map("districts")
+  @@schema("kokromoti")
+}
+
+model Constituency {
+  id               String   @id @default(cuid()) @map("id")
+  countryId        String   @map("country_id")
+  regionId         String   @map("region_id")
+  districtId       String?  @map("district_id")
+  ecCode           String   @map("ec_code") // e.g. F0202
+  name             String   @map("name")
+  capital          String?  @map("capital")
+  latitude         Decimal? @map("latitude") @db.Decimal(10, 7)
+  longitude        Decimal? @map("longitude") @db.Decimal(10, 7)
+  registeredVoters Int?     @map("registered_voters") // current register
+  stationCount     Int?     @map("station_count")
+  facts            String?  @map("facts") @db.Text // historical notes from legacy data
+  isActive         Boolean  @default(true) @map("is_active") // false for retired constituencies
+  legacyConstId    Int?     @map("legacy_const_id") // tblConstituencies.Const
+  createdAt        DateTime @default(now()) @map("created_at")
+  updatedAt        DateTime @updatedAt @map("updated_at")
+
+  country             Country              @relation(fields: [countryId], references: [id])
+  region              Region               @relation(fields: [regionId], references: [id])
+  district            District?            @relation(fields: [districtId], references: [id])
+  pollingStations     PollingStation[]
+  lineage             ConstituencyLineage[]
+  boundary            ConstituencyBoundary?
+  candidates          Candidate[]
+  constituencyResults ConstituencyResult[]
+  electionEvents      ElectionEvent[]
+
+  @@unique([countryId, ecCode])
+  @@index([regionId])
+  @@index([districtId])
+  @@index([name])
+  @@map("constituencies")
+  @@schema("kokromoti")
+}
+
+// Era-correct constituency identity per election.
+// Migrated directly from tblConstPrevious + tblPreviousConstNames (1992–2016);
+// extended after each boundary review. Historical results FK the current
+// constituency; this table supplies the era-correct display name and code.
+model ConstituencyLineage {
+  id             String   @id @default(cuid()) @map("id")
+  constituencyId String   @map("constituency_id")
+  electionId     String   @map("election_id")
+  historicalName String   @map("historical_name")
+  historicalCode String?  @map("historical_code")
+  existedInEra   Boolean  @default(true) @map("existed_in_era") // false = constituency not yet created
+  createdAt      DateTime @default(now()) @map("created_at")
+
+  constituency Constituency @relation(fields: [constituencyId], references: [id])
+  election     Election     @relation(fields: [electionId], references: [id])
+
+  @@unique([constituencyId, electionId])
+  @@index([electionId])
+  @@map("constituency_lineage")
+  @@schema("kokromoti")
+}
+
+// Boundary polygons for map rendering — GeoJSON geometry migrated from
+// tblMapPoints (legacy point sequences converted to GeoJSON Polygon/MultiPolygon).
+model ConstituencyBoundary {
+  id             String   @id @default(cuid()) @map("id")
+  constituencyId String   @unique @map("constituency_id")
+  geometry       Json     @map("geometry") // GeoJSON
+  source         String?  @map("source") // e.g. LEGACY_MAPPOINTS, EC_2024
+  version        Int      @default(1) @map("version")
+  createdAt      DateTime @default(now()) @map("created_at")
+  updatedAt      DateTime @updatedAt @map("updated_at")
+
+  constituency Constituency @relation(fields: [constituencyId], references: [id])
+
+  @@map("constituency_boundaries")
+  @@schema("kokromoti")
+}
+
+model PollingStation {
+  id               String       @id @default(cuid()) @map("id")
+  constituencyId   String       @map("constituency_id")
+  code             String       @map("code") // EC station code
+  name             String       @map("name")
+  eaCode           String?      @map("ea_code") // enumeration area
+  registeredVoters Int?         @map("registered_voters")
+  latitude         Decimal?     @map("latitude") @db.Decimal(10, 7)
+  longitude        Decimal?     @map("longitude") @db.Decimal(10, 7)
+  tier             StationTier? @map("tier")
+  isActive         Boolean      @default(true) @map("is_active")
+  legacyPid        Int?         @map("legacy_pid") // tblPollingStations.PID
+  createdAt        DateTime     @default(now()) @map("created_at")
+  updatedAt        DateTime     @updatedAt @map("updated_at")
+
+  constituency     Constituency      @relation(fields: [constituencyId], references: [id])
+  stationResults   StationResult[]
+  agentAssignments AgentAssignment[]
+
+  @@unique([constituencyId, code])
+  @@index([constituencyId])
+  @@index([code])
+  @@map("polling_stations")
+  @@schema("kokromoti")
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// DOMAIN 2 — ELECTIONS
+// Runoffs are distinct election records (round 2) linked to the parent cycle,
+// matching the legacy model (2000R, 2008R).
+// ─────────────────────────────────────────────────────────────────────────────
+
+model Election {
+  id               String         @id @default(cuid()) @map("id")
+  countryId        String         @map("country_id")
+  code             String         @map("code") // 1992, 2000R, 2028
+  name             String         @map("name") // 2028 General Election
+  year             Int            @map("year")
+  round            Int            @default(1) @map("round")
+  parentElectionId String?        @map("parent_election_id")
+  parliamentLabel  String?        @map("parliament_label") // e.g. Tenth Parliament
+  electionDate     DateTime?      @map("election_date") @db.Date
+  status           ElectionStatus @default(HISTORICAL) @map("status")
+  isHistorical     Boolean        @default(false) @map("is_historical")
+  legacyElectId    Int?           @map("legacy_elect_id") // tblElections.ElectID
+  createdAt        DateTime       @default(now()) @map("created_at")
+  updatedAt        DateTime       @updatedAt @map("updated_at")
+
+  country             Country              @relation(fields: [countryId], references: [id])
+  parentElection      Election?            @relation("ElectionRounds", fields: [parentElectionId], references: [id])
+  rounds              Election[]           @relation("ElectionRounds")
+  candidates          Candidate[]
+  lineage             ConstituencyLineage[]
+  stationResults      StationResult[]
+  constituencyResults ConstituencyResult[]
+  regionalResults     RegionalResult[]
+  nationalResults     NationalResult[]
+  agentAssignments    AgentAssignment[]
+  electionEvents      ElectionEvent[]
+  commentaryItems     CommentaryItem[]
+  newsItems           NewsItem[]
+
+  @@unique([countryId, code])
+  @@index([countryId, year])
+  @@index([status])
+  @@map("elections")
+  @@schema("kokromoti")
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// DOMAIN 3 — PARTIES & CANDIDATES
+// ─────────────────────────────────────────────────────────────────────────────
+
+model Party {
+  id           String   @id @default(cuid()) @map("id")
+  countryId    String   @map("country_id")
+  name         String   @map("name")
+  abbreviation String   @map("abbreviation") // NDC, NPP
+  colourHex    String?  @map("colour_hex") // NDC #1B6B3A · NPP #003082 (ColorPack canonical)
+  colourLight  String?  @map("colour_light")
+  colourBg     String?  @map("colour_bg")
+  logoUrl      String?  @map("logo_url")
+  isActive     Boolean  @default(true) @map("is_active")
+  legacyPartId Int?     @map("legacy_part_id") // tblParties.PartID (real parties 1–49 only)
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+
+  country        Country         @relation(fields: [countryId], references: [id])
+  candidates     Candidate[]
+  electionEvents ElectionEvent[]
+
+  @@unique([countryId, abbreviation])
+  @@index([countryId])
+  @@map("parties")
+  @@schema("kokromoti")
+}
+
+model Candidate {
+  id             String       @id @default(cuid()) @map("id")
+  electionId     String       @map("election_id")
+  electionType   ElectionType @map("election_type")
+  partyId        String?      @map("party_id") // null = independent
+  constituencyId String?      @map("constituency_id") // null = presidential
+  fullName       String       @map("full_name")
+  gender         Gender?      @map("gender")
+  age            Int?         @map("age")
+  photoUrl       String?      @map("photo_url")
+  ballotOrder    Int?         @map("ballot_order")
+  isIncumbent    Boolean      @default(false) @map("is_incumbent")
+  legacyCandId   Int?         @map("legacy_cand_id")
+  createdAt      DateTime     @default(now()) @map("created_at")
+  updatedAt      DateTime     @updatedAt @map("updated_at")
+
+  election     Election      @relation(fields: [electionId], references: [id])
+  party        Party?        @relation(fields: [partyId], references: [id])
+  constituency Constituency? @relation(fields: [constituencyId], references: [id])
+  runningMate  RunningMate?
+
+  stationResultVotes      StationResultVote[]
+  constituencyResultVotes ConstituencyResultVote[]
+  regionalResultVotes     RegionalResultVote[]
+  nationalResultVotes     NationalResultVote[]
+
+  @@unique([electionId, electionType, constituencyId, partyId, fullName])
+  @@index([electionId, electionType])
+  @@index([constituencyId])
+  @@index([partyId])
+  @@map("candidates")
+  @@schema("kokromoti")
+}
+
+model RunningMate {
+  id          String   @id @default(cuid()) @map("id")
+  candidateId String   @unique @map("candidate_id")
+  fullName    String   @map("full_name")
+  photoUrl    String?  @map("photo_url")
+  createdAt   DateTime @default(now()) @map("created_at")
+
+  candidate Candidate @relation(fields: [candidateId], references: [id])
+
+  @@map("running_mates")
+  @@schema("kokromoti")
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// DOMAIN 4 — RESULTS
+// station_results is the atomic unit for 2028+. Every level above station is
+// COMPUTED — never entered — except source = HISTORICAL_IMPORT / EC_OFFICIAL,
+// which enter at constituency level (1992–2024 legacy and EC declarations).
+// Header + vote-line pattern at every level.
+// ─────────────────────────────────────────────────────────────────────────────
+
+model StationResult {
+  id                   String             @id @default(cuid()) @map("id")
+  electionId           String             @map("election_id")
+  electionType         ElectionType       @map("election_type")
+  pollingStationId     String             @map("polling_station_id")
+  registeredVoters     Int?               @map("registered_voters")
+  totalCast            Int?               @map("total_cast")
+  validVotes           Int?               @map("valid_votes")
+  rejectedBallots      Int?               @map("rejected_ballots")
+  source               ResultSource       @map("source")
+  verificationStatus   VerificationStatus @default(PENDING) @map("verification_status")
+  reconciliationStatus ReconciliationOutcome? @map("reconciliation_status")
+  transmissionHash     String?            @map("transmission_hash")
+  pinkSheetUrl         String?            @map("pink_sheet_url")
+  capturedAt           DateTime?          @map("captured_at")
+  transmittedAt        DateTime?          @map("transmitted_at")
+  createdAt            DateTime           @default(now()) @map("created_at")
+  updatedAt            DateTime           @updatedAt @map("updated_at")
+
+  election           Election            @relation(fields: [electionId], references: [id])
+  pollingStation     PollingStation      @relation(fields: [pollingStationId], references: [id])
+  votes              StationResultVote[]
+  transmissions      Transmission[]
+  reconciliationLogs ReconciliationLog[]
+
+  @@unique([electionId, electionType, pollingStationId])
+  @@index([electionId, electionType])
+  @@index([pollingStationId])
+  @@index([verificationStatus])
+  @@map("station_results")
+  @@schema("kokromoti")
+}
+
+model StationResultVote {
+  id              String @id @default(cuid()) @map("id")
+  stationResultId String @map("station_result_id")
+  candidateId     String @map("candidate_id")
+  votes           Int    @map("votes")
+
+  stationResult StationResult @relation(fields: [stationResultId], references: [id])
+  candidate     Candidate     @relation(fields: [candidateId], references: [id])
+
+  @@unique([stationResultId, candidateId])
+  @@index([candidateId])
+  @@map("station_result_votes")
+  @@schema("kokromoti")
+}
+
+model ConstituencyResult {
+  id                String          @id @default(cuid()) @map("id")
+  electionId        String          @map("election_id")
+  electionType      ElectionType    @map("election_type")
+  constituencyId    String          @map("constituency_id")
+  registeredVoters  Int?            @map("registered_voters")
+  totalCast         Int?            @map("total_cast")
+  validVotes        Int?            @map("valid_votes")
+  rejectedBallots   Int?            @map("rejected_ballots")
+  turnoutPct        Decimal?        @map("turnout_pct") @db.Decimal(6, 3)
+  source            ResultSource    @map("source") // COMPUTED live · HISTORICAL_IMPORT/EC_OFFICIAL legacy
+  status            CollationStatus @default(NOT_STARTED) @map("status")
+  stationsReporting Int             @default(0) @map("stations_reporting")
+  stationsTotal     Int?            @map("stations_total")
+  declaredAt        DateTime?       @map("declared_at")
+  createdAt         DateTime        @default(now()) @map("created_at")
+  updatedAt         DateTime        @updatedAt @map("updated_at")
+
+  election     Election                 @relation(fields: [electionId], references: [id])
+  constituency Constituency             @relation(fields: [constituencyId], references: [id])
+  votes        ConstituencyResultVote[]
+
+  @@unique([electionId, electionType, constituencyId])
+  @@index([electionId, electionType])
+  @@index([constituencyId])
+  @@index([status])
+  @@map("constituency_results")
+  @@schema("kokromoti")
+}
+
+model ConstituencyResultVote {
+  id                   String   @id @default(cuid()) @map("id")
+  constituencyResultId String   @map("constituency_result_id")
+  candidateId          String   @map("candidate_id")
+  votes                Int      @map("votes")
+  voteShare            Decimal? @map("vote_share") @db.Decimal(7, 4) // % of valid votes
+
+  constituencyResult ConstituencyResult @relation(fields: [constituencyResultId], references: [id])
+  candidate          Candidate          @relation(fields: [candidateId], references: [id])
+
+  @@unique([constituencyResultId, candidateId])
+  @@index([candidateId])
+  @@map("constituency_result_votes")
+  @@schema("kokromoti")
+}
+
+model RegionalResult {
+  id               String       @id @default(cuid()) @map("id")
+  electionId       String       @map("election_id")
+  electionType     ElectionType @map("election_type")
+  regionId         String       @map("region_id")
+  registeredVoters Int?         @map("registered_voters")
+  totalCast        Int?         @map("total_cast")
+  validVotes       Int?         @map("valid_votes")
+  rejectedBallots  Int?         @map("rejected_ballots")
+  turnoutPct       Decimal?     @map("turnout_pct") @db.Decimal(6, 3)
+  source           ResultSource @default(COMPUTED) @map("source")
+  createdAt        DateTime     @default(now()) @map("created_at")
+  updatedAt        DateTime     @updatedAt @map("updated_at")
+
+  election Election             @relation(fields: [electionId], references: [id])
+  region   Region               @relation(fields: [regionId], references: [id])
+  votes    RegionalResultVote[]
+
+  @@unique([electionId, electionType, regionId])
+  @@index([electionId, electionType])
+  @@map("regional_results")
+  @@schema("kokromoti")
+}
+
+model RegionalResultVote {
+  id               String   @id @default(cuid()) @map("id")
+  regionalResultId String   @map("regional_result_id")
+  candidateId      String   @map("candidate_id")
+  votes            Int      @map("votes")
+  voteShare        Decimal? @map("vote_share") @db.Decimal(7, 4)
+
+  regionalResult RegionalResult @relation(fields: [regionalResultId], references: [id])
+  candidate      Candidate      @relation(fields: [candidateId], references: [id])
+
+  @@unique([regionalResultId, candidateId])
+  @@index([candidateId])
+  @@map("regional_result_votes")
+  @@schema("kokromoti")
+}
+
+model NationalResult {
+  id               String       @id @default(cuid()) @map("id")
+  electionId       String       @map("election_id")
+  electionType     ElectionType @map("election_type")
+  registeredVoters Int?         @map("registered_voters")
+  totalCast        Int?         @map("total_cast")
+  validVotes       Int?         @map("valid_votes")
+  rejectedBallots  Int?         @map("rejected_ballots")
+  turnoutPct       Decimal?     @map("turnout_pct") @db.Decimal(6, 3)
+  source           ResultSource @default(COMPUTED) @map("source")
+  createdAt        DateTime     @default(now()) @map("created_at")
+  updatedAt        DateTime     @updatedAt @map("updated_at")
+
+  election Election             @relation(fields: [electionId], references: [id])
+  votes    NationalResultVote[]
+
+  @@unique([electionId, electionType])
+  @@map("national_results")
+  @@schema("kokromoti")
+}
+
+model NationalResultVote {
+  id               String   @id @default(cuid()) @map("id")
+  nationalResultId String   @map("national_result_id")
+  candidateId      String   @map("candidate_id")
+  votes            Int      @map("votes")
+  voteShare        Decimal? @map("vote_share") @db.Decimal(7, 4)
+
+  nationalResult NationalResult @relation(fields: [nationalResultId], references: [id])
+  candidate      Candidate      @relation(fields: [candidateId], references: [id])
+
+  @@unique([nationalResultId, candidateId])
+  @@index([candidateId])
+  @@map("national_result_votes")
+  @@schema("kokromoti")
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// DOMAIN 5 — AGENT OPERATIONS
+// ─────────────────────────────────────────────────────────────────────────────
+
+model Agent {
+  id             String      @id @default(cuid()) @map("id")
+  userId         String?     @unique @map("user_id")
+  agentCode      String      @unique @map("agent_code")
+  fullName       String      @map("full_name")
+  phone          String      @map("phone")
+  nationalIdHash String?     @map("national_id_hash")
+  deviceUuid     String?     @map("device_uuid")
+  deviceImeiHash String?     @map("device_imei_hash")
+  pinHash        String?     @map("pin_hash")
+  duressPinHash  String?     @map("duress_pin_hash")
+  status         AgentStatus @default(RECRUITED) @map("status")
+  trainedAt      DateTime?   @map("trained_at")
+  createdAt      DateTime    @default(now()) @map("created_at")
+  updatedAt      DateTime    @updatedAt @map("updated_at")
+
+  user          User?             @relation(fields: [userId], references: [id])
+  assignments   AgentAssignment[]
+  transmissions Transmission[]
+  duressEvents  DuressEvent[]
+
+  @@index([status])
+  @@map("agents")
+  @@schema("kokromoti")
+}
+
+model AgentAssignment {
+  id               String           @id @default(cuid()) @map("id")
+  agentId          String           @map("agent_id")
+  electionId       String           @map("election_id")
+  pollingStationId String           @map("polling_station_id")
+  status           AssignmentStatus @default(ASSIGNED) @map("status")
+  assignedAt       DateTime         @default(now()) @map("assigned_at")
+  checkedInAt      DateTime?        @map("checked_in_at")
+  createdAt        DateTime         @default(now()) @map("created_at")
+  updatedAt        DateTime         @updatedAt @map("updated_at")
+
+  agent          Agent          @relation(fields: [agentId], references: [id])
+  election       Election       @relation(fields: [electionId], references: [id])
+  pollingStation PollingStation @relation(fields: [pollingStationId], references: [id])
+  transmissions  Transmission[]
+  duressEvents   DuressEvent[]
+
+  @@unique([electionId, pollingStationId, agentId])
+  @@index([agentId])
+  @@index([electionId])
+  @@map("agent_assignments")
+  @@schema("kokromoti")
+}
+
+model Transmission {
+  id              String              @id @default(cuid()) @map("id")
+  agentId         String              @map("agent_id")
+  assignmentId    String?             @map("assignment_id")
+  stationResultId String?             @map("station_result_id")
+  payload         Json                @map("payload")
+  payloadHash     String              @map("payload_hash")
+  signature       String?             @map("signature")
+  latitude        Decimal?            @map("latitude") @db.Decimal(10, 7)
+  longitude       Decimal?            @map("longitude") @db.Decimal(10, 7)
+  gpsVerified     Boolean             @default(false) @map("gps_verified")
+  channel         TransmissionChannel @default(ONLINE) @map("channel")
+  status          TransmissionStatus  @default(RECEIVED) @map("status")
+  errorDetail     String?             @map("error_detail")
+  receivedAt      DateTime            @default(now()) @map("received_at")
+  processedAt     DateTime?           @map("processed_at")
+
+  agent         Agent            @relation(fields: [agentId], references: [id])
+  assignment    AgentAssignment? @relation(fields: [assignmentId], references: [id])
+  stationResult StationResult?   @relation(fields: [stationResultId], references: [id])
+
+  @@index([agentId])
+  @@index([status])
+  @@index([receivedAt])
+  @@map("transmissions")
+  @@schema("kokromoti")
+}
+
+model ReconciliationLog {
+  id              String                @id @default(cuid()) @map("id")
+  stationResultId String                @map("station_result_id")
+  barcodeData     Json?                 @map("barcode_data")
+  ocrData         Json?                 @map("ocr_data")
+  aiVisionData    Json?                 @map("ai_vision_data")
+  outcome         ReconciliationOutcome @map("outcome")
+  notes           String?               @map("notes")
+  resolvedById    String?               @map("resolved_by_id")
+  createdAt       DateTime              @default(now()) @map("created_at")
+
+  stationResult StationResult @relation(fields: [stationResultId], references: [id])
+  resolvedBy    User?         @relation(fields: [resolvedById], references: [id])
+
+  @@index([stationResultId])
+  @@index([outcome])
+  @@map("reconciliation_logs")
+  @@schema("kokromoti")
+}
+
+model AuditEntry {
+  id           String   @id @default(cuid()) @map("id")
+  actorUserId  String?  @map("actor_user_id")
+  actorAgentId String?  @map("actor_agent_id")
+  action       String   @map("action") // e.g. RESULT_OVERRIDE, KEY_REVOKED
+  entity       String   @map("entity") // table/model name
+  entityId     String?  @map("entity_id")
+  meta         Json?    @map("meta")
+  ipAddress    String?  @map("ip_address")
+  createdAt    DateTime @default(now()) @map("created_at")
+
+  actorUser User? @relation(fields: [actorUserId], references: [id])
+
+  @@index([entity, entityId])
+  @@index([actorUserId])
+  @@index([createdAt])
+  @@map("audit_entries")
+  @@schema("kokromoti")
+}
+
+model DuressEvent {
+  id           String       @id @default(cuid()) @map("id")
+  agentId      String       @map("agent_id")
+  assignmentId String?      @map("assignment_id")
+  latitude     Decimal?     @map("latitude") @db.Decimal(10, 7)
+  longitude    Decimal?     @map("longitude") @db.Decimal(10, 7)
+  deviceMeta   Json?        @map("device_meta")
+  status       DuressStatus @default(ACTIVE) @map("status")
+  triggeredAt  DateTime     @default(now()) @map("triggered_at")
+  resolvedAt   DateTime?    @map("resolved_at")
+  notes        String?      @map("notes")
+
+  agent      Agent            @relation(fields: [agentId], references: [id])
+  assignment AgentAssignment? @relation(fields: [assignmentId], references: [id])
+
+  @@index([agentId])
+  @@index([status])
+  @@map("duress_events")
+  @@schema("kokromoti")
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// DOMAIN 6 — PLATFORM
+// Users, subscriptions, favourites, notifications, B2B API, live feed content
+// ─────────────────────────────────────────────────────────────────────────────
+
+model User {
+  id              String     @id @default(cuid()) @map("id")
+  countryId       String?    @map("country_id")
+  email           String     @unique @map("email")
+  phone           String?    @map("phone")
+  passwordHash    String     @map("password_hash")
+  fullName        String     @map("full_name")
+  role            UserRole   @default(PUBLIC) @map("role")
+  status          UserStatus @default(ACTIVE) @map("status")
+  emailVerifiedAt DateTime?  @map("email_verified_at")
+  lastLoginAt     DateTime?  @map("last_login_at")
+  createdAt       DateTime   @default(now()) @map("created_at")
+  updatedAt       DateTime   @updatedAt @map("updated_at")
+
+  country                 Country?                 @relation(fields: [countryId], references: [id])
+  agent                   Agent?
+  sessions                AuthSession[]
+  subscriptions           UserSubscription[]
+  payments                PaymentTransaction[]
+  favourites              Favourite[]
+  notificationPreferences NotificationPreference[]
+  pushTokens              PushToken[]
+  commentaryItems         CommentaryItem[]
+  auditEntries            AuditEntry[]
+  reconciliationLogs      ReconciliationLog[]
+
+  @@index([role])
+  @@map("users")
+  @@schema("kokromoti")
+}
+
+model AuthSession {
+  id               String    @id @default(cuid()) @map("id")
+  userId           String    @map("user_id")
+  refreshTokenHash String    @unique @map("refresh_token_hash")
+  userAgent        String?   @map("user_agent")
+  ipAddress        String?   @map("ip_address")
+  expiresAt        DateTime  @map("expires_at")
+  revokedAt        DateTime? @map("revoked_at")
+  createdAt        DateTime  @default(now()) @map("created_at")
+
+  user User @relation(fields: [userId], references: [id])
+
+  @@index([userId])
+  @@map("auth_sessions")
+  @@schema("kokromoti")
+}
+
+model SubscriptionPlan {
+  id            String       @id @default(cuid()) @map("id")
+  code          String       @unique @map("code") // CITIZEN_FREE · PLUS_MONTHLY · ELECTION_PASS
+  name          String       @map("name")
+  pricePesewas  Int          @default(0) @map("price_pesewas")
+  currency      String       @default("GHS") @map("currency")
+  interval      PlanInterval @map("interval")
+  features      Json?        @map("features")
+  isActive      Boolean      @default(true) @map("is_active")
+  createdAt     DateTime     @default(now()) @map("created_at")
+  updatedAt     DateTime     @updatedAt @map("updated_at")
+
+  subscriptions UserSubscription[]
+
+  @@map("subscription_plans")
+  @@schema("kokromoti")
+}
+
+model UserSubscription {
+  id                       String             @id @default(cuid()) @map("id")
+  userId                   String             @map("user_id")
+  planId                   String             @map("plan_id")
+  status                   SubscriptionStatus @default(ACTIVE) @map("status")
+  paystackCustomerCode     String?            @map("paystack_customer_code")
+  paystackSubscriptionCode String?            @map("paystack_subscription_code")
+  currentPeriodStart       DateTime?          @map("current_period_start")
+  currentPeriodEnd         DateTime?          @map("current_period_end")
+  cancelledAt              DateTime?          @map("cancelled_at")
+  createdAt                DateTime           @default(now()) @map("created_at")
+  updatedAt                DateTime           @updatedAt @map("updated_at")
+
+  user     User                 @relation(fields: [userId], references: [id])
+  plan     SubscriptionPlan     @relation(fields: [planId], references: [id])
+  payments PaymentTransaction[]
+
+  @@index([userId])
+  @@index([status])
+  @@map("user_subscriptions")
+  @@schema("kokromoti")
+}
+
+// Not in the original 38 — added for Paystack webhook audit and revenue
+// reconciliation. Every webhook event lands here before touching subscriptions.
+model PaymentTransaction {
+  id                String        @id @default(cuid()) @map("id")
+  userId            String        @map("user_id")
+  subscriptionId    String?       @map("subscription_id")
+  paystackReference String        @unique @map("paystack_reference")
+  amountPesewas     Int           @map("amount_pesewas")
+  currency          String        @default("GHS") @map("currency")
+  status            PaymentStatus @map("status")
+  channel           String?       @map("channel") // card, mobile_money
+  rawEvent          Json?         @map("raw_event")
+  paidAt            DateTime?     @map("paid_at")
+  createdAt         DateTime      @default(now()) @map("created_at")
+
+  user         User              @relation(fields: [userId], references: [id])
+  subscription UserSubscription? @relation(fields: [subscriptionId], references: [id])
+
+  @@index([userId])
+  @@index([status])
+  @@map("payment_transactions")
+  @@schema("kokromoti")
+}
+
+model Favourite {
+  id         String        @id @default(cuid()) @map("id")
+  userId     String        @map("user_id")
+  entityType FavouriteType @map("entity_type")
+  entityId   String        @map("entity_id") // CUID of constituency/region/party/candidate
+  createdAt  DateTime      @default(now()) @map("created_at")
+
+  user User @relation(fields: [userId], references: [id])
+
+  @@unique([userId, entityType, entityId])
+  @@index([entityType, entityId])
+  @@map("favourites")
+  @@schema("kokromoti")
+}
+
+model NotificationPreference {
+  id        String                @id @default(cuid()) @map("id")
+  userId    String                @map("user_id")
+  eventType NotificationEventType @map("event_type")
+  enabled   Boolean               @default(true) @map("enabled")
+  createdAt DateTime              @default(now()) @map("created_at")
+  updatedAt DateTime              @updatedAt @map("updated_at")
+
+  user User @relation(fields: [userId], references: [id])
+
+  @@unique([userId, eventType])
+  @@map("notification_preferences")
+  @@schema("kokromoti")
+}
+
+model PushToken {
+  id         String       @id @default(cuid()) @map("id")
+  userId     String       @map("user_id")
+  token      String       @unique @map("token")
+  platform   PushPlatform @map("platform")
+  lastSeenAt DateTime     @default(now()) @map("last_seen_at")
+  createdAt  DateTime     @default(now()) @map("created_at")
+
+  user User @relation(fields: [userId], references: [id])
+
+  @@index([userId])
+  @@map("push_tokens")
+  @@schema("kokromoti")
+}
+
+model ApiClient {
+  id           String          @id @default(cuid()) @map("id")
+  countryId    String?         @map("country_id")
+  orgName      String          @map("org_name")
+  contactName  String?         @map("contact_name")
+  contactEmail String          @map("contact_email")
+  tier         ApiClientTier   @map("tier")
+  status       ApiClientStatus @default(ACTIVE) @map("status")
+  notes        String?         @map("notes")
+  createdAt    DateTime        @default(now()) @map("created_at")
+  updatedAt    DateTime        @updatedAt @map("updated_at")
+
+  country Country? @relation(fields: [countryId], references: [id])
+  apiKeys ApiKey[]
+
+  @@index([tier])
+  @@map("api_clients")
+  @@schema("kokromoti")
+}
+
+model ApiKey {
+  id            String    @id @default(cuid()) @map("id")
+  clientId      String    @map("client_id")
+  name          String    @map("name")
+  keyPrefix     String    @map("key_prefix") // first 8 chars, for display
+  keyHash       String    @unique @map("key_hash")
+  scopes        Json?     @map("scopes")
+  rateLimitRpm  Int       @default(60) @map("rate_limit_rpm")
+  expiresAt     DateTime? @map("expires_at")
+  revokedAt     DateTime? @map("revoked_at")
+  lastUsedAt    DateTime? @map("last_used_at")
+  createdAt     DateTime  @default(now()) @map("created_at")
+
+  client    ApiClient     @relation(fields: [clientId], references: [id])
+  usageLogs ApiUsageLog[]
+
+  @@index([clientId])
+  @@map("api_keys")
+  @@schema("kokromoti")
+}
+
+model ApiUsageLog {
+  id         String   @id @default(cuid()) @map("id")
+  apiKeyId   String   @map("api_key_id")
+  endpoint   String   @map("endpoint")
+  method     String   @map("method")
+  statusCode Int      @map("status_code")
+  latencyMs  Int?     @map("latency_ms")
+  ipAddress  String?  @map("ip_address")
+  createdAt  DateTime @default(now()) @map("created_at")
+
+  apiKey ApiKey @relation(fields: [apiKeyId], references: [id])
+
+  @@index([apiKeyId, createdAt])
+  @@index([createdAt])
+  @@map("api_usage_logs")
+  @@schema("kokromoti")
+}
+
+model ElectionEvent {
+  id             String                @id @default(cuid()) @map("id")
+  electionId     String                @map("election_id")
+  type           NotificationEventType @map("type")
+  title          String                @map("title")
+  body           String?               @map("body")
+  constituencyId String?               @map("constituency_id")
+  partyId        String?               @map("party_id")
+  meta           Json?                 @map("meta")
+  createdAt      DateTime              @default(now()) @map("created_at")
+
+  election     Election      @relation(fields: [electionId], references: [id])
+  constituency Constituency? @relation(fields: [constituencyId], references: [id])
+  party        Party?        @relation(fields: [partyId], references: [id])
+
+  @@index([electionId, createdAt])
+  @@index([type])
+  @@map("election_events")
+  @@schema("kokromoti")
+}
+
+model CommentaryItem {
+  id           String    @id @default(cuid()) @map("id")
+  electionId   String    @map("election_id")
+  authorUserId String?   @map("author_user_id")
+  body         String    @map("body") @db.Text
+  pinned       Boolean   @default(false) @map("pinned")
+  publishedAt  DateTime? @map("published_at")
+  createdAt    DateTime  @default(now()) @map("created_at")
+  updatedAt    DateTime  @updatedAt @map("updated_at")
+
+  election Election @relation(fields: [electionId], references: [id])
+  author   User?    @relation(fields: [authorUserId], references: [id])
+
+  @@index([electionId, publishedAt])
+  @@map("commentary_items")
+  @@schema("kokromoti")
+}
+
+model NewsItem {
+  id          String    @id @default(cuid()) @map("id")
+  electionId  String?   @map("election_id")
+  title       String    @map("title")
+  slug        String    @unique @map("slug")
+  excerpt     String?   @map("excerpt")
+  body        String?   @map("body") @db.Text
+  imageUrl    String?   @map("image_url")
+  sourceName  String?   @map("source_name")
+  sourceUrl   String?   @map("source_url")
+  publishedAt DateTime? @map("published_at")
+  createdAt   DateTime  @default(now()) @map("created_at")
+  updatedAt   DateTime  @updatedAt @map("updated_at")
+
+  election Election? @relation(fields: [electionId], references: [id])
+
+  @@index([publishedAt])
+  @@map("news_items")
+  @@schema("kokromoti")
+}

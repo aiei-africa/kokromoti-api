@@ -1,0 +1,277 @@
+legacy_const_id,ec_code,constituency,legacy_region_10,new_region_16
+48,G0201,Asunafo North,Brong Ahafo,Ahafo
+49,G0101,Asunafo South,Brong Ahafo,Ahafo
+50,G0401,Asutifi North,Brong Ahafo,Ahafo
+51,G0301,Asutifi South,Brong Ahafo,Ahafo
+72,G0601,Tano North,Brong Ahafo,Ahafo
+73,G0501,Tano South,Brong Ahafo,Ahafo
+1,F0202,Adansi Asokwa,Ashanti,Ashanti
+2,F2402,Afigya Kwabre North,Ashanti,Ashanti
+3,F2401,Afigya Kwabre South,Ashanti,Ashanti
+4,F3501,Afigya Sekyere East,Ashanti,Ashanti
+5,F3901,Ahafo Ano North,Ashanti,Ashanti
+6,F3802,Ahafo Ano South East,Ashanti,Ashanti
+7,F3801,Ahafo Ano South West,Ashanti,Ashanti
+8,F0102,Akrofuom,Ashanti,Ashanti
+9,F2701,Asante Akim Central,Ashanti,Ashanti
+10,F2801,Asante Akim North,Ashanti,Ashanti
+11,F2601,Asante Akim South,Ashanti,Ashanti
+12,F2101,Asawase,Ashanti,Ashanti
+13,F1901,Asokwa,Ashanti,Ashanti
+14,F1101,Atwima Kwanwoma,Ashanti,Ashanti
+15,F0901,Atwima Mponua,Ashanti,Ashanti
+16,F0802,Atwima Nwabiagya North,Ashanti,Ashanti
+17,F0801,Atwima Nwabiagya South,Ashanti,Ashanti
+18,F1201,Bantama,Ashanti,Ashanti
+19,F0401,Bekwai,Ashanti,Ashanti
+20,F0501,Bosome Freho,Ashanti,Ashanti
+21,F1001,Bosomtwe,Ashanti,Ashanti
+22,F2901,Effiduase-Asokore,Ashanti,Ashanti
+23,F2501,Ejisu,Ashanti,Ashanti
+24,F3401,Ejura Sekyedumase,Ashanti,Ashanti
+25,F0201,Fomena,Ashanti,Ashanti
+26,F2502,Juaben,Ashanti,Ashanti
+27,F3001,Kumawu,Ashanti,Ashanti
+28,F2301,Kwabre East,Ashanti,Ashanti
+29,F1301,Kwadaso,Ashanti,Ashanti
+30,F3301,Mampong,Ashanti,Ashanti
+31,F1502,Manhyia North,Ashanti,Ashanti
+32,F1501,Manhyia South,Ashanti,Ashanti
+33,F0702,Manso Adubia,Ashanti,Ashanti
+34,F0701,Manso Nkwanta,Ashanti,Ashanti
+35,F0101,New Edubiase,Ashanti,Ashanti
+36,F1401,Nhyiaeso,Ashanti,Ashanti
+37,F3201,Nsuta-Kwamang-Beposo,Ashanti,Ashanti
+38,F0302,Obuasi East,Ashanti,Ashanti
+39,F0301,Obuasi West,Ashanti,Ashanti
+40,F0601,Odotobiri,Ashanti,Ashanti
+41,F3701,Offinso North,Ashanti,Ashanti
+42,F3601,Offinso South,Ashanti,Ashanti
+43,F2001,Oforikrom,Ashanti,Ashanti
+44,F1601,Old Tafo,Ashanti,Ashanti
+45,F3101,Sekyere Afram Plains,Ashanti,Ashanti
+46,F1701,Suame,Ashanti,Ashanti
+47,F1801,Subin,Ashanti,Ashanti
+53,G1501,Banda,Brong Ahafo,Bono
+54,G1201,Berekum East,Brong Ahafo,Bono
+55,G1202,Berekum West,Brong Ahafo,Bono
+56,G1001,Dormaa Central,Brong Ahafo,Bono
+57,G1101,Dormaa East,Brong Ahafo,Bono
+58,G0901,Dormaa West,Brong Ahafo,Bono
+59,G1401,Jaman North,Brong Ahafo,Bono
+60,G1301,Jaman South,Brong Ahafo,Bono
+69,G0701,Sunyani East,Brong Ahafo,Bono
+70,G0801,Sunyani West,Brong Ahafo,Bono
+71,G1601,Tain,Brong Ahafo,Bono
+76,G1701,Wenchi,Brong Ahafo,Bono
+52,G2301,Atebubu-Amantin,Brong Ahafo,Bono East
+61,G1901,Kintampo North,Brong Ahafo,Bono East
+62,G2001,Kintampo South,Brong Ahafo,Bono East
+63,G2101,Nkoranza North,Brong Ahafo,Bono East
+64,G2201,Nkoranza South,Brong Ahafo,Bono East
+65,G2401,Pru East,Brong Ahafo,Bono East
+66,G2402,Pru West,Brong Ahafo,Bono East
+67,G2601,Sene East,Brong Ahafo,Bono East
+68,G2501,Sene West,Brong Ahafo,Bono East
+74,G2701,Techiman North,Brong Ahafo,Bono East
+75,G1801,Techiman South,Brong Ahafo,Bono East
+77,B0301,Abura-Asebu-Kwamankese,Central,Central
+78,B1301,Agona East,Central,Central
+79,B1201,Agona West,Central,Central
+80,B0601,Ajumako-Enyan-Esiam,Central,Central
+81,B1401,Asikuma-Odoben-Brakwa,Central,Central
+82,B1502,Assin Central,Central,Central
+83,B1501,Assin North,Central,Central
+84,B1601,Assin South,Central,Central
+85,B1101,Awutu Senya East,Central,Central
+86,B1001,Awutu Senya West,Central,Central
+87,B0202,Cape Coast North,Central,Central
+88,B0201,Cape Coast South,Central,Central
+89,B0901,Effutu,Central,Central
+90,B0501,Ekumfi,Central,Central
+91,B0802,Gomoa Central,Central,Central
+92,B0801,Gomoa East,Central,Central
+93,B0701,Gomoa West,Central,Central
+94,B1801,Hermang Lower Denkyira,Central,Central
+95,B0101,KEEA,Central,Central
+96,B0401,Mfantseman,Central,Central
+97,B1701,Twifo-Atii Morkwaa,Central,Central
+98,B1901,Upper Denkyira East,Central,Central
+99,B2001,Upper Denkyira West,Central,Central
+100,E2401,Abetifi,Eastern,Eastern
+101,E1801,Abirem,Eastern,Eastern
+102,E1902,Abuakwa North,Eastern,Eastern
+103,E1901,Abuakwa South,Eastern,Eastern
+104,E1402,Achiase,Eastern,Eastern
+105,E2501,Afram Plains North,Eastern,Eastern
+106,E2601,Afram Plains South,Eastern,Eastern
+107,E1301,Akim Oda,Eastern,Eastern
+108,E1401,Akim Swedru,Eastern,Eastern
+109,E0601,Akwapem North,Eastern,Eastern
+110,E0701,Akwapem South,Eastern,Eastern
+111,E1701,Akwatia,Eastern,Eastern
+112,E1302,Asene-Akroso-Manso,Eastern,Eastern
+113,E0101,Asuogyaman,Eastern,Eastern
+114,E2002,Atiwa East,Eastern,Eastern
+115,E2001,Atiwa West,Eastern,Eastern
+116,E1001,Ayensuano,Eastern,Eastern
+117,E2101,Fanteakwa North,Eastern,Eastern
+118,E2102,Fanteakwa South,Eastern,Eastern
+119,E1601,Kade,Eastern,Eastern
+120,E0201,Lower Manya Krobo,Eastern,Eastern
+121,E1101,Lower West Akim,Eastern,Eastern
+122,E2301,Mpraeso,Eastern,Eastern
+123,E0502,New Juaben North,Eastern,Eastern
+124,E0501,New Juaben South,Eastern,Eastern
+125,E2201,Nkawkaw,Eastern,Eastern
+126,E0801,Nsawam-Adoagyiri,Eastern,Eastern
+127,E1501,Ofoase-Ayirebi,Eastern,Eastern
+128,E0602,Okere,Eastern,Eastern
+129,E0901,Suhum,Eastern,Eastern
+130,E0301,Upper Manya Krobo,Eastern,Eastern
+131,E1201,Upper West Akim,Eastern,Eastern
+132,E0401,Yilo Krobo,Eastern,Eastern
+133,C0802,Ablekuma Central,Greater Accra,Greater Accra
+134,C0801,Ablekuma North,Greater Accra,Greater Accra
+135,C0803,Ablekuma South,Greater Accra,Greater Accra
+136,C0804,Ablekuma West,Greater Accra,Greater Accra
+137,C2001,Ada,Greater Accra,Greater Accra
+138,C1601,Adenta,Greater Accra,Greater Accra
+139,C0301,Amasaman,Greater Accra,Greater Accra
+140,C0201,Anyaa-Sowutuom,Greater Accra,Greater Accra
+141,C1501,Ashaiman,Greater Accra,Greater Accra
+142,C0603,Ayawaso Central,Greater Accra,Greater Accra
+143,C0601,Ayawaso East,Greater Accra,Greater Accra
+144,C0602,Ayawaso North,Greater Accra,Greater Accra
+145,C0604,Ayawaso West Wuogon,Greater Accra,Greater Accra
+146,C0103,Bortianor-Ngleshie-Amanfro,Greater Accra,Greater Accra
+147,C1101,Dadekotopon,Greater Accra,Greater Accra
+149,C0401,Dome-Kwabenya,Greater Accra,Greater Accra
+148,C0102,Domeabra-Obom,Greater Accra,Greater Accra
+150,C1001,Korle Klottey,Greater Accra,Greater Accra
+151,C1401,Kpone-Katamanso,Greater Accra,Greater Accra
+152,C1202,Krowor,Greater Accra,Greater Accra
+153,C1201,Ledzokuku,Greater Accra,Greater Accra
+154,C0501,Madina,Greater Accra,Greater Accra
+155,C1801,Ningo Prampram,Greater Accra,Greater Accra
+156,C0901,Odododiodioo,Greater Accra,Greater Accra
+157,C0703,Okaikwei Central,Greater Accra,Greater Accra
+158,C0702,Okaikwei North,Greater Accra,Greater Accra
+159,C0701,Okaikwei South,Greater Accra,Greater Accra
+160,C1901,Sege,Greater Accra,Greater Accra
+161,C1701,Shai-Osudoku,Greater Accra,Greater Accra
+162,C1303,Tema Central,Greater Accra,Greater Accra
+163,C1301,Tema East,Greater Accra,Greater Accra
+164,C1302,Tema West,Greater Accra,Greater Accra
+165,C0302,Trobu,Greater Accra,Greater Accra
+166,C0101,Weija-Gbawe,Greater Accra,Greater Accra
+169,H2601,Bunkpurugu,Northern,North East
+170,H1501,Chereponi,Northern,North East
+178,H2501,Nalerigu-Gambaga,Northern,North East
+191,H2301,Walewale,Northern,North East
+193,H2401,Yagaba-Kubori,Northern,North East
+196,H2602,Yunyoo,Northern,North East
+167,H0801,Bimbilla,Northern,Northern
+173,H1601,Gushiegu,Northern,Northern
+174,H1701,Karaga,Northern,Northern
+175,H0701,Kpandai,Northern,Northern
+176,H2201,Kumbungu,Northern,Northern
+177,H1301,Mion,Northern,Northern
+179,H1802,Nanton,Northern,Northern
+180,H1401,Saboba,Northern,Northern
+181,H2001,Sagnarigu,Northern,Northern
+184,H1801,Savelugu,Northern,Northern
+186,H1902,Tamale Central,Northern,Northern
+187,H1903,Tamale North,Northern,Northern
+188,H1901,Tamale South,Northern,Northern
+189,H1101,Tatale-Sanguli,Northern,Northern
+190,H2101,Tolon,Northern,Northern
+192,H0901,Wulensi,Northern,Northern
+195,H1201,Yendi,Northern,Northern
+197,H1001,Zabzugu,Northern,Northern
+227,D2001,Akan,Volta,Oti
+231,D1901,Biakoye,Volta,Oti
+232,D1801,Buem,Volta,Oti
+276,D2601 (PROVISIONAL - confirm EC code),Guan,—  (created 2024),Oti
+241,D2101,Krachi East,Volta,Oti
+242,D2301,Krachi Nchumuru,Volta,Oti
+243,D2201,Krachi West,Volta,Oti
+244,D2501,Nkwanta North,Volta,Oti
+245,D2401,Nkwanta South,Volta,Oti
+168,H0101,Bole-Bamboi,Northern,Savannah
+171,H0401,Daboya-Mankarigu,Northern,Savannah
+172,H0301,Damongo,Northern,Savannah
+182,H0602,Salaga North,Northern,Savannah
+183,H0601,Salaga South,Northern,Savannah
+185,H0201,Sawla-Tuna-Kalba,Northern,Savannah
+194,H0501,Yapei-Kusawgu,Northern,Savannah
+198,J1002,Bawku Central,Upper East,Upper East
+199,J1001,Binduri,Upper East,Upper East
+200,J0501,Bolgatanga Central,Upper East,Upper East
+201,J0502,Bolgatanga East,Upper East,Upper East
+202,J0601,Bongo,Upper East,Upper East
+203,J0201,Builsa North,Upper East,Upper East
+204,J0101,Builsa South,Upper East,Upper East
+205,J0401,Chiana-Paga,Upper East,Upper East
+206,J1201,Garu,Upper East,Upper East
+207,J0801,Nabdam,Upper East,Upper East
+208,J0301,Navrongo Central,Upper East,Upper East
+209,J1101,Pusiga,Upper East,Upper East
+210,J0701,Talensi,Upper East,Upper East
+211,J1202,Tempane,Upper East,Upper East
+212,J0901,Zebilla,Upper East,Upper East
+213,K0501,Daffiama-Bussie-Issa,Upper West,Upper West
+214,K0601,Jirapa,Upper West,Upper West
+215,K0701,Lambussie-Karni,Upper West,Upper West
+216,K0801,Lawra,Upper West,Upper West
+217,K0401,Nadowli-Kaleo,Upper West,Upper West
+218,K0901,Nandom,Upper West,Upper West
+219,K1101,Sissala East,Upper West,Upper West
+220,K1001,Sissala West,Upper West,Upper West
+221,K0101,Wa Central,Upper West,Upper West
+222,K0301,Wa East,Upper West,Upper West
+223,K0201,Wa West,Upper West,Upper West
+224,D0901,Adaklu,Volta,Volta
+225,D1701,Afadjato South,Volta,Volta
+226,D1001,Agotime-Ziope,Volta,Volta
+228,D0501,Akatsi North,Volta,Volta
+229,D0401,Akatsi South,Volta,Volta
+230,D0102,Anlo,Volta,Volta
+233,D0701,Central Tongu,Volta,Volta
+234,D1101,Ho Central,Volta,Volta
+235,D1201,Ho West,Volta,Volta
+236,D1601,Hohoe,Volta,Volta
+237,D0101,Keta,Volta,Volta
+238,D0301,Ketu North,Volta,Volta
+239,D0201,Ketu South,Volta,Volta
+240,D1401,Kpando,Volta,Volta
+246,D1501,North Dayi,Volta,Volta
+247,D0801,North Tongu,Volta,Volta
+248,D1301,South Dayi,Volta,Volta
+249,D0601,South Tongu,Volta,Volta
+250,A0401,Ahanta West,Western,Western
+251,A1501,Amenfi Central,Western,Western
+252,A1401,Amenfi East,Western,Western
+253,A1601,Amenfi West,Western,Western
+259,A0601,Effia,Western,Western
+260,A0201,Ellembelle,Western,Western
+261,A0801,Essikado-Ketan,Western,Western
+262,A0301,Evalue-Ajomoro-Gwira,Western,Western
+263,A0101,Jomoro,Western,Western
+265,A0602,Kwesimintsim,Western,Western
+266,A1101,Mpohor,Western,Western
+267,A1301,Prestea-Huni Valley,Western,Western
+270,A0701,Sekondi,Western,Western
+271,A0901,Shama,Western,Western
+273,A0501,Takoradi,Western,Western
+274,A1201,Tarkwa-Nsuaem,Western,Western
+275,A1001,Wassa East,Western,Western
+254,A1701,Aowin,Western,Western North
+255,A2501,Bia East,Western,Western North
+256,A2401,Bia West,Western,Western North
+257,A1901,Bibiani-Anhwiaso-Bekwai,Western,Western North
+258,A2301,Bodi,Western,Western North
+264,A2201,Juaboso,Western,Western North
+268,A2101,Sefwi Akontombra,Western,Western North
+269,A2001,Sefwi Wiawso,Western,Western North
+272,A1801,Suaman,Western,Western North

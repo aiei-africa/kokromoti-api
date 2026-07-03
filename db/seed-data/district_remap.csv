@@ -1,0 +1,218 @@
+legacy_dist_id,code,district,legacy_region_10,new_region_16
+141,G02,Asunafo North Municipal,Brong Ahafo,Ahafo
+140,G01,Asunafo South,Brong Ahafo,Ahafo
+143,G04,Asutifi North,Brong Ahafo,Ahafo
+142,G03,Asutifi South,Brong Ahafo,Ahafo
+145,G06,Tano North,Brong Ahafo,Ahafo
+144,G05,Tano South,Brong Ahafo,Ahafo
+111,F02,Adansi North,Ashanti,Ashanti
+110,F01,Adansi South,Ashanti,Ashanti
+124,F24,Afigya Kwabre,Ashanti,Ashanti
+139,F39,Ahafo Ano North,Ashanti,Ashanti
+138,F38,Ahafo Ano South,Ashanti,Ashanti
+115,F06,Amansie Central,Ashanti,Ashanti
+116,F07,Amansie West,Ashanti,Ashanti
+127,F27,Asante Akim Central Municipal,Ashanti,Ashanti
+128,F28,Asante Akim North,Ashanti,Ashanti
+126,F26,Asante Akim South,Ashanti,Ashanti
+122,F13,Asokore Mampong Municipal,Ashanti,Ashanti
+120,F11,Atwima Kwanwoma,Ashanti,Ashanti
+118,F09,Atwima Mponua,Ashanti,Ashanti
+117,F08,Atwima Nwabiagya,Ashanti,Ashanti
+113,F04,Bekwai Municipal,Ashanti,Ashanti
+114,F05,Bosome Freho,Ashanti,Ashanti
+119,F10,Bosomtwe,Ashanti,Ashanti
+125,F25,Ejisu-Juaben Municipal,Ashanti,Ashanti
+134,F34,Ejura Sekyedumase,Ashanti,Ashanti
+121,F12,Kumasi Metropolis,Ashanti,Ashanti
+123,F23,Kwabre East,Ashanti,Ashanti
+133,F33,Mampong Municipal,Ashanti,Ashanti
+112,F03,Obuasi Municipal,Ashanti,Ashanti
+136,F36,Offinso North,Ashanti,Ashanti
+137,F37,Offinso South Municipal,Ashanti,Ashanti
+131,F31,Sekyere Afram Plains,Ashanti,Ashanti
+132,F32,Sekyere Central,Ashanti,Ashanti
+129,F29,Sekyere East,Ashanti,Ashanti
+130,F30,Sekyere Kumawu,Ashanti,Ashanti
+135,F35,Sekyere South,Ashanti,Ashanti
+154,G15,Banda,Brong Ahafo,Bono
+151,G12,Berekum Municipal,Brong Ahafo,Bono
+150,G11,Dormaa East,Brong Ahafo,Bono
+149,G10,Dormaa Municipal,Brong Ahafo,Bono
+148,G09,Dormaa West,Brong Ahafo,Bono
+153,G14,Jaman North,Brong Ahafo,Bono
+152,G13,Jaman South,Brong Ahafo,Bono
+146,G07,Sunyani Municipal,Brong Ahafo,Bono
+147,G08,Sunyani West,Brong Ahafo,Bono
+155,G16,Tain,Brong Ahafo,Bono
+156,G17,Wenchi Municipal,Brong Ahafo,Bono
+162,G23,Atebubu-Amantin Municipal,Brong Ahafo,Bono East
+158,G19,Kintampo North Municipal,Brong Ahafo,Bono East
+159,G20,Kintampo South,Brong Ahafo,Bono East
+160,G21,Nkoranza North,Brong Ahafo,Bono East
+161,G22,Nkoranza South,Brong Ahafo,Bono East
+163,G24,Pru,Brong Ahafo,Bono East
+165,G26,Sene East,Brong Ahafo,Bono East
+164,G25,Sene West,Brong Ahafo,Bono East
+157,G18,Techiman Municipal,Brong Ahafo,Bono East
+166,G27,Techiman North,Brong Ahafo,Bono East
+25,B03,Abura-Asebu-Kwamankese,Central,Central
+35,B13,Agona East,Central,Central
+34,B12,Agona West Municipal,Central,Central
+28,B06,Ajumako-Enyan-Esiam,Central,Central
+36,B14,Asikuma-Odoben-Brakwa,Central,Central
+37,B15,Assin North Municipal,Central,Central
+38,B16,Assin South,Central,Central
+33,B11,Awutu-Senya East Municipal,Central,Central
+32,B10,Awutu-Senya West,Central,Central
+24,B02,Cape Coast,Central,Central
+31,B09,Effutu Municipal,Central,Central
+27,B05,Ekumfi,Central,Central
+30,B08,Gomoa East,Central,Central
+29,B07,Gomoa West,Central,Central
+40,B18,Hemang-Lower Denkyira,Central,Central
+23,B01,KEEA Municipal,Central,Central
+26,B04,Mfantseman,Central,Central
+39,B17,Twifo-Atii Morkwaa,Central,Central
+41,B19,Upper Denkyira East Municipal,Central,Central
+42,B20,Upper Denkyira West,Central,Central
+108,E25,Afram Plains North,Eastern,Eastern
+109,E26,Afram Plains South,Eastern,Eastern
+89,E06,Akwapem North,Eastern,Eastern
+90,E07,Akwapem South,Eastern,Eastern
+98,E15,Akyemansa,Eastern,Eastern
+84,E01,Asuogyaman,Eastern,Eastern
+103,E20,Atiwa,Eastern,Eastern
+93,E10,Ayensuano,Eastern,Eastern
+96,E13,Birim Central Municipal,Eastern,Eastern
+101,E18,Birim North,Eastern,Eastern
+97,E14,Birim South,Eastern,Eastern
+100,E17,Denkyembour,Eastern,Eastern
+102,E19,East Akim Municipal,Eastern,Eastern
+104,E21,Fanteakwa,Eastern,Eastern
+99,E16,Kwabibirem,Eastern,Eastern
+107,E24,Kwahu East,Eastern,Eastern
+106,E23,Kwahu South,Eastern,Eastern
+105,E22,Kwahu West Municipal,Eastern,Eastern
+85,E02,Lower Manya Krobo Municipal,Eastern,Eastern
+88,E05,New Juaben Municipal,Eastern,Eastern
+91,E08,Nsawam Municipal,Eastern,Eastern
+92,E09,Suhum Municipal,Eastern,Eastern
+86,E03,Upper Manya Krobo,Eastern,Eastern
+95,E12,Upper-West Akim,Eastern,Eastern
+94,E11,West Akim Municipal,Eastern,Eastern
+87,E04,Yilo Krobo Municipal,Eastern,Eastern
+47,C05,Accra Metropolis,Greater Accra,Greater Accra
+58,C20,Ada East,Greater Accra,Greater Accra
+57,C19,Ada West,Greater Accra,Greater Accra
+54,C16,Adenta Municipal,Greater Accra,Greater Accra
+53,C15,Ashaiman Municipal,Greater Accra,Greater Accra
+44,C02,Ga Central Municipal,Greater Accra,Greater Accra
+46,C04,Ga East Municipal,Greater Accra,Greater Accra
+43,C01,Ga South Municipal,Greater Accra,Greater Accra
+45,C03,Ga West Municipal,Greater Accra,Greater Accra
+52,C14,Kpone-Katamanso,Greater Accra,Greater Accra
+49,C07,La Nkwantanang-Madina Municipal,Greater Accra,Greater Accra
+48,C06,La-Dadekotopon Municipal,Greater Accra,Greater Accra
+50,C12,Ledzokuku-Krowor Municipal,Greater Accra,Greater Accra
+56,C18,Ningo-Prampram,Greater Accra,Greater Accra
+55,C17,Shai-Osudoku,Greater Accra,Greater Accra
+51,C13,Tema Metropolis,Greater Accra,Greater Accra
+192,H26,Bunkpurugu-Yunyoo,Northern,North East
+181,H15,Chereponi,Northern,North East
+191,H25,East Mamprusi,Northern,North East
+190,H24,Mamprugu-Moagduri,Northern,North East
+189,H23,West Mamprusi,Northern,North East
+182,H16,Gushiegu,Northern,Northern
+183,H17,Karaga,Northern,Northern
+173,H07,Kpandai,Northern,Northern
+188,H22,Kumbungu,Northern,Northern
+179,H13,Mion,Northern,Northern
+174,H08,Nanumba North,Northern,Northern
+175,H09,Nanumba South,Northern,Northern
+180,H14,Saboba,Northern,Northern
+186,H20,Sagnarigu,Northern,Northern
+184,H18,Savelugu-Nanton,Northern,Northern
+185,H19,Tamale Metropolis,Northern,Northern
+177,H11,Tatale-Sanguli,Northern,Northern
+187,H21,Tolon,Northern,Northern
+178,H12,Yendi Municipal,Northern,Northern
+176,H10,Zabzugu,Northern,Northern
+77,D19,Biakoye,Volta,Oti
+217,D26,"Guan (created 2020, carved from Jasikan / Hohoe Municipal area)",—,Oti
+76,D18,Jasikan,Volta,Oti
+78,D20,Kadjebi,Volta,Oti
+79,D21,Krachi East,Volta,Oti
+81,D23,Krachi Nchumuru,Volta,Oti
+80,D22,Krachi West,Volta,Oti
+83,D25,Nkwanta North,Volta,Oti
+82,D24,Nkwanta South,Volta,Oti
+167,H01,Bole,Northern,Savannah
+171,H05,Central Gonja,Northern,Savannah
+172,H06,East Gonja,Northern,Savannah
+170,H04,North Gonja,Northern,Savannah
+168,H02,Sawla-Tuna-Kalba,Northern,Savannah
+169,H03,West Gonja,Northern,Savannah
+202,J10,Bawku Municipal,Upper East,Upper East
+201,J09,Bawku West,Upper East,Upper East
+205,J13,Binduri,Upper East,Upper East
+197,J05,Bolgatanga Municipal,Upper East,Upper East
+198,J06,Bongo,Upper East,Upper East
+194,J02,Builsa North,Upper East,Upper East
+193,J01,Builsa South,Upper East,Upper East
+204,J12,Garu-Tempane,Upper East,Upper East
+195,J03,Kassena-Nankana East Municipal,Upper East,Upper East
+196,J04,Kassena-Nankana West,Upper East,Upper East
+200,J08,Nabdam,Upper East,Upper East
+203,J11,Pusiga,Upper East,Upper East
+199,J07,Talensi,Upper East,Upper East
+210,K05,Daffiama-Bussie-Issa,Upper West,Upper West
+211,K06,Jirapa,Upper West,Upper West
+212,K07,Lambussie-Karni,Upper West,Upper West
+213,K08,Lawra,Upper West,Upper West
+209,K04,Nadowli-Kaleo,Upper West,Upper West
+214,K09,Nandom,Upper West,Upper West
+216,K11,Sissala East,Upper West,Upper West
+215,K10,Sissala West,Upper West,Upper West
+208,K03,Wa East,Upper West,Upper West
+206,K01,Wa Municipal,Upper West,Upper West
+207,K02,Wa West,Upper West,Upper West
+67,D09,Adaklu,Volta,Volta
+75,D17,Afadjato South,Volta,Volta
+68,D10,Agotime-Ziope,Volta,Volta
+63,D05,Akatsi North,Volta,Volta
+62,D04,Akatsi South,Volta,Volta
+65,D07,Central Tongu,Volta,Volta
+69,D11,Ho Municipal,Volta,Volta
+70,D12,Ho West,Volta,Volta
+74,D16,Hohoe Municipal,Volta,Volta
+59,D01,Keta Municipal,Volta,Volta
+61,D03,Ketu North,Volta,Volta
+60,D02,Ketu South Municipal,Volta,Volta
+72,D14,Kpando Municipal,Volta,Volta
+73,D15,North Dayi,Volta,Volta
+66,D08,North Tongu,Volta,Volta
+71,D13,South Dayi,Volta,Volta
+64,D06,South Tongu,Volta,Volta
+4,A04,Ahanta West,Western,Western
+12,A15,Amenfi Central,Western,Western
+11,A14,Amenfi East,Western,Western
+13,A16,Amenfi West,Western,Western
+2,A02,Ellembelle,Western,Western
+1,A01,Jomoro,Western,Western
+8,A11,Mpohor,Western,Western
+3,A03,Nzema East Municipal,Western,Western
+10,A13,Prestea-Huni Valley,Western,Western
+5,A08,Sekondi-Takoradi Metropolis,Western,Western
+6,A09,Shama,Western,Western
+9,A12,Tarkwa-Nsuaem Municipal,Western,Western
+7,A10,Wassa East,Western,Western
+14,A17,Aowin,Western,Western North
+22,A25,Bia East,Western,Western North
+21,A24,Bia West,Western,Western North
+16,A19,Bibiani-Anhwiaso-Bekwai,Western,Western North
+20,A23,Bodi,Western,Western North
+19,A22,Juaboso,Western,Western North
+18,A21,Sefwi Akontombra,Western,Western North
+17,A20,Sefwi Wiawso,Western,Western North
+15,A18,Suaman,Western,Western North
