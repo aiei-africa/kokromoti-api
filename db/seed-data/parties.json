@@ -1,0 +1,186 @@
+[
+ {
+  "legacyPartId": 1,
+  "name": "National Democratic Congress",
+  "abbreviation": "NDC",
+  "colourHex": "#1B6B3A",
+  "colourLight": "#2A9E58",
+  "colourBg": "#0D2E1A"
+ },
+ {
+  "legacyPartId": 2,
+  "name": "New Patriotic Party",
+  "abbreviation": "NPP",
+  "colourHex": "#003082",
+  "colourLight": "#1A56C4",
+  "colourBg": "#05163A"
+ },
+ {
+  "legacyPartId": 3,
+  "name": "People's National Convention",
+  "abbreviation": "PNC",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 4,
+  "name": "People's Heritage Party",
+  "abbreviation": "PHP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 5,
+  "name": "National Independent Party",
+  "abbreviation": "NIP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 6,
+  "name": "Convention People's Party",
+  "abbreviation": "CPP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 7,
+  "name": "Great Consolidated Popular Party",
+  "abbreviation": "GCPP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 8,
+  "name": "United Ghana Movement",
+  "abbreviation": "UGM",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 9,
+  "name": "National Reformed Party",
+  "abbreviation": "NRP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 10,
+  "name": "Democratic People's Party",
+  "abbreviation": "DPP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 11,
+  "name": "New Vision Party",
+  "abbreviation": "NVP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 12,
+  "name": "Democratic Freedom Party",
+  "abbreviation": "DFP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 13,
+  "name": "Progressive People's Party",
+  "abbreviation": "PPP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 14,
+  "name": "United Front Party",
+  "abbreviation": "UFP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 15,
+  "name": "United Renaissance Party",
+  "abbreviation": "URP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 16,
+  "name": "Independent People's Party",
+  "abbreviation": "IPP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 17,
+  "name": "Ghana Freedom Party",
+  "abbreviation": "GFP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 18,
+  "name": "Yes People's Party",
+  "abbreviation": "YPP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 19,
+  "name": "Reform Patriotic Democrats",
+  "abbreviation": "RPD",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 20,
+  "name": "National Democratic Party",
+  "abbreviation": "NDP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 21,
+  "name": "National Convention Party",
+  "abbreviation": "NCP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 22,
+  "name": "People's Convention Party",
+  "abbreviation": "PCP",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ },
+ {
+  "legacyPartId": 23,
+  "name": "Every Ghanaian Living Everywhere",
+  "abbreviation": "EGLE",
+  "colourHex": null,
+  "colourLight": null,
+  "colourBg": null
+ }
+]
