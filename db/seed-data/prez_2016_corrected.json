@@ -1,0 +1,65 @@
+[
+ {
+  "legacyCandId": null,
+  "electionCode": "2016",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "CPP",
+  "fullName": "Ivor Kobina Greenstreet",
+  "gender": null,
+  "age": null
+ },
+ {
+  "legacyCandId": null,
+  "electionCode": "2016",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NDP",
+  "fullName": "Nana Konadu Agyeman-Rawlings",
+  "gender": "FEMALE",
+  "age": null
+ },
+ {
+  "legacyCandId": null,
+  "electionCode": "2016",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NDC",
+  "fullName": "John Dramani Mahama",
+  "gender": null,
+  "age": null
+ },
+ {
+  "legacyCandId": null,
+  "electionCode": "2016",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "PPP",
+  "fullName": "Dr. Paa Kwesi Nduom",
+  "gender": null,
+  "age": null
+ },
+ {
+  "legacyCandId": null,
+  "electionCode": "2016",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NPP",
+  "fullName": "Nana Addo D. Akufo-Addo",
+  "gender": null,
+  "age": null
+ },
+ {
+  "legacyCandId": null,
+  "electionCode": "2016",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "PNC",
+  "fullName": "Dr. Edward Nasigri Mahama",
+  "gender": null,
+  "age": null
+ },
+ {
+  "legacyCandId": null,
+  "electionCode": "2016",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": null,
+  "fullName": "Jacob Osei Yeboah",
+  "gender": null,
+  "age": null
+ }
+]
