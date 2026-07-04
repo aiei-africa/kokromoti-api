@@ -1,0 +1,422 @@
+[
+ {
+  "legacyCandId": 85,
+  "electionCode": "1992",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "William Obeng Boateng"
+ },
+ {
+  "legacyCandId": 480,
+  "electionCode": "1996",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "Yaw Baning-Darko"
+ },
+ {
+  "legacyCandId": 481,
+  "electionCode": "1996",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "Ben Ohene-Kwapong"
+ },
+ {
+  "legacyCandId": 482,
+  "electionCode": "1996",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "Emmanuel Dakwa Adae"
+ },
+ {
+  "legacyCandId": 1380,
+  "electionCode": "2000",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "Ben Ohene-Kwapong"
+ },
+ {
+  "legacyCandId": 1381,
+  "electionCode": "2000",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "Joseph Baah"
+ },
+ {
+  "legacyCandId": 1382,
+  "electionCode": "2000",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "Daniel Kingsley Gyekye Appiah"
+ },
+ {
+  "legacyCandId": 2382,
+  "electionCode": "2004",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "Appiah Gyekye Dan King"
+ },
+ {
+  "legacyCandId": 2383,
+  "electionCode": "2004",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "Dr Charles Yaw Brempong-Yeboah"
+ },
+ {
+  "legacyCandId": 2384,
+  "electionCode": "2004",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "John Amponsah-Kyei"
+ },
+ {
+  "legacyCandId": 2385,
+  "electionCode": "2004",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "Sarpong Aboagye Isaac"
+ },
+ {
+  "legacyCandId": 3337,
+  "electionCode": "2008",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "Kwasi Annoh Ankamah"
+ },
+ {
+  "legacyCandId": 3338,
+  "electionCode": "2008",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "Kasum Abdul Karim"
+ },
+ {
+  "legacyCandId": 3339,
+  "electionCode": "2008",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "Emmanuel Atta Twum"
+ },
+ {
+  "legacyCandId": 5281,
+  "electionCode": "2000",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "Dr Charles Yaw Brempong-Yeboah"
+ },
+ {
+  "legacyCandId": 5282,
+  "electionCode": "2000",
+  "oldConstituencyName": "Atiwa East",
+  "correctConstituencyName": "Atiwa West",
+  "fullName": "Joseph Baah"
+ },
+ {
+  "legacyCandId": 320,
+  "electionCode": "1996",
+  "oldConstituencyName": "Berekum West",
+  "correctConstituencyName": "Berekum East",
+  "fullName": "J. H. Owusu Acheampong"
+ },
+ {
+  "legacyCandId": 321,
+  "electionCode": "1996",
+  "oldConstituencyName": "Berekum West",
+  "correctConstituencyName": "Berekum East",
+  "fullName": "Michael Kojo Adusah"
+ },
+ {
+  "legacyCandId": 1157,
+  "electionCode": "2000",
+  "oldConstituencyName": "Berekum West",
+  "correctConstituencyName": "Berekum East",
+  "fullName": "Nkrabeah Effah-Dartey"
+ },
+ {
+  "legacyCandId": 1158,
+  "electionCode": "2000",
+  "oldConstituencyName": "Berekum West",
+  "correctConstituencyName": "Berekum East",
+  "fullName": "J. H. Owusu Acheampong"
+ },
+ {
+  "legacyCandId": 1159,
+  "electionCode": "2000",
+  "oldConstituencyName": "Berekum West",
+  "correctConstituencyName": "Berekum East",
+  "fullName": "Kofi Kumi Atta-Frimpong"
+ },
+ {
+  "legacyCandId": 1160,
+  "electionCode": "2000",
+  "oldConstituencyName": "Berekum West",
+  "correctConstituencyName": "Berekum East",
+  "fullName": "Dickson Kofi Nuako"
+ },
+ {
+  "legacyCandId": 1161,
+  "electionCode": "2000",
+  "oldConstituencyName": "Berekum West",
+  "correctConstituencyName": "Berekum East",
+  "fullName": "Andrews Hinneh"
+ },
+ {
+  "legacyCandId": 2182,
+  "electionCode": "2004",
+  "oldConstituencyName": "Berekum West",
+  "correctConstituencyName": "Berekum East",
+  "fullName": "Nkrabeah Effah-Dartey"
+ },
+ {
+  "legacyCandId": 2183,
+  "electionCode": "2004",
+  "oldConstituencyName": "Berekum West",
+  "correctConstituencyName": "Berekum East",
+  "fullName": "Lord Stephen Oppong"
+ },
+ {
+  "legacyCandId": 3139,
+  "electionCode": "2008",
+  "oldConstituencyName": "Berekum West",
+  "correctConstituencyName": "Berekum East",
+  "fullName": "Kwaku Agyenim-Boateng"
+ },
+ {
+  "legacyCandId": 3140,
+  "electionCode": "2008",
+  "oldConstituencyName": "Berekum West",
+  "correctConstituencyName": "Berekum East",
+  "fullName": "Lord Stephen Oppong"
+ },
+ {
+  "legacyCandId": 3141,
+  "electionCode": "2008",
+  "oldConstituencyName": "Berekum West",
+  "correctConstituencyName": "Berekum East",
+  "fullName": "Justice Yaw Acheampong"
+ },
+ {
+  "legacyCandId": 3142,
+  "electionCode": "2008",
+  "oldConstituencyName": "Berekum West",
+  "correctConstituencyName": "Berekum East",
+  "fullName": "Adawuah Price Samuel"
+ },
+ {
+  "legacyCandId": 310,
+  "electionCode": "1996",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "David Yaw Mensah"
+ },
+ {
+  "legacyCandId": 311,
+  "electionCode": "1996",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "King-David Kwao Amoah"
+ },
+ {
+  "legacyCandId": 312,
+  "electionCode": "1996",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Issaka Iddrisu"
+ },
+ {
+  "legacyCandId": 313,
+  "electionCode": "1996",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Mustac Seidu Maswud"
+ },
+ {
+  "legacyCandId": 314,
+  "electionCode": "1996",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Mahama Yikunjoon"
+ },
+ {
+  "legacyCandId": 1146,
+  "electionCode": "2000",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "David Yaw Mensah"
+ },
+ {
+  "legacyCandId": 1147,
+  "electionCode": "2000",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Joseph Kwabena Manu"
+ },
+ {
+  "legacyCandId": 1148,
+  "electionCode": "2000",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Winston Samuel Binabiba"
+ },
+ {
+  "legacyCandId": 1149,
+  "electionCode": "2000",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Mahama Ikunjoon Y."
+ },
+ {
+  "legacyCandId": 1150,
+  "electionCode": "2000",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Francis Kwabena Dorkoseh"
+ },
+ {
+  "legacyCandId": 1151,
+  "electionCode": "2000",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Niekuu Bayor Franklin"
+ },
+ {
+  "legacyCandId": 2215,
+  "electionCode": "2004",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Francis Dorkose Dawuda"
+ },
+ {
+  "legacyCandId": 2216,
+  "electionCode": "2004",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "King-David Kwao Amoah"
+ },
+ {
+  "legacyCandId": 2217,
+  "electionCode": "2004",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Masoud Baba Abdul-Rahman"
+ },
+ {
+  "legacyCandId": 2218,
+  "electionCode": "2004",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Kingsley Abonkrah"
+ },
+ {
+  "legacyCandId": 3175,
+  "electionCode": "2008",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Alhaji Gariba Iddrisu"
+ },
+ {
+  "legacyCandId": 3176,
+  "electionCode": "2008",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Masoud Baba Abdul-Rahman"
+ },
+ {
+  "legacyCandId": 3177,
+  "electionCode": "2008",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Bijabi Joses"
+ },
+ {
+  "legacyCandId": 3178,
+  "electionCode": "2008",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Ponada Donkor George Evans"
+ },
+ {
+  "legacyCandId": 3179,
+  "electionCode": "2008",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Ebenezer Agben"
+ },
+ {
+  "legacyCandId": 3180,
+  "electionCode": "2008",
+  "oldConstituencyName": "Pru West",
+  "correctConstituencyName": "Pru East",
+  "fullName": "Amoah King David"
+ },
+ {
+  "legacyCandId": 2564,
+  "electionCode": "2004",
+  "oldConstituencyName": "Trobu",
+  "correctConstituencyName": "Amasaman",
+  "fullName": "Daniel Addoquaye Pappoe"
+ },
+ {
+  "legacyCandId": 2565,
+  "electionCode": "2004",
+  "oldConstituencyName": "Trobu",
+  "correctConstituencyName": "Amasaman",
+  "fullName": "Samuel Nee-Aryeetey Attoh"
+ },
+ {
+  "legacyCandId": 2566,
+  "electionCode": "2004",
+  "oldConstituencyName": "Trobu",
+  "correctConstituencyName": "Amasaman",
+  "fullName": "Ernest Attuquaye Armah"
+ },
+ {
+  "legacyCandId": 2567,
+  "electionCode": "2004",
+  "oldConstituencyName": "Trobu",
+  "correctConstituencyName": "Amasaman",
+  "fullName": "Thelma Lantwei Lamptey"
+ },
+ {
+  "legacyCandId": 2568,
+  "electionCode": "2004",
+  "oldConstituencyName": "Trobu",
+  "correctConstituencyName": "Amasaman",
+  "fullName": "Lawrence Kessey"
+ },
+ {
+  "legacyCandId": 3516,
+  "electionCode": "2008",
+  "oldConstituencyName": "Trobu",
+  "correctConstituencyName": "Amasaman",
+  "fullName": "Moses Anim"
+ },
+ {
+  "legacyCandId": 3517,
+  "electionCode": "2008",
+  "oldConstituencyName": "Trobu",
+  "correctConstituencyName": "Amasaman",
+  "fullName": "Lord Owusu Dwemoh"
+ },
+ {
+  "legacyCandId": 3518,
+  "electionCode": "2008",
+  "oldConstituencyName": "Trobu",
+  "correctConstituencyName": "Amasaman",
+  "fullName": "Ernest Attuquaye Armah"
+ },
+ {
+  "legacyCandId": 3519,
+  "electionCode": "2008",
+  "oldConstituencyName": "Trobu",
+  "correctConstituencyName": "Amasaman",
+  "fullName": "Nickson Acquaye"
+ },
+ {
+  "legacyCandId": 3520,
+  "electionCode": "2008",
+  "oldConstituencyName": "Trobu",
+  "correctConstituencyName": "Amasaman",
+  "fullName": "Thelma Lantwei Lamptey"
+ }
+]
