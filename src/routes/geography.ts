@@ -1,6 +1,7 @@
 import { Router } from "express";
 import { prisma } from "../lib/prisma";
 import { asyncHandler, ApiError } from "../middleware/errorHandler";
+import { asString, requireString } from "../lib/params";
 
 const router = Router();
 
@@ -13,9 +14,9 @@ router.get("/regions", asyncHandler(async (_req, res) => {
 }));
 
 router.get("/districts", asyncHandler(async (req, res) => {
-  const { region } = req.query;
+  const region = asString(req.query.region);
   const districts = await prisma.district.findMany({
-    where: region ? { region: { shortName: String(region) } } : undefined,
+    where: region ? { region: { shortName: region } } : undefined,
     orderBy: { name: "asc" },
     include: { region: { select: { shortName: true } } },
   });
@@ -23,9 +24,9 @@ router.get("/districts", asyncHandler(async (req, res) => {
 }));
 
 router.get("/constituencies", asyncHandler(async (req, res) => {
-  const { region } = req.query;
+  const region = asString(req.query.region);
   const constituencies = await prisma.constituency.findMany({
-    where: region ? { region: { shortName: String(region) } } : undefined,
+    where: region ? { region: { shortName: region } } : undefined,
     orderBy: { name: "asc" },
     select: {
       id: true, name: true, ecCode: true, capital: true, isActive: true,
@@ -39,7 +40,7 @@ router.get("/constituencies", asyncHandler(async (req, res) => {
 
 router.get("/constituencies/:id", asyncHandler(async (req, res) => {
   const constituency = await prisma.constituency.findUnique({
-    where: { id: req.params.id },
+    where: { id: requireString(req.params.id, "id") },
     include: {
       region: true, district: true, boundary: true,
       lineage: { include: { election: { select: { code: true } } } },

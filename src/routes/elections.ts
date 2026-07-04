@@ -1,6 +1,7 @@
 import { Router } from "express";
 import { prisma } from "../lib/prisma";
 import { asyncHandler, ApiError } from "../middleware/errorHandler";
+import { asString } from "../lib/params";
 
 const router = Router();
 
@@ -14,7 +15,7 @@ router.get("/", asyncHandler(async (_req, res) => {
 
 router.get("/:code", asyncHandler(async (req, res) => {
   const election = await prisma.election.findFirst({
-    where: { code: req.params.code },
+    where: { code: asString(req.params.code) },
     include: { rounds: true, parentElection: true },
   });
   if (!election) throw new ApiError(404, "Election not found");

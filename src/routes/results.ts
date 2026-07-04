@@ -1,6 +1,7 @@
 import { Router } from "express";
 import { prisma } from "../lib/prisma";
 import { asyncHandler, ApiError } from "../middleware/errorHandler";
+import { requireString } from "../lib/params";
 
 const router = Router();
 
@@ -12,7 +13,7 @@ async function findElection(code: string) {
 
 // GET /results/presidential/:electionCode — national roll-up across all constituencies
 router.get("/presidential/:electionCode", asyncHandler(async (req, res) => {
-  const election = await findElection(req.params.electionCode);
+  const election = await findElection(requireString(req.params.electionCode, "electionCode"));
 
   const votes = await prisma.constituencyResultVote.groupBy({
     by: ["candidateId"],
@@ -41,9 +42,10 @@ router.get("/presidential/:electionCode", asyncHandler(async (req, res) => {
 
 // GET /results/presidential/:electionCode/:constituencyId — single-seat detail
 router.get("/presidential/:electionCode/:constituencyId", asyncHandler(async (req, res) => {
-  const election = await findElection(req.params.electionCode);
+  const election = await findElection(requireString(req.params.electionCode, "electionCode"));
+  const constituencyId = requireString(req.params.constituencyId, "constituencyId");
   const result = await prisma.constituencyResult.findFirst({
-    where: { electionId: election.id, electionType: "PRESIDENTIAL", constituencyId: req.params.constituencyId },
+    where: { electionId: election.id, electionType: "PRESIDENTIAL", constituencyId },
     include: {
       constituency: { select: { name: true, ecCode: true } },
       votes: {
@@ -58,7 +60,7 @@ router.get("/presidential/:electionCode/:constituencyId", asyncHandler(async (re
 
 // GET /results/parliamentary/:electionCode — every seat's declared winner
 router.get("/parliamentary/:electionCode", asyncHandler(async (req, res) => {
-  const election = await findElection(req.params.electionCode);
+  const election = await findElection(requireString(req.params.electionCode, "electionCode"));
   const results = await prisma.constituencyResult.findMany({
     where: { electionId: election.id, electionType: "PARLIAMENTARY" },
     include: {
@@ -82,9 +84,10 @@ router.get("/parliamentary/:electionCode", asyncHandler(async (req, res) => {
 
 // GET /results/parliamentary/:electionCode/:constituencyId — single-seat full breakdown
 router.get("/parliamentary/:electionCode/:constituencyId", asyncHandler(async (req, res) => {
-  const election = await findElection(req.params.electionCode);
+  const election = await findElection(requireString(req.params.electionCode, "electionCode"));
+  const constituencyId = requireString(req.params.constituencyId, "constituencyId");
   const result = await prisma.constituencyResult.findFirst({
-    where: { electionId: election.id, electionType: "PARLIAMENTARY", constituencyId: req.params.constituencyId },
+    where: { electionId: election.id, electionType: "PARLIAMENTARY", constituencyId },
     include: {
       constituency: { select: { name: true, ecCode: true } },
       votes: {
