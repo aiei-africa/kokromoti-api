@@ -1,0 +1,1292 @@
+[
+ {
+  "currentName": "Asunafo North Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Asunafo North Municipal",
+  "legacyDistId": 141
+ },
+ {
+  "currentName": "Asunafo South",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Asunafo South",
+  "legacyDistId": 140
+ },
+ {
+  "currentName": "Asutifi North",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Asutifi North",
+  "legacyDistId": 143
+ },
+ {
+  "currentName": "Asutifi South",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Asutifi South",
+  "legacyDistId": 142
+ },
+ {
+  "currentName": "Tano North Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Tano North",
+  "legacyDistId": 145
+ },
+ {
+  "currentName": "Tano South Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Tano South",
+  "legacyDistId": 144
+ },
+ {
+  "currentName": "Adansi North",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Adansi North",
+  "legacyDistId": 111
+ },
+ {
+  "currentName": "Adansi South",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Adansi South",
+  "legacyDistId": 110
+ },
+ {
+  "currentName": "Afigya Kwabre North",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Afigya Kwabre",
+  "legacyDistId": 124
+ },
+ {
+  "currentName": "Ahafo Ano North Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ahafo Ano North",
+  "legacyDistId": 139
+ },
+ {
+  "currentName": "Ahafo Ano South East",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ahafo Ano South",
+  "legacyDistId": 138
+ },
+ {
+  "currentName": "Amansie Central",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Amansie Central",
+  "legacyDistId": 115
+ },
+ {
+  "currentName": "Amansie West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Amansie West",
+  "legacyDistId": 116
+ },
+ {
+  "currentName": "Asante Akim Central Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Asante Akim Central Municipal",
+  "legacyDistId": 127
+ },
+ {
+  "currentName": "Asante Akim North",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Asante Akim North",
+  "legacyDistId": 128
+ },
+ {
+  "currentName": "Asante Akim South Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Asante Akim South",
+  "legacyDistId": 126
+ },
+ {
+  "currentName": "Asokore Mampong Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Asokore Mampong Municipal",
+  "legacyDistId": 122
+ },
+ {
+  "currentName": "Atwima Kwanwoma",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Atwima Kwanwoma",
+  "legacyDistId": 120
+ },
+ {
+  "currentName": "Atwima Mponua",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Atwima Mponua",
+  "legacyDistId": 118
+ },
+ {
+  "currentName": "Atwima Nwabiagya Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Atwima Nwabiagya",
+  "legacyDistId": 117
+ },
+ {
+  "currentName": "Bekwai Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Bekwai Municipal",
+  "legacyDistId": 113
+ },
+ {
+  "currentName": "Bosome Freho",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Bosome Freho",
+  "legacyDistId": 114
+ },
+ {
+  "currentName": "Bosomtwe",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Bosomtwe",
+  "legacyDistId": 119
+ },
+ {
+  "currentName": "Ejura-Sekyedumase Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ejura Sekyedumase",
+  "legacyDistId": 134
+ },
+ {
+  "currentName": "Juaben Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ejisu-Juaben Municipal",
+  "legacyDistId": 125
+ },
+ {
+  "currentName": "Kumasi Metropolitan",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kumasi Metropolis",
+  "legacyDistId": 121
+ },
+ {
+  "currentName": "Kwabre East",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kwabre East",
+  "legacyDistId": 123
+ },
+ {
+  "currentName": "Mampong Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Mampong Municipal",
+  "legacyDistId": 133
+ },
+ {
+  "currentName": "Obuasi Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Obuasi Municipal",
+  "legacyDistId": 112
+ },
+ {
+  "currentName": "Offinso Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Offinso South Municipal",
+  "legacyDistId": 137
+ },
+ {
+  "currentName": "Offinso North",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Offinso North",
+  "legacyDistId": 136
+ },
+ {
+  "currentName": "Sekyere Afram Plains",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sekyere Afram Plains",
+  "legacyDistId": 131
+ },
+ {
+  "currentName": "Sekyere Central",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sekyere Central",
+  "legacyDistId": 132
+ },
+ {
+  "currentName": "Sekyere East",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sekyere East",
+  "legacyDistId": 129
+ },
+ {
+  "currentName": "Sekyere Kumawu",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sekyere Kumawu",
+  "legacyDistId": 130
+ },
+ {
+  "currentName": "Sekyere South",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sekyere South",
+  "legacyDistId": 135
+ },
+ {
+  "currentName": "Banda",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Banda",
+  "legacyDistId": 154
+ },
+ {
+  "currentName": "Berekum East Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Berekum Municipal",
+  "legacyDistId": 151
+ },
+ {
+  "currentName": "Dormaa Central Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Dormaa Municipal",
+  "legacyDistId": 149
+ },
+ {
+  "currentName": "Dormaa East",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Dormaa East",
+  "legacyDistId": 150
+ },
+ {
+  "currentName": "Dormaa West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Dormaa West",
+  "legacyDistId": 148
+ },
+ {
+  "currentName": "Jaman North",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Jaman North",
+  "legacyDistId": 153
+ },
+ {
+  "currentName": "Jaman South Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Jaman South",
+  "legacyDistId": 152
+ },
+ {
+  "currentName": "Sunyani Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sunyani Municipal",
+  "legacyDistId": 146
+ },
+ {
+  "currentName": "Sunyani West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sunyani West",
+  "legacyDistId": 147
+ },
+ {
+  "currentName": "Tain",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Tain",
+  "legacyDistId": 155
+ },
+ {
+  "currentName": "Wenchi Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Wenchi Municipal",
+  "legacyDistId": 156
+ },
+ {
+  "currentName": "Atebubu-Amantin Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Atebubu-Amantin Municipal",
+  "legacyDistId": 162
+ },
+ {
+  "currentName": "Kintampo North Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kintampo North Municipal",
+  "legacyDistId": 158
+ },
+ {
+  "currentName": "Kintampo South",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kintampo South",
+  "legacyDistId": 159
+ },
+ {
+  "currentName": "Nkoranza North",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Nkoranza North",
+  "legacyDistId": 160
+ },
+ {
+  "currentName": "Nkoranza South Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Nkoranza South",
+  "legacyDistId": 161
+ },
+ {
+  "currentName": "Sene East",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sene East",
+  "legacyDistId": 165
+ },
+ {
+  "currentName": "Sene West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sene West",
+  "legacyDistId": 164
+ },
+ {
+  "currentName": "Techiman Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Techiman Municipal",
+  "legacyDistId": 157
+ },
+ {
+  "currentName": "Techiman North",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Techiman North",
+  "legacyDistId": 166
+ },
+ {
+  "currentName": "Abura-Asebu-Kwamankese",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Abura-Asebu-Kwamankese",
+  "legacyDistId": 25
+ },
+ {
+  "currentName": "Agona East",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Agona East",
+  "legacyDistId": 35
+ },
+ {
+  "currentName": "Agona West Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Agona West Municipal",
+  "legacyDistId": 34
+ },
+ {
+  "currentName": "Ajumako-Enyan-Essiam",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ajumako-Enyan-Esiam",
+  "legacyDistId": 28
+ },
+ {
+  "currentName": "Asikuma-Odoben-Brakwa",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Asikuma-Odoben-Brakwa",
+  "legacyDistId": 36
+ },
+ {
+  "currentName": "Assin North",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Assin North Municipal",
+  "legacyDistId": 37
+ },
+ {
+  "currentName": "Assin South",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Assin South",
+  "legacyDistId": 38
+ },
+ {
+  "currentName": "Awutu Senya East Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Awutu-Senya East Municipal",
+  "legacyDistId": 33
+ },
+ {
+  "currentName": "Awutu Senya West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Awutu-Senya West",
+  "legacyDistId": 32
+ },
+ {
+  "currentName": "Cape Coast Metropolitan",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Cape Coast",
+  "legacyDistId": 24
+ },
+ {
+  "currentName": "Effutu Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Effutu Municipal",
+  "legacyDistId": 31
+ },
+ {
+  "currentName": "Ekumfi",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ekumfi",
+  "legacyDistId": 27
+ },
+ {
+  "currentName": "Gomoa East",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Gomoa East",
+  "legacyDistId": 30
+ },
+ {
+  "currentName": "Gomoa West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Gomoa West",
+  "legacyDistId": 29
+ },
+ {
+  "currentName": "Komenda-Edina-Eguafo-Abirem Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "KEEA Municipal",
+  "legacyDistId": 23
+ },
+ {
+  "currentName": "Mfantsiman Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Mfantseman",
+  "legacyDistId": 26
+ },
+ {
+  "currentName": "Twifo-Ati Morkwa",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Twifo-Atii Morkwaa",
+  "legacyDistId": 39
+ },
+ {
+  "currentName": "Twifo-Heman-Lower Denkyira",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Hemang-Lower Denkyira",
+  "legacyDistId": 40
+ },
+ {
+  "currentName": "Upper Denkyira East Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Upper Denkyira East Municipal",
+  "legacyDistId": 41
+ },
+ {
+  "currentName": "Upper Denkyira West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Upper Denkyira West",
+  "legacyDistId": 42
+ },
+ {
+  "currentName": "Akuapim North Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Akwapem North",
+  "legacyDistId": 89
+ },
+ {
+  "currentName": "Akuapim South",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Akwapem South",
+  "legacyDistId": 90
+ },
+ {
+  "currentName": "Akyemansa",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Akyemansa",
+  "legacyDistId": 98
+ },
+ {
+  "currentName": "Asuogyaman",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Asuogyaman",
+  "legacyDistId": 84
+ },
+ {
+  "currentName": "Atiwa East",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Atiwa",
+  "legacyDistId": 103
+ },
+ {
+  "currentName": "Ayensuano",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ayensuano",
+  "legacyDistId": 93
+ },
+ {
+  "currentName": "Birim Central Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Birim Central Municipal",
+  "legacyDistId": 96
+ },
+ {
+  "currentName": "Birim North",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Birim North",
+  "legacyDistId": 101
+ },
+ {
+  "currentName": "Birim South",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Birim South",
+  "legacyDistId": 97
+ },
+ {
+  "currentName": "Denkyembour",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Denkyembour",
+  "legacyDistId": 100
+ },
+ {
+  "currentName": "Fanteakwa North",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Fanteakwa",
+  "legacyDistId": 104
+ },
+ {
+  "currentName": "Kwaebibirem Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kwabibirem",
+  "legacyDistId": 99
+ },
+ {
+  "currentName": "Kwahu Afram Plains North",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Afram Plains North",
+  "legacyDistId": 108
+ },
+ {
+  "currentName": "Kwahu Afram Plains South",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Afram Plains South",
+  "legacyDistId": 109
+ },
+ {
+  "currentName": "Kwahu East",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kwahu East",
+  "legacyDistId": 107
+ },
+ {
+  "currentName": "Kwahu South",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kwahu South",
+  "legacyDistId": 106
+ },
+ {
+  "currentName": "Kwahu West Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kwahu West Municipal",
+  "legacyDistId": 105
+ },
+ {
+  "currentName": "Lower Manya Krobo Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Lower Manya Krobo Municipal",
+  "legacyDistId": 85
+ },
+ {
+  "currentName": "New Juaben North Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "New Juaben Municipal",
+  "legacyDistId": 88
+ },
+ {
+  "currentName": "Nsawam Adoagyire Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Nsawam Municipal",
+  "legacyDistId": 91
+ },
+ {
+  "currentName": "Suhum Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Suhum Municipal",
+  "legacyDistId": 92
+ },
+ {
+  "currentName": "Upper Manya Krobo",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Upper Manya Krobo",
+  "legacyDistId": 86
+ },
+ {
+  "currentName": "Upper West Akim",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Upper-West Akim",
+  "legacyDistId": 95
+ },
+ {
+  "currentName": "West Akim Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "West Akim Municipal",
+  "legacyDistId": 94
+ },
+ {
+  "currentName": "Yilo-Krobo Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Yilo Krobo Municipal",
+  "legacyDistId": 87
+ },
+ {
+  "currentName": "Accra Metropolitan",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Accra Metropolis",
+  "legacyDistId": 47
+ },
+ {
+  "currentName": "Ada East",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ada East",
+  "legacyDistId": 58
+ },
+ {
+  "currentName": "Ada West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ada West",
+  "legacyDistId": 57
+ },
+ {
+  "currentName": "Adenta Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Adenta Municipal",
+  "legacyDistId": 54
+ },
+ {
+  "currentName": "Ashaiman Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ashaiman Municipal",
+  "legacyDistId": 53
+ },
+ {
+  "currentName": "Ga Central Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ga Central Municipal",
+  "legacyDistId": 44
+ },
+ {
+  "currentName": "Ga East Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ga East Municipal",
+  "legacyDistId": 46
+ },
+ {
+  "currentName": "Ga South Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ga South Municipal",
+  "legacyDistId": 43
+ },
+ {
+  "currentName": "Ga West Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ga West Municipal",
+  "legacyDistId": 45
+ },
+ {
+  "currentName": "Kpone-Katamanso Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kpone-Katamanso",
+  "legacyDistId": 52
+ },
+ {
+  "currentName": "La-Dade-Kotopon Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "La-Dadekotopon Municipal",
+  "legacyDistId": 48
+ },
+ {
+  "currentName": "La-Nkwantanang-Madina Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "La Nkwantanang-Madina Municipal",
+  "legacyDistId": 49
+ },
+ {
+  "currentName": "Ledzokuku Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ledzokuku-Krowor Municipal",
+  "legacyDistId": 50
+ },
+ {
+  "currentName": "Ningo-Prampram",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ningo-Prampram",
+  "legacyDistId": 56
+ },
+ {
+  "currentName": "Shai-Osudoku",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Shai-Osudoku",
+  "legacyDistId": 55
+ },
+ {
+  "currentName": "Tema Metropolitan",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Tema Metropolis",
+  "legacyDistId": 51
+ },
+ {
+  "currentName": "Bunkpurugu-Nyankpanduri",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Bunkpurugu-Yunyoo",
+  "legacyDistId": 192
+ },
+ {
+  "currentName": "Chereponi",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Chereponi",
+  "legacyDistId": 181
+ },
+ {
+  "currentName": "East Mamprusi Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "East Mamprusi",
+  "legacyDistId": 191
+ },
+ {
+  "currentName": "Mamprugu Moagduri",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Mamprugu-Moagduri",
+  "legacyDistId": 190
+ },
+ {
+  "currentName": "West Mamprusi Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "West Mamprusi",
+  "legacyDistId": 189
+ },
+ {
+  "currentName": "Gushegu Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Gushiegu",
+  "legacyDistId": 182
+ },
+ {
+  "currentName": "Karaga",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Karaga",
+  "legacyDistId": 183
+ },
+ {
+  "currentName": "Kpandai",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kpandai",
+  "legacyDistId": 173
+ },
+ {
+  "currentName": "Kumbungu",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kumbungu",
+  "legacyDistId": 188
+ },
+ {
+  "currentName": "Mion",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Mion",
+  "legacyDistId": 179
+ },
+ {
+  "currentName": "Nanumba North Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Nanumba North",
+  "legacyDistId": 174
+ },
+ {
+  "currentName": "Nanumba South",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Nanumba South",
+  "legacyDistId": 175
+ },
+ {
+  "currentName": "Saboba",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Saboba",
+  "legacyDistId": 180
+ },
+ {
+  "currentName": "Sagnarigu Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sagnarigu",
+  "legacyDistId": 186
+ },
+ {
+  "currentName": "Savelugu Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Savelugu-Nanton",
+  "legacyDistId": 184
+ },
+ {
+  "currentName": "Tamale Metropolitan",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Tamale Metropolis",
+  "legacyDistId": 185
+ },
+ {
+  "currentName": "Tatale Sanguli",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Tatale-Sanguli",
+  "legacyDistId": 177
+ },
+ {
+  "currentName": "Tolon",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Tolon",
+  "legacyDistId": 187
+ },
+ {
+  "currentName": "Yendi Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Yendi Municipal",
+  "legacyDistId": 178
+ },
+ {
+  "currentName": "Zabzugu",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Zabzugu",
+  "legacyDistId": 176
+ },
+ {
+  "currentName": "Biakoye",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Biakoye",
+  "legacyDistId": 77
+ },
+ {
+  "currentName": "Guan",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Guan",
+  "legacyDistId": 217
+ },
+ {
+  "currentName": "Jasikan Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Jasikan",
+  "legacyDistId": 76
+ },
+ {
+  "currentName": "Kadjebi",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kadjebi",
+  "legacyDistId": 78
+ },
+ {
+  "currentName": "Krachi East Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Krachi East",
+  "legacyDistId": 79
+ },
+ {
+  "currentName": "Krachi Nchumuru",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Krachi Nchumuru",
+  "legacyDistId": 81
+ },
+ {
+  "currentName": "Krachi West Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Krachi West",
+  "legacyDistId": 80
+ },
+ {
+  "currentName": "Nkwanta North",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Nkwanta North",
+  "legacyDistId": 83
+ },
+ {
+  "currentName": "Nkwanta South Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Nkwanta South",
+  "legacyDistId": 82
+ },
+ {
+  "currentName": "Bole",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Bole",
+  "legacyDistId": 167
+ },
+ {
+  "currentName": "Central Gonja",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Central Gonja",
+  "legacyDistId": 171
+ },
+ {
+  "currentName": "East Gonja Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "East Gonja",
+  "legacyDistId": 172
+ },
+ {
+  "currentName": "North Gonja",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "North Gonja",
+  "legacyDistId": 170
+ },
+ {
+  "currentName": "Sawla-Tuna-Kalba",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sawla-Tuna-Kalba",
+  "legacyDistId": 168
+ },
+ {
+  "currentName": "West Gonja Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "West Gonja",
+  "legacyDistId": 169
+ },
+ {
+  "currentName": "Bawku Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Bawku Municipal",
+  "legacyDistId": 202
+ },
+ {
+  "currentName": "Bawku West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Bawku West",
+  "legacyDistId": 201
+ },
+ {
+  "currentName": "Binduri",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Binduri",
+  "legacyDistId": 205
+ },
+ {
+  "currentName": "Bolgatanga Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Bolgatanga Municipal",
+  "legacyDistId": 197
+ },
+ {
+  "currentName": "Bongo",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Bongo",
+  "legacyDistId": 198
+ },
+ {
+  "currentName": "Builsa North Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Builsa North",
+  "legacyDistId": 194
+ },
+ {
+  "currentName": "Builsa South",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Builsa South",
+  "legacyDistId": 193
+ },
+ {
+  "currentName": "Kassena-Nankana Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kassena-Nankana East Municipal",
+  "legacyDistId": 195
+ },
+ {
+  "currentName": "Kassena-Nankana West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kassena-Nankana West",
+  "legacyDistId": 196
+ },
+ {
+  "currentName": "Nabdam",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Nabdam",
+  "legacyDistId": 200
+ },
+ {
+  "currentName": "Pusiga",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Pusiga",
+  "legacyDistId": 203
+ },
+ {
+  "currentName": "Talensi",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Talensi",
+  "legacyDistId": 199
+ },
+ {
+  "currentName": "Tempane",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Garu-Tempane",
+  "legacyDistId": 204
+ },
+ {
+  "currentName": "Daffiama-Bussie-Issa",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Daffiama-Bussie-Issa",
+  "legacyDistId": 210
+ },
+ {
+  "currentName": "Jirapa Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Jirapa",
+  "legacyDistId": 211
+ },
+ {
+  "currentName": "Lambussie-Karni",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Lambussie-Karni",
+  "legacyDistId": 212
+ },
+ {
+  "currentName": "Lawra Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Lawra",
+  "legacyDistId": 213
+ },
+ {
+  "currentName": "Nadowli-Kaleo",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Nadowli-Kaleo",
+  "legacyDistId": 209
+ },
+ {
+  "currentName": "Nandom Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Nandom",
+  "legacyDistId": 214
+ },
+ {
+  "currentName": "Sissala East Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sissala East",
+  "legacyDistId": 216
+ },
+ {
+  "currentName": "Sissala West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sissala West",
+  "legacyDistId": 215
+ },
+ {
+  "currentName": "Wa East",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Wa East",
+  "legacyDistId": 208
+ },
+ {
+  "currentName": "Wa Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Wa Municipal",
+  "legacyDistId": 206
+ },
+ {
+  "currentName": "Wa West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Wa West",
+  "legacyDistId": 207
+ },
+ {
+  "currentName": "Adaklu",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Adaklu",
+  "legacyDistId": 67
+ },
+ {
+  "currentName": "Afadzato South",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Afadjato South",
+  "legacyDistId": 75
+ },
+ {
+  "currentName": "Agotime-Ziope",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Agotime-Ziope",
+  "legacyDistId": 68
+ },
+ {
+  "currentName": "Akatsi North",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Akatsi North",
+  "legacyDistId": 63
+ },
+ {
+  "currentName": "Akatsi South",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Akatsi South",
+  "legacyDistId": 62
+ },
+ {
+  "currentName": "Central Tongu",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Central Tongu",
+  "legacyDistId": 65
+ },
+ {
+  "currentName": "Ho Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ho Municipal",
+  "legacyDistId": 69
+ },
+ {
+  "currentName": "Ho West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ho West",
+  "legacyDistId": 70
+ },
+ {
+  "currentName": "Hohoe Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Hohoe Municipal",
+  "legacyDistId": 74
+ },
+ {
+  "currentName": "Keta Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Keta Municipal",
+  "legacyDistId": 59
+ },
+ {
+  "currentName": "Ketu North Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ketu North",
+  "legacyDistId": 61
+ },
+ {
+  "currentName": "Ketu South Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ketu South Municipal",
+  "legacyDistId": 60
+ },
+ {
+  "currentName": "Kpando Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Kpando Municipal",
+  "legacyDistId": 72
+ },
+ {
+  "currentName": "North Dayi",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "North Dayi",
+  "legacyDistId": 73
+ },
+ {
+  "currentName": "North Tongu",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "North Tongu",
+  "legacyDistId": 66
+ },
+ {
+  "currentName": "South Dayi",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "South Dayi",
+  "legacyDistId": 71
+ },
+ {
+  "currentName": "South Tongu",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "South Tongu",
+  "legacyDistId": 64
+ },
+ {
+  "currentName": "Ahanta West Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ahanta West",
+  "legacyDistId": 4
+ },
+ {
+  "currentName": "Ellembelle",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Ellembelle",
+  "legacyDistId": 2
+ },
+ {
+  "currentName": "Jomoro Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Jomoro",
+  "legacyDistId": 1
+ },
+ {
+  "currentName": "Mpohor",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Mpohor",
+  "legacyDistId": 8
+ },
+ {
+  "currentName": "Nzema East Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Nzema East Municipal",
+  "legacyDistId": 3
+ },
+ {
+  "currentName": "Prestea-Huni Valley Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Prestea-Huni Valley",
+  "legacyDistId": 10
+ },
+ {
+  "currentName": "Sekondi-Takoradi Metropolitan",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sekondi-Takoradi Metropolis",
+  "legacyDistId": 5
+ },
+ {
+  "currentName": "Shama",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Shama",
+  "legacyDistId": 6
+ },
+ {
+  "currentName": "Tarkwa-Nsuaem Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Tarkwa-Nsuaem Municipal",
+  "legacyDistId": 9
+ },
+ {
+  "currentName": "Wassa Amenfi Central",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Amenfi Central",
+  "legacyDistId": 12
+ },
+ {
+  "currentName": "Wassa Amenfi East Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Amenfi East",
+  "legacyDistId": 11
+ },
+ {
+  "currentName": "Wassa Amenfi West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Amenfi West",
+  "legacyDistId": 13
+ },
+ {
+  "currentName": "Wassa East",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Wassa East",
+  "legacyDistId": 7
+ },
+ {
+  "currentName": "Bia East",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Bia East",
+  "legacyDistId": 22
+ },
+ {
+  "currentName": "Bia West",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Bia West",
+  "legacyDistId": 21
+ },
+ {
+  "currentName": "Bodi",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Bodi",
+  "legacyDistId": 20
+ },
+ {
+  "currentName": "Juaboso",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Juaboso",
+  "legacyDistId": 19
+ },
+ {
+  "currentName": "Sefwi Akontombra",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sefwi Akontombra",
+  "legacyDistId": 18
+ },
+ {
+  "currentName": "Sefwi Bibiani-Anhwiaso-Bekwai Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Bibiani-Anhwiaso-Bekwai",
+  "legacyDistId": 16
+ },
+ {
+  "currentName": "Sefwi Wiawso Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Sefwi Wiawso",
+  "legacyDistId": 17
+ },
+ {
+  "currentName": "Suaman",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Suaman",
+  "legacyDistId": 15
+ },
+ {
+  "currentName": "Aowin Municipal",
+  "era": "pre-2018 (legacy)",
+  "historicalName": "Aowin",
+  "legacyDistId": 14
+ }
+]

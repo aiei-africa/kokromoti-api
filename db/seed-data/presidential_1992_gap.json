@@ -1,0 +1,6170 @@
+[
+ {
+  "electionCode": "1992",
+  "legacyConstId": 1,
+  "registeredVoters": 22326,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 4,
+  "registeredVoters": 44727,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 2,
+  "registeredVoters": 20164,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 5,
+  "registeredVoters": 26597,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 7,
+  "registeredVoters": 43594,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 34,
+  "registeredVoters": 51565,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 10,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 11,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 43,
+  "registeredVoters": 70611,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 13,
+  "registeredVoters": 61721,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 14,
+  "registeredVoters": 24919,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 15,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 17,
+  "registeredVoters": 43230,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 18,
+  "registeredVoters": 102807,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 19,
+  "registeredVoters": 41538,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 20,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 21,
+  "registeredVoters": 27669,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 22,
+  "registeredVoters": 20216,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 23,
+  "registeredVoters": 50938,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 24,
+  "registeredVoters": 51104,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 25,
+  "registeredVoters": 13047,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 27,
+  "registeredVoters": 30203,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 28,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 30,
+  "registeredVoters": 34798,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 32,
+  "registeredVoters": 86299,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 35,
+  "registeredVoters": 30644,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 37,
+  "registeredVoters": 31758,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 39,
+  "registeredVoters": 67291,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 40,
+  "registeredVoters": 28167,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 41,
+  "registeredVoters": 29832,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 42,
+  "registeredVoters": 33467,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 44,
+  "registeredVoters": 60213,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 47,
+  "registeredVoters": 72694,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 48,
+  "registeredVoters": 49387,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 49,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 50,
+  "registeredVoters": 24993,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 51,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 65,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 52,
+  "registeredVoters": 26496,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 54,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 57,
+  "registeredVoters": 34619,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 58,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 60,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 61,
+  "registeredVoters": 74843,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 64,
+  "registeredVoters": 65330,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 68,
+  "registeredVoters": 32842,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 69,
+  "registeredVoters": 41201,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 70,
+  "registeredVoters": 32953,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 72,
+  "registeredVoters": 35580,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 73,
+  "registeredVoters": 34865,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 74,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 75,
+  "registeredVoters": 40983,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 76,
+  "registeredVoters": 33692,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 71,
+  "registeredVoters": 50403,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 77,
+  "registeredVoters": 53361,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 78,
+  "registeredVoters": 29164,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 79,
+  "registeredVoters": 47041,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 80,
+  "registeredVoters": 48521,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 81,
+  "registeredVoters": 39246,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 83,
+  "registeredVoters": 43462,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 84,
+  "registeredVoters": 34772,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 86,
+  "registeredVoters": 37821,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 88,
+  "registeredVoters": 61334,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 89,
+  "registeredVoters": 22646,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 92,
+  "registeredVoters": 39110,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 93,
+  "registeredVoters": 48373,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 95,
+  "registeredVoters": 46790,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 90,
+  "registeredVoters": 46725,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 96,
+  "registeredVoters": 31809,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 97,
+  "registeredVoters": 46953,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 98,
+  "registeredVoters": 55876,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 100,
+  "registeredVoters": 34211,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 103,
+  "registeredVoters": 60279,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 105,
+  "registeredVoters": 28281,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 106,
+  "registeredVoters": 23770,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 107,
+  "registeredVoters": 45663,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 108,
+  "registeredVoters": 30731,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 109,
+  "registeredVoters": 31873,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 110,
+  "registeredVoters": 46781,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 111,
+  "registeredVoters": 31122,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 113,
+  "registeredVoters": 42456,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 115,
+  "registeredVoters": 38935,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 116,
+  "registeredVoters": 36625,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 101,
+  "registeredVoters": 56259,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 117,
+  "registeredVoters": 69484,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 119,
+  "registeredVoters": 41873,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 124,
+  "registeredVoters": 47123,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 120,
+  "registeredVoters": 40565,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 121,
+  "registeredVoters": 45573,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 122,
+  "registeredVoters": 35613,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 123,
+  "registeredVoters": 20504,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 125,
+  "registeredVoters": 43417,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 128,
+  "registeredVoters": 20863,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 129,
+  "registeredVoters": 36676,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 130,
+  "registeredVoters": 39351,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 131,
+  "registeredVoters": 21905,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 132,
+  "registeredVoters": 45252,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 133,
+  "registeredVoters": 72990,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 134,
+  "registeredVoters": 56213,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 135,
+  "registeredVoters": 86356,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 137,
+  "registeredVoters": 34807,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 141,
+  "registeredVoters": 44648,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 142,
+  "registeredVoters": 65842,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 145,
+  "registeredVoters": 29054,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 147,
+  "registeredVoters": 72932,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 143,
+  "registeredVoters": 95933,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 154,
+  "registeredVoters": 52724,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 166,
+  "registeredVoters": 47052,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 150,
+  "registeredVoters": 67449,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 151,
+  "registeredVoters": 11187,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 152,
+  "registeredVoters": 28966,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 153,
+  "registeredVoters": 31274,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 155,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 156,
+  "registeredVoters": 70140,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 158,
+  "registeredVoters": 62658,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 159,
+  "registeredVoters": 65625,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 161,
+  "registeredVoters": 19505,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 163,
+  "registeredVoters": 59905,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 164,
+  "registeredVoters": 30508,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 251,
+  "registeredVoters": 36228,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 252,
+  "registeredVoters": 41146,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 253,
+  "registeredVoters": 28974,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 254,
+  "registeredVoters": 55045,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 256,
+  "registeredVoters": 64210,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 257,
+  "registeredVoters": 47795,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 259,
+  "registeredVoters": 46437,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 260,
+  "registeredVoters": 37586,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 262,
+  "registeredVoters": 22957,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 263,
+  "registeredVoters": 63472,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 264,
+  "registeredVoters": 55733,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 275,
+  "registeredVoters": 49762,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 267,
+  "registeredVoters": 50139,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 269,
+  "registeredVoters": 61455,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 270,
+  "registeredVoters": 44467,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 271,
+  "registeredVoters": 34293,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 273,
+  "registeredVoters": 41909,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 274,
+  "registeredVoters": 45361,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 250,
+  "registeredVoters": 31277,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "2000R",
+  "legacyConstId": 43,
+  "registeredVoters": 142450,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 16,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 17,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "2000R",
+  "legacyConstId": 68,
+  "registeredVoters": 36682,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 16,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 17,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "2000R",
+  "legacyConstId": 137,
+  "registeredVoters": 49352,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 16,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 17,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "2000R",
+  "legacyConstId": 191,
+  "registeredVoters": 54295,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 16,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 17,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "2000R",
+  "legacyConstId": 194,
+  "registeredVoters": 32265,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 16,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 17,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "2000R",
+  "legacyConstId": 245,
+  "registeredVoters": 60417,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 16,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 17,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "2000R",
+  "legacyConstId": 264,
+  "registeredVoters": 67876,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 16,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 17,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 167,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 168,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 169,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 170,
+  "registeredVoters": 17119,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 186,
+  "registeredVoters": 59377,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 172,
+  "registeredVoters": 21788,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 187,
+  "registeredVoters": 57880,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 173,
+  "registeredVoters": 40737,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 175,
+  "registeredVoters": 30146,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 176,
+  "registeredVoters": 33487,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 177,
+  "registeredVoters": 25559,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 178,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 179,
+  "registeredVoters": 11522,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 180,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 182,
+  "registeredVoters": 35922,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 184,
+  "registeredVoters": 25473,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 185,
+  "registeredVoters": 23146,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 190,
+  "registeredVoters": 22337,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 191,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 192,
+  "registeredVoters": 22764,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 194,
+  "registeredVoters": 20838,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 195,
+  "registeredVoters": 22652,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 197,
+  "registeredVoters": 28482,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 198,
+  "registeredVoters": 63473,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 212,
+  "registeredVoters": 35342,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 199,
+  "registeredVoters": 23575,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 200,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 202,
+  "registeredVoters": 37047,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 203,
+  "registeredVoters": 23552,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 204,
+  "registeredVoters": 14337,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 205,
+  "registeredVoters": 49511,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 206,
+  "registeredVoters": 39598,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 207,
+  "registeredVoters": 16318,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 208,
+  "registeredVoters": 34462,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 210,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 214,
+  "registeredVoters": 33065,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 215,
+  "registeredVoters": 18022,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 216,
+  "registeredVoters": 53548,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 217,
+  "registeredVoters": 25845,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 213,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 219,
+  "registeredVoters": 0,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 221,
+  "registeredVoters": 55056,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 222,
+  "registeredVoters": 35877,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 227,
+  "registeredVoters": 28720,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 230,
+  "registeredVoters": 36749,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 229,
+  "registeredVoters": 43328,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 231,
+  "registeredVoters": 33554,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 232,
+  "registeredVoters": 27681,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 234,
+  "registeredVoters": 38720,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 226,
+  "registeredVoters": 41558,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 235,
+  "registeredVoters": 45426,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 236,
+  "registeredVoters": 54821,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 225,
+  "registeredVoters": 26438,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 237,
+  "registeredVoters": 35776,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 238,
+  "registeredVoters": 44404,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 239,
+  "registeredVoters": 58074,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 243,
+  "registeredVoters": 60276,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 245,
+  "registeredVoters": 43677,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 246,
+  "registeredVoters": 51884,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 247,
+  "registeredVoters": 65283,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 248,
+  "registeredVoters": 23131,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "1992",
+  "legacyConstId": 249,
+  "registeredVoters": 27953,
+  "totalCast": 0,
+  "validVotes": 0,
+  "rejectedBallots": 0,
+  "votes": [
+   {
+    "legacyCandId": 1,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 2,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 3,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 5,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 4,
+    "votes": 0
+   }
+  ]
+ },
+ {
+  "electionCode": "2008",
+  "legacyConstId": 111,
+  "registeredVoters": 49203,
+  "totalCast": 1,
+  "validVotes": 1,
+  "rejectedBallots": 1,
+  "votes": [
+   {
+    "legacyCandId": 22,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 23,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 25,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 24,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 28,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 26,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 27,
+    "votes": 0
+   },
+   {
+    "legacyCandId": 29,
+    "votes": 0
+   }
+  ]
+ }
+]

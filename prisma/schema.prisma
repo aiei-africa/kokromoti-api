@@ -304,10 +304,33 @@ model District {
 
   region         Region         @relation(fields: [regionId], references: [id])
   constituencies Constituency[]
+  lineage        DistrictLineage[]
 
   @@unique([regionId, code])
   @@index([regionId])
   @@map("districts")
+  @@schema("kokromoti")
+}
+
+// Era-correct district identity, mirroring ConstituencyLineage. Migrated from
+// district_upgrade_review.csv (217 legacy districts -> 261 current MMDAs).
+// Historical constituencies/results FK the current district; this table supplies
+// the era-correct name for reference, e.g. "this district used to be called X."
+model DistrictLineage {
+  id             String   @id @default(cuid()) @map("id")
+  districtId     String   @map("district_id")
+  era            String   @map("era") // e.g. "pre-2018", "2012-2017"
+  historicalName String   @map("historical_name")
+  historicalCode String?  @map("historical_code")
+  legacyDistId   Int?     @map("legacy_dist_id")
+  notes          String?  @map("notes") @db.Text
+  createdAt      DateTime @default(now()) @map("created_at")
+
+  district District @relation(fields: [districtId], references: [id])
+
+  @@unique([districtId, era])
+  @@index([districtId])
+  @@map("district_lineage")
   @@schema("kokromoti")
 }
 
@@ -333,6 +356,7 @@ model Constituency {
   region              Region               @relation(fields: [regionId], references: [id])
   district            District?            @relation(fields: [districtId], references: [id])
   pollingStations     PollingStation[]
+  pollingStationArchive PollingStationArchive[]
   lineage             ConstituencyLineage[]
   boundary            ConstituencyBoundary?
   candidates          Candidate[]
@@ -391,13 +415,14 @@ model PollingStation {
   constituencyId   String       @map("constituency_id")
   code             String       @map("code") // EC station code
   name             String       @map("name")
+  ecDistrictName   String?      @map("ec_district_name") // EC's own district label — NOT the 261-MMDA administrative district. EC, police, ECG, etc. each demarcate districts differently; this preserves EC's as-written.
   eaCode           String?      @map("ea_code") // enumeration area
   registeredVoters Int?         @map("registered_voters")
   latitude         Decimal?     @map("latitude") @db.Decimal(10, 7)
   longitude        Decimal?     @map("longitude") @db.Decimal(10, 7)
   tier             StationTier? @map("tier")
   isActive         Boolean      @default(true) @map("is_active")
-  legacyPid        Int?         @map("legacy_pid") // tblPollingStations.PID
+  legacyPid        Int?         @map("legacy_pid") // tblPollingStations.PID, where applicable
   createdAt        DateTime     @default(now()) @map("created_at")
   updatedAt        DateTime     @updatedAt @map("updated_at")
 
@@ -409,6 +434,29 @@ model PollingStation {
   @@index([constituencyId])
   @@index([code])
   @@map("polling_stations")
+  @@schema("kokromoti")
+}
+
+// Frozen archive of the 2012-era legacy polling station roster (26,002 stations),
+// superseded by the real EC 2024 register in PollingStation. Kept for historical
+// reference only — e.g. "how many stations did this constituency have in 2012?"
+// Never joined against live results; StationResult links to PollingStation only.
+model PollingStationArchive {
+  id               String   @id @default(cuid()) @map("id")
+  constituencyId   String   @map("constituency_id")
+  era              String   @default("2012-2016 legacy") @map("era")
+  code             String   @map("code")
+  name             String   @map("name")
+  eaCode           String?  @map("ea_code")
+  registeredVoters Int?     @map("registered_voters")
+  legacyPid        Int?     @map("legacy_pid")
+  createdAt        DateTime @default(now()) @map("created_at")
+
+  constituency Constituency @relation(fields: [constituencyId], references: [id])
+
+  @@index([constituencyId])
+  @@index([era])
+  @@map("polling_station_archive")
   @@schema("kokromoti")
 }
 

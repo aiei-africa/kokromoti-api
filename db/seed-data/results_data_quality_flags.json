@@ -1,0 +1,610 @@
+[
+ {
+  "electionCode": "1996",
+  "legacyConstId": 25,
+  "summedVotes": 8262,
+  "reportedValid": 13097,
+  "diff": -4835,
+  "candidateCount": 1
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 262,
+  "summedVotes": 19148,
+  "reportedValid": 20887,
+  "diff": -1739,
+  "candidateCount": 3
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 267,
+  "summedVotes": 54275,
+  "reportedValid": 54536,
+  "diff": -261,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 273,
+  "summedVotes": 38199,
+  "reportedValid": 38481,
+  "diff": -282,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 274,
+  "summedVotes": 54156,
+  "reportedValid": 54238,
+  "diff": -82,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2008",
+  "legacyConstId": 7,
+  "summedVotes": 37700,
+  "reportedValid": 37936,
+  "diff": -236,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2008",
+  "legacyConstId": 111,
+  "summedVotes": 35704,
+  "reportedValid": 35768,
+  "diff": -64,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2008",
+  "legacyConstId": 123,
+  "summedVotes": 21671,
+  "reportedValid": 23708,
+  "diff": -2037,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2008",
+  "legacyConstId": 143,
+  "summedVotes": 77806,
+  "reportedValid": 78120,
+  "diff": -314,
+  "candidateCount": 7
+ },
+ {
+  "electionCode": "2008",
+  "legacyConstId": 169,
+  "summedVotes": 25288,
+  "reportedValid": 32078,
+  "diff": -6790,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2008",
+  "legacyConstId": 175,
+  "summedVotes": 23414,
+  "reportedValid": 27905,
+  "diff": -4491,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2008",
+  "legacyConstId": 186,
+  "summedVotes": 61807,
+  "reportedValid": 61851,
+  "diff": -44,
+  "candidateCount": 7
+ },
+ {
+  "electionCode": "2008",
+  "legacyConstId": 195,
+  "summedVotes": 30190,
+  "reportedValid": 30241,
+  "diff": -51,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2008",
+  "legacyConstId": 212,
+  "summedVotes": 30754,
+  "reportedValid": 32215,
+  "diff": -1461,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2008",
+  "legacyConstId": 227,
+  "summedVotes": 22991,
+  "reportedValid": 23438,
+  "diff": -447,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2008",
+  "legacyConstId": 245,
+  "summedVotes": 30882,
+  "reportedValid": 31479,
+  "diff": -597,
+  "candidateCount": 3
+ },
+ {
+  "electionCode": "2008",
+  "legacyConstId": 260,
+  "summedVotes": 29423,
+  "reportedValid": 29712,
+  "diff": -289,
+  "candidateCount": 3
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 10,
+  "summedVotes": 33323,
+  "reportedValid": 34292,
+  "diff": -969,
+  "candidateCount": 3
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 27,
+  "summedVotes": 27438,
+  "reportedValid": 27477,
+  "diff": -39,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 45,
+  "summedVotes": 8923,
+  "reportedValid": 9012,
+  "diff": -89,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 46,
+  "summedVotes": 76465,
+  "reportedValid": 76852,
+  "diff": -387,
+  "candidateCount": 8
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 65,
+  "summedVotes": 25715,
+  "reportedValid": 25863,
+  "diff": -148,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 66,
+  "summedVotes": 18825,
+  "reportedValid": 19478,
+  "diff": -653,
+  "candidateCount": 3
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 72,
+  "summedVotes": 34296,
+  "reportedValid": 34379,
+  "diff": -83,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 95,
+  "summedVotes": 44087,
+  "reportedValid": 58049,
+  "diff": -13962,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 107,
+  "summedVotes": 28340,
+  "reportedValid": 30244,
+  "diff": -1904,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 123,
+  "summedVotes": 29684,
+  "reportedValid": 29861,
+  "diff": -177,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 139,
+  "summedVotes": 55874,
+  "reportedValid": 57356,
+  "diff": -1482,
+  "candidateCount": 7
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 148,
+  "summedVotes": 19859,
+  "reportedValid": 20988,
+  "diff": -1129,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 150,
+  "summedVotes": 74080,
+  "reportedValid": 74407,
+  "diff": -327,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2016",
+  "legacyConstId": 12,
+  "summedVotes": 0,
+  "reportedValid": 84094,
+  "diff": -84094,
+  "candidateCount": 0
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 186,
+  "summedVotes": 65730,
+  "reportedValid": 66271,
+  "diff": -541,
+  "candidateCount": 8
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 187,
+  "summedVotes": 28976,
+  "reportedValid": 30223,
+  "diff": -1247,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 195,
+  "summedVotes": 43425,
+  "reportedValid": 49113,
+  "diff": -5688,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 227,
+  "summedVotes": 25222,
+  "reportedValid": 29762,
+  "diff": -4540,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 239,
+  "summedVotes": 86874,
+  "reportedValid": 87534,
+  "diff": -660,
+  "candidateCount": 7
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 241,
+  "summedVotes": 30563,
+  "reportedValid": 30719,
+  "diff": -156,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2016",
+  "legacyConstId": 32,
+  "summedVotes": 0,
+  "reportedValid": 42376,
+  "diff": -42376,
+  "candidateCount": 0
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 245,
+  "summedVotes": 34544,
+  "reportedValid": 36819,
+  "diff": -2275,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2016",
+  "legacyConstId": 250,
+  "summedVotes": 0,
+  "reportedValid": 23056,
+  "diff": -23056,
+  "candidateCount": 0
+ },
+ {
+  "electionCode": "2012",
+  "legacyConstId": 254,
+  "summedVotes": 52790,
+  "reportedValid": 52997,
+  "diff": -207,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "1996",
+  "legacyConstId": 61,
+  "summedVotes": 46269,
+  "reportedValid": 48013,
+  "diff": -1744,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "1996",
+  "legacyConstId": 150,
+  "summedVotes": 59677,
+  "reportedValid": 61850,
+  "diff": -2173,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "1996",
+  "legacyConstId": 153,
+  "summedVotes": 47103,
+  "reportedValid": 49935,
+  "diff": -2832,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "1996",
+  "legacyConstId": 186,
+  "summedVotes": 53065,
+  "reportedValid": 53526,
+  "diff": -461,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "1996",
+  "legacyConstId": 227,
+  "summedVotes": 24952,
+  "reportedValid": 25165,
+  "diff": -213,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "1996",
+  "legacyConstId": 243,
+  "summedVotes": 46873,
+  "reportedValid": 48386,
+  "diff": -1513,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2000",
+  "legacyConstId": 24,
+  "summedVotes": 25512,
+  "reportedValid": 25679,
+  "diff": -167,
+  "candidateCount": 7
+ },
+ {
+  "electionCode": "2000",
+  "legacyConstId": 61,
+  "summedVotes": 38943,
+  "reportedValid": 44153,
+  "diff": -5210,
+  "candidateCount": 7
+ },
+ {
+  "electionCode": "2000",
+  "legacyConstId": 109,
+  "summedVotes": 23447,
+  "reportedValid": 27841,
+  "diff": -4394,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2000",
+  "legacyConstId": 141,
+  "summedVotes": 58634,
+  "reportedValid": 59375,
+  "diff": -741,
+  "candidateCount": 7
+ },
+ {
+  "electionCode": "2000",
+  "legacyConstId": 169,
+  "summedVotes": 23901,
+  "reportedValid": 28125,
+  "diff": -4224,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2000",
+  "legacyConstId": 175,
+  "summedVotes": 23782,
+  "reportedValid": 24674,
+  "diff": -892,
+  "candidateCount": 7
+ },
+ {
+  "electionCode": "2000",
+  "legacyConstId": 185,
+  "summedVotes": 17437,
+  "reportedValid": 17891,
+  "diff": -454,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2000",
+  "legacyConstId": 197,
+  "summedVotes": 19512,
+  "reportedValid": 22992,
+  "diff": -3480,
+  "candidateCount": 7
+ },
+ {
+  "electionCode": "2000",
+  "legacyConstId": 230,
+  "summedVotes": 5079,
+  "reportedValid": 27962,
+  "diff": -22883,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2000",
+  "legacyConstId": 238,
+  "summedVotes": 26341,
+  "reportedValid": 28500,
+  "diff": -2159,
+  "candidateCount": 7
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 14,
+  "summedVotes": 34450,
+  "reportedValid": 35050,
+  "diff": -600,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 22,
+  "summedVotes": 22063,
+  "reportedValid": 23524,
+  "diff": -1461,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 25,
+  "summedVotes": 15458,
+  "reportedValid": 15528,
+  "diff": -70,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 69,
+  "summedVotes": 52974,
+  "reportedValid": 53972,
+  "diff": -998,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 89,
+  "summedVotes": 26656,
+  "reportedValid": 26710,
+  "diff": -54,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 92,
+  "summedVotes": 37608,
+  "reportedValid": 37801,
+  "diff": -193,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 113,
+  "summedVotes": 34333,
+  "reportedValid": 34479,
+  "diff": -146,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 135,
+  "summedVotes": 115660,
+  "reportedValid": 115926,
+  "diff": -266,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 147,
+  "summedVotes": 81809,
+  "reportedValid": 82328,
+  "diff": -519,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 152,
+  "summedVotes": 53497,
+  "reportedValid": 54155,
+  "diff": -658,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 163,
+  "summedVotes": 79068,
+  "reportedValid": 86284,
+  "diff": -7216,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 164,
+  "summedVotes": 68258,
+  "reportedValid": 71009,
+  "diff": -2751,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 169,
+  "summedVotes": 25433,
+  "reportedValid": 31880,
+  "diff": -6447,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 198,
+  "summedVotes": 37947,
+  "reportedValid": 38108,
+  "diff": -161,
+  "candidateCount": 5
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 208,
+  "summedVotes": 29395,
+  "reportedValid": 31657,
+  "diff": -2262,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 237,
+  "summedVotes": 30578,
+  "reportedValid": 30631,
+  "diff": -53,
+  "candidateCount": 6
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 243,
+  "summedVotes": 34377,
+  "reportedValid": 34952,
+  "diff": -575,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2004",
+  "legacyConstId": 244,
+  "summedVotes": 16913,
+  "reportedValid": 20591,
+  "diff": -3678,
+  "candidateCount": 4
+ },
+ {
+  "electionCode": "2016",
+  "legacyConstId": 226,
+  "summedVotes": 0,
+  "reportedValid": 16023,
+  "diff": -16023,
+  "candidateCount": 0
+ }
+]
