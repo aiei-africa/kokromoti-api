@@ -96,6 +96,14 @@ enum Gender {
   @@schema("kokromoti")
 }
 
+enum DistrictCategory {
+  METROPOLITAN
+  MUNICIPAL
+  DISTRICT
+
+  @@schema("kokromoti")
+}
+
 enum UserRole {
   PUBLIC
   SUBSCRIBER
@@ -282,14 +290,17 @@ model Region {
 }
 
 model District {
-  id             String   @id @default(cuid()) @map("id")
-  regionId       String   @map("region_id")
-  code           String   @map("code") // EC district code, e.g. A01
-  name           String   @map("name")
-  capital        String?  @map("capital")
-  legacyDistId   Int?     @map("legacy_dist_id")
-  createdAt      DateTime @default(now()) @map("created_at")
-  updatedAt      DateTime @updatedAt @map("updated_at")
+  id             String            @id @default(cuid()) @map("id")
+  regionId       String            @map("region_id")
+  code           String            @map("code") // EC district code, e.g. A01
+  name           String            @map("name")
+  capital        String?           @map("capital")
+  category       DistrictCategory? @map("category") // METROPOLITAN / MUNICIPAL / DISTRICT
+  population2010 Int?              @map("population_2010") // 2010 census
+  population2021 Int?              @map("population_2021") // 2021 census
+  legacyDistId   Int?              @map("legacy_dist_id")
+  createdAt      DateTime          @default(now()) @map("created_at")
+  updatedAt      DateTime          @updatedAt @map("updated_at")
 
   region         Region         @relation(fields: [regionId], references: [id])
   constituencies Constituency[]

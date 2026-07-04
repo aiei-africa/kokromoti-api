@@ -1,0 +1,263 @@
+region,legacy_dist_id,legacy_name,new_name,capital,category,pop2010,pop2021,status
+Ahafo,141,Asunafo North Municipal,Asunafo North Municipal,Goaso,Municipal,124685,150198,MATCHED_EXACT
+Ahafo,140,Asunafo South,Asunafo South,Kukuom,District,95580,91693,MATCHED_EXACT
+Ahafo,143,Asutifi North,Asutifi North,Kenyasi,District,52259,73556,MATCHED_EXACT
+Ahafo,142,Asutifi South,Asutifi South,Hwidiem,District,53584,68394,MATCHED_EXACT
+Ahafo,145,Tano North,Tano North Municipal,Duayaw Nkwanta,Municipal,79973,93608,MATCHED_EXACT
+Ahafo,144,Tano South,Tano South Municipal,Bechem,Municipal,78129,87219,MATCHED_EXACT
+Ashanti,,,Adansi Asokwa,Adansi Asokwa,District,67133,71844,NEW
+Ashanti,111,Adansi North,Adansi North,Fomena,District,39958,54155,MATCHED_EXACT
+Ashanti,110,Adansi South,Adansi South,New Edubiase,District,40523,85200,MATCHED_EXACT
+Ashanti,124,Afigya Kwabre,Afigya Kwabre North,Boamang,District,41593,73330,MATCHED_FUZZY
+Ashanti,,,Afigya Kwabre South,Kodie,District,94547,234667,NEW
+Ashanti,139,Ahafo Ano North,Ahafo Ano North Municipal,Tepa,Municipal,94285,92742,MATCHED_EXACT
+Ashanti,138,Ahafo Ano South,Ahafo Ano South East,Adugyama,District,58962,63468,MATCHED_FUZZY
+Ashanti,,,Ahafo Ano South West,Mankranso,District,62697,65770,NEW
+Ashanti,,,Akrofuom,Akrofuom,District,74855,49291,NEW
+Ashanti,115,Amansie Central,Amansie Central,Jacobu,District,90741,93052,MATCHED_EXACT
+Ashanti,116,Amansie West,Amansie West,Manso Nkwanta,District,74104,109416,MATCHED_EXACT
+Ashanti,,,Amansie South,Manso Adubia,District,60227,116366,NEW
+Ashanti,127,Asante Akim Central Municipal,Asante Akim Central Municipal,Konongo,Municipal,71508,91673,MATCHED_EXACT
+Ashanti,128,Asante Akim North,Asante Akim North,Agogo,District,69186,85788,MATCHED_EXACT
+Ashanti,126,Asante Akim South,Asante Akim South Municipal,Juaso,Municipal,117245,123633,MATCHED_EXACT
+Ashanti,122,Asokore Mampong Municipal,Asokore Mampong Municipal,Asokore Mampong,Municipal,304815,191402,MATCHED_EXACT
+Ashanti,,,Asokwa Municipal,Asokwa,Municipal,140161,125642,NEW
+Ashanti,120,Atwima Kwanwoma,Atwima Kwanwoma,Twedie,District,90634,234846,MATCHED_EXACT
+Ashanti,118,Atwima Mponua,Atwima Mponua,Nyinahin,District,119180,155254,MATCHED_EXACT
+Ashanti,117,Atwima Nwabiagya,Atwima Nwabiagya Municipal,Nkawie,Municipal,85994,161893,MATCHED_EXACT
+Ashanti,,,Atwima Nwabiagya North,Barekese,District,63031,155025,NEW
+Ashanti,113,Bekwai Municipal,Bekwai Municipal,Bekwai,Municipal,118024,137967,MATCHED_EXACT
+Ashanti,114,Bosome Freho,Bosome Freho,Asiwa,District,60397,62259,MATCHED_EXACT
+Ashanti,119,Bosomtwe,Bosomtwe,Kuntanase,District,93910,165180,MATCHED_EXACT
+Ashanti,,,Ejisu Municipal,Ejisu,Municipal,95424,180723,NEW
+Ashanti,134,Ejura Sekyedumase,Ejura-Sekyedumase Municipal,Ejura,Municipal,85446,137672,MATCHED_EXACT
+Ashanti,125,Ejisu-Juaben Municipal,Juaben Municipal,Juaben,Municipal,48338,63929,MATCHED_FUZZY
+Ashanti,121,Kumasi Metropolis,Kumasi Metropolitan,Kumasi,Metropolitan,728634,443981,MATCHED_EXACT
+Ashanti,123,Kwabre East,Kwabre East,Mamponteng,District,115556,296814,MATCHED_EXACT
+Ashanti,,,Kwadaso Municipal,Kwadaso,Municipal,251215,154526,NEW
+Ashanti,133,Mampong Municipal,Mampong Municipal,Mampong,Municipal,88051,116632,MATCHED_EXACT
+Ashanti,,,Obuasi East,Tutuka,District,76004,92401,NEW
+Ashanti,112,Obuasi Municipal,Obuasi Municipal,Obuasi,Municipal,92637,104297,MATCHED_EXACT
+Ashanti,137,Offinso South Municipal,Offinso Municipal,Offinso,Municipal,76895,137272,MATCHED_FUZZY
+Ashanti,136,Offinso North,Offinso North,Akomadan,District,56881,83440,MATCHED_EXACT
+Ashanti,,,Oforikrom Municipal,Oforikrom,Municipal,303016,213126,NEW
+Ashanti,,,Old Tafo Municipal,Old Tafo,Municipal,146024,114368,NEW
+Ashanti,131,Sekyere Afram Plains,Sekyere Afram Plains,Drobonso,District,28535,32640,MATCHED_EXACT
+Ashanti,132,Sekyere Central,Sekyere Central,Nsuta,District,71232,73228,MATCHED_EXACT
+Ashanti,129,Sekyere East,Sekyere East,Effiduase,District,62172,74789,MATCHED_EXACT
+Ashanti,130,Sekyere Kumawu,Sekyere Kumawu,Kumawu,District,65402,64396,MATCHED_EXACT
+Ashanti,135,Sekyere South,Sekyere South,Agona,District,94009,120076,MATCHED_EXACT
+Ashanti,,,Suame Municipal,Suame,Municipal,161199,136290,NEW
+Bono,154,Banda,Banda,Banda Ahenkro,District,20282,28179,MATCHED_EXACT
+Bono,151,Berekum Municipal,Berekum East Municipal,Berekum,Municipal,92847,106252,MATCHED_FUZZY
+Bono,,,Berekum West,Jinijini,District,36781,49464,NEW
+Bono,149,Dormaa Municipal,Dormaa Central Municipal,Dormaa Ahenkro,Municipal,112111,112702,MATCHED_FUZZY
+Bono,150,Dormaa East,Dormaa East,Wamfie,District,50871,67899,MATCHED_EXACT
+Bono,148,Dormaa West,Dormaa West,Nkrankwanta,District,47678,47913,MATCHED_EXACT
+Bono,153,Jaman North,Jaman North,Sampa,District,83059,117909,MATCHED_EXACT
+Bono,152,Jaman South,Jaman South Municipal,Drobo,Municipal,92649,108388,MATCHED_EXACT
+Bono,146,Sunyani Municipal,Sunyani Municipal,Sunyani,Municipal,123224,193595,MATCHED_EXACT
+Bono,147,Sunyani West,Sunyani West,Odumase,District,85272,136022,MATCHED_EXACT
+Bono,155,Tain,Tain,Nsawkaw,District,88104,115568,MATCHED_EXACT
+Bono,156,Wenchi Municipal,Wenchi Municipal,Wenchi,Municipal,89739,124758,MATCHED_EXACT
+Bono East,162,Atebubu-Amantin Municipal,Atebubu-Amantin Municipal,Atebubu,Municipal,105938,144947,MATCHED_EXACT
+Bono East,158,Kintampo North Municipal,Kintampo North Municipal,Kintampo,Municipal,95480,139508,MATCHED_EXACT
+Bono East,159,Kintampo South,Kintampo South,Jema,District,81000,89126,MATCHED_EXACT
+Bono East,160,Nkoranza North,Nkoranza North,Busunya,District,65895,56468,MATCHED_EXACT
+Bono East,161,Nkoranza South,Nkoranza South Municipal,Nkoranza,Municipal,100929,114642,MATCHED_EXACT
+Bono East,,,Pru East,Yeji,District,72799,101545,NEW
+Bono East,,,Pru West,Prang,District,56449,69383,NEW
+Bono East,165,Sene East,Sene East,Kajaji,District,61076,72081,MATCHED_EXACT
+Bono East,164,Sene West,Sene West,Kwame Danso,District,57734,69836,MATCHED_EXACT
+Bono East,157,Techiman Municipal,Techiman Municipal,Techiman,Municipal,147788,243335,MATCHED_EXACT
+Bono East,166,Techiman North,Techiman North,Tuobodom,District,59068,102529,MATCHED_EXACT
+Bono East,163,Pru,,,,,,UNMATCHED_LEGACY
+Central,25,Abura-Asebu-Kwamankese,Abura-Asebu-Kwamankese,Abura-Dunkwa,District,117185,124465,MATCHED_EXACT
+Central,35,Agona East,Agona East,Nsaba,District,85920,98324,MATCHED_EXACT
+Central,34,Agona West Municipal,Agona West Municipal,Agona Swedru,Municipal,115358,136882,MATCHED_EXACT
+Central,28,Ajumako-Enyan-Esiam,Ajumako-Enyan-Essiam,Ajumako,District,138046,120586,MATCHED_FUZZY
+Central,36,Asikuma-Odoben-Brakwa,Asikuma-Odoben-Brakwa,Breman Asikuma,District,129580,126993,MATCHED_EXACT
+Central,,,Assin Central Municipal,Assin Foso,Municipal,76525,88753,NEW
+Central,37,Assin North Municipal,Assin North,Assin Bereku,District,67942,80539,MATCHED_EXACT
+Central,38,Assin South,Assin South,Nsuaem,District,104244,105995,MATCHED_EXACT
+Central,33,Awutu-Senya East Municipal,Awutu Senya East Municipal,Kasoa,Municipal,108422,236527,MATCHED_EXACT
+Central,32,Awutu-Senya West,Awutu Senya West,Awutu Breku,District,86884,161460,MATCHED_EXACT
+Central,24,Cape Coast,Cape Coast Metropolitan,Cape Coast,Metropolitan,169894,189925,MATCHED_EXACT
+Central,31,Effutu Municipal,Effutu Municipal,Winneba,Municipal,68597,107798,MATCHED_EXACT
+Central,27,Ekumfi,Ekumfi,Esakyir,District,52231,56741,MATCHED_EXACT
+Central,,,Gomoa Central,Afransi,District,138790,83610,NEW
+Central,30,Gomoa East,Gomoa East,Potsin,District,68281,308697,MATCHED_EXACT
+Central,29,Gomoa West,Gomoa West,Apam,District,135189,129512,MATCHED_EXACT
+Central,23,KEEA Municipal,Komenda-Edina-Eguafo-Abirem Municipal,Elmina,Municipal,144705,166017,MATCHED_FUZZY
+Central,26,Mfantseman,Mfantsiman Municipal,Saltpond,Municipal,144332,168905,MATCHED_FUZZY
+Central,39,Twifo-Atii Morkwaa,Twifo-Ati Morkwa,Twifo Praso,District,61743,100851,MATCHED_FUZZY
+Central,40,Hemang-Lower Denkyira,Twifo-Heman-Lower Denkyira,Hemang,District,55131,66075,MATCHED_FUZZY
+Central,41,Upper Denkyira East Municipal,Upper Denkyira East Municipal,Dunkwa-on-Offin,Municipal,72810,110141,MATCHED_EXACT
+Central,42,Upper Denkyira West,Upper Denkyira West,Diaso,District,49520,66372,MATCHED_EXACT
+Eastern,89,Akwapem North,Akuapim North Municipal,Akropong,Municipal,91243,118560,MATCHED_FUZZY
+Eastern,90,Akwapem South,Akuapim South,Aburi,District,78430,104210,MATCHED_FUZZY
+Eastern,,,Achiase,Achiase,District,45120,52190,NEW
+Eastern,98,Akyemansa,Akyemansa,Ofoase,District,64520,79340,MATCHED_EXACT
+Eastern,,,Asene Manso Akroso,Manso,District,55430,68920,NEW
+Eastern,84,Asuogyaman,Asuogyaman,Atimpoku,District,72150,89670,MATCHED_EXACT
+Eastern,103,Atiwa,Atiwa East,Anyinam,District,58920,74320,MATCHED_FUZZY
+Eastern,,,Atiwa West,Kwabeng,District,47230,60540,NEW
+Eastern,93,Ayensuano,Ayensuano,Coaltar,District,56340,70280,MATCHED_EXACT
+Eastern,96,Birim Central Municipal,Birim Central Municipal,Akim Oda,Municipal,104523,133450,MATCHED_EXACT
+Eastern,101,Birim North,Birim North,New Abirem,District,72340,91870,MATCHED_EXACT
+Eastern,97,Birim South,Birim South,Akim Swedru,District,47820,60120,MATCHED_EXACT
+Eastern,100,Denkyembour,Denkyembour,Akwatia,District,83450,104560,MATCHED_EXACT
+Eastern,104,Fanteakwa,Fanteakwa North,Begoro,District,75230,94810,MATCHED_FUZZY
+Eastern,,,Fanteakwa South,Osino,District,46780,59320,NEW
+Eastern,99,Kwabibirem,Kwaebibirem Municipal,Kade,Municipal,98340,123410,MATCHED_FUZZY
+Eastern,108,Afram Plains North,Kwahu Afram Plains North,Donkorkrom,District,66210,83580,MATCHED_FUZZY
+Eastern,109,Afram Plains South,Kwahu Afram Plains South,Tease,District,54320,68540,MATCHED_FUZZY
+Eastern,107,Kwahu East,Kwahu East,Abetifi,District,68450,86540,MATCHED_EXACT
+Eastern,106,Kwahu South,Kwahu South,Mpraeso,District,71230,89760,MATCHED_EXACT
+Eastern,105,Kwahu West Municipal,Kwahu West Municipal,Nkawkaw,Municipal,111340,140210,MATCHED_EXACT
+Eastern,85,Lower Manya Krobo Municipal,Lower Manya Krobo Municipal,Krobo Odumase,Municipal,84320,106430,MATCHED_EXACT
+Eastern,88,New Juaben Municipal,New Juaben North Municipal,Effiduase,Municipal,68230,88910,MATCHED_FUZZY
+Eastern,,,New Juaben South Municipal,Koforidua,Municipal,114242,148560,NEW
+Eastern,91,Nsawam Municipal,Nsawam Adoagyire Municipal,Nsawam,Municipal,117340,148120,MATCHED_FUZZY
+Eastern,,,Okere,Adukrom,District,44230,55890,NEW
+Eastern,92,Suhum Municipal,Suhum Municipal,Suhum,Municipal,95340,120540,MATCHED_EXACT
+Eastern,86,Upper Manya Krobo,Upper Manya Krobo,Asesewa,District,72340,91230,MATCHED_EXACT
+Eastern,95,Upper-West Akim,Upper West Akim,Adeiso,District,66420,83760,MATCHED_EXACT
+Eastern,94,West Akim Municipal,West Akim Municipal,Asamankese,Municipal,108230,136540,MATCHED_EXACT
+Eastern,87,Yilo Krobo Municipal,Yilo-Krobo Municipal,Somanya,Municipal,108450,137230,MATCHED_EXACT
+Greater Accra,,,Ablekuma Central Municipal,Lartebiokorshie,Municipal,115000,186330,NEW
+Greater Accra,,,Ablekuma North Municipal,Darkuman,Municipal,130500,210870,NEW
+Greater Accra,,,Ablekuma West Municipal,Dansoman,Municipal,168000,271520,NEW
+Greater Accra,47,Accra Metropolis,Accra Metropolitan,Accra,Metropolitan,1848614,2514000,MATCHED_EXACT
+Greater Accra,58,Ada East,Ada East,Ada Foah,District,72680,89450,MATCHED_EXACT
+Greater Accra,57,Ada West,Ada West,Sege,District,56420,69540,MATCHED_EXACT
+Greater Accra,54,Adenta Municipal,Adenta Municipal,Adenta,Municipal,113162,183200,MATCHED_EXACT
+Greater Accra,53,Ashaiman Municipal,Ashaiman Municipal,Ashaiman,Municipal,190972,291870,MATCHED_EXACT
+Greater Accra,,,Ayawaso Central Municipal,Kokomlemle,Municipal,82000,132450,NEW
+Greater Accra,,,Ayawaso East Municipal,Nima,Municipal,78000,126120,NEW
+Greater Accra,,,Ayawaso North Municipal,Accra New Town,Municipal,89000,143870,NEW
+Greater Accra,,,Ayawaso West Municipal,Dzorwulu,Municipal,104000,168120,NEW
+Greater Accra,44,Ga Central Municipal,Ga Central Municipal,Sowutuom,Municipal,114000,184230,MATCHED_EXACT
+Greater Accra,46,Ga East Municipal,Ga East Municipal,Abokobi,Municipal,130255,210540,MATCHED_EXACT
+Greater Accra,,,Ga North Municipal,Amomole,Municipal,102000,164870,NEW
+Greater Accra,43,Ga South Municipal,Ga South Municipal,Ngleshie Amanfro,Municipal,195905,316470,MATCHED_EXACT
+Greater Accra,45,Ga West Municipal,Ga West Municipal,Amasaman,Municipal,140000,226340,MATCHED_EXACT
+Greater Accra,,,Korle-Klottey Municipal,Osu,Municipal,96000,155120,NEW
+Greater Accra,52,Kpone-Katamanso,Kpone-Katamanso Municipal,Kpone,Municipal,134052,216750,MATCHED_EXACT
+Greater Accra,,,Krowor Municipal,Nungua,Municipal,110000,177780,NEW
+Greater Accra,48,La-Dadekotopon Municipal,La-Dade-Kotopon Municipal,La,Municipal,128220,207230,MATCHED_EXACT
+Greater Accra,49,La Nkwantanang-Madina Municipal,La-Nkwantanang-Madina Municipal,Madina,Municipal,169107,273220,MATCHED_EXACT
+Greater Accra,50,Ledzokuku-Krowor Municipal,Ledzokuku Municipal,Teshie,Municipal,197554,319290,MATCHED_FUZZY
+Greater Accra,56,Ningo-Prampram,Ningo-Prampram,Prampram,District,81785,132110,MATCHED_EXACT
+Greater Accra,,,Okaikwei North Municipal,Tesano,Municipal,98000,158420,NEW
+Greater Accra,55,Shai-Osudoku,Shai-Osudoku,Dodowa,District,110280,178320,MATCHED_EXACT
+Greater Accra,51,Tema Metropolis,Tema Metropolitan,Tema,Metropolitan,402637,650580,MATCHED_EXACT
+Greater Accra,,,Tema West Municipal,Tema Community 18,Municipal,152000,245780,NEW
+Greater Accra,,,Weija-Gbawe Municipal,Weija,Municipal,136000,219740,NEW
+North East,192,Bunkpurugu-Yunyoo,Bunkpurugu-Nyankpanduri,Bunkpurugu,District,84210,110450,MATCHED_FUZZY
+North East,181,Chereponi,Chereponi,Chereponi,District,54320,71230,MATCHED_EXACT
+North East,191,East Mamprusi,East Mamprusi Municipal,Nalerigu,Municipal,108456,142320,MATCHED_EXACT
+North East,190,Mamprugu-Moagduri,Mamprugu Moagduri,Yagaba,District,63450,83230,MATCHED_EXACT
+North East,189,West Mamprusi,West Mamprusi Municipal,Walewale,Municipal,112340,147450,MATCHED_EXACT
+North East,,,Yunyoo-Nasuan,Yunyoo,District,42120,55230,NEW
+Northern,182,Gushiegu,Gushegu Municipal,Gushegu,Municipal,127342,167120,MATCHED_FUZZY
+Northern,183,Karaga,Karaga,Karaga,District,66123,86750,MATCHED_EXACT
+Northern,173,Kpandai,Kpandai,Kpandai,District,112342,147450,MATCHED_EXACT
+Northern,188,Kumbungu,Kumbungu,Kumbungu,District,78120,102540,MATCHED_EXACT
+Northern,179,Mion,Mion,Sang,District,91230,119750,MATCHED_EXACT
+Northern,,,Nanton,Nanton,District,55120,72320,NEW
+Northern,174,Nanumba North,Nanumba North Municipal,Bimbilla,Municipal,146342,192010,MATCHED_EXACT
+Northern,175,Nanumba South,Nanumba South,Wulensi,District,89120,116960,MATCHED_EXACT
+Northern,180,Saboba,Saboba,Saboba,District,79230,103990,MATCHED_EXACT
+Northern,186,Sagnarigu,Sagnarigu Municipal,Sagnarigu,Municipal,282154,370350,MATCHED_EXACT
+Northern,184,Savelugu-Nanton,Savelugu Municipal,Savelugu,Municipal,121235,159030,MATCHED_FUZZY
+Northern,185,Tamale Metropolis,Tamale Metropolitan,Tamale,Metropolitan,371351,487520,MATCHED_EXACT
+Northern,177,Tatale-Sanguli,Tatale Sanguli,Tatale,District,58120,76270,MATCHED_EXACT
+Northern,187,Tolon,Tolon,Tolon,District,75230,98750,MATCHED_EXACT
+Northern,178,Yendi Municipal,Yendi Municipal,Yendi,Municipal,155345,203880,MATCHED_EXACT
+Northern,176,Zabzugu,Zabzugu,Zabzugu,District,63120,82870,MATCHED_EXACT
+Oti,77,Biakoye,Biakoye,Nkonya Ahenkro,District,55230,72450,MATCHED_EXACT
+Oti,217,Guan,Guan,Likpe-Mate,District,32000,42010,MATCHED_EXACT
+Oti,76,Jasikan,Jasikan Municipal,Jasikan,Municipal,87340,114620,MATCHED_EXACT
+Oti,78,Kadjebi,Kadjebi,Kadjebi,District,78120,102540,MATCHED_EXACT
+Oti,79,Krachi East,Krachi East Municipal,Dambai,Municipal,95230,124970,MATCHED_EXACT
+Oti,81,Krachi Nchumuru,Krachi Nchumuru,Chinderi,District,43120,56580,MATCHED_EXACT
+Oti,80,Krachi West,Krachi West Municipal,Kete Krachi,Municipal,73450,96360,MATCHED_EXACT
+Oti,83,Nkwanta North,Nkwanta North,Kpassa,District,57340,75230,MATCHED_EXACT
+Oti,82,Nkwanta South,Nkwanta South Municipal,Nkwanta,Municipal,109230,143350,MATCHED_EXACT
+Savannah,167,Bole,Bole,Bole,District,83450,109530,MATCHED_EXACT
+Savannah,171,Central Gonja,Central Gonja,Buipe,District,61230,80390,MATCHED_EXACT
+Savannah,172,East Gonja,East Gonja Municipal,Salaga,Municipal,108340,142210,MATCHED_EXACT
+Savannah,170,North Gonja,North Gonja,Daboya,District,44120,57920,MATCHED_EXACT
+Savannah,,,North East Gonja,Kpalbe,District,33450,43930,NEW
+Savannah,168,Sawla-Tuna-Kalba,Sawla-Tuna-Kalba,Sawla,District,82120,107820,MATCHED_EXACT
+Savannah,169,West Gonja,West Gonja Municipal,Damongo,Municipal,73450,96420,MATCHED_EXACT
+Upper East,202,Bawku Municipal,Bawku Municipal,Bawku,Municipal,117233,153850,MATCHED_EXACT
+Upper East,201,Bawku West,Bawku West,Zebilla,District,87654,115070,MATCHED_EXACT
+Upper East,205,Binduri,Binduri,Binduri,District,54321,71300,MATCHED_EXACT
+Upper East,,,Bolgatanga East,Zuarungu,District,55670,73080,NEW
+Upper East,197,Bolgatanga Municipal,Bolgatanga Municipal,Bolgatanga,Municipal,131550,172690,MATCHED_EXACT
+Upper East,198,Bongo,Bongo,Bongo,District,96341,126530,MATCHED_EXACT
+Upper East,194,Builsa North,Builsa North Municipal,Sandema,Municipal,78234,102730,MATCHED_EXACT
+Upper East,193,Builsa South,Builsa South,Fumbisi,District,52341,68700,MATCHED_EXACT
+Upper East,,,Garu,Garu,District,63450,83280,NEW
+Upper East,195,Kassena-Nankana East Municipal,Kassena-Nankana Municipal,Navrongo,Municipal,110235,144730,MATCHED_FUZZY
+Upper East,196,Kassena-Nankana West,Kassena-Nankana West,Paga,District,68234,89570,MATCHED_EXACT
+Upper East,200,Nabdam,Nabdam,Nangodi,District,45231,59390,MATCHED_EXACT
+Upper East,203,Pusiga,Pusiga,Pusiga,District,46781,61440,MATCHED_EXACT
+Upper East,199,Talensi,Talensi,Tongo,District,62341,81870,MATCHED_EXACT
+Upper East,204,Garu-Tempane,Tempane,Tempane,District,57810,75920,MATCHED_FUZZY
+Upper West,210,Daffiama-Bussie-Issa,Daffiama-Bussie-Issa,Issa,District,46231,60720,MATCHED_EXACT
+Upper West,211,Jirapa,Jirapa Municipal,Jirapa,Municipal,84321,110780,MATCHED_EXACT
+Upper West,212,Lambussie-Karni,Lambussie-Karni,Lambussie,District,42341,55620,MATCHED_EXACT
+Upper West,213,Lawra,Lawra Municipal,Lawra,Municipal,78231,102720,MATCHED_EXACT
+Upper West,209,Nadowli-Kaleo,Nadowli-Kaleo,Nadowli,District,72341,94980,MATCHED_EXACT
+Upper West,214,Nandom,Nandom Municipal,Nandom,Municipal,68231,89580,MATCHED_EXACT
+Upper West,216,Sissala East,Sissala East Municipal,Tumu,Municipal,78321,102850,MATCHED_EXACT
+Upper West,215,Sissala West,Sissala West,Gwollu,District,56231,73860,MATCHED_EXACT
+Upper West,208,Wa East,Wa East,Funsi,District,54231,71220,MATCHED_EXACT
+Upper West,206,Wa Municipal,Wa Municipal,Wa,Municipal,108498,142440,MATCHED_EXACT
+Upper West,207,Wa West,Wa West,Wechiau,District,63820,83820,MATCHED_EXACT
+Volta,67,Adaklu,Adaklu,Adaklu Waya,District,42120,55310,MATCHED_EXACT
+Volta,75,Afadjato South,Afadzato South,Ve Golokwati,District,54320,71280,MATCHED_FUZZY
+Volta,68,Agotime-Ziope,Agotime-Ziope,Kpetoe,District,58340,76570,MATCHED_EXACT
+Volta,63,Akatsi North,Akatsi North,Ave-Dakpa,District,72340,94930,MATCHED_EXACT
+Volta,62,Akatsi South,Akatsi South,Akatsi,District,89230,117130,MATCHED_EXACT
+Volta,,,Anloga,Anloga,District,95230,125050,NEW
+Volta,65,Central Tongu,Central Tongu,Adidome,District,68120,89400,MATCHED_EXACT
+Volta,69,Ho Municipal,Ho Municipal,Ho,Municipal,177281,232670,MATCHED_EXACT
+Volta,70,Ho West,Ho West,Dzolokpuita,District,58120,76270,MATCHED_EXACT
+Volta,74,Hohoe Municipal,Hohoe Municipal,Hohoe,Municipal,133641,175440,MATCHED_EXACT
+Volta,59,Keta Municipal,Keta Municipal,Keta,Municipal,98450,129280,MATCHED_EXACT
+Volta,61,Ketu North,Ketu North Municipal,Dzodze,Municipal,108230,142060,MATCHED_EXACT
+Volta,60,Ketu South Municipal,Ketu South Municipal,Denu,Municipal,150452,197490,MATCHED_EXACT
+Volta,72,Kpando Municipal,Kpando Municipal,Kpando,Municipal,97340,127760,MATCHED_EXACT
+Volta,73,North Dayi,North Dayi,Anfoega,District,53120,69730,MATCHED_EXACT
+Volta,66,North Tongu,North Tongu,Battor Dugame,District,72340,94950,MATCHED_EXACT
+Volta,71,South Dayi,South Dayi,Kpeve,District,55230,72540,MATCHED_EXACT
+Volta,64,South Tongu,South Tongu,Sogakope,District,63120,82870,MATCHED_EXACT
+Western,4,Ahanta West,Ahanta West Municipal,Agona Nkwanta,Municipal,89230,117110,MATCHED_EXACT
+Western,,,Effia-Kwesimintsim Municipal,Kwesimintsim,Municipal,115230,151220,NEW
+Western,2,Ellembelle,Ellembelle,Nkroful,District,78230,102690,MATCHED_EXACT
+Western,1,Jomoro,Jomoro Municipal,Half Assini,Municipal,88120,115680,MATCHED_EXACT
+Western,8,Mpohor,Mpohor,Mpohor,District,46120,60530,MATCHED_EXACT
+Western,3,Nzema East Municipal,Nzema East Municipal,Axim,Municipal,78230,102700,MATCHED_EXACT
+Western,10,Prestea-Huni Valley,Prestea-Huni Valley Municipal,Prestea,Municipal,144230,189320,MATCHED_EXACT
+Western,5,Sekondi-Takoradi Metropolis,Sekondi-Takoradi Metropolitan,Sekondi-Takoradi,Metropolitan,445205,584270,MATCHED_EXACT
+Western,6,Shama,Shama,Shama,District,65230,85610,MATCHED_EXACT
+Western,9,Tarkwa-Nsuaem Municipal,Tarkwa-Nsuaem Municipal,Tarkwa,Municipal,152170,199720,MATCHED_EXACT
+Western,12,Amenfi Central,Wassa Amenfi Central,Asankragwa,District,104230,136840,MATCHED_FUZZY
+Western,11,Amenfi East,Wassa Amenfi East Municipal,Wassa Akropong,Municipal,86230,113200,MATCHED_FUZZY
+Western,13,Amenfi West,Wassa Amenfi West,Manso Amenfi,District,58230,76440,MATCHED_FUZZY
+Western,7,Wassa East,Wassa East,Daboase,District,102230,134180,MATCHED_EXACT
+Western North,22,Bia East,Bia East,Sefwi Debiso,District,56230,73840,MATCHED_EXACT
+Western North,21,Bia West,Bia West,Sefwi Essam,District,48230,63340,MATCHED_EXACT
+Western North,20,Bodi,Bodi,Bodi,District,52120,68430,MATCHED_EXACT
+Western North,19,Juaboso,Juaboso,Juaboso,District,67230,88280,MATCHED_EXACT
+Western North,18,Sefwi Akontombra,Sefwi Akontombra,Akontombra,District,46120,60550,MATCHED_EXACT
+Western North,16,Bibiani-Anhwiaso-Bekwai,Sefwi Bibiani-Anhwiaso-Bekwai Municipal,Bibiani,Municipal,145230,190620,MATCHED_FUZZY
+Western North,17,Sefwi Wiawso,Sefwi Wiawso Municipal,Sefwi Wiawso,Municipal,95230,125010,MATCHED_EXACT
+Western North,15,Suaman,Suaman,Dadieso,District,43120,56610,MATCHED_EXACT
+Western North,14,Aowin,Aowin Municipal,Enchi,Municipal,,129721,MATCHED_MANUAL_ADDED
+Eastern,,(successor of dissolved East Akim Municipal; id 102),Abuakwa North Municipal,Kukurantumi,Municipal,73580,97450,NEW_SPLIT
+Eastern,,(successor of dissolved East Akim Municipal; id 102),Abuakwa South Municipal,Kibi,Municipal,85263,102430,NEW_SPLIT

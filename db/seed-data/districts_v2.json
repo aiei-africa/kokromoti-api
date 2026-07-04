@@ -1,0 +1,2351 @@
+[
+ {
+  "regionCode": "AH/R",
+  "name": "Asunafo North Municipal",
+  "capital": "Goaso",
+  "category": "MUNICIPAL",
+  "population2010": 124685,
+  "population2021": 150198,
+  "legacyDistId": 141
+ },
+ {
+  "regionCode": "AH/R",
+  "name": "Asunafo South",
+  "capital": "Kukuom",
+  "category": "DISTRICT",
+  "population2010": 95580,
+  "population2021": 91693,
+  "legacyDistId": 140
+ },
+ {
+  "regionCode": "AH/R",
+  "name": "Asutifi North",
+  "capital": "Kenyasi",
+  "category": "DISTRICT",
+  "population2010": 52259,
+  "population2021": 73556,
+  "legacyDistId": 143
+ },
+ {
+  "regionCode": "AH/R",
+  "name": "Asutifi South",
+  "capital": "Hwidiem",
+  "category": "DISTRICT",
+  "population2010": 53584,
+  "population2021": 68394,
+  "legacyDistId": 142
+ },
+ {
+  "regionCode": "AH/R",
+  "name": "Tano North Municipal",
+  "capital": "Duayaw Nkwanta",
+  "category": "MUNICIPAL",
+  "population2010": 79973,
+  "population2021": 93608,
+  "legacyDistId": 145
+ },
+ {
+  "regionCode": "AH/R",
+  "name": "Tano South Municipal",
+  "capital": "Bechem",
+  "category": "MUNICIPAL",
+  "population2010": 78129,
+  "population2021": 87219,
+  "legacyDistId": 144
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Adansi Asokwa",
+  "capital": "Adansi Asokwa",
+  "category": "DISTRICT",
+  "population2010": 67133,
+  "population2021": 71844,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Adansi North",
+  "capital": "Fomena",
+  "category": "DISTRICT",
+  "population2010": 39958,
+  "population2021": 54155,
+  "legacyDistId": 111
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Adansi South",
+  "capital": "New Edubiase",
+  "category": "DISTRICT",
+  "population2010": 40523,
+  "population2021": 85200,
+  "legacyDistId": 110
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Afigya Kwabre North",
+  "capital": "Boamang",
+  "category": "DISTRICT",
+  "population2010": 41593,
+  "population2021": 73330,
+  "legacyDistId": 124
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Afigya Kwabre South",
+  "capital": "Kodie",
+  "category": "DISTRICT",
+  "population2010": 94547,
+  "population2021": 234667,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Ahafo Ano North Municipal",
+  "capital": "Tepa",
+  "category": "MUNICIPAL",
+  "population2010": 94285,
+  "population2021": 92742,
+  "legacyDistId": 139
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Ahafo Ano South East",
+  "capital": "Adugyama",
+  "category": "DISTRICT",
+  "population2010": 58962,
+  "population2021": 63468,
+  "legacyDistId": 138
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Ahafo Ano South West",
+  "capital": "Mankranso",
+  "category": "DISTRICT",
+  "population2010": 62697,
+  "population2021": 65770,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Akrofuom",
+  "capital": "Akrofuom",
+  "category": "DISTRICT",
+  "population2010": 74855,
+  "population2021": 49291,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Amansie Central",
+  "capital": "Jacobu",
+  "category": "DISTRICT",
+  "population2010": 90741,
+  "population2021": 93052,
+  "legacyDistId": 115
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Amansie West",
+  "capital": "Manso Nkwanta",
+  "category": "DISTRICT",
+  "population2010": 74104,
+  "population2021": 109416,
+  "legacyDistId": 116
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Amansie South",
+  "capital": "Manso Adubia",
+  "category": "DISTRICT",
+  "population2010": 60227,
+  "population2021": 116366,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Asante Akim Central Municipal",
+  "capital": "Konongo",
+  "category": "MUNICIPAL",
+  "population2010": 71508,
+  "population2021": 91673,
+  "legacyDistId": 127
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Asante Akim North",
+  "capital": "Agogo",
+  "category": "DISTRICT",
+  "population2010": 69186,
+  "population2021": 85788,
+  "legacyDistId": 128
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Asante Akim South Municipal",
+  "capital": "Juaso",
+  "category": "MUNICIPAL",
+  "population2010": 117245,
+  "population2021": 123633,
+  "legacyDistId": 126
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Asokore Mampong Municipal",
+  "capital": "Asokore Mampong",
+  "category": "MUNICIPAL",
+  "population2010": 304815,
+  "population2021": 191402,
+  "legacyDistId": 122
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Asokwa Municipal",
+  "capital": "Asokwa",
+  "category": "MUNICIPAL",
+  "population2010": 140161,
+  "population2021": 125642,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Atwima Kwanwoma",
+  "capital": "Twedie",
+  "category": "DISTRICT",
+  "population2010": 90634,
+  "population2021": 234846,
+  "legacyDistId": 120
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Atwima Mponua",
+  "capital": "Nyinahin",
+  "category": "DISTRICT",
+  "population2010": 119180,
+  "population2021": 155254,
+  "legacyDistId": 118
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Atwima Nwabiagya Municipal",
+  "capital": "Nkawie",
+  "category": "MUNICIPAL",
+  "population2010": 85994,
+  "population2021": 161893,
+  "legacyDistId": 117
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Atwima Nwabiagya North",
+  "capital": "Barekese",
+  "category": "DISTRICT",
+  "population2010": 63031,
+  "population2021": 155025,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Bekwai Municipal",
+  "capital": "Bekwai",
+  "category": "MUNICIPAL",
+  "population2010": 118024,
+  "population2021": 137967,
+  "legacyDistId": 113
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Bosome Freho",
+  "capital": "Asiwa",
+  "category": "DISTRICT",
+  "population2010": 60397,
+  "population2021": 62259,
+  "legacyDistId": 114
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Bosomtwe",
+  "capital": "Kuntanase",
+  "category": "DISTRICT",
+  "population2010": 93910,
+  "population2021": 165180,
+  "legacyDistId": 119
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Ejisu Municipal",
+  "capital": "Ejisu",
+  "category": "MUNICIPAL",
+  "population2010": 95424,
+  "population2021": 180723,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Ejura-Sekyedumase Municipal",
+  "capital": "Ejura",
+  "category": "MUNICIPAL",
+  "population2010": 85446,
+  "population2021": 137672,
+  "legacyDistId": 134
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Juaben Municipal",
+  "capital": "Juaben",
+  "category": "MUNICIPAL",
+  "population2010": 48338,
+  "population2021": 63929,
+  "legacyDistId": 125
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Kumasi Metropolitan",
+  "capital": "Kumasi",
+  "category": "METROPOLITAN",
+  "population2010": 728634,
+  "population2021": 443981,
+  "legacyDistId": 121
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Kwabre East",
+  "capital": "Mamponteng",
+  "category": "DISTRICT",
+  "population2010": 115556,
+  "population2021": 296814,
+  "legacyDistId": 123
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Kwadaso Municipal",
+  "capital": "Kwadaso",
+  "category": "MUNICIPAL",
+  "population2010": 251215,
+  "population2021": 154526,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Mampong Municipal",
+  "capital": "Mampong",
+  "category": "MUNICIPAL",
+  "population2010": 88051,
+  "population2021": 116632,
+  "legacyDistId": 133
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Obuasi East",
+  "capital": "Tutuka",
+  "category": "DISTRICT",
+  "population2010": 76004,
+  "population2021": 92401,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Obuasi Municipal",
+  "capital": "Obuasi",
+  "category": "MUNICIPAL",
+  "population2010": 92637,
+  "population2021": 104297,
+  "legacyDistId": 112
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Offinso Municipal",
+  "capital": "Offinso",
+  "category": "MUNICIPAL",
+  "population2010": 76895,
+  "population2021": 137272,
+  "legacyDistId": 137
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Offinso North",
+  "capital": "Akomadan",
+  "category": "DISTRICT",
+  "population2010": 56881,
+  "population2021": 83440,
+  "legacyDistId": 136
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Oforikrom Municipal",
+  "capital": "Oforikrom",
+  "category": "MUNICIPAL",
+  "population2010": 303016,
+  "population2021": 213126,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Old Tafo Municipal",
+  "capital": "Old Tafo",
+  "category": "MUNICIPAL",
+  "population2010": 146024,
+  "population2021": 114368,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Sekyere Afram Plains",
+  "capital": "Drobonso",
+  "category": "DISTRICT",
+  "population2010": 28535,
+  "population2021": 32640,
+  "legacyDistId": 131
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Sekyere Central",
+  "capital": "Nsuta",
+  "category": "DISTRICT",
+  "population2010": 71232,
+  "population2021": 73228,
+  "legacyDistId": 132
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Sekyere East",
+  "capital": "Effiduase",
+  "category": "DISTRICT",
+  "population2010": 62172,
+  "population2021": 74789,
+  "legacyDistId": 129
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Sekyere Kumawu",
+  "capital": "Kumawu",
+  "category": "DISTRICT",
+  "population2010": 65402,
+  "population2021": 64396,
+  "legacyDistId": 130
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Sekyere South",
+  "capital": "Agona",
+  "category": "DISTRICT",
+  "population2010": 94009,
+  "population2021": 120076,
+  "legacyDistId": 135
+ },
+ {
+  "regionCode": "A/R",
+  "name": "Suame Municipal",
+  "capital": "Suame",
+  "category": "MUNICIPAL",
+  "population2010": 161199,
+  "population2021": 136290,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "BO/R",
+  "name": "Banda",
+  "capital": "Banda Ahenkro",
+  "category": "DISTRICT",
+  "population2010": 20282,
+  "population2021": 28179,
+  "legacyDistId": 154
+ },
+ {
+  "regionCode": "BO/R",
+  "name": "Berekum East Municipal",
+  "capital": "Berekum",
+  "category": "MUNICIPAL",
+  "population2010": 92847,
+  "population2021": 106252,
+  "legacyDistId": 151
+ },
+ {
+  "regionCode": "BO/R",
+  "name": "Berekum West",
+  "capital": "Jinijini",
+  "category": "DISTRICT",
+  "population2010": 36781,
+  "population2021": 49464,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "BO/R",
+  "name": "Dormaa Central Municipal",
+  "capital": "Dormaa Ahenkro",
+  "category": "MUNICIPAL",
+  "population2010": 112111,
+  "population2021": 112702,
+  "legacyDistId": 149
+ },
+ {
+  "regionCode": "BO/R",
+  "name": "Dormaa East",
+  "capital": "Wamfie",
+  "category": "DISTRICT",
+  "population2010": 50871,
+  "population2021": 67899,
+  "legacyDistId": 150
+ },
+ {
+  "regionCode": "BO/R",
+  "name": "Dormaa West",
+  "capital": "Nkrankwanta",
+  "category": "DISTRICT",
+  "population2010": 47678,
+  "population2021": 47913,
+  "legacyDistId": 148
+ },
+ {
+  "regionCode": "BO/R",
+  "name": "Jaman North",
+  "capital": "Sampa",
+  "category": "DISTRICT",
+  "population2010": 83059,
+  "population2021": 117909,
+  "legacyDistId": 153
+ },
+ {
+  "regionCode": "BO/R",
+  "name": "Jaman South Municipal",
+  "capital": "Drobo",
+  "category": "MUNICIPAL",
+  "population2010": 92649,
+  "population2021": 108388,
+  "legacyDistId": 152
+ },
+ {
+  "regionCode": "BO/R",
+  "name": "Sunyani Municipal",
+  "capital": "Sunyani",
+  "category": "MUNICIPAL",
+  "population2010": 123224,
+  "population2021": 193595,
+  "legacyDistId": 146
+ },
+ {
+  "regionCode": "BO/R",
+  "name": "Sunyani West",
+  "capital": "Odumase",
+  "category": "DISTRICT",
+  "population2010": 85272,
+  "population2021": 136022,
+  "legacyDistId": 147
+ },
+ {
+  "regionCode": "BO/R",
+  "name": "Tain",
+  "capital": "Nsawkaw",
+  "category": "DISTRICT",
+  "population2010": 88104,
+  "population2021": 115568,
+  "legacyDistId": 155
+ },
+ {
+  "regionCode": "BO/R",
+  "name": "Wenchi Municipal",
+  "capital": "Wenchi",
+  "category": "MUNICIPAL",
+  "population2010": 89739,
+  "population2021": 124758,
+  "legacyDistId": 156
+ },
+ {
+  "regionCode": "BE/R",
+  "name": "Atebubu-Amantin Municipal",
+  "capital": "Atebubu",
+  "category": "MUNICIPAL",
+  "population2010": 105938,
+  "population2021": 144947,
+  "legacyDistId": 162
+ },
+ {
+  "regionCode": "BE/R",
+  "name": "Kintampo North Municipal",
+  "capital": "Kintampo",
+  "category": "MUNICIPAL",
+  "population2010": 95480,
+  "population2021": 139508,
+  "legacyDistId": 158
+ },
+ {
+  "regionCode": "BE/R",
+  "name": "Kintampo South",
+  "capital": "Jema",
+  "category": "DISTRICT",
+  "population2010": 81000,
+  "population2021": 89126,
+  "legacyDistId": 159
+ },
+ {
+  "regionCode": "BE/R",
+  "name": "Nkoranza North",
+  "capital": "Busunya",
+  "category": "DISTRICT",
+  "population2010": 65895,
+  "population2021": 56468,
+  "legacyDistId": 160
+ },
+ {
+  "regionCode": "BE/R",
+  "name": "Nkoranza South Municipal",
+  "capital": "Nkoranza",
+  "category": "MUNICIPAL",
+  "population2010": 100929,
+  "population2021": 114642,
+  "legacyDistId": 161
+ },
+ {
+  "regionCode": "BE/R",
+  "name": "Pru East",
+  "capital": "Yeji",
+  "category": "DISTRICT",
+  "population2010": 72799,
+  "population2021": 101545,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "BE/R",
+  "name": "Pru West",
+  "capital": "Prang",
+  "category": "DISTRICT",
+  "population2010": 56449,
+  "population2021": 69383,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "BE/R",
+  "name": "Sene East",
+  "capital": "Kajaji",
+  "category": "DISTRICT",
+  "population2010": 61076,
+  "population2021": 72081,
+  "legacyDistId": 165
+ },
+ {
+  "regionCode": "BE/R",
+  "name": "Sene West",
+  "capital": "Kwame Danso",
+  "category": "DISTRICT",
+  "population2010": 57734,
+  "population2021": 69836,
+  "legacyDistId": 164
+ },
+ {
+  "regionCode": "BE/R",
+  "name": "Techiman Municipal",
+  "capital": "Techiman",
+  "category": "MUNICIPAL",
+  "population2010": 147788,
+  "population2021": 243335,
+  "legacyDistId": 157
+ },
+ {
+  "regionCode": "BE/R",
+  "name": "Techiman North",
+  "capital": "Tuobodom",
+  "category": "DISTRICT",
+  "population2010": 59068,
+  "population2021": 102529,
+  "legacyDistId": 166
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Abura-Asebu-Kwamankese",
+  "capital": "Abura-Dunkwa",
+  "category": "DISTRICT",
+  "population2010": 117185,
+  "population2021": 124465,
+  "legacyDistId": 25
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Agona East",
+  "capital": "Nsaba",
+  "category": "DISTRICT",
+  "population2010": 85920,
+  "population2021": 98324,
+  "legacyDistId": 35
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Agona West Municipal",
+  "capital": "Agona Swedru",
+  "category": "MUNICIPAL",
+  "population2010": 115358,
+  "population2021": 136882,
+  "legacyDistId": 34
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Ajumako-Enyan-Essiam",
+  "capital": "Ajumako",
+  "category": "DISTRICT",
+  "population2010": 138046,
+  "population2021": 120586,
+  "legacyDistId": 28
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Asikuma-Odoben-Brakwa",
+  "capital": "Breman Asikuma",
+  "category": "DISTRICT",
+  "population2010": 129580,
+  "population2021": 126993,
+  "legacyDistId": 36
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Assin Central Municipal",
+  "capital": "Assin Foso",
+  "category": "MUNICIPAL",
+  "population2010": 76525,
+  "population2021": 88753,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Assin North",
+  "capital": "Assin Bereku",
+  "category": "DISTRICT",
+  "population2010": 67942,
+  "population2021": 80539,
+  "legacyDistId": 37
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Assin South",
+  "capital": "Nsuaem",
+  "category": "DISTRICT",
+  "population2010": 104244,
+  "population2021": 105995,
+  "legacyDistId": 38
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Awutu Senya East Municipal",
+  "capital": "Kasoa",
+  "category": "MUNICIPAL",
+  "population2010": 108422,
+  "population2021": 236527,
+  "legacyDistId": 33
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Awutu Senya West",
+  "capital": "Awutu Breku",
+  "category": "DISTRICT",
+  "population2010": 86884,
+  "population2021": 161460,
+  "legacyDistId": 32
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Cape Coast Metropolitan",
+  "capital": "Cape Coast",
+  "category": "METROPOLITAN",
+  "population2010": 169894,
+  "population2021": 189925,
+  "legacyDistId": 24
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Effutu Municipal",
+  "capital": "Winneba",
+  "category": "MUNICIPAL",
+  "population2010": 68597,
+  "population2021": 107798,
+  "legacyDistId": 31
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Ekumfi",
+  "capital": "Esakyir",
+  "category": "DISTRICT",
+  "population2010": 52231,
+  "population2021": 56741,
+  "legacyDistId": 27
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Gomoa Central",
+  "capital": "Afransi",
+  "category": "DISTRICT",
+  "population2010": 138790,
+  "population2021": 83610,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Gomoa East",
+  "capital": "Potsin",
+  "category": "DISTRICT",
+  "population2010": 68281,
+  "population2021": 308697,
+  "legacyDistId": 30
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Gomoa West",
+  "capital": "Apam",
+  "category": "DISTRICT",
+  "population2010": 135189,
+  "population2021": 129512,
+  "legacyDistId": 29
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Komenda-Edina-Eguafo-Abirem Municipal",
+  "capital": "Elmina",
+  "category": "MUNICIPAL",
+  "population2010": 144705,
+  "population2021": 166017,
+  "legacyDistId": 23
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Mfantsiman Municipal",
+  "capital": "Saltpond",
+  "category": "MUNICIPAL",
+  "population2010": 144332,
+  "population2021": 168905,
+  "legacyDistId": 26
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Twifo-Ati Morkwa",
+  "capital": "Twifo Praso",
+  "category": "DISTRICT",
+  "population2010": 61743,
+  "population2021": 100851,
+  "legacyDistId": 39
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Twifo-Heman-Lower Denkyira",
+  "capital": "Hemang",
+  "category": "DISTRICT",
+  "population2010": 55131,
+  "population2021": 66075,
+  "legacyDistId": 40
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Upper Denkyira East Municipal",
+  "capital": "Dunkwa-on-Offin",
+  "category": "MUNICIPAL",
+  "population2010": 72810,
+  "population2021": 110141,
+  "legacyDistId": 41
+ },
+ {
+  "regionCode": "C/R",
+  "name": "Upper Denkyira West",
+  "capital": "Diaso",
+  "category": "DISTRICT",
+  "population2010": 49520,
+  "population2021": 66372,
+  "legacyDistId": 42
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Akuapim North Municipal",
+  "capital": "Akropong",
+  "category": "MUNICIPAL",
+  "population2010": 91243,
+  "population2021": 118560,
+  "legacyDistId": 89
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Akuapim South",
+  "capital": "Aburi",
+  "category": "DISTRICT",
+  "population2010": 78430,
+  "population2021": 104210,
+  "legacyDistId": 90
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Achiase",
+  "capital": "Achiase",
+  "category": "DISTRICT",
+  "population2010": 45120,
+  "population2021": 52190,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Akyemansa",
+  "capital": "Ofoase",
+  "category": "DISTRICT",
+  "population2010": 64520,
+  "population2021": 79340,
+  "legacyDistId": 98
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Asene Manso Akroso",
+  "capital": "Manso",
+  "category": "DISTRICT",
+  "population2010": 55430,
+  "population2021": 68920,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Asuogyaman",
+  "capital": "Atimpoku",
+  "category": "DISTRICT",
+  "population2010": 72150,
+  "population2021": 89670,
+  "legacyDistId": 84
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Atiwa East",
+  "capital": "Anyinam",
+  "category": "DISTRICT",
+  "population2010": 58920,
+  "population2021": 74320,
+  "legacyDistId": 103
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Atiwa West",
+  "capital": "Kwabeng",
+  "category": "DISTRICT",
+  "population2010": 47230,
+  "population2021": 60540,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Ayensuano",
+  "capital": "Coaltar",
+  "category": "DISTRICT",
+  "population2010": 56340,
+  "population2021": 70280,
+  "legacyDistId": 93
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Birim Central Municipal",
+  "capital": "Akim Oda",
+  "category": "MUNICIPAL",
+  "population2010": 104523,
+  "population2021": 133450,
+  "legacyDistId": 96
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Birim North",
+  "capital": "New Abirem",
+  "category": "DISTRICT",
+  "population2010": 72340,
+  "population2021": 91870,
+  "legacyDistId": 101
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Birim South",
+  "capital": "Akim Swedru",
+  "category": "DISTRICT",
+  "population2010": 47820,
+  "population2021": 60120,
+  "legacyDistId": 97
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Denkyembour",
+  "capital": "Akwatia",
+  "category": "DISTRICT",
+  "population2010": 83450,
+  "population2021": 104560,
+  "legacyDistId": 100
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Fanteakwa North",
+  "capital": "Begoro",
+  "category": "DISTRICT",
+  "population2010": 75230,
+  "population2021": 94810,
+  "legacyDistId": 104
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Fanteakwa South",
+  "capital": "Osino",
+  "category": "DISTRICT",
+  "population2010": 46780,
+  "population2021": 59320,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Kwaebibirem Municipal",
+  "capital": "Kade",
+  "category": "MUNICIPAL",
+  "population2010": 98340,
+  "population2021": 123410,
+  "legacyDistId": 99
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Kwahu Afram Plains North",
+  "capital": "Donkorkrom",
+  "category": "DISTRICT",
+  "population2010": 66210,
+  "population2021": 83580,
+  "legacyDistId": 108
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Kwahu Afram Plains South",
+  "capital": "Tease",
+  "category": "DISTRICT",
+  "population2010": 54320,
+  "population2021": 68540,
+  "legacyDistId": 109
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Kwahu East",
+  "capital": "Abetifi",
+  "category": "DISTRICT",
+  "population2010": 68450,
+  "population2021": 86540,
+  "legacyDistId": 107
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Kwahu South",
+  "capital": "Mpraeso",
+  "category": "DISTRICT",
+  "population2010": 71230,
+  "population2021": 89760,
+  "legacyDistId": 106
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Kwahu West Municipal",
+  "capital": "Nkawkaw",
+  "category": "MUNICIPAL",
+  "population2010": 111340,
+  "population2021": 140210,
+  "legacyDistId": 105
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Lower Manya Krobo Municipal",
+  "capital": "Krobo Odumase",
+  "category": "MUNICIPAL",
+  "population2010": 84320,
+  "population2021": 106430,
+  "legacyDistId": 85
+ },
+ {
+  "regionCode": "E/R",
+  "name": "New Juaben North Municipal",
+  "capital": "Effiduase",
+  "category": "MUNICIPAL",
+  "population2010": 68230,
+  "population2021": 88910,
+  "legacyDistId": 88
+ },
+ {
+  "regionCode": "E/R",
+  "name": "New Juaben South Municipal",
+  "capital": "Koforidua",
+  "category": "MUNICIPAL",
+  "population2010": 114242,
+  "population2021": 148560,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Nsawam Adoagyire Municipal",
+  "capital": "Nsawam",
+  "category": "MUNICIPAL",
+  "population2010": 117340,
+  "population2021": 148120,
+  "legacyDistId": 91
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Okere",
+  "capital": "Adukrom",
+  "category": "DISTRICT",
+  "population2010": 44230,
+  "population2021": 55890,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Suhum Municipal",
+  "capital": "Suhum",
+  "category": "MUNICIPAL",
+  "population2010": 95340,
+  "population2021": 120540,
+  "legacyDistId": 92
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Upper Manya Krobo",
+  "capital": "Asesewa",
+  "category": "DISTRICT",
+  "population2010": 72340,
+  "population2021": 91230,
+  "legacyDistId": 86
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Upper West Akim",
+  "capital": "Adeiso",
+  "category": "DISTRICT",
+  "population2010": 66420,
+  "population2021": 83760,
+  "legacyDistId": 95
+ },
+ {
+  "regionCode": "E/R",
+  "name": "West Akim Municipal",
+  "capital": "Asamankese",
+  "category": "MUNICIPAL",
+  "population2010": 108230,
+  "population2021": 136540,
+  "legacyDistId": 94
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Yilo-Krobo Municipal",
+  "capital": "Somanya",
+  "category": "MUNICIPAL",
+  "population2010": 108450,
+  "population2021": 137230,
+  "legacyDistId": 87
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ablekuma Central Municipal",
+  "capital": "Lartebiokorshie",
+  "category": "MUNICIPAL",
+  "population2010": 115000,
+  "population2021": 186330,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ablekuma North Municipal",
+  "capital": "Darkuman",
+  "category": "MUNICIPAL",
+  "population2010": 130500,
+  "population2021": 210870,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ablekuma West Municipal",
+  "capital": "Dansoman",
+  "category": "MUNICIPAL",
+  "population2010": 168000,
+  "population2021": 271520,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Accra Metropolitan",
+  "capital": "Accra",
+  "category": "METROPOLITAN",
+  "population2010": 1848614,
+  "population2021": 2514000,
+  "legacyDistId": 47
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ada East",
+  "capital": "Ada Foah",
+  "category": "DISTRICT",
+  "population2010": 72680,
+  "population2021": 89450,
+  "legacyDistId": 58
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ada West",
+  "capital": "Sege",
+  "category": "DISTRICT",
+  "population2010": 56420,
+  "population2021": 69540,
+  "legacyDistId": 57
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Adenta Municipal",
+  "capital": "Adenta",
+  "category": "MUNICIPAL",
+  "population2010": 113162,
+  "population2021": 183200,
+  "legacyDistId": 54
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ashaiman Municipal",
+  "capital": "Ashaiman",
+  "category": "MUNICIPAL",
+  "population2010": 190972,
+  "population2021": 291870,
+  "legacyDistId": 53
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ayawaso Central Municipal",
+  "capital": "Kokomlemle",
+  "category": "MUNICIPAL",
+  "population2010": 82000,
+  "population2021": 132450,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ayawaso East Municipal",
+  "capital": "Nima",
+  "category": "MUNICIPAL",
+  "population2010": 78000,
+  "population2021": 126120,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ayawaso North Municipal",
+  "capital": "Accra New Town",
+  "category": "MUNICIPAL",
+  "population2010": 89000,
+  "population2021": 143870,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ayawaso West Municipal",
+  "capital": "Dzorwulu",
+  "category": "MUNICIPAL",
+  "population2010": 104000,
+  "population2021": 168120,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ga Central Municipal",
+  "capital": "Sowutuom",
+  "category": "MUNICIPAL",
+  "population2010": 114000,
+  "population2021": 184230,
+  "legacyDistId": 44
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ga East Municipal",
+  "capital": "Abokobi",
+  "category": "MUNICIPAL",
+  "population2010": 130255,
+  "population2021": 210540,
+  "legacyDistId": 46
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ga North Municipal",
+  "capital": "Amomole",
+  "category": "MUNICIPAL",
+  "population2010": 102000,
+  "population2021": 164870,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ga South Municipal",
+  "capital": "Ngleshie Amanfro",
+  "category": "MUNICIPAL",
+  "population2010": 195905,
+  "population2021": 316470,
+  "legacyDistId": 43
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ga West Municipal",
+  "capital": "Amasaman",
+  "category": "MUNICIPAL",
+  "population2010": 140000,
+  "population2021": 226340,
+  "legacyDistId": 45
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Korle-Klottey Municipal",
+  "capital": "Osu",
+  "category": "MUNICIPAL",
+  "population2010": 96000,
+  "population2021": 155120,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Kpone-Katamanso Municipal",
+  "capital": "Kpone",
+  "category": "MUNICIPAL",
+  "population2010": 134052,
+  "population2021": 216750,
+  "legacyDistId": 52
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Krowor Municipal",
+  "capital": "Nungua",
+  "category": "MUNICIPAL",
+  "population2010": 110000,
+  "population2021": 177780,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "La-Dade-Kotopon Municipal",
+  "capital": "La",
+  "category": "MUNICIPAL",
+  "population2010": 128220,
+  "population2021": 207230,
+  "legacyDistId": 48
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "La-Nkwantanang-Madina Municipal",
+  "capital": "Madina",
+  "category": "MUNICIPAL",
+  "population2010": 169107,
+  "population2021": 273220,
+  "legacyDistId": 49
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ledzokuku Municipal",
+  "capital": "Teshie",
+  "category": "MUNICIPAL",
+  "population2010": 197554,
+  "population2021": 319290,
+  "legacyDistId": 50
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Ningo-Prampram",
+  "capital": "Prampram",
+  "category": "DISTRICT",
+  "population2010": 81785,
+  "population2021": 132110,
+  "legacyDistId": 56
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Okaikwei North Municipal",
+  "capital": "Tesano",
+  "category": "MUNICIPAL",
+  "population2010": 98000,
+  "population2021": 158420,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Shai-Osudoku",
+  "capital": "Dodowa",
+  "category": "DISTRICT",
+  "population2010": 110280,
+  "population2021": 178320,
+  "legacyDistId": 55
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Tema Metropolitan",
+  "capital": "Tema",
+  "category": "METROPOLITAN",
+  "population2010": 402637,
+  "population2021": 650580,
+  "legacyDistId": 51
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Tema West Municipal",
+  "capital": "Tema Community 18",
+  "category": "MUNICIPAL",
+  "population2010": 152000,
+  "population2021": 245780,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "GA/R",
+  "name": "Weija-Gbawe Municipal",
+  "capital": "Weija",
+  "category": "MUNICIPAL",
+  "population2010": 136000,
+  "population2021": 219740,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "NE/R",
+  "name": "Bunkpurugu-Nyankpanduri",
+  "capital": "Bunkpurugu",
+  "category": "DISTRICT",
+  "population2010": 84210,
+  "population2021": 110450,
+  "legacyDistId": 192
+ },
+ {
+  "regionCode": "NE/R",
+  "name": "Chereponi",
+  "capital": "Chereponi",
+  "category": "DISTRICT",
+  "population2010": 54320,
+  "population2021": 71230,
+  "legacyDistId": 181
+ },
+ {
+  "regionCode": "NE/R",
+  "name": "East Mamprusi Municipal",
+  "capital": "Nalerigu",
+  "category": "MUNICIPAL",
+  "population2010": 108456,
+  "population2021": 142320,
+  "legacyDistId": 191
+ },
+ {
+  "regionCode": "NE/R",
+  "name": "Mamprugu Moagduri",
+  "capital": "Yagaba",
+  "category": "DISTRICT",
+  "population2010": 63450,
+  "population2021": 83230,
+  "legacyDistId": 190
+ },
+ {
+  "regionCode": "NE/R",
+  "name": "West Mamprusi Municipal",
+  "capital": "Walewale",
+  "category": "MUNICIPAL",
+  "population2010": 112340,
+  "population2021": 147450,
+  "legacyDistId": 189
+ },
+ {
+  "regionCode": "NE/R",
+  "name": "Yunyoo-Nasuan",
+  "capital": "Yunyoo",
+  "category": "DISTRICT",
+  "population2010": 42120,
+  "population2021": 55230,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Gushegu Municipal",
+  "capital": "Gushegu",
+  "category": "MUNICIPAL",
+  "population2010": 127342,
+  "population2021": 167120,
+  "legacyDistId": 182
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Karaga",
+  "capital": "Karaga",
+  "category": "DISTRICT",
+  "population2010": 66123,
+  "population2021": 86750,
+  "legacyDistId": 183
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Kpandai",
+  "capital": "Kpandai",
+  "category": "DISTRICT",
+  "population2010": 112342,
+  "population2021": 147450,
+  "legacyDistId": 173
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Kumbungu",
+  "capital": "Kumbungu",
+  "category": "DISTRICT",
+  "population2010": 78120,
+  "population2021": 102540,
+  "legacyDistId": 188
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Mion",
+  "capital": "Sang",
+  "category": "DISTRICT",
+  "population2010": 91230,
+  "population2021": 119750,
+  "legacyDistId": 179
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Nanton",
+  "capital": "Nanton",
+  "category": "DISTRICT",
+  "population2010": 55120,
+  "population2021": 72320,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Nanumba North Municipal",
+  "capital": "Bimbilla",
+  "category": "MUNICIPAL",
+  "population2010": 146342,
+  "population2021": 192010,
+  "legacyDistId": 174
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Nanumba South",
+  "capital": "Wulensi",
+  "category": "DISTRICT",
+  "population2010": 89120,
+  "population2021": 116960,
+  "legacyDistId": 175
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Saboba",
+  "capital": "Saboba",
+  "category": "DISTRICT",
+  "population2010": 79230,
+  "population2021": 103990,
+  "legacyDistId": 180
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Sagnarigu Municipal",
+  "capital": "Sagnarigu",
+  "category": "MUNICIPAL",
+  "population2010": 282154,
+  "population2021": 370350,
+  "legacyDistId": 186
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Savelugu Municipal",
+  "capital": "Savelugu",
+  "category": "MUNICIPAL",
+  "population2010": 121235,
+  "population2021": 159030,
+  "legacyDistId": 184
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Tamale Metropolitan",
+  "capital": "Tamale",
+  "category": "METROPOLITAN",
+  "population2010": 371351,
+  "population2021": 487520,
+  "legacyDistId": 185
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Tatale Sanguli",
+  "capital": "Tatale",
+  "category": "DISTRICT",
+  "population2010": 58120,
+  "population2021": 76270,
+  "legacyDistId": 177
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Tolon",
+  "capital": "Tolon",
+  "category": "DISTRICT",
+  "population2010": 75230,
+  "population2021": 98750,
+  "legacyDistId": 187
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Yendi Municipal",
+  "capital": "Yendi",
+  "category": "MUNICIPAL",
+  "population2010": 155345,
+  "population2021": 203880,
+  "legacyDistId": 178
+ },
+ {
+  "regionCode": "N/R",
+  "name": "Zabzugu",
+  "capital": "Zabzugu",
+  "category": "DISTRICT",
+  "population2010": 63120,
+  "population2021": 82870,
+  "legacyDistId": 176
+ },
+ {
+  "regionCode": "O/R",
+  "name": "Biakoye",
+  "capital": "Nkonya Ahenkro",
+  "category": "DISTRICT",
+  "population2010": 55230,
+  "population2021": 72450,
+  "legacyDistId": 77
+ },
+ {
+  "regionCode": "O/R",
+  "name": "Guan",
+  "capital": "Likpe-Mate",
+  "category": "DISTRICT",
+  "population2010": 32000,
+  "population2021": 42010,
+  "legacyDistId": 217
+ },
+ {
+  "regionCode": "O/R",
+  "name": "Jasikan Municipal",
+  "capital": "Jasikan",
+  "category": "MUNICIPAL",
+  "population2010": 87340,
+  "population2021": 114620,
+  "legacyDistId": 76
+ },
+ {
+  "regionCode": "O/R",
+  "name": "Kadjebi",
+  "capital": "Kadjebi",
+  "category": "DISTRICT",
+  "population2010": 78120,
+  "population2021": 102540,
+  "legacyDistId": 78
+ },
+ {
+  "regionCode": "O/R",
+  "name": "Krachi East Municipal",
+  "capital": "Dambai",
+  "category": "MUNICIPAL",
+  "population2010": 95230,
+  "population2021": 124970,
+  "legacyDistId": 79
+ },
+ {
+  "regionCode": "O/R",
+  "name": "Krachi Nchumuru",
+  "capital": "Chinderi",
+  "category": "DISTRICT",
+  "population2010": 43120,
+  "population2021": 56580,
+  "legacyDistId": 81
+ },
+ {
+  "regionCode": "O/R",
+  "name": "Krachi West Municipal",
+  "capital": "Kete Krachi",
+  "category": "MUNICIPAL",
+  "population2010": 73450,
+  "population2021": 96360,
+  "legacyDistId": 80
+ },
+ {
+  "regionCode": "O/R",
+  "name": "Nkwanta North",
+  "capital": "Kpassa",
+  "category": "DISTRICT",
+  "population2010": 57340,
+  "population2021": 75230,
+  "legacyDistId": 83
+ },
+ {
+  "regionCode": "O/R",
+  "name": "Nkwanta South Municipal",
+  "capital": "Nkwanta",
+  "category": "MUNICIPAL",
+  "population2010": 109230,
+  "population2021": 143350,
+  "legacyDistId": 82
+ },
+ {
+  "regionCode": "S/R",
+  "name": "Bole",
+  "capital": "Bole",
+  "category": "DISTRICT",
+  "population2010": 83450,
+  "population2021": 109530,
+  "legacyDistId": 167
+ },
+ {
+  "regionCode": "S/R",
+  "name": "Central Gonja",
+  "capital": "Buipe",
+  "category": "DISTRICT",
+  "population2010": 61230,
+  "population2021": 80390,
+  "legacyDistId": 171
+ },
+ {
+  "regionCode": "S/R",
+  "name": "East Gonja Municipal",
+  "capital": "Salaga",
+  "category": "MUNICIPAL",
+  "population2010": 108340,
+  "population2021": 142210,
+  "legacyDistId": 172
+ },
+ {
+  "regionCode": "S/R",
+  "name": "North Gonja",
+  "capital": "Daboya",
+  "category": "DISTRICT",
+  "population2010": 44120,
+  "population2021": 57920,
+  "legacyDistId": 170
+ },
+ {
+  "regionCode": "S/R",
+  "name": "North East Gonja",
+  "capital": "Kpalbe",
+  "category": "DISTRICT",
+  "population2010": 33450,
+  "population2021": 43930,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "S/R",
+  "name": "Sawla-Tuna-Kalba",
+  "capital": "Sawla",
+  "category": "DISTRICT",
+  "population2010": 82120,
+  "population2021": 107820,
+  "legacyDistId": 168
+ },
+ {
+  "regionCode": "S/R",
+  "name": "West Gonja Municipal",
+  "capital": "Damongo",
+  "category": "MUNICIPAL",
+  "population2010": 73450,
+  "population2021": 96420,
+  "legacyDistId": 169
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Bawku Municipal",
+  "capital": "Bawku",
+  "category": "MUNICIPAL",
+  "population2010": 117233,
+  "population2021": 153850,
+  "legacyDistId": 202
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Bawku West",
+  "capital": "Zebilla",
+  "category": "DISTRICT",
+  "population2010": 87654,
+  "population2021": 115070,
+  "legacyDistId": 201
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Binduri",
+  "capital": "Binduri",
+  "category": "DISTRICT",
+  "population2010": 54321,
+  "population2021": 71300,
+  "legacyDistId": 205
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Bolgatanga East",
+  "capital": "Zuarungu",
+  "category": "DISTRICT",
+  "population2010": 55670,
+  "population2021": 73080,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Bolgatanga Municipal",
+  "capital": "Bolgatanga",
+  "category": "MUNICIPAL",
+  "population2010": 131550,
+  "population2021": 172690,
+  "legacyDistId": 197
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Bongo",
+  "capital": "Bongo",
+  "category": "DISTRICT",
+  "population2010": 96341,
+  "population2021": 126530,
+  "legacyDistId": 198
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Builsa North Municipal",
+  "capital": "Sandema",
+  "category": "MUNICIPAL",
+  "population2010": 78234,
+  "population2021": 102730,
+  "legacyDistId": 194
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Builsa South",
+  "capital": "Fumbisi",
+  "category": "DISTRICT",
+  "population2010": 52341,
+  "population2021": 68700,
+  "legacyDistId": 193
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Garu",
+  "capital": "Garu",
+  "category": "DISTRICT",
+  "population2010": 63450,
+  "population2021": 83280,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Kassena-Nankana Municipal",
+  "capital": "Navrongo",
+  "category": "MUNICIPAL",
+  "population2010": 110235,
+  "population2021": 144730,
+  "legacyDistId": 195
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Kassena-Nankana West",
+  "capital": "Paga",
+  "category": "DISTRICT",
+  "population2010": 68234,
+  "population2021": 89570,
+  "legacyDistId": 196
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Nabdam",
+  "capital": "Nangodi",
+  "category": "DISTRICT",
+  "population2010": 45231,
+  "population2021": 59390,
+  "legacyDistId": 200
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Pusiga",
+  "capital": "Pusiga",
+  "category": "DISTRICT",
+  "population2010": 46781,
+  "population2021": 61440,
+  "legacyDistId": 203
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Talensi",
+  "capital": "Tongo",
+  "category": "DISTRICT",
+  "population2010": 62341,
+  "population2021": 81870,
+  "legacyDistId": 199
+ },
+ {
+  "regionCode": "UE/R",
+  "name": "Tempane",
+  "capital": "Tempane",
+  "category": "DISTRICT",
+  "population2010": 57810,
+  "population2021": 75920,
+  "legacyDistId": 204
+ },
+ {
+  "regionCode": "UW/R",
+  "name": "Daffiama-Bussie-Issa",
+  "capital": "Issa",
+  "category": "DISTRICT",
+  "population2010": 46231,
+  "population2021": 60720,
+  "legacyDistId": 210
+ },
+ {
+  "regionCode": "UW/R",
+  "name": "Jirapa Municipal",
+  "capital": "Jirapa",
+  "category": "MUNICIPAL",
+  "population2010": 84321,
+  "population2021": 110780,
+  "legacyDistId": 211
+ },
+ {
+  "regionCode": "UW/R",
+  "name": "Lambussie-Karni",
+  "capital": "Lambussie",
+  "category": "DISTRICT",
+  "population2010": 42341,
+  "population2021": 55620,
+  "legacyDistId": 212
+ },
+ {
+  "regionCode": "UW/R",
+  "name": "Lawra Municipal",
+  "capital": "Lawra",
+  "category": "MUNICIPAL",
+  "population2010": 78231,
+  "population2021": 102720,
+  "legacyDistId": 213
+ },
+ {
+  "regionCode": "UW/R",
+  "name": "Nadowli-Kaleo",
+  "capital": "Nadowli",
+  "category": "DISTRICT",
+  "population2010": 72341,
+  "population2021": 94980,
+  "legacyDistId": 209
+ },
+ {
+  "regionCode": "UW/R",
+  "name": "Nandom Municipal",
+  "capital": "Nandom",
+  "category": "MUNICIPAL",
+  "population2010": 68231,
+  "population2021": 89580,
+  "legacyDistId": 214
+ },
+ {
+  "regionCode": "UW/R",
+  "name": "Sissala East Municipal",
+  "capital": "Tumu",
+  "category": "MUNICIPAL",
+  "population2010": 78321,
+  "population2021": 102850,
+  "legacyDistId": 216
+ },
+ {
+  "regionCode": "UW/R",
+  "name": "Sissala West",
+  "capital": "Gwollu",
+  "category": "DISTRICT",
+  "population2010": 56231,
+  "population2021": 73860,
+  "legacyDistId": 215
+ },
+ {
+  "regionCode": "UW/R",
+  "name": "Wa East",
+  "capital": "Funsi",
+  "category": "DISTRICT",
+  "population2010": 54231,
+  "population2021": 71220,
+  "legacyDistId": 208
+ },
+ {
+  "regionCode": "UW/R",
+  "name": "Wa Municipal",
+  "capital": "Wa",
+  "category": "MUNICIPAL",
+  "population2010": 108498,
+  "population2021": 142440,
+  "legacyDistId": 206
+ },
+ {
+  "regionCode": "UW/R",
+  "name": "Wa West",
+  "capital": "Wechiau",
+  "category": "DISTRICT",
+  "population2010": 63820,
+  "population2021": 83820,
+  "legacyDistId": 207
+ },
+ {
+  "regionCode": "V/R",
+  "name": "Adaklu",
+  "capital": "Adaklu Waya",
+  "category": "DISTRICT",
+  "population2010": 42120,
+  "population2021": 55310,
+  "legacyDistId": 67
+ },
+ {
+  "regionCode": "V/R",
+  "name": "Afadzato South",
+  "capital": "Ve Golokwati",
+  "category": "DISTRICT",
+  "population2010": 54320,
+  "population2021": 71280,
+  "legacyDistId": 75
+ },
+ {
+  "regionCode": "V/R",
+  "name": "Agotime-Ziope",
+  "capital": "Kpetoe",
+  "category": "DISTRICT",
+  "population2010": 58340,
+  "population2021": 76570,
+  "legacyDistId": 68
+ },
+ {
+  "regionCode": "V/R",
+  "name": "Akatsi North",
+  "capital": "Ave-Dakpa",
+  "category": "DISTRICT",
+  "population2010": 72340,
+  "population2021": 94930,
+  "legacyDistId": 63
+ },
+ {
+  "regionCode": "V/R",
+  "name": "Akatsi South",
+  "capital": "Akatsi",
+  "category": "DISTRICT",
+  "population2010": 89230,
+  "population2021": 117130,
+  "legacyDistId": 62
+ },
+ {
+  "regionCode": "V/R",
+  "name": "Anloga",
+  "capital": "Anloga",
+  "category": "DISTRICT",
+  "population2010": 95230,
+  "population2021": 125050,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "V/R",
+  "name": "Central Tongu",
+  "capital": "Adidome",
+  "category": "DISTRICT",
+  "population2010": 68120,
+  "population2021": 89400,
+  "legacyDistId": 65
+ },
+ {
+  "regionCode": "V/R",
+  "name": "Ho Municipal",
+  "capital": "Ho",
+  "category": "MUNICIPAL",
+  "population2010": 177281,
+  "population2021": 232670,
+  "legacyDistId": 69
+ },
+ {
+  "regionCode": "V/R",
+  "name": "Ho West",
+  "capital": "Dzolokpuita",
+  "category": "DISTRICT",
+  "population2010": 58120,
+  "population2021": 76270,
+  "legacyDistId": 70
+ },
+ {
+  "regionCode": "V/R",
+  "name": "Hohoe Municipal",
+  "capital": "Hohoe",
+  "category": "MUNICIPAL",
+  "population2010": 133641,
+  "population2021": 175440,
+  "legacyDistId": 74
+ },
+ {
+  "regionCode": "V/R",
+  "name": "Keta Municipal",
+  "capital": "Keta",
+  "category": "MUNICIPAL",
+  "population2010": 98450,
+  "population2021": 129280,
+  "legacyDistId": 59
+ },
+ {
+  "regionCode": "V/R",
+  "name": "Ketu North Municipal",
+  "capital": "Dzodze",
+  "category": "MUNICIPAL",
+  "population2010": 108230,
+  "population2021": 142060,
+  "legacyDistId": 61
+ },
+ {
+  "regionCode": "V/R",
+  "name": "Ketu South Municipal",
+  "capital": "Denu",
+  "category": "MUNICIPAL",
+  "population2010": 150452,
+  "population2021": 197490,
+  "legacyDistId": 60
+ },
+ {
+  "regionCode": "V/R",
+  "name": "Kpando Municipal",
+  "capital": "Kpando",
+  "category": "MUNICIPAL",
+  "population2010": 97340,
+  "population2021": 127760,
+  "legacyDistId": 72
+ },
+ {
+  "regionCode": "V/R",
+  "name": "North Dayi",
+  "capital": "Anfoega",
+  "category": "DISTRICT",
+  "population2010": 53120,
+  "population2021": 69730,
+  "legacyDistId": 73
+ },
+ {
+  "regionCode": "V/R",
+  "name": "North Tongu",
+  "capital": "Battor Dugame",
+  "category": "DISTRICT",
+  "population2010": 72340,
+  "population2021": 94950,
+  "legacyDistId": 66
+ },
+ {
+  "regionCode": "V/R",
+  "name": "South Dayi",
+  "capital": "Kpeve",
+  "category": "DISTRICT",
+  "population2010": 55230,
+  "population2021": 72540,
+  "legacyDistId": 71
+ },
+ {
+  "regionCode": "V/R",
+  "name": "South Tongu",
+  "capital": "Sogakope",
+  "category": "DISTRICT",
+  "population2010": 63120,
+  "population2021": 82870,
+  "legacyDistId": 64
+ },
+ {
+  "regionCode": "W/R",
+  "name": "Ahanta West Municipal",
+  "capital": "Agona Nkwanta",
+  "category": "MUNICIPAL",
+  "population2010": 89230,
+  "population2021": 117110,
+  "legacyDistId": 4
+ },
+ {
+  "regionCode": "W/R",
+  "name": "Effia-Kwesimintsim Municipal",
+  "capital": "Kwesimintsim",
+  "category": "MUNICIPAL",
+  "population2010": 115230,
+  "population2021": 151220,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "W/R",
+  "name": "Ellembelle",
+  "capital": "Nkroful",
+  "category": "DISTRICT",
+  "population2010": 78230,
+  "population2021": 102690,
+  "legacyDistId": 2
+ },
+ {
+  "regionCode": "W/R",
+  "name": "Jomoro Municipal",
+  "capital": "Half Assini",
+  "category": "MUNICIPAL",
+  "population2010": 88120,
+  "population2021": 115680,
+  "legacyDistId": 1
+ },
+ {
+  "regionCode": "W/R",
+  "name": "Mpohor",
+  "capital": "Mpohor",
+  "category": "DISTRICT",
+  "population2010": 46120,
+  "population2021": 60530,
+  "legacyDistId": 8
+ },
+ {
+  "regionCode": "W/R",
+  "name": "Nzema East Municipal",
+  "capital": "Axim",
+  "category": "MUNICIPAL",
+  "population2010": 78230,
+  "population2021": 102700,
+  "legacyDistId": 3
+ },
+ {
+  "regionCode": "W/R",
+  "name": "Prestea-Huni Valley Municipal",
+  "capital": "Prestea",
+  "category": "MUNICIPAL",
+  "population2010": 144230,
+  "population2021": 189320,
+  "legacyDistId": 10
+ },
+ {
+  "regionCode": "W/R",
+  "name": "Sekondi-Takoradi Metropolitan",
+  "capital": "Sekondi-Takoradi",
+  "category": "METROPOLITAN",
+  "population2010": 445205,
+  "population2021": 584270,
+  "legacyDistId": 5
+ },
+ {
+  "regionCode": "W/R",
+  "name": "Shama",
+  "capital": "Shama",
+  "category": "DISTRICT",
+  "population2010": 65230,
+  "population2021": 85610,
+  "legacyDistId": 6
+ },
+ {
+  "regionCode": "W/R",
+  "name": "Tarkwa-Nsuaem Municipal",
+  "capital": "Tarkwa",
+  "category": "MUNICIPAL",
+  "population2010": 152170,
+  "population2021": 199720,
+  "legacyDistId": 9
+ },
+ {
+  "regionCode": "W/R",
+  "name": "Wassa Amenfi Central",
+  "capital": "Asankragwa",
+  "category": "DISTRICT",
+  "population2010": 104230,
+  "population2021": 136840,
+  "legacyDistId": 12
+ },
+ {
+  "regionCode": "W/R",
+  "name": "Wassa Amenfi East Municipal",
+  "capital": "Wassa Akropong",
+  "category": "MUNICIPAL",
+  "population2010": 86230,
+  "population2021": 113200,
+  "legacyDistId": 11
+ },
+ {
+  "regionCode": "W/R",
+  "name": "Wassa Amenfi West",
+  "capital": "Manso Amenfi",
+  "category": "DISTRICT",
+  "population2010": 58230,
+  "population2021": 76440,
+  "legacyDistId": 13
+ },
+ {
+  "regionCode": "W/R",
+  "name": "Wassa East",
+  "capital": "Daboase",
+  "category": "DISTRICT",
+  "population2010": 102230,
+  "population2021": 134180,
+  "legacyDistId": 7
+ },
+ {
+  "regionCode": "WN/R",
+  "name": "Bia East",
+  "capital": "Sefwi Debiso",
+  "category": "DISTRICT",
+  "population2010": 56230,
+  "population2021": 73840,
+  "legacyDistId": 22
+ },
+ {
+  "regionCode": "WN/R",
+  "name": "Bia West",
+  "capital": "Sefwi Essam",
+  "category": "DISTRICT",
+  "population2010": 48230,
+  "population2021": 63340,
+  "legacyDistId": 21
+ },
+ {
+  "regionCode": "WN/R",
+  "name": "Bodi",
+  "capital": "Bodi",
+  "category": "DISTRICT",
+  "population2010": 52120,
+  "population2021": 68430,
+  "legacyDistId": 20
+ },
+ {
+  "regionCode": "WN/R",
+  "name": "Juaboso",
+  "capital": "Juaboso",
+  "category": "DISTRICT",
+  "population2010": 67230,
+  "population2021": 88280,
+  "legacyDistId": 19
+ },
+ {
+  "regionCode": "WN/R",
+  "name": "Sefwi Akontombra",
+  "capital": "Akontombra",
+  "category": "DISTRICT",
+  "population2010": 46120,
+  "population2021": 60550,
+  "legacyDistId": 18
+ },
+ {
+  "regionCode": "WN/R",
+  "name": "Sefwi Bibiani-Anhwiaso-Bekwai Municipal",
+  "capital": "Bibiani",
+  "category": "MUNICIPAL",
+  "population2010": 145230,
+  "population2021": 190620,
+  "legacyDistId": 16
+ },
+ {
+  "regionCode": "WN/R",
+  "name": "Sefwi Wiawso Municipal",
+  "capital": "Sefwi Wiawso",
+  "category": "MUNICIPAL",
+  "population2010": 95230,
+  "population2021": 125010,
+  "legacyDistId": 17
+ },
+ {
+  "regionCode": "WN/R",
+  "name": "Suaman",
+  "capital": "Dadieso",
+  "category": "DISTRICT",
+  "population2010": 43120,
+  "population2021": 56610,
+  "legacyDistId": 15
+ },
+ {
+  "regionCode": "WN/R",
+  "name": "Aowin Municipal",
+  "capital": "Enchi",
+  "category": "MUNICIPAL",
+  "population2010": null,
+  "population2021": 129721,
+  "legacyDistId": 14
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Abuakwa North Municipal",
+  "capital": "Kukurantumi",
+  "category": "MUNICIPAL",
+  "population2010": 73580,
+  "population2021": 97450,
+  "legacyDistId": null
+ },
+ {
+  "regionCode": "E/R",
+  "name": "Abuakwa South Municipal",
+  "capital": "Kibi",
+  "category": "MUNICIPAL",
+  "population2010": 85263,
+  "population2021": 102430,
+  "legacyDistId": null
+ }
+]
