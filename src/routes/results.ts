@@ -82,6 +82,57 @@ router.get("/parliamentary/:electionCode", asyncHandler(async (req, res) => {
   })));
 }));
 
+// GET /results/parliamentary/:electionCode/summary — seat count by party, the
+// national "who won" headline number. Deliberately a separate, isolated
+// aggregation function (not inlined) so the exact same logic can be reused
+// as the write-path into NationalResult once 2028's live pipeline needs
+// pre-computed, stored aggregates instead of live queries — see the
+// architecture note on this in the migration record.
+async function computeParliamentarySeatSummary(electionId: string) {
+  const results = await prisma.constituencyResult.findMany({
+    where: { electionId, electionType: "PARLIAMENTARY" },
+    include: {
+      votes: {
+        include: { candidate: { select: { party: { select: { abbreviation: true, colourHex: true } } } } },
+        orderBy: { votes: "desc" },
+        take: 1,
+      },
+    },
+  });
+
+  const seatsByParty = new Map<string, { abbreviation: string; colourHex: string | null; seats: number }>();
+  let declaredSeats = 0, independentSeats = 0, undeclaredSeats = 0;
+
+  for (const r of results) {
+    const winner = r.votes[0];
+    if (!winner) { undeclaredSeats++; continue; }
+    declaredSeats++;
+    const party = winner.candidate.party;
+    if (!party) { independentSeats++; continue; }
+    const existing = seatsByParty.get(party.abbreviation);
+    if (existing) existing.seats++;
+    else seatsByParty.set(party.abbreviation, { abbreviation: party.abbreviation, colourHex: party.colourHex, seats: 1 });
+  }
+
+  const totalSeats = results.length;
+  const majorityThreshold = Math.floor(totalSeats / 2) + 1;
+  const parties = [...seatsByParty.values()].sort((a, b) => b.seats - a.seats);
+  const hasMajority = parties.length > 0 && parties[0].seats >= majorityThreshold;
+
+  return {
+    totalSeats, declaredSeats, undeclaredSeats, independentSeats,
+    majorityThreshold, hasMajority,
+    leadingParty: parties[0] ?? null,
+    parties,
+  };
+}
+
+router.get("/parliamentary/:electionCode/summary", asyncHandler(async (req, res) => {
+  const election = await findElection(requireString(req.params.electionCode, "electionCode"));
+  const summary = await computeParliamentarySeatSummary(election.id);
+  res.json({ election: election.code, ...summary });
+}));
+
 // GET /results/parliamentary/:electionCode/:constituencyId — single-seat full breakdown
 router.get("/parliamentary/:electionCode/:constituencyId", asyncHandler(async (req, res) => {
   const election = await findElection(requireString(req.params.electionCode, "electionCode"));

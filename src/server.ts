@@ -11,6 +11,7 @@ import resultsRouter from "./routes/results";
 import candidatesRouter from "./routes/candidates";
 import partiesRouter from "./routes/parties";
 import authRouter from "./routes/auth";
+import favouritesRouter from "./routes/favourites";
 
 const app = express();
 
@@ -42,6 +43,7 @@ app.use("/results", resultsRouter);
 app.use("/candidates", candidatesRouter);
 app.use("/parties", partiesRouter);
 app.use("/auth", authRouter);
+app.use("/favourites", favouritesRouter);
 
 app.use(notFoundHandler);
 app.use(errorHandler);
