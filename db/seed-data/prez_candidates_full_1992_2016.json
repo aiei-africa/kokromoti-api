@@ -1,0 +1,324 @@
+[
+ {
+  "electionCode": "1992",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NDC",
+  "fullName": "Flt. Lt. Jerry John Rawlings",
+  "legacyPartId": 1
+ },
+ {
+  "electionCode": "1992",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NPP",
+  "fullName": "Prof. Albert Adu-Boahen",
+  "legacyPartId": 2
+ },
+ {
+  "electionCode": "1992",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "PNC",
+  "fullName": "Dr. Hilla Limann",
+  "legacyPartId": 3
+ },
+ {
+  "electionCode": "1992",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "PHP",
+  "fullName": "Gen. Emmanuel Erskine",
+  "legacyPartId": 4
+ },
+ {
+  "electionCode": "1992",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NIP",
+  "fullName": "Kwabena Darko",
+  "legacyPartId": 5
+ },
+ {
+  "electionCode": "1996",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NDC",
+  "fullName": "Flt. Lt. Jerry John Rawlings",
+  "legacyPartId": 1
+ },
+ {
+  "electionCode": "1996",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NPP",
+  "fullName": "John Agyekum Kuffuor",
+  "legacyPartId": 2
+ },
+ {
+  "electionCode": "1996",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "PNC",
+  "fullName": "Dr. Edward Nasigri Mahama",
+  "legacyPartId": 3
+ },
+ {
+  "electionCode": "2000",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NDC",
+  "fullName": "Prof. John Evans Fiifi Atta-Mills",
+  "legacyPartId": 1
+ },
+ {
+  "electionCode": "2000",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NPP",
+  "fullName": "John Agyekum Kuffuor",
+  "legacyPartId": 2
+ },
+ {
+  "electionCode": "2000",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "PNC",
+  "fullName": "Dr. Edward Nasigri Mahama",
+  "legacyPartId": 3
+ },
+ {
+  "electionCode": "2000",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "CPP",
+  "fullName": "Prof. George Haggan",
+  "legacyPartId": 6
+ },
+ {
+  "electionCode": "2000",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "GCPP",
+  "fullName": "Daniel Augustus Lartey",
+  "legacyPartId": 7
+ },
+ {
+  "electionCode": "2000",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "UGM",
+  "fullName": "Dr. Charles Wereko-Brobbey",
+  "legacyPartId": 8
+ },
+ {
+  "electionCode": "2000",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NRP",
+  "fullName": "Augustus Obuadum Goosie Tannoh",
+  "legacyPartId": 9
+ },
+ {
+  "electionCode": "2000R",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NDC",
+  "fullName": "Prof. John Evans Fiifi Atta-Mills",
+  "legacyPartId": 1
+ },
+ {
+  "electionCode": "2000R",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NPP",
+  "fullName": "John Agyekum Kuffuor",
+  "legacyPartId": 2
+ },
+ {
+  "electionCode": "2004",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NDC",
+  "fullName": "Prof. John Evans Fiifi Atta-Mills",
+  "legacyPartId": 1
+ },
+ {
+  "electionCode": "2004",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NPP",
+  "fullName": "John Agyekum Kuffuor",
+  "legacyPartId": 2
+ },
+ {
+  "electionCode": "2004",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "PNC",
+  "fullName": "Dr. Edward Nasigri Mahama",
+  "legacyPartId": 3
+ },
+ {
+  "electionCode": "2004",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "CPP",
+  "fullName": "George Opesika Agudey",
+  "legacyPartId": 6
+ },
+ {
+  "electionCode": "2008",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NDC",
+  "fullName": "Prof. John Evans Fiifi Atta-Mills",
+  "legacyPartId": 1
+ },
+ {
+  "electionCode": "2008",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NPP",
+  "fullName": "Nana Addo D. Akufo-Addo",
+  "legacyPartId": 2
+ },
+ {
+  "electionCode": "2008",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "PNC",
+  "fullName": "Dr. Edward Nasigri Mahama",
+  "legacyPartId": 3
+ },
+ {
+  "electionCode": "2008",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "CPP",
+  "fullName": "Dr. Paa Kwesi Nduom",
+  "legacyPartId": 6
+ },
+ {
+  "electionCode": "2008",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "DPP",
+  "fullName": "T. N. Ward-Brew",
+  "legacyPartId": 10
+ },
+ {
+  "electionCode": "2008",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NVP",
+  "fullName": "Kwabena Adjei",
+  "legacyPartId": 11
+ },
+ {
+  "electionCode": "2008",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "DFP",
+  "fullName": "Emmanuel Ansah-Antwi",
+  "legacyPartId": 12
+ },
+ {
+  "electionCode": "2008",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": null,
+  "fullName": "Kwesi Amoafo-Yeboah",
+  "legacyPartId": 49
+ },
+ {
+  "electionCode": "2008R",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NDC",
+  "fullName": "Prof. John Evans Fiifi Atta-Mills",
+  "legacyPartId": 1
+ },
+ {
+  "electionCode": "2008R",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NPP",
+  "fullName": "Nana Addo D. Akufo-Addo",
+  "legacyPartId": 2
+ },
+ {
+  "electionCode": "2012",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NDC",
+  "fullName": "John Dramani Mahama",
+  "legacyPartId": 1
+ },
+ {
+  "electionCode": "2012",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NPP",
+  "fullName": "Nana Addo D. Akufo-Addo",
+  "legacyPartId": 2
+ },
+ {
+  "electionCode": "2012",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "PNC",
+  "fullName": "Hassan Ayariga",
+  "legacyPartId": 3
+ },
+ {
+  "electionCode": "2012",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "PPP",
+  "fullName": "Dr. Paa Kwesi Nduom",
+  "legacyPartId": 13
+ },
+ {
+  "electionCode": "2012",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "CPP",
+  "fullName": "Dr. Michael Abu Sakara Foster",
+  "legacyPartId": 6
+ },
+ {
+  "electionCode": "2012",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "GCPP",
+  "fullName": "Dr. Henry Herbert Lartey",
+  "legacyPartId": 7
+ },
+ {
+  "electionCode": "2012",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "UFP",
+  "fullName": "Kwasi Addai Odike",
+  "legacyPartId": 14
+ },
+ {
+  "electionCode": "2012",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": null,
+  "fullName": "Jacob Osei Yeboah",
+  "legacyPartId": 49
+ },
+ {
+  "electionCode": "2016",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "CPP",
+  "fullName": "Ivor Kobina Greenstreet",
+  "legacyPartId": 6
+ },
+ {
+  "electionCode": "2016",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NDP",
+  "fullName": "Nana Konadu Agyeman-Rawlings",
+  "legacyPartId": 20
+ },
+ {
+  "electionCode": "2016",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NDC",
+  "fullName": "John Dramani Mahama",
+  "legacyPartId": 1
+ },
+ {
+  "electionCode": "2016",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "PPP",
+  "fullName": "Dr. Paa Kwesi Nduom",
+  "legacyPartId": 13
+ },
+ {
+  "electionCode": "2016",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "NPP",
+  "fullName": "Nana Addo D. Akufo-Addo",
+  "legacyPartId": 2
+ },
+ {
+  "electionCode": "2016",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": "PNC",
+  "fullName": "Dr. Edward Nasigri Mahama",
+  "legacyPartId": 3
+ },
+ {
+  "electionCode": "2016",
+  "electionType": "PRESIDENTIAL",
+  "partyAbbr": null,
+  "fullName": "Jacob Osei Yeboah",
+  "legacyPartId": 49
+ }
+]

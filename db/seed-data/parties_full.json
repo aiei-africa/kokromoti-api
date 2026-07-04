@@ -1,0 +1,127 @@
+[
+ {
+  "legacyPartId": 1,
+  "name": "National Democratic Congress",
+  "abbreviation": "NDC"
+ },
+ {
+  "legacyPartId": 2,
+  "name": "New Patriotic Party",
+  "abbreviation": "NPP"
+ },
+ {
+  "legacyPartId": 3,
+  "name": "People's National Convention",
+  "abbreviation": "PNC"
+ },
+ {
+  "legacyPartId": 4,
+  "name": "People's Heritage Party",
+  "abbreviation": "PHP"
+ },
+ {
+  "legacyPartId": 5,
+  "name": "National Independent Party",
+  "abbreviation": "NIP"
+ },
+ {
+  "legacyPartId": 6,
+  "name": "Convention People's Party",
+  "abbreviation": "CPP"
+ },
+ {
+  "legacyPartId": 7,
+  "name": "Great Consolidated Popular Party",
+  "abbreviation": "GCPP"
+ },
+ {
+  "legacyPartId": 8,
+  "name": "United Ghana Movement",
+  "abbreviation": "UGM"
+ },
+ {
+  "legacyPartId": 9,
+  "name": "National Reformed Party",
+  "abbreviation": "NRP"
+ },
+ {
+  "legacyPartId": 10,
+  "name": "Democratic People's Party",
+  "abbreviation": "DPP"
+ },
+ {
+  "legacyPartId": 11,
+  "name": "New Vision Party",
+  "abbreviation": "NVP"
+ },
+ {
+  "legacyPartId": 12,
+  "name": "Democratic Freedom Party",
+  "abbreviation": "DFP"
+ },
+ {
+  "legacyPartId": 13,
+  "name": "Progressive People's Party",
+  "abbreviation": "PPP"
+ },
+ {
+  "legacyPartId": 14,
+  "name": "United Front Party",
+  "abbreviation": "UFP"
+ },
+ {
+  "legacyPartId": 15,
+  "name": "United Rennaisance Party",
+  "abbreviation": "URP"
+ },
+ {
+  "legacyPartId": 16,
+  "name": "Independent People's Party",
+  "abbreviation": "IPP"
+ },
+ {
+  "legacyPartId": 17,
+  "name": "Ghana Freedom Party",
+  "abbreviation": "GFP"
+ },
+ {
+  "legacyPartId": 18,
+  "name": "Yes People's Party",
+  "abbreviation": "YPP"
+ },
+ {
+  "legacyPartId": 19,
+  "name": "Reform Patriotic Democrats",
+  "abbreviation": "RPD"
+ },
+ {
+  "legacyPartId": 20,
+  "name": "National Democratic Party",
+  "abbreviation": "NDP"
+ },
+ {
+  "legacyPartId": 21,
+  "name": "National Convention Party",
+  "abbreviation": "NCP"
+ },
+ {
+  "legacyPartId": 22,
+  "name": "People's Convention Party",
+  "abbreviation": "PCP"
+ },
+ {
+  "legacyPartId": 23,
+  "name": "Every Ghanaian Living Everywhere",
+  "abbreviation": "EGLE"
+ },
+ {
+  "legacyPartId": 24,
+  "name": "All People's Congress",
+  "abbreviation": "APC"
+ },
+ {
+  "legacyPartId": 25,
+  "name": "United Progressive Party",
+  "abbreviation": "UPP"
+ }
+]
