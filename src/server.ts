@@ -14,6 +14,12 @@ import authRouter from "./routes/auth";
 
 const app = express();
 
+// Railway (and most PaaS platforms) sit their own proxy in front of every
+// app. Without this, express-rate-limit throws on the first real request
+// it sees a proxy-set X-Forwarded-For header without permission to trust it —
+// which crashes the process, not just that one request.
+app.set("trust proxy", 1);
+
 app.use(cors({
   origin: [
     "https://kokromoti.aiei-africa.org",
