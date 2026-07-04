@@ -46,5 +46,5 @@ app.use("/auth", authRouter);
 app.use(notFoundHandler);
 app.use(errorHandler);
 
-const PORT = process.env.PORT || 3001;
-app.listen(PORT, () => console.log(`kokromoti-api listening on :${PORT}`));
+const PORT = Number(process.env.PORT) || 3001;
+app.listen(PORT, "0.0.0.0", () => console.log(`kokromoti-api listening on 0.0.0.0:${PORT}`));
