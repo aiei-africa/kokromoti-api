@@ -8,6 +8,7 @@ import { errorHandler, notFoundHandler } from "./middleware/errorHandler";
 import electionsRouter from "./routes/elections";
 import geographyRouter from "./routes/geography";
 import resultsRouter from "./routes/results";
+import resultsHistoryRouter from "./routes/results-history";
 import candidatesRouter from "./routes/candidates";
 import partiesRouter from "./routes/parties";
 import authRouter from "./routes/auth";
@@ -19,12 +20,9 @@ app.set("trust proxy", 1);
 
 app.use(cors({
   origin: [
-    "https://app.aiei-africa.org",              // current: flat subdomain under aiei-africa.org
-    "https://kokromoti-web-production.up.railway.app", // Railway fallback, in case DNS/domain isn't live yet
+    "https://app.aiei-africa.org",
+    "https://kokromoti-web-production.up.railway.app",
     "http://localhost:3000",
-    // NOTE: when Kokromoti moves to its own dedicated domain later, add it
-    // here alongside (not instead of) the above, until the cutover is fully
-    // confirmed — same "archive, don't discard" pattern as everywhere else.
   ],
 }));
 app.use(express.json());
@@ -39,6 +37,7 @@ app.get("/health", (_req, res) => {
 app.use("/elections", electionsRouter);
 app.use("/geography", geographyRouter);
 app.use("/results", resultsRouter);
+app.use("/results", resultsHistoryRouter);
 app.use("/candidates", candidatesRouter);
 app.use("/parties", partiesRouter);
 app.use("/auth", authRouter);
