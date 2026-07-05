@@ -15,22 +15,18 @@ import favouritesRouter from "./routes/favourites";
 
 const app = express();
 
-// Railway (and most PaaS platforms) sit their own proxy in front of every
-// app. Without this, express-rate-limit throws on the first real request
-// it sees a proxy-set X-Forwarded-For header without permission to trust it —
-// which crashes the process, not just that one request.
 app.set("trust proxy", 1);
 
 app.use(cors({
   origin: [
     "https://kokromoti.aiei-africa.org",
+    "https://kokromoti-web-production.up.railway.app",
     "http://localhost:3000",
   ],
 }));
 app.use(express.json());
 app.use(requestLogger);
 
-// Global rate limit — generous, since none of this is gated yet.
 app.use(rateLimit({ windowMs: 60_000, max: 300, standardHeaders: true, legacyHeaders: false }));
 
 app.get("/health", (_req, res) => {
