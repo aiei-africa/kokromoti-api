@@ -40,6 +40,39 @@ router.get("/presidential/:electionCode", asyncHandler(async (req, res) => {
   res.json({ election: election.code, totalValidVotes: total, results });
 }));
 
+// GET /results/presidential/:electionCode/by-constituency — every seat's FULL
+// candidate breakdown in one call, grouped-by-region-ready (constituency
+// already carries its region via a separate /geography/constituencies fetch
+// on the frontend). Mirrors the parliamentary all-seats pattern below, but
+// for presidential, and with full vote data per candidate — not winner-only —
+// since v10's Results tab shows every candidate's share per seat, not just
+// who won.
+router.get("/presidential/:electionCode/by-constituency", asyncHandler(async (req, res) => {
+  const election = await findElection(requireString(req.params.electionCode, "electionCode"));
+  const results = await prisma.constituencyResult.findMany({
+    where: { electionId: election.id, electionType: "PRESIDENTIAL" },
+    include: {
+      constituency: { select: { id: true, name: true, ecCode: true } },
+      votes: {
+        include: { candidate: { select: { fullName: true, party: { select: { abbreviation: true, colourHex: true } } } } },
+        orderBy: { votes: "desc" },
+      },
+    },
+    orderBy: { constituency: { name: "asc" } },
+  });
+  res.json(results.map((r) => ({
+    constituency: r.constituency,
+    status: r.status,
+    totalCast: r.totalCast,
+    turnoutPct: r.turnoutPct,
+    results: r.votes.map((v) => ({
+      candidate: { fullName: v.candidate.fullName, party: v.candidate.party },
+      votes: v.votes,
+      votePct: v.voteShare ? Number(v.voteShare) : 0,
+    })),
+  })));
+}));
+
 // GET /results/presidential/:electionCode/:constituencyId — single-seat detail
 router.get("/presidential/:electionCode/:constituencyId", asyncHandler(async (req, res) => {
   const election = await findElection(requireString(req.params.electionCode, "electionCode"));
@@ -58,17 +91,18 @@ router.get("/presidential/:electionCode/:constituencyId", asyncHandler(async (re
   res.json(result);
 }));
 
-// GET /results/parliamentary/:electionCode — every seat's declared winner
+// GET /results/parliamentary/:electionCode — every seat, FULL candidate
+// breakdown (not winner-only — that distinction lives in /summary instead,
+// which only needs the winner to count seats).
 router.get("/parliamentary/:electionCode", asyncHandler(async (req, res) => {
   const election = await findElection(requireString(req.params.electionCode, "electionCode"));
   const results = await prisma.constituencyResult.findMany({
     where: { electionId: election.id, electionType: "PARLIAMENTARY" },
     include: {
-      constituency: { select: { name: true, ecCode: true } },
+      constituency: { select: { id: true, name: true, ecCode: true } },
       votes: {
         include: { candidate: { select: { fullName: true, party: { select: { abbreviation: true, colourHex: true } } } } },
         orderBy: { votes: "desc" },
-        take: 1,
       },
     },
     orderBy: { constituency: { name: "asc" } },
@@ -76,18 +110,17 @@ router.get("/parliamentary/:electionCode", asyncHandler(async (req, res) => {
   res.json(results.map((r) => ({
     constituency: r.constituency,
     status: r.status,
-    winner: r.votes[0] ?? null,
     totalCast: r.totalCast,
     turnoutPct: r.turnoutPct,
+    results: r.votes.map((v) => ({
+      candidate: { fullName: v.candidate.fullName, party: v.candidate.party },
+      votes: v.votes,
+      votePct: v.voteShare ? Number(v.voteShare) : 0,
+    })),
   })));
 }));
 
-// GET /results/parliamentary/:electionCode/summary — seat count by party, the
-// national "who won" headline number. Deliberately a separate, isolated
-// aggregation function (not inlined) so the exact same logic can be reused
-// as the write-path into NationalResult once 2028's live pipeline needs
-// pre-computed, stored aggregates instead of live queries — see the
-// architecture note on this in the migration record.
+// GET /results/parliamentary/:electionCode/summary — seat count by party
 async function computeParliamentarySeatSummary(electionId: string) {
   const results = await prisma.constituencyResult.findMany({
     where: { electionId, electionType: "PARLIAMENTARY" },
