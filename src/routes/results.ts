@@ -41,12 +41,7 @@ router.get("/presidential/:electionCode", asyncHandler(async (req, res) => {
 }));
 
 // GET /results/presidential/:electionCode/by-constituency — every seat's FULL
-// candidate breakdown in one call, grouped-by-region-ready (constituency
-// already carries its region via a separate /geography/constituencies fetch
-// on the frontend). Mirrors the parliamentary all-seats pattern below, but
-// for presidential, and with full vote data per candidate — not winner-only —
-// since v10's Results tab shows every candidate's share per seat, not just
-// who won.
+// candidate breakdown in one call.
 router.get("/presidential/:electionCode/by-constituency", asyncHandler(async (req, res) => {
   const election = await findElection(requireString(req.params.electionCode, "electionCode"));
   const results = await prisma.constituencyResult.findMany({
@@ -64,7 +59,7 @@ router.get("/presidential/:electionCode/by-constituency", asyncHandler(async (re
     constituency: r.constituency,
     status: r.status,
     totalCast: r.totalCast,
-    turnoutPct: r.turnoutPct,
+    turnoutPct: r.turnoutPct ? Number(r.turnoutPct) : null,
     results: r.votes.map((v) => ({
       candidate: { fullName: v.candidate.fullName, party: v.candidate.party },
       votes: v.votes,
@@ -73,7 +68,12 @@ router.get("/presidential/:electionCode/by-constituency", asyncHandler(async (re
   })));
 }));
 
-// GET /results/presidential/:electionCode/:constituencyId — single-seat detail
+// GET /results/presidential/:electionCode/:constituencyId — single-seat detail.
+// Explicitly remapped (not a raw res.json(result) passthrough) for two
+// reasons: Prisma's Decimal fields (turnoutPct, voteShare) serialize to JSON
+// as STRINGS via their own toJSON(), not numbers — calling .toFixed() on
+// that string throws "is not a function" on the frontend. And the raw field
+// is named voteShare, not votePct, which the frontend actually expects.
 router.get("/presidential/:electionCode/:constituencyId", asyncHandler(async (req, res) => {
   const election = await findElection(requireString(req.params.electionCode, "electionCode"));
   const constituencyId = requireString(req.params.constituencyId, "constituencyId");
@@ -88,12 +88,24 @@ router.get("/presidential/:electionCode/:constituencyId", asyncHandler(async (re
     },
   });
   if (!result) throw new ApiError(404, "No presidential result for this constituency/election");
-  res.json(result);
+  res.json({
+    id: result.id,
+    status: result.status,
+    registeredVoters: result.registeredVoters,
+    totalCast: result.totalCast,
+    validVotes: result.validVotes,
+    rejectedBallots: result.rejectedBallots,
+    turnoutPct: result.turnoutPct ? Number(result.turnoutPct) : null,
+    constituency: result.constituency,
+    votes: result.votes.map((v) => ({
+      candidate: { fullName: v.candidate.fullName, party: v.candidate.party },
+      votes: v.votes,
+      votePct: v.voteShare ? Number(v.voteShare) : 0,
+    })),
+  });
 }));
 
-// GET /results/parliamentary/:electionCode — every seat, FULL candidate
-// breakdown (not winner-only — that distinction lives in /summary instead,
-// which only needs the winner to count seats).
+// GET /results/parliamentary/:electionCode — every seat, FULL candidate breakdown
 router.get("/parliamentary/:electionCode", asyncHandler(async (req, res) => {
   const election = await findElection(requireString(req.params.electionCode, "electionCode"));
   const results = await prisma.constituencyResult.findMany({
@@ -111,7 +123,7 @@ router.get("/parliamentary/:electionCode", asyncHandler(async (req, res) => {
     constituency: r.constituency,
     status: r.status,
     totalCast: r.totalCast,
-    turnoutPct: r.turnoutPct,
+    turnoutPct: r.turnoutPct ? Number(r.turnoutPct) : null,
     results: r.votes.map((v) => ({
       candidate: { fullName: v.candidate.fullName, party: v.candidate.party },
       votes: v.votes,
@@ -166,7 +178,9 @@ router.get("/parliamentary/:electionCode/summary", asyncHandler(async (req, res)
   res.json({ election: election.code, ...summary });
 }));
 
-// GET /results/parliamentary/:electionCode/:constituencyId — single-seat full breakdown
+// GET /results/parliamentary/:electionCode/:constituencyId — single-seat full
+// breakdown. Same explicit remapping as the presidential version above, for
+// the same reason (Decimal-as-string, voteShare/votePct naming).
 router.get("/parliamentary/:electionCode/:constituencyId", asyncHandler(async (req, res) => {
   const election = await findElection(requireString(req.params.electionCode, "electionCode"));
   const constituencyId = requireString(req.params.constituencyId, "constituencyId");
@@ -181,7 +195,21 @@ router.get("/parliamentary/:electionCode/:constituencyId", asyncHandler(async (r
     },
   });
   if (!result) throw new ApiError(404, "No parliamentary result for this constituency/election");
-  res.json(result);
+  res.json({
+    id: result.id,
+    status: result.status,
+    registeredVoters: result.registeredVoters,
+    totalCast: result.totalCast,
+    validVotes: result.validVotes,
+    rejectedBallots: result.rejectedBallots,
+    turnoutPct: result.turnoutPct ? Number(result.turnoutPct) : null,
+    constituency: result.constituency,
+    votes: result.votes.map((v) => ({
+      candidate: { fullName: v.candidate.fullName, party: v.candidate.party },
+      votes: v.votes,
+      votePct: v.voteShare ? Number(v.voteShare) : 0,
+    })),
+  });
 }));
 
 export default router;

@@ -127,7 +127,7 @@ router.get("/regions/:id/results/:electionCode", asyncHandler(async (req, res) =
     byConstituency: results.map((r) => ({
       constituency: r.constituency.name,
       winner: r.votes[0] ? { fullName: r.votes[0].candidate.fullName, party: r.votes[0].candidate.party?.abbreviation } : null,
-      turnoutPct: r.turnoutPct,
+      turnoutPct: r.turnoutPct ? Number(r.turnoutPct) : null,
     })),
   });
 }));
