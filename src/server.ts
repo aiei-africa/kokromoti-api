@@ -19,9 +19,12 @@ app.set("trust proxy", 1);
 
 app.use(cors({
   origin: [
-    "https://kokromoti.aiei-africa.org",
-    "https://kokromoti-web-production.up.railway.app",
+    "https://app.aiei-africa.org",              // current: flat subdomain under aiei-africa.org
+    "https://kokromoti-web-production.up.railway.app", // Railway fallback, in case DNS/domain isn't live yet
     "http://localhost:3000",
+    // NOTE: when Kokromoti moves to its own dedicated domain later, add it
+    // here alongside (not instead of) the above, until the cutover is fully
+    // confirmed — same "archive, don't discard" pattern as everywhere else.
   ],
 }));
 app.use(express.json());
