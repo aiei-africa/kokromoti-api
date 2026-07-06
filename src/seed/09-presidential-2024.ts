@@ -4,7 +4,7 @@ import * as path from "path";
 import {
   CONSTITUENCY_ALIASES_2024,
   MISSING_CONSTITUENCY_2024,
-} from "../../db/seed-data/constituency-aliases-2024";
+} from "./constituency-aliases-2024";
 
 const prisma = new PrismaClient();
 
