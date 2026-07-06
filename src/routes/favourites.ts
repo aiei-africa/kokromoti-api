@@ -9,8 +9,8 @@ const router = Router();
 const VALID_TYPES = ["CONSTITUENCY", "REGION", "PARTY", "CANDIDATE"];
 
 // GET /favourites — everything the signed-in user has starred, with the
-// actual entity resolved (not just the bare id), so the frontend doesn't
-// need a second round-trip per favourite.
+// actual entity resolved. Constituencies now include their region's
+// shortName — needed by the frontend drilldown's display, missing before.
 router.get("/", requireAuth, asyncHandler(async (req: AuthedRequest, res: Response) => {
   const favourites = await prisma.favourite.findMany({
     where: { userId: req.userId! },
@@ -26,7 +26,10 @@ router.get("/", requireAuth, asyncHandler(async (req: AuthedRequest, res: Respon
 
   const [constituencies, regions, parties] = await Promise.all([
     byType.has("CONSTITUENCY")
-      ? prisma.constituency.findMany({ where: { id: { in: byType.get("CONSTITUENCY") } }, select: { id: true, name: true, ecCode: true } })
+      ? prisma.constituency.findMany({
+          where: { id: { in: byType.get("CONSTITUENCY") } },
+          select: { id: true, name: true, ecCode: true, region: { select: { shortName: true } } },
+        })
       : [],
     byType.has("REGION")
       ? prisma.region.findMany({ where: { id: { in: byType.get("REGION") } }, select: { id: true, name: true, shortName: true } })
