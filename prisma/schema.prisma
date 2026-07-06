@@ -649,6 +649,7 @@ model ConstituencyResult {
   stationsReporting Int             @default(0) @map("stations_reporting")
   stationsTotal     Int?            @map("stations_total")
   declaredAt        DateTime?       @map("declared_at")
+  notes             String?         @map("notes") // discrepancy/reconciliation notes carried from source transcription — e.g. minor unresolved vote-count gaps the RO's own sheet couldn't fully reconcile
   createdAt         DateTime        @default(now()) @map("created_at")
   updatedAt         DateTime        @updatedAt @map("updated_at")
 
