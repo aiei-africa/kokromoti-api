@@ -49,29 +49,46 @@ async function main() {
   // unlike presidential's national candidates. findFirst+create (not
   // upsert) to safely handle the independent seat's null partyId, same
   // Prisma compound-unique-key limitation hit in Seed 09. ──
+  // upsert can't be used (same null-in-compound-key Prisma limitation as
+  // Seed 09), but the ORIGINAL fix here still did one sequential
+  // findFirst+create PER CANDIDATE PER CONSTITUENCY — ~800-1000 round-trips
+  // for parliamentary (unlike presidential's 13 national candidates), the
+  // exact per-row-sequential anti-pattern that caused Seed 09's hang,
+  // reintroduced here. Properly batched now: fetch all existing candidates
+  // for this election+type in ONE query, dedupe the DB's own unique
+  // constraint quirk (NULL != NULL in Postgres, so skipDuplicates can't be
+  // trusted for the independent candidate's null partyId) ourselves in JS,
+  // then createManyAndReturn only the genuinely new ones in one batch.
+  const existingCandidates = await prisma.candidate.findMany({
+    where: { electionId: election.id, electionType: "PARLIAMENTARY" },
+  });
+  const existingKey = (constituencyId: string, partyId: string | null, fullName: string) =>
+    `${constituencyId}|${partyId ?? "IND"}|${fullName}`;
   const candidateIdByKey = new Map<string, string>();
+  for (const c of existingCandidates) {
+    candidateIdByKey.set(existingKey(c.constituencyId!, c.partyId, c.fullName), c.id);
+  }
+
+  const toCreate: { electionId: string; electionType: "PARLIAMENTARY"; constituencyId: string; partyId: string | null; fullName: string; gender: "MALE" | "FEMALE" | null; age: number | null; isIncumbent: boolean }[] = [];
+  const seenThisRun = new Set<string>();
   for (const { constituencyId, data } of resolvedList) {
     for (const cand of data.candidates) {
       const partyId = cand.party === "IND" ? null : partyByAbbrev.get(cand.party) ?? null;
-      const key = `${constituencyId}|${cand.name}`;
-      let candidate = await prisma.candidate.findFirst({
-        where: {
-          electionId: election.id, electionType: "PARLIAMENTARY",
-          constituencyId, partyId, fullName: cand.name,
-        },
+      const k = existingKey(constituencyId, partyId, cand.name);
+      if (candidateIdByKey.has(k) || seenThisRun.has(k)) continue;
+      seenThisRun.add(k);
+      toCreate.push({
+        electionId: election.id, electionType: "PARLIAMENTARY", constituencyId, partyId, fullName: cand.name,
+        gender: cand.sex === "M" ? "MALE" : cand.sex === "F" ? "FEMALE" : null,
+        age: cand.age, isIncumbent: false,
       });
-      if (!candidate) {
-        candidate = await prisma.candidate.create({
-          data: {
-            electionId: election.id, electionType: "PARLIAMENTARY",
-            constituencyId, partyId, fullName: cand.name,
-            gender: cand.sex === "M" ? "MALE" : cand.sex === "F" ? "FEMALE" : null,
-            age: cand.age, isIncumbent: false,
-          },
-        });
-      }
-      candidateIdByKey.set(key, candidate.id);
     }
+  }
+
+  for (let i = 0; i < toCreate.length; i += 500) {
+    const chunk = toCreate.slice(i, i + 500);
+    const created = await prisma.candidate.createManyAndReturn({ data: chunk });
+    for (const c of created) candidateIdByKey.set(existingKey(c.constituencyId!, c.partyId, c.fullName), c.id);
   }
   console.log(`Candidates created/confirmed: ${candidateIdByKey.size}\n`);
 
@@ -122,7 +139,8 @@ async function main() {
       checksumFails++;
     }
     for (const cand of data.candidates) {
-      const candidateId = candidateIdByKey.get(`${constituencyId}|${cand.name}`)!;
+      const partyId = cand.party === "IND" ? null : partyByAbbrev.get(cand.party) ?? null;
+      const candidateId = candidateIdByKey.get(existingKey(constituencyId, partyId, cand.name))!;
       voteCreateData.push({
         constituencyResultId: resultId,
         candidateId,
