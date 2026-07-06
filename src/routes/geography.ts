@@ -68,6 +68,20 @@ router.get("/constituencies/:id/stations-archive", asyncHandler(async (req, res)
   res.json(stations);
 }));
 
+// GET /geography/constituencies/:id/stations-current — the REAL 2024 EC
+// polling station register for this constituency (not the 2012-2016
+// archive). Powers the drilldown's Stations tab now that
+// CURRENT_ELECTION_CODE has moved to 2024.
+router.get("/constituencies/:id/stations-current", asyncHandler(async (req, res) => {
+  const constituencyId = requireString(req.params.id, "id");
+  const stations = await prisma.pollingStation.findMany({
+    where: { constituencyId },
+    select: { code: true, name: true, registeredVoters: true },
+    orderBy: { code: "asc" },
+  });
+  res.json(stations);
+}));
+
 // GET /geography/regions/:id/results/:electionCode — region-level roll-up,
 // live-computed from constituency_results.
 router.get("/regions/:id/results/:electionCode", asyncHandler(async (req, res) => {
