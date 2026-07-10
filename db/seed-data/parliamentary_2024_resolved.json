@@ -1,0 +1,7682 @@
+[
+  {
+    "constituency": "JOMORO",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 47878,
+    "total_rejected_ballots": 719,
+    "total_votes_cast": 48597,
+    "candidates": [
+      {
+        "name": "Paul Essien",
+        "party": "NPP",
+        "votes": 14195,
+        "elected": false
+      },
+      {
+        "name": "Nana Blay Mienzah",
+        "party": "CPP",
+        "votes": 269,
+        "elected": false
+      },
+      {
+        "name": "Dorcas Toffey",
+        "party": "NDC",
+        "votes": 25349,
+        "elected": true
+      },
+      {
+        "name": "Nkrumah Samia Yaba Christina",
+        "party": "IND",
+        "votes": 8065,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Ellembelle",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 51021,
+    "total_rejected_ballots": 462,
+    "total_votes_cast": 51483,
+    "candidates": [
+      {
+        "name": "Kwasi Bonzoh",
+        "party": "NPP",
+        "votes": 18608,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Armah-Kofi Buah",
+        "party": "NDC",
+        "votes": 32281,
+        "elected": true
+      },
+      {
+        "name": "Asmah John Nkum",
+        "party": "PPP",
+        "votes": 132,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Evalue-Ajomoro-Gwira",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 30709,
+    "total_rejected_ballots": 429,
+    "total_votes_cast": 31138,
+    "candidates": [
+      {
+        "name": "Catherine Abelema Afeku",
+        "party": "NPP",
+        "votes": 14050,
+        "elected": false
+      },
+      {
+        "name": "Nokoe Kofi Arko",
+        "party": "NDC",
+        "votes": 16419,
+        "elected": true
+      },
+      {
+        "name": "Elisha Joshua Kabenlah",
+        "party": "IND",
+        "votes": 240,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AHANTA WEST",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 47890,
+    "total_rejected_ballots": 550,
+    "total_votes_cast": 48440,
+    "candidates": [
+      {
+        "name": "Francis Eric Pobee",
+        "party": "NPP",
+        "votes": 19663,
+        "elected": false
+      },
+      {
+        "name": "Mavis Kuukua Bissue",
+        "party": "NDC",
+        "votes": 28227,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "TAKORADI",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 31930,
+    "total_rejected_ballots": 290,
+    "total_votes_cast": 32220,
+    "candidates": [
+      {
+        "name": "Kwabena Okyere Darko-Mensah",
+        "party": "NPP",
+        "votes": 16413,
+        "elected": true
+      },
+      {
+        "name": "Faidoo Frederick Faustinus",
+        "party": "NDC",
+        "votes": 15517,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SEKONDI",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 25642,
+    "total_rejected_ballots": 176,
+    "total_votes_cast": 25818,
+    "candidates": [
+      {
+        "name": "Andrew Kofi Egyapa Mercer",
+        "party": "NPP",
+        "votes": 11084,
+        "elected": false
+      },
+      {
+        "name": "Blay Nyameke Armah",
+        "party": "NDC",
+        "votes": 14558,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Essikado-Ketan",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 43920,
+    "total_rejected_ballots": 337,
+    "total_votes_cast": 44257,
+    "candidates": [
+      {
+        "name": "Charles Cromwell Nanabanyin Onuawonto Bissue",
+        "party": "NPP",
+        "votes": 17754,
+        "elected": false
+      },
+      {
+        "name": "Grace Ayensu-Danquah",
+        "party": "NDC",
+        "votes": 26166,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "EFFIA",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 29762,
+    "total_rejected_ballots": 158,
+    "total_votes_cast": 29920,
+    "candidates": [
+      {
+        "name": "Isaac Boamah-Nyarko",
+        "party": "NPP",
+        "votes": 15870,
+        "elected": true
+      },
+      {
+        "name": "Abdul-Majeed Iddrisu Nassam",
+        "party": "NDC",
+        "votes": 13892,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KWESIMINTSIM",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 31079,
+    "total_rejected_ballots": 219,
+    "total_votes_cast": 31298,
+    "candidates": [
+      {
+        "name": "Dr. Prince Hamidu Armah",
+        "party": "NPP",
+        "votes": 13317,
+        "elected": false
+      },
+      {
+        "name": "Buckman Philip Fiifi",
+        "party": "NDC",
+        "votes": 15927,
+        "elected": true
+      },
+      {
+        "name": "Joseph Mensah",
+        "party": "IND",
+        "votes": 1835,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SHAMA",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 40125,
+    "total_rejected_ballots": 429,
+    "total_votes_cast": 40554,
+    "candidates": [
+      {
+        "name": "Isaac Kwamina Afful",
+        "party": "NPP",
+        "votes": 17082,
+        "elected": false
+      },
+      {
+        "name": "Emelia Arthur",
+        "party": "NDC",
+        "votes": 23043,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "WASSA EAST",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 33395,
+    "total_rejected_ballots": 448,
+    "total_votes_cast": 33843,
+    "candidates": [
+      {
+        "name": "Mona Gertrude Effah",
+        "party": "NPP",
+        "votes": 13223,
+        "elected": false
+      },
+      {
+        "name": "Isaac Adjei Mensah",
+        "party": "NDC",
+        "votes": 20172,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "MPOHOR",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 20071,
+    "total_rejected_ballots": 198,
+    "total_votes_cast": 20269,
+    "candidates": [
+      {
+        "name": "John Kobina Abbam Aboah Sanie",
+        "party": "NPP",
+        "votes": 8299,
+        "elected": false
+      },
+      {
+        "name": "Theresa Kwaw",
+        "party": "LPG",
+        "votes": 92,
+        "elected": false
+      },
+      {
+        "name": "Bentil Godfred Henry",
+        "party": "NDC",
+        "votes": 11680,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Tarkwa-Nsuaem",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 76089,
+    "total_rejected_ballots": 609,
+    "total_votes_cast": 76698,
+    "candidates": [
+      {
+        "name": "George Mireku Duker",
+        "party": "NPP",
+        "votes": 27474,
+        "elected": false
+      },
+      {
+        "name": "Issa Salifu Taylor",
+        "party": "NDC",
+        "votes": 35820,
+        "elected": true
+      },
+      {
+        "name": "Joy Joycelyn Andoh",
+        "party": "IND",
+        "votes": 12795,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Prestea-Huni Valley",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 77332,
+    "total_rejected_ballots": 2048,
+    "total_votes_cast": 79380,
+    "candidates": [
+      {
+        "name": "Barbara Oteng-Gyasi",
+        "party": "NPP",
+        "votes": 30395,
+        "elected": false
+      },
+      {
+        "name": "Hammond Eric Oduro",
+        "party": "IND",
+        "votes": 1131,
+        "elected": false
+      },
+      {
+        "name": "Robert Wisdom Cudjoe",
+        "party": "NDC",
+        "votes": 46792,
+        "elected": true
+      }
+    ],
+    "notes": "Candidate sum (78,318) exceeds stated Total Valid Votes (77,332) by 986. Valid+Rejected=Cast reconciles internally (77,332+2,048=79,380), so the stated total is internally consistent \u2014 the discrepancy sits between the candidate figures and that total. Recorded as stated per established methodology; unresolved."
+  },
+  {
+    "constituency": "AMENFI EAST",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 55912,
+    "total_rejected_ballots": 629,
+    "total_votes_cast": 56541,
+    "candidates": [
+      {
+        "name": "Ernest Frimpong",
+        "party": "NPP",
+        "votes": 23702,
+        "elected": false
+      },
+      {
+        "name": "Nicholas Amankwah",
+        "party": "NDC",
+        "votes": 32210,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AMENFI CENTRAL",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 39190,
+    "total_rejected_ballots": 656,
+    "total_votes_cast": 39846,
+    "candidates": [
+      {
+        "name": "Albert Wiredu Arkoh",
+        "party": "NPP",
+        "votes": 12096,
+        "elected": false
+      },
+      {
+        "name": "Joana Gyan Cudjoe",
+        "party": "NDC",
+        "votes": 26345,
+        "elected": true
+      },
+      {
+        "name": "Peter Yaw Kwakye-Ackah",
+        "party": "IND",
+        "votes": 693,
+        "elected": false
+      },
+      {
+        "name": "Dr Karl Mark Arhin",
+        "party": "IND",
+        "votes": 56,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AMENFI WEST",
+    "region": "WESTERN",
+    "registered_voters": null,
+    "total_valid_votes": 44612,
+    "total_rejected_ballots": 571,
+    "total_votes_cast": 45183,
+    "candidates": [
+      {
+        "name": "Ignatius Kwasi Afrifa",
+        "party": "NPP",
+        "votes": 17953,
+        "elected": false
+      },
+      {
+        "name": "Eric Afful",
+        "party": "NDC",
+        "votes": 26659,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KEEA",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 55295,
+    "total_rejected_ballots": 964,
+    "total_votes_cast": 56259,
+    "candidates": [
+      {
+        "name": "Dennis Percyval Quaicoe",
+        "party": "NPP",
+        "votes": 17675,
+        "elected": false
+      },
+      {
+        "name": "Samuel Atta Mills",
+        "party": "NDC",
+        "votes": 30220,
+        "elected": true
+      },
+      {
+        "name": "Emmanuel Kofi Duku",
+        "party": "PPP",
+        "votes": 7400,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "CAPE COAST SOUTH",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 37398,
+    "total_rejected_ballots": 301,
+    "total_votes_cast": 37699,
+    "candidates": [
+      {
+        "name": "Arthur Ernest",
+        "party": "NPP",
+        "votes": 14163,
+        "elected": false
+      },
+      {
+        "name": "Ricketts-Hagan George Kweku",
+        "party": "NDC",
+        "votes": 21277,
+        "elected": true
+      },
+      {
+        "name": "Manu Isaac",
+        "party": "IND",
+        "votes": 223,
+        "elected": false
+      },
+      {
+        "name": "Mensah Emmanuel Andoh Perry",
+        "party": "IND",
+        "votes": 1735,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "CAPE COAST NORTH",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 40858,
+    "total_rejected_ballots": 271,
+    "total_votes_cast": 41129,
+    "candidates": [
+      {
+        "name": "Ewusi Horace Ekow",
+        "party": "NPP",
+        "votes": 17045,
+        "elected": false
+      },
+      {
+        "name": "Nyarku Kwamena Minta",
+        "party": "NDC",
+        "votes": 23521,
+        "elected": true
+      },
+      {
+        "name": "Andoh Thomas",
+        "party": "PPP",
+        "votes": 292,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Abura-Asebu-Kwamankese",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 50498,
+    "total_rejected_ballots": 604,
+    "total_votes_cast": 51102,
+    "candidates": [
+      {
+        "name": "Felix Kwakye Ofosu",
+        "party": "NDC",
+        "votes": 30607,
+        "elected": true
+      },
+      {
+        "name": "Eric Kobina Nyanteh",
+        "party": "NPP",
+        "votes": 19598,
+        "elected": false
+      },
+      {
+        "name": "John Annsmann-Ansah-Psalms",
+        "party": "GUM",
+        "votes": 293,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "MFANTSEMAN",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 61088,
+    "total_rejected_ballots": 647,
+    "total_votes_cast": 61735,
+    "candidates": [
+      {
+        "name": "Ophelia Mensah",
+        "party": "NPP",
+        "votes": 24099,
+        "elected": false
+      },
+      {
+        "name": "Arhin Ebenezer Prince",
+        "party": "NDC",
+        "votes": 36989,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "EKUMFI",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 29427,
+    "total_rejected_ballots": 398,
+    "total_votes_cast": 29825,
+    "candidates": [
+      {
+        "name": "Stelfa Nana Adu Okumkom Donkor",
+        "party": "NPP",
+        "votes": 11014,
+        "elected": false
+      },
+      {
+        "name": "Kwainoe Ekow Othniel",
+        "party": "NDC",
+        "votes": 18413,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Ajumako-Enyan-Esiam",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 58729,
+    "total_rejected_ballots": 480,
+    "total_votes_cast": 59209,
+    "candidates": [
+      {
+        "name": "Etuaful Rashid Kwesi",
+        "party": "NPP",
+        "votes": 18251,
+        "elected": false
+      },
+      {
+        "name": "Forson Cassiel Ato Baah",
+        "party": "NDC",
+        "votes": 40478,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "GOMOA WEST",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 50095,
+    "total_rejected_ballots": 590,
+    "total_votes_cast": 50685,
+    "candidates": [
+      {
+        "name": "Bismark Baisie Nkum",
+        "party": "NPP",
+        "votes": 19211,
+        "elected": false
+      },
+      {
+        "name": "Richard Gyan-Mensah",
+        "party": "NDC",
+        "votes": 30884,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "GOMOA CENTRAL",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 36026,
+    "total_rejected_ballots": 700,
+    "total_votes_cast": 36726,
+    "candidates": [
+      {
+        "name": "Eyiah Naana",
+        "party": "NPP",
+        "votes": 11637,
+        "elected": false
+      },
+      {
+        "name": "Yawson Muhammed Naeem-Deen",
+        "party": "NDC",
+        "votes": 10112,
+        "elected": false
+      },
+      {
+        "name": "Obeng Kwame Asare",
+        "party": "IND",
+        "votes": 14277,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "GOMOA EAST",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 59553,
+    "total_rejected_ballots": 638,
+    "total_votes_cast": 60191,
+    "candidates": [
+      {
+        "name": "Asemanyi Kojo",
+        "party": "NPP",
+        "votes": 25421,
+        "elected": false
+      },
+      {
+        "name": "Paitoo Desmond De-Graft",
+        "party": "NDC",
+        "votes": 33806,
+        "elected": true
+      },
+      {
+        "name": "Issah Mohammed",
+        "party": "APC",
+        "votes": 326,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "EFFUTU",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 58976,
+    "total_rejected_ballots": 609,
+    "total_votes_cast": 59585,
+    "candidates": [
+      {
+        "name": "Alexander Afenyo-Markin",
+        "party": "NPP",
+        "votes": 39512,
+        "elected": true
+      },
+      {
+        "name": "Annan James Kofi",
+        "party": "NDC",
+        "votes": 19383,
+        "elected": false
+      },
+      {
+        "name": "Buabeng Louisa",
+        "party": "IND",
+        "votes": 81,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AWUTU SENYA WEST",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 60932,
+    "total_rejected_ballots": 453,
+    "total_votes_cast": 61385,
+    "candidates": [
+      {
+        "name": "Arhin Eugene Kofi Bentum",
+        "party": "NPP",
+        "votes": 26937,
+        "elected": false
+      },
+      {
+        "name": "Tetteh-Agbotui Gizella",
+        "party": "NDC",
+        "votes": 33995,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AWUTU SENYA EAST",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 96524,
+    "total_rejected_ballots": 635,
+    "total_votes_cast": 97159,
+    "candidates": [
+      {
+        "name": "Koomson Mavis Hawa",
+        "party": "NPP",
+        "votes": 45638,
+        "elected": false
+      },
+      {
+        "name": "Phillis Naa Koryoo Okunor",
+        "party": "NDC",
+        "votes": 50886,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AGONA WEST",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 53933,
+    "total_rejected_ballots": 660,
+    "total_votes_cast": 54593,
+    "candidates": [
+      {
+        "name": "Arthur Christopher",
+        "party": "NPP",
+        "votes": 20693,
+        "elected": false
+      },
+      {
+        "name": "Dangbey Ernestina Ofori",
+        "party": "NDC",
+        "votes": 26080,
+        "elected": true
+      },
+      {
+        "name": "Morrison Cynthia Mamle",
+        "party": "IND",
+        "votes": 7160,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AGONA EAST",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 39815,
+    "total_rejected_ballots": 546,
+    "total_votes_cast": 40361,
+    "candidates": [
+      {
+        "name": "Asamoah Hannah",
+        "party": "NPP",
+        "votes": 17256,
+        "elected": false
+      },
+      {
+        "name": "Essien Eric",
+        "party": "LPG",
+        "votes": 334,
+        "elected": false
+      },
+      {
+        "name": "Sawyerr Queenstar Pokuah",
+        "party": "NDC",
+        "votes": 22225,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Asikuma-Odoben-Brakwa",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 48005,
+    "total_rejected_ballots": 577,
+    "total_votes_cast": 48582,
+    "candidates": [
+      {
+        "name": "Winifred Abaidoo-Ayin",
+        "party": "NPP",
+        "votes": 22498,
+        "elected": false
+      },
+      {
+        "name": "Precious Mawulorm Amevor",
+        "party": "GUM",
+        "votes": 263,
+        "elected": false
+      },
+      {
+        "name": "Ghansah Alhassan Kobina",
+        "party": "NDC",
+        "votes": 25244,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ASSIN CENTRAL",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 32269,
+    "total_rejected_ballots": 275,
+    "total_votes_cast": 32544,
+    "candidates": [
+      {
+        "name": "Anewu Godfred",
+        "party": "NPP",
+        "votes": 15926,
+        "elected": false
+      },
+      {
+        "name": "Migyimah Shaibu Nurein",
+        "party": "NDC",
+        "votes": 16343,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ASSIN NORTH",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 31622,
+    "total_rejected_ballots": 360,
+    "total_votes_cast": 31982,
+    "candidates": [
+      {
+        "name": "Opoku Charles",
+        "party": "NPP",
+        "votes": 13599,
+        "elected": false
+      },
+      {
+        "name": "Quayson James Gyakye",
+        "party": "NDC",
+        "votes": 18023,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ASSIN SOUTH",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 38585,
+    "total_rejected_ballots": 557,
+    "total_votes_cast": 39142,
+    "candidates": [
+      {
+        "name": "Fordjour John Ntim",
+        "party": "NPP",
+        "votes": 14899,
+        "elected": true
+      },
+      {
+        "name": "Baidoo Stephen Kofi",
+        "party": "NDC",
+        "votes": 13354,
+        "elected": false
+      },
+      {
+        "name": "Damtse Joseph Kofi",
+        "party": "IND",
+        "votes": 10332,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Twifo-Atii Morkwaa",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 35301,
+    "total_rejected_ballots": 460,
+    "total_votes_cast": 35761,
+    "candidates": [
+      {
+        "name": "Dwamena Obeng Ebenezer",
+        "party": "NPP",
+        "votes": 15352,
+        "elected": false
+      },
+      {
+        "name": "Donkoh Adowa",
+        "party": "GUM",
+        "votes": 243,
+        "elected": false
+      },
+      {
+        "name": "Vondee T.D. David",
+        "party": "NDC",
+        "votes": 19706,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Hermang Lower Denkyira",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 27245,
+    "total_rejected_ballots": 400,
+    "total_votes_cast": 27645,
+    "candidates": [
+      {
+        "name": "Lawrence Agyinsam",
+        "party": "NPP",
+        "votes": 17228,
+        "elected": true
+      },
+      {
+        "name": "Sampson Kwame Owonna",
+        "party": "CPP",
+        "votes": 113,
+        "elected": false
+      },
+      {
+        "name": "Agyapong-Mensah Seth",
+        "party": "NDC",
+        "votes": 9527,
+        "elected": false
+      },
+      {
+        "name": "Benjamin Bimpong Donkor",
+        "party": "IND",
+        "votes": 377,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "UPPER DENKYIRA EAST",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 43561,
+    "total_rejected_ballots": 334,
+    "total_votes_cast": 43895,
+    "candidates": [
+      {
+        "name": "Festus Awuah Kwofie",
+        "party": "NPP",
+        "votes": 19039,
+        "elected": false
+      },
+      {
+        "name": "Ankomah Emelia",
+        "party": "NDC",
+        "votes": 24426,
+        "elected": true
+      },
+      {
+        "name": "Offin Amaniampong Owusu",
+        "party": "PNC",
+        "votes": 96,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "UPPER DENKYIRA WEST",
+    "region": "CENTRAL",
+    "registered_voters": null,
+    "total_valid_votes": 31013,
+    "total_rejected_ballots": 377,
+    "total_votes_cast": 31390,
+    "candidates": [
+      {
+        "name": "Rudolf Amoako-Gyampah",
+        "party": "NPP",
+        "votes": 16947,
+        "elected": true
+      },
+      {
+        "name": "Emmanuel Gadjo",
+        "party": "GUM",
+        "votes": 208,
+        "elected": false
+      },
+      {
+        "name": "Darko Daniel Ohene",
+        "party": "NDC",
+        "votes": 13858,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BORTIANOR-NGLESHIE-AMANFRO",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 65708,
+    "total_rejected_ballots": 510,
+    "total_votes_cast": 66218,
+    "candidates": [
+      {
+        "name": "Sylvester M. Tetteh",
+        "party": "NPP",
+        "votes": 27888,
+        "elected": false
+      },
+      {
+        "name": "Okle Felix Akwetey",
+        "party": "NDC",
+        "votes": 37473,
+        "elected": true
+      },
+      {
+        "name": "Frank Mensah",
+        "party": "IND",
+        "votes": 347,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "DOMEABRA-OBOM",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 33235,
+    "total_rejected_ballots": 369,
+    "total_votes_cast": 33604,
+    "candidates": [
+      {
+        "name": "Mohammed Abdul-Wahab",
+        "party": "NPP",
+        "votes": 10445,
+        "elected": false
+      },
+      {
+        "name": "Isaac Awuku Yibor",
+        "party": "NDC",
+        "votes": 22790,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "WEIJA-GBAWE",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 63380,
+    "total_rejected_ballots": 319,
+    "total_votes_cast": 63699,
+    "candidates": [
+      {
+        "name": "Jerry Ahmed Shaib",
+        "party": "NPP",
+        "votes": 32608,
+        "elected": true
+      },
+      {
+        "name": "Ofori Eric Kwaku",
+        "party": "LPG",
+        "votes": 142,
+        "elected": false
+      },
+      {
+        "name": "Saviour Gbedze",
+        "party": "CPP",
+        "votes": 95,
+        "elected": false
+      },
+      {
+        "name": "Felix Odartey Lamptey",
+        "party": "NDC",
+        "votes": 30460,
+        "elected": false
+      },
+      {
+        "name": "Obeng Fynn George",
+        "party": "APC",
+        "votes": 75,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Anyaa-Sowutuom",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 80774,
+    "total_rejected_ballots": 491,
+    "total_votes_cast": 81265,
+    "candidates": [
+      {
+        "name": "Emmanuel Tobbin",
+        "party": "NPP",
+        "votes": 42790,
+        "elected": true
+      },
+      {
+        "name": "Allotey Emmanuel Adotey",
+        "party": "NDC",
+        "votes": 37984,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "TROBU",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 79906,
+    "total_rejected_ballots": 408,
+    "total_votes_cast": 80314,
+    "candidates": [
+      {
+        "name": "Gloria Owusu",
+        "party": "NPP",
+        "votes": 43789,
+        "elected": true
+      },
+      {
+        "name": "Oliver Gyepi-Garbrah",
+        "party": "LPG",
+        "votes": 254,
+        "elected": false
+      },
+      {
+        "name": "Sarfo Hammond Adu",
+        "party": "CPP",
+        "votes": 310,
+        "elected": false
+      },
+      {
+        "name": "John Kofi Halm",
+        "party": "NDC",
+        "votes": 35147,
+        "elected": false
+      },
+      {
+        "name": "Francis Ansah Tawiah",
+        "party": "APC",
+        "votes": 200,
+        "elected": false
+      },
+      {
+        "name": "Nana Agyenim Boateng",
+        "party": "IND",
+        "votes": 206,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AMASAMAN",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 94530,
+    "total_rejected_ballots": 555,
+    "total_votes_cast": 95085,
+    "candidates": [
+      {
+        "name": "Yahya Kassim Atta",
+        "party": "NPP",
+        "votes": 39525,
+        "elected": false
+      },
+      {
+        "name": "Sedem Kwaku Afenyo",
+        "party": "NDC",
+        "votes": 53759,
+        "elected": true
+      },
+      {
+        "name": "Jerry-Johnson Nii Armah Ashitey",
+        "party": "IND",
+        "votes": 246,
+        "elected": false
+      },
+      {
+        "name": "Samuel Kwame Denoo",
+        "party": "IND",
+        "votes": 1000,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Dome-Kwabenya",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 102158,
+    "total_rejected_ballots": 624,
+    "total_votes_cast": 102782,
+    "candidates": [
+      {
+        "name": "Michael Aaron Yaw Nii Nortey Oquaye",
+        "party": "NPP",
+        "votes": 50669,
+        "elected": false
+      },
+      {
+        "name": "Akurugu Faustina Elikplim",
+        "party": "NDC",
+        "votes": 50967,
+        "elected": true
+      },
+      {
+        "name": "Dora Nyarko",
+        "party": "PNC",
+        "votes": 220,
+        "elected": false
+      },
+      {
+        "name": "Remy Paa Kow Edmundson",
+        "party": "PPP",
+        "votes": 302,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "MADINA",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 86512,
+    "total_rejected_ballots": 368,
+    "total_votes_cast": 86880,
+    "candidates": [
+      {
+        "name": "Lamptey Robert",
+        "party": "NPP",
+        "votes": 29777,
+        "elected": false
+      },
+      {
+        "name": "Francis-Xavier Kojo Sosu",
+        "party": "NDC",
+        "votes": 56008,
+        "elected": true
+      },
+      {
+        "name": "Awal Mohammed",
+        "party": "IND",
+        "votes": 727,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AYAWASO EAST",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 31627,
+    "total_rejected_ballots": 378,
+    "total_votes_cast": 32005,
+    "candidates": [
+      {
+        "name": "Zak Rahman",
+        "party": "NPP",
+        "votes": 9110,
+        "elected": false
+      },
+      {
+        "name": "Mahama Naser Toure",
+        "party": "NDC",
+        "votes": 22139,
+        "elected": true
+      }
+    ],
+    "notes": "Candidate sum (31,249) is 378 short of stated Total Valid Votes (31,627). Verified against multiple independent real sources (Graphic Online, GhanaWeb): both report the same exact candidate figures (22,139/9,110) with percentages (70.85%/29.15%) computed against the candidate sum, not the stated total \u2014 meaning the candidate-level figures are independently corroborated as correct, and the stated total is the more likely source of this gap."
+  },
+  {
+    "constituency": "AYAWASO NORTH",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 36751,
+    "total_rejected_ballots": 235,
+    "total_votes_cast": 36986,
+    "candidates": [
+      {
+        "name": "Sannie Ibrahim",
+        "party": "NPP",
+        "votes": 11278,
+        "elected": false
+      },
+      {
+        "name": "Yussif Issaka Jajah",
+        "party": "NDC",
+        "votes": 25473,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AYAWASO CENTRAL",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 53263,
+    "total_rejected_ballots": 287,
+    "total_votes_cast": 53550,
+    "candidates": [
+      {
+        "name": "Henry Quartey",
+        "party": "NPP",
+        "votes": 23345,
+        "elected": false
+      },
+      {
+        "name": "Charles Kwame Adams",
+        "party": "NDP",
+        "votes": 163,
+        "elected": false
+      },
+      {
+        "name": "Abdul Rauf Tongym Tubazu",
+        "party": "NDC",
+        "votes": 29755,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AYAWASO WEST WUOGON",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 68127,
+    "total_rejected_ballots": 257,
+    "total_votes_cast": 68384,
+    "candidates": [
+      {
+        "name": "Lydia Seyram Alhassan",
+        "party": "NPP",
+        "votes": 27377,
+        "elected": false
+      },
+      {
+        "name": "John Setor Dumelo",
+        "party": "NDC",
+        "votes": 40561,
+        "elected": true
+      },
+      {
+        "name": "Abdul Rauf Abugri Mumuni",
+        "party": "IND",
+        "votes": 189,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "OKAIKWEI SOUTH",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 56954,
+    "total_rejected_ballots": 301,
+    "total_votes_cast": 57255,
+    "candidates": [
+      {
+        "name": "Dakoa Newman",
+        "party": "NPP",
+        "votes": 24263,
+        "elected": false
+      },
+      {
+        "name": "Ernest Adomako",
+        "party": "NDC",
+        "votes": 32691,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ABLEKUMA SOUTH",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 49254,
+    "total_rejected_ballots": 337,
+    "total_votes_cast": 49591,
+    "candidates": [
+      {
+        "name": "Samuel Sarbah Lartey",
+        "party": "NPP",
+        "votes": 12744,
+        "elected": false
+      },
+      {
+        "name": "Joseph Commey",
+        "party": "LPG",
+        "votes": 585,
+        "elected": false
+      },
+      {
+        "name": "Alfred Okoe Vanderpuije",
+        "party": "NDC",
+        "votes": 35512,
+        "elected": true
+      },
+      {
+        "name": "James Lankwei Lamptey",
+        "party": "IND",
+        "votes": 413,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ODODODIODIOO",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 63718,
+    "total_rejected_ballots": 468,
+    "total_votes_cast": 64186,
+    "candidates": [
+      {
+        "name": "Sowah Abdul Mannaf",
+        "party": "NPP",
+        "votes": 24877,
+        "elected": false
+      },
+      {
+        "name": "Richard Dzatei Abbey",
+        "party": "CPP",
+        "votes": 175,
+        "elected": false
+      },
+      {
+        "name": "Alfred Nii Kotey Ashie",
+        "party": "NDC",
+        "votes": 38473,
+        "elected": true
+      },
+      {
+        "name": "Alfred Anettey Abbey",
+        "party": "PPP",
+        "votes": 193,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "OKAIKWEI CENTRAL",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 40467,
+    "total_rejected_ballots": 198,
+    "total_votes_cast": 40665,
+    "candidates": [
+      {
+        "name": "Patrick Yaw Boamah",
+        "party": "NPP",
+        "votes": 21099,
+        "elected": true
+      },
+      {
+        "name": "Abdulai Abu Baba Abubakar Sadiq",
+        "party": "NDC",
+        "votes": 19368,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "OKAIKWEI NORTH",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 49460,
+    "total_rejected_ballots": 258,
+    "total_votes_cast": 49718,
+    "candidates": [
+      {
+        "name": "Nana Ama Dokua Asiamah-Adjei",
+        "party": "NPP",
+        "votes": 20627,
+        "elected": false
+      },
+      {
+        "name": "Abdul Hamidu Ibrahim Futa",
+        "party": "CPP",
+        "votes": 470,
+        "elected": false
+      },
+      {
+        "name": "Theresa Lardi Awuni",
+        "party": "NDC",
+        "votes": 28363,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ABLEKUMA NORTH",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 67971,
+    "total_rejected_ballots": 411,
+    "total_votes_cast": 68382,
+    "candidates": [
+      {
+        "name": "Nana Akua Owusu Afriyieh",
+        "party": "NPP",
+        "votes": 33881,
+        "elected": false
+      },
+      {
+        "name": "Ewurabena Aubynn",
+        "party": "NDC",
+        "votes": 34090,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ABLEKUMA CENTRAL",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 77801,
+    "total_rejected_ballots": 423,
+    "total_votes_cast": 78224,
+    "candidates": [
+      {
+        "name": "Jefferson Kwamina Sackey",
+        "party": "NPP",
+        "votes": 32735,
+        "elected": false
+      },
+      {
+        "name": "Abdul-Latif Dan",
+        "party": "NDC",
+        "votes": 45066,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ABLEKUMA WEST",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 58575,
+    "total_rejected_ballots": 355,
+    "total_votes_cast": 58930,
+    "candidates": [
+      {
+        "name": "Ursula Gifty Owusu-Ekuful",
+        "party": "NPP",
+        "votes": 26728,
+        "elected": false
+      },
+      {
+        "name": "Kweku Addo",
+        "party": "NDC",
+        "votes": 31847,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KORLE KLOTTEY",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 63713,
+    "total_rejected_ballots": 380,
+    "total_votes_cast": 64093,
+    "candidates": [
+      {
+        "name": "Valentino Nii Noi Nortey",
+        "party": "NPP",
+        "votes": 23716,
+        "elected": false
+      },
+      {
+        "name": "Zanetor Agyeman-Rawlings",
+        "party": "NDC",
+        "votes": 39997,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "DADEKOTOPON",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 72856,
+    "total_rejected_ballots": 413,
+    "total_votes_cast": 73269,
+    "candidates": [
+      {
+        "name": "Joseph Kwashie Addo",
+        "party": "NPP",
+        "votes": 23217,
+        "elected": false
+      },
+      {
+        "name": "Rita Naa Odoley Sowah",
+        "party": "NDC",
+        "votes": 46728,
+        "elected": true
+      },
+      {
+        "name": "Abbey David Anertey",
+        "party": "IND",
+        "votes": 290,
+        "elected": false
+      },
+      {
+        "name": "Vincent Sowah Odotei",
+        "party": "IND",
+        "votes": 2621,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "LEDZOKUKU",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 96559,
+    "total_rejected_ballots": 520,
+    "total_votes_cast": 97079,
+    "candidates": [
+      {
+        "name": "Bernard Okoe Boye",
+        "party": "NPP",
+        "votes": 42670,
+        "elected": false
+      },
+      {
+        "name": "Lucky Mensah",
+        "party": "NDP",
+        "votes": 97,
+        "elected": false
+      },
+      {
+        "name": "Tagoe Seth Nii Amartey",
+        "party": "CPP",
+        "votes": 329,
+        "elected": false
+      },
+      {
+        "name": "Ayiku Benjamin Narteh",
+        "party": "NDC",
+        "votes": 53375,
+        "elected": true
+      },
+      {
+        "name": "Tekpor Elliot Prosper Kwame",
+        "party": "IND",
+        "votes": 106,
+        "elected": false
+      }
+    ],
+    "notes": "Candidate sum (96,577) exceeds stated Total Valid Votes (96,559) by 18. Minor, unresolved."
+  },
+  {
+    "constituency": "KROWOR",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 62536,
+    "total_rejected_ballots": 320,
+    "total_votes_cast": 62856,
+    "candidates": [
+      {
+        "name": "Emmanuel Laryea Odai",
+        "party": "NPP",
+        "votes": 23116,
+        "elected": false
+      },
+      {
+        "name": "Azumah Courage Kwame Mensah",
+        "party": "NDP",
+        "votes": 97,
+        "elected": false
+      },
+      {
+        "name": "Agnes Naa Momo Lartey",
+        "party": "NDC",
+        "votes": 39198,
+        "elected": true
+      },
+      {
+        "name": "Duke Afotey Mensah",
+        "party": "IND",
+        "votes": 125,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "TEMA EAST",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 60333,
+    "total_rejected_ballots": 384,
+    "total_votes_cast": 60717,
+    "candidates": [
+      {
+        "name": "Yohane Amarh Ashitey",
+        "party": "NPP",
+        "votes": 23081,
+        "elected": false
+      },
+      {
+        "name": "Odamtten Isaac Ashai",
+        "party": "NDC",
+        "votes": 37231,
+        "elected": true
+      }
+    ],
+    "notes": "Candidate sum (60,312) is 21 short of stated Total Valid Votes (60,333). Minor, unresolved."
+  },
+  {
+    "constituency": "TEMA CENTRAL",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 37894,
+    "total_rejected_ballots": 144,
+    "total_votes_cast": 38038,
+    "candidates": [
+      {
+        "name": "Charles Forson",
+        "party": "NPP",
+        "votes": 18870,
+        "elected": true
+      },
+      {
+        "name": "Ebi Bright",
+        "party": "NDC",
+        "votes": 18815,
+        "elected": false
+      },
+      {
+        "name": "Frederick Aniagyei",
+        "party": "IND",
+        "votes": 209,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "TEMA WEST",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 76843,
+    "total_rejected_ballots": 448,
+    "total_votes_cast": 77291,
+    "candidates": [
+      {
+        "name": "Denis Amfo Sefah",
+        "party": "NPP",
+        "votes": 27618,
+        "elected": false
+      },
+      {
+        "name": "James Enu",
+        "party": "NDC",
+        "votes": 49225,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Kpone-Katamanso",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 75795,
+    "total_rejected_ballots": 414,
+    "total_votes_cast": 76209,
+    "candidates": [
+      {
+        "name": "William Ofosu Asante",
+        "party": "NPP",
+        "votes": 25308,
+        "elected": false
+      },
+      {
+        "name": "Joseph Akuerteh Tettey",
+        "party": "NDC",
+        "votes": 49655,
+        "elected": true
+      },
+      {
+        "name": "Agbane Samson",
+        "party": "PPP",
+        "votes": 658,
+        "elected": false
+      },
+      {
+        "name": "Edward Amonkwaah Anang",
+        "party": "IND",
+        "votes": 174,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ASHAIMAN",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 94017,
+    "total_rejected_ballots": 690,
+    "total_votes_cast": 94707,
+    "candidates": [
+      {
+        "name": "Justice King Essiel",
+        "party": "NPP",
+        "votes": 25927,
+        "elected": false
+      },
+      {
+        "name": "Heymann Emmanuel Kofi-Yesu",
+        "party": "LPG",
+        "votes": 295,
+        "elected": false
+      },
+      {
+        "name": "Ernest Henry Norgbey",
+        "party": "NDC",
+        "votes": 65083,
+        "elected": true
+      },
+      {
+        "name": "Mantey Emmanuel Felix",
+        "party": "PPP",
+        "votes": 451,
+        "elected": false
+      },
+      {
+        "name": "Kudah Gadafi Adam",
+        "party": "IND",
+        "votes": 2261,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Adenta",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 91913,
+    "total_rejected_ballots": 378,
+    "total_votes_cast": 92291,
+    "candidates": [
+      {
+        "name": "Akosua Asaa Manu",
+        "party": "NPP",
+        "votes": 35143,
+        "elected": false
+      },
+      {
+        "name": "Razak Al-Hassan",
+        "party": "CPP",
+        "votes": 235,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Adamu Ramadan",
+        "party": "NDC",
+        "votes": 56303,
+        "elected": true
+      },
+      {
+        "name": "Hagar Asiedu",
+        "party": "IND",
+        "votes": 232,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SHAI-OSUDOKU",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 42368,
+    "total_rejected_ballots": 430,
+    "total_votes_cast": 42798,
+    "candidates": [
+      {
+        "name": "Benjamin Nargeh",
+        "party": "NPP",
+        "votes": 11950,
+        "elected": false
+      },
+      {
+        "name": "Linda Obenewaa Akweley Ocloo",
+        "party": "NDC",
+        "votes": 28944,
+        "elected": true
+      },
+      {
+        "name": "Minimadey Isaac Gabriel Angmortey",
+        "party": "PPP",
+        "votes": 189,
+        "elected": false
+      },
+      {
+        "name": "Gifty Hawa Hammond",
+        "party": "IND",
+        "votes": 1285,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NINGO PRAMPRAM",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 58795,
+    "total_rejected_ballots": 513,
+    "total_votes_cast": 59308,
+    "candidates": [
+      {
+        "name": "Michael Tetteh-Eku",
+        "party": "NPP",
+        "votes": 12182,
+        "elected": false
+      },
+      {
+        "name": "Samuel Nartey George",
+        "party": "NDC",
+        "votes": 44934,
+        "elected": true
+      },
+      {
+        "name": "Frederick Forzie",
+        "party": "IND",
+        "votes": 275,
+        "elected": false
+      },
+      {
+        "name": "Evans Tetteh Nii Nartey",
+        "party": "IND",
+        "votes": 1404,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SEGE",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 31858,
+    "total_rejected_ballots": 475,
+    "total_votes_cast": 32333,
+    "candidates": [
+      {
+        "name": "Dodzie Numekevor",
+        "party": "NPP",
+        "votes": 7313,
+        "elected": false
+      },
+      {
+        "name": "Daniel Keshi Bessey",
+        "party": "NDC",
+        "votes": 18718,
+        "elected": true
+      },
+      {
+        "name": "Lasi Eunice",
+        "party": "IND",
+        "votes": 5827,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ADA",
+    "region": "GREATER ACCRA",
+    "registered_voters": null,
+    "total_valid_votes": 30138,
+    "total_rejected_ballots": 287,
+    "total_votes_cast": 30425,
+    "candidates": [
+      {
+        "name": "Suzette Naa Norley Dornukie Norteye",
+        "party": "NPP",
+        "votes": 8119,
+        "elected": false
+      },
+      {
+        "name": "Comfort Doyoe Cudjoe",
+        "party": "NDC",
+        "votes": 22019,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KETA",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 33474,
+    "total_rejected_ballots": 221,
+    "total_votes_cast": 33695,
+    "candidates": [
+      {
+        "name": "Courage Hope Goldberg-Grimm Lekettey",
+        "party": "NPP",
+        "votes": 2850,
+        "elected": false
+      },
+      {
+        "name": "Yayra Kwashie Kwawu",
+        "party": "LPG",
+        "votes": 1030,
+        "elected": false
+      },
+      {
+        "name": "Kwame Dzudzorli Gakpey",
+        "party": "NDC",
+        "votes": 29471,
+        "elected": true
+      },
+      {
+        "name": "Dugah Stanley Courage",
+        "party": "IND",
+        "votes": 123,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ANLO",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 40550,
+    "total_rejected_ballots": 348,
+    "total_votes_cast": 40898,
+    "candidates": [
+      {
+        "name": "Seth Kwashie Yormewu",
+        "party": "NPP",
+        "votes": 4131,
+        "elected": false
+      },
+      {
+        "name": "Richard Kwami Sefe",
+        "party": "NDC",
+        "votes": 36419,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KETU SOUTH",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 84935,
+    "total_rejected_ballots": 871,
+    "total_votes_cast": 85806,
+    "candidates": [
+      {
+        "name": "Samuel Wisdom Doe Haligah",
+        "party": "NPP",
+        "votes": 6033,
+        "elected": false
+      },
+      {
+        "name": "Abla Dzifa Gomashie",
+        "party": "NDC",
+        "votes": 78902,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KETU NORTH",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 47125,
+    "total_rejected_ballots": 392,
+    "total_votes_cast": 47517,
+    "candidates": [
+      {
+        "name": "Amegbletor Enoch Kwabla",
+        "party": "NPP",
+        "votes": 5902,
+        "elected": false
+      },
+      {
+        "name": "Pascaline Kassah",
+        "party": "LPG",
+        "votes": 93,
+        "elected": false
+      },
+      {
+        "name": "Hadzah Shelta Ziodofe Kwesi",
+        "party": "NDP",
+        "votes": 128,
+        "elected": false
+      },
+      {
+        "name": "Eric Edem Agbana",
+        "party": "NDC",
+        "votes": 41002,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AKATSI SOUTH",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 34128,
+    "total_rejected_ballots": 393,
+    "total_votes_cast": 34521,
+    "candidates": [
+      {
+        "name": "Egos Mawuli Ocloo",
+        "party": "NPP",
+        "votes": 3399,
+        "elected": false
+      },
+      {
+        "name": "Bernard Ahiafor",
+        "party": "NDC",
+        "votes": 30268,
+        "elected": true
+      },
+      {
+        "name": "Dzameshie Donald Brown",
+        "party": "PAG",
+        "votes": 461,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AKATSI NORTH",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 14087,
+    "total_rejected_ballots": 187,
+    "total_votes_cast": 14274,
+    "candidates": [
+      {
+        "name": "Simon Peter Kofi Ofosu",
+        "party": "NPP",
+        "votes": 3250,
+        "elected": false
+      },
+      {
+        "name": "Peter Kwasi Nortsu-Kotoe",
+        "party": "NDC",
+        "votes": 10837,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SOUTH TONGU",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 46666,
+    "total_rejected_ballots": 261,
+    "total_votes_cast": 46927,
+    "candidates": [
+      {
+        "name": "Lady Elizabeth Segbenu Agah",
+        "party": "NPP",
+        "votes": 2620,
+        "elected": false
+      },
+      {
+        "name": "Maxwell Kwame Lukutor",
+        "party": "NDC",
+        "votes": 42881,
+        "elected": true
+      },
+      {
+        "name": "Olivia Sosu Quarshie",
+        "party": "PAG",
+        "votes": 1165,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "CENTRAL TONGU",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 34936,
+    "total_rejected_ballots": 369,
+    "total_votes_cast": 35305,
+    "candidates": [
+      {
+        "name": "Godwin Ayikpa",
+        "party": "NPP",
+        "votes": 3825,
+        "elected": false
+      },
+      {
+        "name": "Avudoahor Lawrencia Esenam",
+        "party": "LPG",
+        "votes": 64,
+        "elected": false
+      },
+      {
+        "name": "Akafua-Hotor Courage",
+        "party": "NDP",
+        "votes": 266,
+        "elected": false
+      },
+      {
+        "name": "Alexander Roosevelt Hottordze",
+        "party": "NDC",
+        "votes": 25437,
+        "elected": true
+      },
+      {
+        "name": "Dzramado Selorm Dramani",
+        "party": "IND",
+        "votes": 5344,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NORTH TONGU",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 44108,
+    "total_rejected_ballots": 275,
+    "total_votes_cast": 44383,
+    "candidates": [
+      {
+        "name": "John Saviour Yaw Eleblu",
+        "party": "NPP",
+        "votes": 3035,
+        "elected": false
+      },
+      {
+        "name": "Samuel Okudzeto Ablakwa",
+        "party": "NDC",
+        "votes": 41073,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ADAKLU",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 15331,
+    "total_rejected_ballots": 126,
+    "total_votes_cast": 15457,
+    "candidates": [
+      {
+        "name": "Bright Kwame Nyatsikor",
+        "party": "NPP",
+        "votes": 1583,
+        "elected": false
+      },
+      {
+        "name": "Morti John Shadrack",
+        "party": "NDP",
+        "votes": 112,
+        "elected": false
+      },
+      {
+        "name": "Agbodza Kwame Governs",
+        "party": "NDC",
+        "votes": 13636,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AGOTIME-ZIOPE",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 19345,
+    "total_rejected_ballots": 277,
+    "total_votes_cast": 19622,
+    "candidates": [
+      {
+        "name": "Agbobli Kentle Seth",
+        "party": "NPP",
+        "votes": 2608,
+        "elected": false
+      },
+      {
+        "name": "John Tepe",
+        "party": "NDP",
+        "votes": 237,
+        "elected": false
+      },
+      {
+        "name": "Agbeve Charles Akwasi",
+        "party": "NDC",
+        "votes": 16500,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "HO CENTRAL",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 68741,
+    "total_rejected_ballots": 671,
+    "total_votes_cast": 69412,
+    "candidates": [
+      {
+        "name": "Richmond Edem Kofi Kpotosu",
+        "party": "NDC",
+        "votes": 61138,
+        "elected": true
+      },
+      {
+        "name": "Divine Richard Komla Bosson",
+        "party": "NPP",
+        "votes": 5530,
+        "elected": false
+      },
+      {
+        "name": "Mawulorm Kwame Klutse",
+        "party": "IND",
+        "votes": 1980,
+        "elected": false
+      },
+      {
+        "name": "Nelson Kofi Vide",
+        "party": "NDP",
+        "votes": 93,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "HO WEST",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 33505,
+    "total_rejected_ballots": 270,
+    "total_votes_cast": 33775,
+    "candidates": [
+      {
+        "name": "Eric Nick Yao Gonyuie",
+        "party": "NPP",
+        "votes": 5043,
+        "elected": false
+      },
+      {
+        "name": "Kukah Julius Jonathan",
+        "party": "NDP",
+        "votes": 352,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Kwasi Bedzrah",
+        "party": "NDC",
+        "votes": 28110,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SOUTH DAYI",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 20029,
+    "total_rejected_ballots": 139,
+    "total_votes_cast": 20168,
+    "candidates": [
+      {
+        "name": "Godwin Kwame Dadzawa",
+        "party": "NPP",
+        "votes": 3853,
+        "elected": false
+      },
+      {
+        "name": "Safo Rose",
+        "party": "LPG",
+        "votes": 94,
+        "elected": false
+      },
+      {
+        "name": "Rockson-Nelson Etse Kwami Dafeamekpor",
+        "party": "NDC",
+        "votes": 16031,
+        "elected": true
+      },
+      {
+        "name": "Awalime David",
+        "party": "IND",
+        "votes": 51,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KPANDO",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 24912,
+    "total_rejected_ballots": 120,
+    "total_votes_cast": 25032,
+    "candidates": [
+      {
+        "name": "Oklu Antoinette Abena",
+        "party": "NPP",
+        "votes": 1672,
+        "elected": false
+      },
+      {
+        "name": "Sebastian Fred Deh",
+        "party": "NDC",
+        "votes": 18326,
+        "elected": true
+      },
+      {
+        "name": "Kodzosika Samuel",
+        "party": "IND",
+        "votes": 4914,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NORTH DAYI",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 17635,
+    "total_rejected_ballots": 80,
+    "total_votes_cast": 17715,
+    "candidates": [
+      {
+        "name": "Edmund Attah Kudjoh",
+        "party": "NPP",
+        "votes": 4723,
+        "elected": false
+      },
+      {
+        "name": "Gloria Yayra Agbenorto",
+        "party": "LPG",
+        "votes": 134,
+        "elected": false
+      },
+      {
+        "name": "Joycelyn Tetteh",
+        "party": "NDC",
+        "votes": 12778,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "HOHOE",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 46228,
+    "total_rejected_ballots": 314,
+    "total_votes_cast": 46542,
+    "candidates": [
+      {
+        "name": "John-Peter Amewu",
+        "party": "NPP",
+        "votes": 14971,
+        "elected": false
+      },
+      {
+        "name": "Esther Amevor",
+        "party": "NDP",
+        "votes": 55,
+        "elected": false
+      },
+      {
+        "name": "Thomas Worlanyo Tsekpo",
+        "party": "NDC",
+        "votes": 31163,
+        "elected": true
+      },
+      {
+        "name": "Stephen Dzidefo Adzraku",
+        "party": "PNC",
+        "votes": 39,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AFADJATO SOUTH",
+    "region": "VOLTA",
+    "registered_voters": null,
+    "total_valid_votes": 24946,
+    "total_rejected_ballots": 137,
+    "total_votes_cast": 25083,
+    "candidates": [
+      {
+        "name": "Etornam James Flolu",
+        "party": "NPP",
+        "votes": 3459,
+        "elected": false
+      },
+      {
+        "name": "Tegbey Tracy Semanu",
+        "party": "LPG",
+        "votes": 869,
+        "elected": false
+      },
+      {
+        "name": "Frank Afriyie",
+        "party": "NDC",
+        "votes": 20618,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ASUOGYAMAN",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 47375,
+    "total_rejected_ballots": 348,
+    "total_votes_cast": 47723,
+    "candidates": [
+      {
+        "name": "Pius Enam Hadzide",
+        "party": "NPP",
+        "votes": 21290,
+        "elected": false
+      },
+      {
+        "name": "Thomas Ampem Nyarko",
+        "party": "NDC",
+        "votes": 26085,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "LOWER MANYA KROBO",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 44701,
+    "total_rejected_ballots": 473,
+    "total_votes_cast": 45174,
+    "candidates": [
+      {
+        "name": "Simon Kweku Tetteh",
+        "party": "NPP",
+        "votes": 15653,
+        "elected": false
+      },
+      {
+        "name": "Ebenezer Okletey Terlabi",
+        "party": "NDC",
+        "votes": 29048,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "UPPER MANYA KROBO",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 27332,
+    "total_rejected_ballots": 290,
+    "total_votes_cast": 27622,
+    "candidates": [
+      {
+        "name": "Joseph Tetteh",
+        "party": "NPP",
+        "votes": 12443,
+        "elected": false
+      },
+      {
+        "name": "Bismark Tetteh Nyarko",
+        "party": "NDC",
+        "votes": 14889,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "YILO KROBO",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 45159,
+    "total_rejected_ballots": 486,
+    "total_votes_cast": 45645,
+    "candidates": [
+      {
+        "name": "Richard Twum Barimah Koranteng",
+        "party": "NPP",
+        "votes": 19122,
+        "elected": false
+      },
+      {
+        "name": "Aseni Ebenzer Tetteh",
+        "party": "CPP",
+        "votes": 412,
+        "elected": false
+      },
+      {
+        "name": "Albert Tetteh Nyakotey",
+        "party": "NDC",
+        "votes": 25625,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NEW JUABEN SOUTH",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 57175,
+    "total_rejected_ballots": 342,
+    "total_votes_cast": 57517,
+    "candidates": [
+      {
+        "name": "Michael Okyere Baafi",
+        "party": "NPP",
+        "votes": 32134,
+        "elected": true
+      },
+      {
+        "name": "Offei Martin Otu",
+        "party": "NDC",
+        "votes": 23735,
+        "elected": false
+      },
+      {
+        "name": "Appiah Evans",
+        "party": "IND",
+        "votes": 1306,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NEW JUABEN NORTH",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 28225,
+    "total_rejected_ballots": 198,
+    "total_votes_cast": 28423,
+    "candidates": [
+      {
+        "name": "Nana Osei-Adjei",
+        "party": "NPP",
+        "votes": 17390,
+        "elected": true
+      },
+      {
+        "name": "Samuel Adongo",
+        "party": "NDC",
+        "votes": 10600,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Ofosu Yeboah",
+        "party": "IND",
+        "votes": 235,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Akwapem North",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 42582,
+    "total_rejected_ballots": 237,
+    "total_votes_cast": 42819,
+    "candidates": [
+      {
+        "name": "Samuel Awuku",
+        "party": "NPP",
+        "votes": 28365,
+        "elected": true
+      },
+      {
+        "name": "John Evans Kumordzi",
+        "party": "NDC",
+        "votes": 14217,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "OKERE",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 21921,
+    "total_rejected_ballots": 208,
+    "total_votes_cast": 22129,
+    "candidates": [
+      {
+        "name": "Daniel Nana Addo-Kenneth",
+        "party": "NPP",
+        "votes": 12794,
+        "elected": true
+      },
+      {
+        "name": "Joseph Kwadwo Afari-Yeboah",
+        "party": "CPP",
+        "votes": 324,
+        "elected": false
+      },
+      {
+        "name": "Prince Henry Anim-Owiredu",
+        "party": "NDC",
+        "votes": 8803,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Akwapem South",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 30742,
+    "total_rejected_ballots": 287,
+    "total_votes_cast": 31029,
+    "candidates": [
+      {
+        "name": "Eric Yeboah Apeadu",
+        "party": "NPP",
+        "votes": 15304,
+        "elected": false
+      },
+      {
+        "name": "Lawrencia Dziwornu",
+        "party": "NDC",
+        "votes": 15438,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Nsawam-Adoagyiri",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 59306,
+    "total_rejected_ballots": 473,
+    "total_votes_cast": 59779,
+    "candidates": [
+      {
+        "name": "Annoh-Dompreh Frank",
+        "party": "NPP",
+        "votes": 29640,
+        "elected": true
+      },
+      {
+        "name": "Parick Tetteh",
+        "party": "GFP",
+        "votes": 92,
+        "elected": false
+      },
+      {
+        "name": "Fummey Philibert Amenorpe",
+        "party": "NDC",
+        "votes": 29433,
+        "elected": false
+      },
+      {
+        "name": "Golo Kojo",
+        "party": "IND",
+        "votes": 61,
+        "elected": false
+      },
+      {
+        "name": "Mustapha Rasheed",
+        "party": "IND",
+        "votes": 80,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SUHUM",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 47133,
+    "total_rejected_ballots": 671,
+    "total_votes_cast": 47804,
+    "candidates": [
+      {
+        "name": "Frank Aseidu Bekoe",
+        "party": "NPP",
+        "votes": 16855,
+        "elected": true
+      },
+      {
+        "name": "Prince Addo",
+        "party": "NDC",
+        "votes": 15259,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Dede Wiafe",
+        "party": "IND",
+        "votes": 159,
+        "elected": false
+      },
+      {
+        "name": "Kwadjo Asante",
+        "party": "IND",
+        "votes": 14860,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AYENSUANO",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 36273,
+    "total_rejected_ballots": 538,
+    "total_votes_cast": 36811,
+    "candidates": [
+      {
+        "name": "Ida Adjoa Asiedu",
+        "party": "NPP",
+        "votes": 18229,
+        "elected": true
+      },
+      {
+        "name": "Addi Safori Teddy",
+        "party": "NDC",
+        "votes": 17182,
+        "elected": false
+      },
+      {
+        "name": "Abrokwa Aboagye Sintim",
+        "party": "IND",
+        "votes": 722,
+        "elected": false
+      },
+      {
+        "name": "Learned Obiri Ebenezer Yirenkyi",
+        "party": "IND",
+        "votes": 140,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "LOWER WEST AKIM",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 44863,
+    "total_rejected_ballots": 440,
+    "total_votes_cast": 45303,
+    "candidates": [
+      {
+        "name": "Charles Acheampong",
+        "party": "NPP",
+        "votes": 21573,
+        "elected": false
+      },
+      {
+        "name": "Owen Kwame Frimpong",
+        "party": "NDC",
+        "votes": 23138,
+        "elected": true
+      },
+      {
+        "name": "Gifty Klenam",
+        "party": "IND",
+        "votes": 152,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "UPPER WEST AKIM",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 38470,
+    "total_rejected_ballots": 370,
+    "total_votes_cast": 38840,
+    "candidates": [
+      {
+        "name": "Frederick Obeng Adom",
+        "party": "NPP",
+        "votes": 15711,
+        "elected": false
+      },
+      {
+        "name": "Drah Emmanuel",
+        "party": "NDC",
+        "votes": 22759,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AKIM ODA",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 26796,
+    "total_rejected_ballots": 177,
+    "total_votes_cast": 26973,
+    "candidates": [
+      {
+        "name": "Alexander Akwasi Acquah",
+        "party": "NPP",
+        "votes": 19341,
+        "elected": true
+      },
+      {
+        "name": "Jones Asante",
+        "party": "NDC",
+        "votes": 7455,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Asene-Akroso-Manso",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 28870,
+    "total_rejected_ballots": 346,
+    "total_votes_cast": 29216,
+    "candidates": [
+      {
+        "name": "George Kwame Aboagye",
+        "party": "NPP",
+        "votes": 15792,
+        "elected": true
+      },
+      {
+        "name": "Eric Ahinakwa",
+        "party": "NDC",
+        "votes": 13078,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AKIM SWEDRU",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 14231,
+    "total_rejected_ballots": 213,
+    "total_votes_cast": 14444,
+    "candidates": [
+      {
+        "name": "Osei Kennedy Nyarko",
+        "party": "NPP",
+        "votes": 9443,
+        "elected": true
+      },
+      {
+        "name": "Taaju Abdu Rahim",
+        "party": "NDC",
+        "votes": 4788,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ACHIASE",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 22232,
+    "total_rejected_ballots": 256,
+    "total_votes_cast": 22488,
+    "candidates": [
+      {
+        "name": "Kofi Ahenkorah Marfo",
+        "party": "NPP",
+        "votes": 12076,
+        "elected": true
+      },
+      {
+        "name": "Samuel Owusu Brako",
+        "party": "NDC",
+        "votes": 10156,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Ofoase-Ayirebi",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 32016,
+    "total_rejected_ballots": 459,
+    "total_votes_cast": 32475,
+    "candidates": [
+      {
+        "name": "Kojo Oppong Nkrumah",
+        "party": "NPP",
+        "votes": 18601,
+        "elected": true
+      },
+      {
+        "name": "Alfred Osei-Poku",
+        "party": "NDC",
+        "votes": 13415,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KADE",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 41577,
+    "total_rejected_ballots": 512,
+    "total_votes_cast": 42089,
+    "candidates": [
+      {
+        "name": "Agyare Alexander",
+        "party": "NPP",
+        "votes": 20225,
+        "elected": true
+      },
+      {
+        "name": "Emmanuel Kofi Nti",
+        "party": "NDC",
+        "votes": 16638,
+        "elected": false
+      },
+      {
+        "name": "Ohemeng-Tinyase Kwabena",
+        "party": "IND",
+        "votes": 4714,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AKWATIA",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 36475,
+    "total_rejected_ballots": 294,
+    "total_votes_cast": 36769,
+    "candidates": [
+      {
+        "name": "Ernest Kumi",
+        "party": "NPP",
+        "votes": 19269,
+        "elected": true
+      },
+      {
+        "name": "Henry Yiadom Boakye",
+        "party": "NDC",
+        "votes": 17206,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ABIREM",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 30011,
+    "total_rejected_ballots": 333,
+    "total_votes_cast": 30344,
+    "candidates": [
+      {
+        "name": "Charles Asuako Owiredu",
+        "party": "NPP",
+        "votes": 18008,
+        "elected": true
+      },
+      {
+        "name": "Nurudeen Fuseini",
+        "party": "NDC",
+        "votes": 12003,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ABUAKWA SOUTH",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 34465,
+    "total_rejected_ballots": 277,
+    "total_votes_cast": 34742,
+    "candidates": [
+      {
+        "name": "Kingsley Agyemang",
+        "party": "NPP",
+        "votes": 27011,
+        "elected": true
+      },
+      {
+        "name": "Nana Adu Sarpong Addo-Aikins",
+        "party": "NDC",
+        "votes": 7454,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ABUAKWA NORTH",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 29749,
+    "total_rejected_ballots": 162,
+    "total_votes_cast": 29911,
+    "candidates": [
+      {
+        "name": "Addo-Frempong Nana Ampaw Kwame",
+        "party": "NPP",
+        "votes": 15241,
+        "elected": true
+      },
+      {
+        "name": "Charles Yeboah Darko",
+        "party": "NDC",
+        "votes": 14508,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ATIWA WEST",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 24456,
+    "total_rejected_ballots": 178,
+    "total_votes_cast": 24634,
+    "candidates": [
+      {
+        "name": "Laurette Korkor Asante",
+        "party": "NPP",
+        "votes": 16395,
+        "elected": true
+      },
+      {
+        "name": "Ofosuapea Dennis Owusu-Appiah",
+        "party": "NDC",
+        "votes": 8061,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ATIWA EAST",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 26121,
+    "total_rejected_ballots": 243,
+    "total_votes_cast": 26364,
+    "candidates": [
+      {
+        "name": "Abena Osei-Asare",
+        "party": "NPP",
+        "votes": 17501,
+        "elected": true
+      },
+      {
+        "name": "Kenneth Agyare",
+        "party": "NDC",
+        "votes": 5334,
+        "elected": false
+      },
+      {
+        "name": "Nana Adjei Kyerema",
+        "party": "IND",
+        "votes": 3286,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "FANTEAKWA NORTH",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 23282,
+    "total_rejected_ballots": 234,
+    "total_votes_cast": 23516,
+    "candidates": [
+      {
+        "name": "Kwame Appiah Kodua",
+        "party": "NPP",
+        "votes": 11751,
+        "elected": true
+      },
+      {
+        "name": "Apaw-Wiredu Haroun",
+        "party": "NDC",
+        "votes": 11297,
+        "elected": false
+      }
+    ],
+    "notes": "Candidate sum (23,048) is 234 short of stated Total Valid Votes (23,282). Unresolved."
+  },
+  {
+    "constituency": "FANTEAKWA SOUTH",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 18822,
+    "total_rejected_ballots": 146,
+    "total_votes_cast": 18968,
+    "candidates": [
+      {
+        "name": "Duke William Allen Kwame Amoako-Atta Ofori-Atta",
+        "party": "NPP",
+        "votes": 12017,
+        "elected": true
+      },
+      {
+        "name": "Kingsley Owusu Newman",
+        "party": "NDC",
+        "votes": 6805,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NKAWKAW",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 48701,
+    "total_rejected_ballots": 390,
+    "total_votes_cast": 49091,
+    "candidates": [
+      {
+        "name": "Joseph Frempong",
+        "party": "NPP",
+        "votes": 27714,
+        "elected": true
+      },
+      {
+        "name": "Frederick Somuah Obeng",
+        "party": "NDC",
+        "votes": 20697,
+        "elected": false
+      },
+      {
+        "name": "Lawoey Benjimain Kwame Ansah",
+        "party": "IND",
+        "votes": 290,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "MPRAESO",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 28392,
+    "total_rejected_ballots": 342,
+    "total_votes_cast": 28734,
+    "candidates": [
+      {
+        "name": "Davis Ansah Opoku",
+        "party": "NPP",
+        "votes": 17930,
+        "elected": true
+      },
+      {
+        "name": "Ofosu-Asante Augustina",
+        "party": "GUM",
+        "votes": 213,
+        "elected": false
+      },
+      {
+        "name": "Osei Michael",
+        "party": "CPP",
+        "votes": 364,
+        "elected": false
+      },
+      {
+        "name": "Muhayadeen Adam Kaleem",
+        "party": "NDC",
+        "votes": 9885,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ABETIFI",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 30625,
+    "total_rejected_ballots": 231,
+    "total_votes_cast": 30856,
+    "candidates": [
+      {
+        "name": "Bryan Acheampong",
+        "party": "NPP",
+        "votes": 22287,
+        "elected": true
+      },
+      {
+        "name": "Addo Isaac Amoafo",
+        "party": "NDC",
+        "votes": 8338,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Afram Plains North",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 24507,
+    "total_rejected_ballots": 418,
+    "total_votes_cast": 24925,
+    "candidates": [
+      {
+        "name": "Asaimah K. Anim",
+        "party": "NPP",
+        "votes": 1992,
+        "elected": false
+      },
+      {
+        "name": "Agbakpe Hillary",
+        "party": "NDP",
+        "votes": 70,
+        "elected": false
+      },
+      {
+        "name": "Betty Nana Efua Krosbi Mensah",
+        "party": "NDC",
+        "votes": 10993,
+        "elected": false
+      },
+      {
+        "name": "Worlase Kpeli",
+        "party": "IND",
+        "votes": 11452,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AFRAM PLAINS SOUTH",
+    "region": "EASTERN",
+    "registered_voters": null,
+    "total_valid_votes": 23263,
+    "total_rejected_ballots": 444,
+    "total_votes_cast": 23707,
+    "candidates": [
+      {
+        "name": "Jacob Zineyele",
+        "party": "NPP",
+        "votes": 7578,
+        "elected": false
+      },
+      {
+        "name": "Joseph Appiah Boateng",
+        "party": "NDC",
+        "votes": 11876,
+        "elected": true
+      },
+      {
+        "name": "Iddrisu Seidu Ibn-Swalah",
+        "party": "PAG",
+        "votes": 108,
+        "elected": false
+      },
+      {
+        "name": "Grace Nudonu Abra Adiepena",
+        "party": "IND",
+        "votes": 3701,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NEW EDUBIASE",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 36329,
+    "total_rejected_ballots": 320,
+    "total_votes_cast": 36649,
+    "candidates": [
+      {
+        "name": "George Boahen Oduro",
+        "party": "NPP",
+        "votes": 17612,
+        "elected": false
+      },
+      {
+        "name": "Abdul-Salam Adams",
+        "party": "NDC",
+        "votes": 18717,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AKROFUOM",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 18692,
+    "total_rejected_ballots": 161,
+    "total_votes_cast": 18853,
+    "candidates": [
+      {
+        "name": "Alex Blankson",
+        "party": "NPP",
+        "votes": 8589,
+        "elected": false
+      },
+      {
+        "name": "Joseph Azumah",
+        "party": "NDC",
+        "votes": 10103,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "FOMENA",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 21468,
+    "total_rejected_ballots": 225,
+    "total_votes_cast": 21693,
+    "candidates": [
+      {
+        "name": "Andrew Asiamah Amoako",
+        "party": "NPP",
+        "votes": 14543,
+        "elected": true
+      },
+      {
+        "name": "Ogbeh Charles Kofi",
+        "party": "NDC",
+        "votes": 6925,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ADANSI ASOKWA",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 27850,
+    "total_rejected_ballots": 457,
+    "total_votes_cast": 28307,
+    "candidates": [
+      {
+        "name": "Kobina Tahir Hammond",
+        "party": "NPP",
+        "votes": 13275,
+        "elected": false
+      },
+      {
+        "name": "Mensah Abraham Justice",
+        "party": "CPP",
+        "votes": 346,
+        "elected": false
+      },
+      {
+        "name": "Godwin Animli Dorgbadzi-Dorani",
+        "party": "NDC",
+        "votes": 14229,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "OBUASI WEST",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 40861,
+    "total_rejected_ballots": 268,
+    "total_votes_cast": 41129,
+    "candidates": [
+      {
+        "name": "Kwaku Agyeman Kwarteng",
+        "party": "NPP",
+        "votes": 18586,
+        "elected": true
+      },
+      {
+        "name": "Appiah Kannin Faustilove",
+        "party": "NDC",
+        "votes": 15244,
+        "elected": false
+      },
+      {
+        "name": "Annin Kofi Appianin",
+        "party": "IND",
+        "votes": 7031,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "OBUASI EAST",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 37521,
+    "total_rejected_ballots": 295,
+    "total_votes_cast": 37816,
+    "candidates": [
+      {
+        "name": "Patrick Boakye-Yiadom",
+        "party": "NPP",
+        "votes": 18558,
+        "elected": true
+      },
+      {
+        "name": "Samuel Aboagye",
+        "party": "NDC",
+        "votes": 18539,
+        "elected": false
+      },
+      {
+        "name": "Adjei Owusu Afriyie",
+        "party": "IND",
+        "votes": 424,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BEKWAI",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 53699,
+    "total_rejected_ballots": 460,
+    "total_votes_cast": 54159,
+    "candidates": [
+      {
+        "name": "Ralph Poku-Adusei",
+        "party": "NPP",
+        "votes": 31060,
+        "elected": true
+      },
+      {
+        "name": "Lovista Owusu",
+        "party": "LPG",
+        "votes": 209,
+        "elected": false
+      },
+      {
+        "name": "Prempeh Junior Samuel",
+        "party": "NDC",
+        "votes": 5321,
+        "elected": false
+      },
+      {
+        "name": "Yahaya Nasiru",
+        "party": "PNC",
+        "votes": 234,
+        "elected": false
+      },
+      {
+        "name": "Kwasi Amofa-Agyemang",
+        "party": "IND",
+        "votes": 16875,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BOSOME FREHO",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 25810,
+    "total_rejected_ballots": 219,
+    "total_votes_cast": 26029,
+    "candidates": [
+      {
+        "name": "Nana Asafo-Adjei Ayeh",
+        "party": "NPP",
+        "votes": 18208,
+        "elected": true
+      },
+      {
+        "name": "Charles Appiah-Kubi",
+        "party": "NDC",
+        "votes": 7602,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Odotobiri",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 33650,
+    "total_rejected_ballots": 433,
+    "total_votes_cast": 34083,
+    "candidates": [
+      {
+        "name": "Anthony Mmieh",
+        "party": "NPP",
+        "votes": 25398,
+        "elected": true
+      },
+      {
+        "name": "Emmanuel Obeng Agyemang",
+        "party": "NDC",
+        "votes": 7973,
+        "elected": false
+      },
+      {
+        "name": "Isaac Kofi Gyamfi",
+        "party": "IND",
+        "votes": 279,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "MANSO NKWANTA",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 36390,
+    "total_rejected_ballots": 316,
+    "total_votes_cast": 36706,
+    "candidates": [
+      {
+        "name": "Tweneboa Kodua Fokuo",
+        "party": "NPP",
+        "votes": 26684,
+        "elected": true
+      },
+      {
+        "name": "Samuel Adjei",
+        "party": "NDC",
+        "votes": 9706,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "MANSO ADUBIA",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 33890,
+    "total_rejected_ballots": 627,
+    "total_votes_cast": 34517,
+    "candidates": [
+      {
+        "name": "Yaw Frimpong Addo",
+        "party": "NPP",
+        "votes": 19581,
+        "elected": true
+      },
+      {
+        "name": "Benjamin Marfo",
+        "party": "NDC",
+        "votes": 13631,
+        "elected": false
+      },
+      {
+        "name": "Selina Adom",
+        "party": "PNC",
+        "votes": 680,
+        "elected": false
+      }
+    ],
+    "notes": "Candidate sum (33,892) exceeds stated Total Valid Votes (33,890) by 2. Minor, unresolved."
+  },
+  {
+    "constituency": "ATWIMA NWABIAGYA SOUTH",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 62420,
+    "total_rejected_ballots": 420,
+    "total_votes_cast": 62840,
+    "candidates": [
+      {
+        "name": "Shirley Kyei",
+        "party": "NPP",
+        "votes": 45352,
+        "elected": true
+      },
+      {
+        "name": "Wisdom Osel Boamah",
+        "party": "NDC",
+        "votes": 17068,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ATWIMA NWABIAGYA NORTH",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 54672,
+    "total_rejected_ballots": 386,
+    "total_votes_cast": 55058,
+    "candidates": [
+      {
+        "name": "Frank Yeboah",
+        "party": "NPP",
+        "votes": 36924,
+        "elected": true
+      },
+      {
+        "name": "Mba Zechariah Alenbilla",
+        "party": "NDC",
+        "votes": 14502,
+        "elected": false
+      },
+      {
+        "name": "Kandiire Joachim",
+        "party": "IND",
+        "votes": 415,
+        "elected": false
+      },
+      {
+        "name": "Emmanual Osei Gyamfi",
+        "party": "IND",
+        "votes": 2831,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ATWIMA MPONUA",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 58233,
+    "total_rejected_ballots": 461,
+    "total_votes_cast": 58694,
+    "candidates": [
+      {
+        "name": "Seth Osei-Akoto",
+        "party": "NPP",
+        "votes": 29616,
+        "elected": true
+      },
+      {
+        "name": "Stephen Yeboah",
+        "party": "NDC",
+        "votes": 28617,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BOSOMTWE",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 59991,
+    "total_rejected_ballots": 393,
+    "total_votes_cast": 60384,
+    "candidates": [
+      {
+        "name": "Yaw Osei Adutwum",
+        "party": "NPP",
+        "votes": 46797,
+        "elected": true
+      },
+      {
+        "name": "Adusei-Akwaboah Samuel",
+        "party": "LPG",
+        "votes": 200,
+        "elected": false
+      },
+      {
+        "name": "Eric Osei Boateng",
+        "party": "CPP",
+        "votes": 152,
+        "elected": false
+      },
+      {
+        "name": "Abdullah Hamidu",
+        "party": "NDC",
+        "votes": 12842,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ATWIMA KWANWOMA",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 76425,
+    "total_rejected_ballots": 635,
+    "total_votes_cast": 77060,
+    "candidates": [
+      {
+        "name": "Kofi Amankwa-Manu",
+        "party": "NPP",
+        "votes": 57338,
+        "elected": true
+      },
+      {
+        "name": "Grace Agyemang Asamoah",
+        "party": "NDC",
+        "votes": 18692,
+        "elected": false
+      },
+      {
+        "name": "Obiba James Annan",
+        "party": "PNC",
+        "votes": 395,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BANTAMA",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 55298,
+    "total_rejected_ballots": 248,
+    "total_votes_cast": 55546,
+    "candidates": [
+      {
+        "name": "Francis Asenso-Boakye",
+        "party": "NPP",
+        "votes": 47275,
+        "elected": true
+      },
+      {
+        "name": "Simeon Addai Dapaah",
+        "party": "NDC",
+        "votes": 8023,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NHYIAESO",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 50157,
+    "total_rejected_ballots": 396,
+    "total_votes_cast": 50553,
+    "candidates": [
+      {
+        "name": "Stephen Amoah",
+        "party": "NPP",
+        "votes": 35502,
+        "elected": true
+      },
+      {
+        "name": "Joan Abunyewah",
+        "party": "LPG",
+        "votes": 584,
+        "elected": false
+      },
+      {
+        "name": "Faustina Bayor Dery",
+        "party": "NDC",
+        "votes": 14071,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "MANHYIA SOUTH",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 28831,
+    "total_rejected_ballots": 194,
+    "total_votes_cast": 29025,
+    "candidates": [
+      {
+        "name": "Nana Agyei Baffour Awuah",
+        "party": "NPP",
+        "votes": 21978,
+        "elected": true
+      },
+      {
+        "name": "Marfo Kwaku",
+        "party": "LPG",
+        "votes": 298,
+        "elected": false
+      },
+      {
+        "name": "Rita Amonu Gyamfua Antwi",
+        "party": "NDC",
+        "votes": 6555,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "MANHYIA NORTH",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 45826,
+    "total_rejected_ballots": 352,
+    "total_votes_cast": 46178,
+    "candidates": [
+      {
+        "name": "Akwasi Konadu",
+        "party": "NPP",
+        "votes": 29675,
+        "elected": true
+      },
+      {
+        "name": "Hamza Swallah",
+        "party": "NDC",
+        "votes": 16151,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SUBIN",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 47177,
+    "total_rejected_ballots": 292,
+    "total_votes_cast": 47469,
+    "candidates": [
+      {
+        "name": "Kofi Obiri Yeboah",
+        "party": "NPP",
+        "votes": 31983,
+        "elected": true
+      },
+      {
+        "name": "Benedicta Kusi Afram",
+        "party": "LPG",
+        "votes": 174,
+        "elected": false
+      },
+      {
+        "name": "Akwasi Agyekum Nana Denkyi",
+        "party": "NDC",
+        "votes": 12684,
+        "elected": false
+      },
+      {
+        "name": "Joseph Boakye-Danquah",
+        "party": "IND",
+        "votes": 2336,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Kwadaso",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 57576,
+    "total_rejected_ballots": 431,
+    "total_votes_cast": 58007,
+    "candidates": [
+      {
+        "name": "Kingsley Nyarko",
+        "party": "NPP",
+        "votes": 45858,
+        "elected": true
+      },
+      {
+        "name": "Eric Asibey",
+        "party": "NDC",
+        "votes": 11221,
+        "elected": false
+      },
+      {
+        "name": "Adongo Akwasi David",
+        "party": "PNC",
+        "votes": 497,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "OLD TAFO",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 50143,
+    "total_rejected_ballots": 294,
+    "total_votes_cast": 50437,
+    "candidates": [
+      {
+        "name": "Vincent Ekwow Assafuah",
+        "party": "NPP",
+        "votes": 34097,
+        "elected": true
+      },
+      {
+        "name": "Obiri Yeboah Frank",
+        "party": "GFP",
+        "votes": 118,
+        "elected": false
+      },
+      {
+        "name": "Sahmudeen Mohammed Kamil",
+        "party": "NDC",
+        "votes": 15707,
+        "elected": false
+      },
+      {
+        "name": "Daniel Kusi Aseidu",
+        "party": "IND",
+        "votes": 221,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SUAME",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 66874,
+    "total_rejected_ballots": 348,
+    "total_votes_cast": 67222,
+    "candidates": [
+      {
+        "name": "John Darko",
+        "party": "NPP",
+        "votes": 51491,
+        "elected": true
+      },
+      {
+        "name": "Frank Owusu Ansah",
+        "party": "NDC",
+        "votes": 14948,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Mubarak",
+        "party": "APC",
+        "votes": 435,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ASOKWA",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 57824,
+    "total_rejected_ballots": 544,
+    "total_votes_cast": 58368,
+    "candidates": [
+      {
+        "name": "Patricia Appiagyei",
+        "party": "NPP",
+        "votes": 41619,
+        "elected": true
+      },
+      {
+        "name": "Amoh Kamel",
+        "party": "NDC",
+        "votes": 16205,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "OFORIKROM",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 72596,
+    "total_rejected_ballots": 356,
+    "total_votes_cast": 72952,
+    "candidates": [
+      {
+        "name": "Michael Kwasi Aidoo",
+        "party": "NPP",
+        "votes": 47709,
+        "elected": true
+      },
+      {
+        "name": "Anwel Sadat Ahmed",
+        "party": "NDC",
+        "votes": 24483,
+        "elected": false
+      },
+      {
+        "name": "Benjamin Afrane Amankwa",
+        "party": "IND",
+        "votes": 404,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ASAWASE",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 73001,
+    "total_rejected_ballots": 340,
+    "total_votes_cast": 73341,
+    "candidates": [
+      {
+        "name": "Manaf Ibrahim",
+        "party": "NPP",
+        "votes": 31049,
+        "elected": false
+      },
+      {
+        "name": "Naomi Nsor",
+        "party": "LPG",
+        "votes": 77,
+        "elected": false
+      },
+      {
+        "name": "Muntaka Mohammed-Mubarak",
+        "party": "NDC",
+        "votes": 41667,
+        "elected": true
+      },
+      {
+        "name": "Issah Baba Kompo",
+        "party": "PPP",
+        "votes": 107,
+        "elected": false
+      },
+      {
+        "name": "Alhassan Rafik",
+        "party": "IND",
+        "votes": 101,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KWABRE EAST",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 96177,
+    "total_rejected_ballots": 574,
+    "total_votes_cast": 96751,
+    "candidates": [
+      {
+        "name": "Onyina-Acheampong Akwasi Gyamfi",
+        "party": "NPP",
+        "votes": 68106,
+        "elected": true
+      },
+      {
+        "name": "Bencha George",
+        "party": "GFP",
+        "votes": 177,
+        "elected": false
+      },
+      {
+        "name": "Joseph Amankwah",
+        "party": "NDC",
+        "votes": 27630,
+        "elected": false
+      },
+      {
+        "name": "Lord Foster Adom Nyamekye",
+        "party": "IND",
+        "votes": 264,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AFIGYA KWABRE SOUTH",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 70365,
+    "total_rejected_ballots": 496,
+    "total_votes_cast": 70861,
+    "candidates": [
+      {
+        "name": "Damata Ama Appianimaa Salam",
+        "party": "NPP",
+        "votes": 50981,
+        "elected": true
+      },
+      {
+        "name": "Nuzagl Vivien Nyuzagla",
+        "party": "NDC",
+        "votes": 16051,
+        "elected": false
+      },
+      {
+        "name": "Idahosah Bright Benson",
+        "party": "IND",
+        "votes": 2777,
+        "elected": false
+      },
+      {
+        "name": "Ofori Daniel",
+        "party": "IND",
+        "votes": 239,
+        "elected": false
+      },
+      {
+        "name": "Abdul Wahab Diyal Wilhak",
+        "party": "IND",
+        "votes": 317,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AFIGYA KWABRE NORTH",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 30072,
+    "total_rejected_ballots": 343,
+    "total_votes_cast": 30415,
+    "candidates": [
+      {
+        "name": "Collins Adomako-Mensah",
+        "party": "NPP",
+        "votes": 16689,
+        "elected": true
+      },
+      {
+        "name": "Emmanuel Jackson Agumah",
+        "party": "NDC",
+        "votes": 13383,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "JUABEN",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 29589,
+    "total_rejected_ballots": 230,
+    "total_votes_cast": 29819,
+    "candidates": [
+      {
+        "name": "Francis Kwabena Berepong Owusu-Akyaw",
+        "party": "NPP",
+        "votes": 21168,
+        "elected": true
+      },
+      {
+        "name": "Eunice Ohenewaa Ansu",
+        "party": "NDC",
+        "votes": 8421,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "EJISU",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 73399,
+    "total_rejected_ballots": 491,
+    "total_votes_cast": 73890,
+    "candidates": [
+      {
+        "name": "Kwabena Boateng",
+        "party": "NPP",
+        "votes": 53626,
+        "elected": true
+      },
+      {
+        "name": "Osei Esther",
+        "party": "CPP",
+        "votes": 258,
+        "elected": false
+      },
+      {
+        "name": "Jerryne Asante",
+        "party": "NDC",
+        "votes": 18041,
+        "elected": false
+      },
+      {
+        "name": "Okai Kwanin",
+        "party": "IND",
+        "votes": 771,
+        "elected": false
+      },
+      {
+        "name": "George Gyapah",
+        "party": "IND",
+        "votes": 261,
+        "elected": false
+      },
+      {
+        "name": "Fredua Agyemang Joseph",
+        "party": "IND",
+        "votes": 442,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ASANTE AKIM SOUTH",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 50640,
+    "total_rejected_ballots": 552,
+    "total_votes_cast": 51192,
+    "candidates": [
+      {
+        "name": "Kwaku Asante-Boateng",
+        "party": "NPP",
+        "votes": 27396,
+        "elected": true
+      },
+      {
+        "name": "Maame Sarfoah Appiah",
+        "party": "NDC",
+        "votes": 23244,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ASANTE AKIM CENTRAL",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 36957,
+    "total_rejected_ballots": 346,
+    "total_votes_cast": 37303,
+    "candidates": [
+      {
+        "name": "Kwame Anyimadu-Antwi",
+        "party": "NPP",
+        "votes": 16628,
+        "elected": true
+      },
+      {
+        "name": "Isaac Dzameshie",
+        "party": "GFP",
+        "votes": 256,
+        "elected": false
+      },
+      {
+        "name": "Ebenezer Ekow Aidoo",
+        "party": "NDC",
+        "votes": 10739,
+        "elected": false
+      },
+      {
+        "name": "Richard Adu Darko",
+        "party": "IND",
+        "votes": 9334,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ASANTE AKIM NORTH",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 38328,
+    "total_rejected_ballots": 513,
+    "total_votes_cast": 38841,
+    "candidates": [
+      {
+        "name": "Andy Kwame Appiah-Kubi",
+        "party": "NPP",
+        "votes": 8933,
+        "elected": false
+      },
+      {
+        "name": "Kofi Asamoah",
+        "party": "NDC",
+        "votes": 2469,
+        "elected": false
+      },
+      {
+        "name": "Ohene Kwame Frimpong",
+        "party": "IND",
+        "votes": 26926,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "EFFIDUASE-ASOKORE",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 31225,
+    "total_rejected_ballots": 371,
+    "total_votes_cast": 31596,
+    "candidates": [
+      {
+        "name": "Nana Ayew Afriye",
+        "party": "NPP",
+        "votes": 23322,
+        "elected": true
+      },
+      {
+        "name": "Raymond Opoku Agyeman",
+        "party": "NDC",
+        "votes": 7903,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KUMAWU",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 28154,
+    "total_rejected_ballots": 160,
+    "total_votes_cast": 28314,
+    "candidates": [
+      {
+        "name": "Ernest Yaw Anim",
+        "party": "NPP",
+        "votes": 21422,
+        "elected": true
+      },
+      {
+        "name": "Kwasi Amankwaa",
+        "party": "NDC",
+        "votes": 6732,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SEKYERE AFRAM PLAINS",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 16249,
+    "total_rejected_ballots": 168,
+    "total_votes_cast": 16417,
+    "candidates": [
+      {
+        "name": "George Akom",
+        "party": "NPP",
+        "votes": 4725,
+        "elected": false
+      },
+      {
+        "name": "Nasira Afrah Gyekye",
+        "party": "NDC",
+        "votes": 11524,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Nsuta-Kwamang-Beposo",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 28951,
+    "total_rejected_ballots": 333,
+    "total_votes_cast": 29284,
+    "candidates": [
+      {
+        "name": "Adelaide Ntim",
+        "party": "NPP",
+        "votes": 16179,
+        "elected": true
+      },
+      {
+        "name": "Ofori Attah Aboagye",
+        "party": "NDC",
+        "votes": 9388,
+        "elected": false
+      },
+      {
+        "name": "Kwankye Aaron Prosper",
+        "party": "IND",
+        "votes": 3384,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "MAMPONG",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 46213,
+    "total_rejected_ballots": 482,
+    "total_votes_cast": 46695,
+    "candidates": [
+      {
+        "name": "Kwaku Ampratwum-Sarpong",
+        "party": "NPP",
+        "votes": 27721,
+        "elected": true
+      },
+      {
+        "name": "Yakubu Issifu",
+        "party": "NDC",
+        "votes": 15486,
+        "elected": false
+      },
+      {
+        "name": "Sarkodie Peter Abum",
+        "party": "IND",
+        "votes": 3006,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "EJURA SEKYEDUMASE",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 52527,
+    "total_rejected_ballots": 565,
+    "total_votes_cast": 53092,
+    "candidates": [
+      {
+        "name": "Gifty Ndoma",
+        "party": "NPP",
+        "votes": 24751,
+        "elected": false
+      },
+      {
+        "name": "Muhammad Bawah Braimah",
+        "party": "NDC",
+        "votes": 27776,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Afigya Sekyere East",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 48101,
+    "total_rejected_ballots": 402,
+    "total_votes_cast": 48503,
+    "candidates": [
+      {
+        "name": "Mavis Nkansah-Boadu",
+        "party": "NPP",
+        "votes": 33319,
+        "elected": true
+      },
+      {
+        "name": "Twumasi Evans Amoh",
+        "party": "NDC",
+        "votes": 14782,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "OFFINSO SOUTH",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 53543,
+    "total_rejected_ballots": 531,
+    "total_votes_cast": 54074,
+    "candidates": [
+      {
+        "name": "Isaac Yaw Opoku",
+        "party": "NPP",
+        "votes": 28603,
+        "elected": true
+      },
+      {
+        "name": "Asare Bediako Vincent",
+        "party": "NDC",
+        "votes": 24940,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "OFFINSO NORTH",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 39058,
+    "total_rejected_ballots": 411,
+    "total_votes_cast": 39469,
+    "candidates": [
+      {
+        "name": "Fred Kyei Asamoah",
+        "party": "NPP",
+        "votes": 20254,
+        "elected": true
+      },
+      {
+        "name": "Ceasar Acheampong Ofosu",
+        "party": "NDC",
+        "votes": 18699,
+        "elected": false
+      },
+      {
+        "name": "Abdul Nasir Deen",
+        "party": "PNC",
+        "votes": 105,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AHAFO ANO SOUTH WEST",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 31430,
+    "total_rejected_ballots": 393,
+    "total_votes_cast": 31823,
+    "candidates": [
+      {
+        "name": "Osei Mensah Dapaah Elvis",
+        "party": "NPP",
+        "votes": 16058,
+        "elected": true
+      },
+      {
+        "name": "Sedik Abubakar",
+        "party": "NDC",
+        "votes": 15372,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AHAFO ANO SOUTH EAST",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 29761,
+    "total_rejected_ballots": 231,
+    "total_votes_cast": 29992,
+    "candidates": [
+      {
+        "name": "Frederick Acheampong",
+        "party": "NPP",
+        "votes": 14152,
+        "elected": false
+      },
+      {
+        "name": "Yakubu Mohammed",
+        "party": "NDC",
+        "votes": 15609,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AHAFO ANO NORTH",
+    "region": "ASHANTI",
+    "registered_voters": null,
+    "total_valid_votes": 40585,
+    "total_rejected_ballots": 390,
+    "total_votes_cast": 40975,
+    "candidates": [
+      {
+        "name": "Eric Nana Agyemang-Prempeh",
+        "party": "NPP",
+        "votes": 20353,
+        "elected": true
+      },
+      {
+        "name": "Kwasi Adusei",
+        "party": "NDC",
+        "votes": 20232,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AOWIN",
+    "region": "WESTERN NORTH",
+    "registered_voters": null,
+    "total_valid_votes": 43675,
+    "total_rejected_ballots": 663,
+    "total_votes_cast": 44338,
+    "candidates": [
+      {
+        "name": "Abanga Yakubu Fusani",
+        "party": "NPP",
+        "votes": 21786,
+        "elected": false
+      },
+      {
+        "name": "Oscar Ofori Larbi",
+        "party": "NDC",
+        "votes": 21889,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SUAMAN",
+    "region": "WESTERN NORTH",
+    "registered_voters": null,
+    "total_valid_votes": 17302,
+    "total_rejected_ballots": 193,
+    "total_votes_cast": 17495,
+    "candidates": [
+      {
+        "name": "Addy Frederick",
+        "party": "NPP",
+        "votes": 9027,
+        "elected": true
+      },
+      {
+        "name": "John Asare",
+        "party": "LPG",
+        "votes": 61,
+        "elected": false
+      },
+      {
+        "name": "Joseph Betino",
+        "party": "NDC",
+        "votes": 8214,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BIBIANI-ANHWIASO-BEKWAI",
+    "region": "WESTERN NORTH",
+    "registered_voters": null,
+    "total_valid_votes": 65481,
+    "total_rejected_ballots": 531,
+    "total_votes_cast": 66012,
+    "candidates": [
+      {
+        "name": "Alfred Obeng-Boateng",
+        "party": "NPP",
+        "votes": 31749,
+        "elected": false
+      },
+      {
+        "name": "Bright Asamoah Brefo",
+        "party": "NDC",
+        "votes": 33732,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Sefwi Wiawso",
+    "region": "WESTERN NORTH",
+    "registered_voters": null,
+    "total_valid_votes": 58746,
+    "total_rejected_ballots": 565,
+    "total_votes_cast": 59311,
+    "candidates": [
+      {
+        "name": "Festus Bumakama Agyapong",
+        "party": "NPP",
+        "votes": 24926,
+        "elected": false
+      },
+      {
+        "name": "Afful Kofi Benteh",
+        "party": "NDC",
+        "votes": 33656,
+        "elected": true
+      },
+      {
+        "name": "Ababio Veronica",
+        "party": "IND",
+        "votes": 164,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Sefwi Akontombra",
+    "region": "WESTERN NORTH",
+    "registered_voters": null,
+    "total_valid_votes": 30179,
+    "total_rejected_ballots": 237,
+    "total_votes_cast": 30416,
+    "candidates": [
+      {
+        "name": "Djornobuah Alex Tetteh",
+        "party": "NPP",
+        "votes": 13486,
+        "elected": false
+      },
+      {
+        "name": "Pious Kwame Nkuah",
+        "party": "NDC",
+        "votes": 16693,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "JUABOSO",
+    "region": "WESTERN NORTH",
+    "registered_voters": null,
+    "total_valid_votes": 39488,
+    "total_rejected_ballots": 511,
+    "total_votes_cast": 39999,
+    "candidates": [
+      {
+        "name": "Alexander Ampaabeng",
+        "party": "NPP",
+        "votes": 18672,
+        "elected": false
+      },
+      {
+        "name": "Oppong Ernestina",
+        "party": "CPP",
+        "votes": 92,
+        "elected": false
+      },
+      {
+        "name": "Kwabena Mintah Akandoh",
+        "party": "NDC",
+        "votes": 20724,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BODI",
+    "region": "WESTERN NORTH",
+    "registered_voters": null,
+    "total_valid_votes": 22316,
+    "total_rejected_ballots": 245,
+    "total_votes_cast": 22561,
+    "candidates": [
+      {
+        "name": "Andoh Nicholas",
+        "party": "NPP",
+        "votes": 9230,
+        "elected": false
+      },
+      {
+        "name": "Ahi Sampson",
+        "party": "NDC",
+        "votes": 13086,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BIA WEST",
+    "region": "WESTERN NORTH",
+    "registered_voters": null,
+    "total_valid_votes": 39202,
+    "total_rejected_ballots": 495,
+    "total_votes_cast": 39697,
+    "candidates": [
+      {
+        "name": "Bernard Gyebi Blay",
+        "party": "NPP",
+        "votes": 11815,
+        "elected": false
+      },
+      {
+        "name": "Tanko Mustapha Amadu",
+        "party": "NDC",
+        "votes": 27387,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BIA EAST",
+    "region": "WESTERN NORTH",
+    "registered_voters": null,
+    "total_valid_votes": 21299,
+    "total_rejected_ballots": 551,
+    "total_votes_cast": 21850,
+    "candidates": [
+      {
+        "name": "Nicholas Kupog Yayin",
+        "party": "NPP",
+        "votes": 8351,
+        "elected": false
+      },
+      {
+        "name": "Richard Acheampong",
+        "party": "NDC",
+        "votes": 12948,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ASUNAFO SOUTH",
+    "region": "AHAFO",
+    "registered_voters": null,
+    "total_valid_votes": 43980,
+    "total_rejected_ballots": 298,
+    "total_votes_cast": 44278,
+    "candidates": [
+      {
+        "name": "Frank Aduse Poku",
+        "party": "NPP",
+        "votes": 18736,
+        "elected": false
+      },
+      {
+        "name": "Opoku Eric",
+        "party": "NDC",
+        "votes": 25244,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ASUNAFO NORTH",
+    "region": "AHAFO",
+    "registered_voters": null,
+    "total_valid_votes": 59183,
+    "total_rejected_ballots": 465,
+    "total_votes_cast": 59648,
+    "candidates": [
+      {
+        "name": "Evans Opoku Bobie",
+        "party": "NPP",
+        "votes": 25101,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Haruna",
+        "party": "NDC",
+        "votes": 34082,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ASUTIFI SOUTH",
+    "region": "AHAFO",
+    "registered_voters": null,
+    "total_valid_votes": 36199,
+    "total_rejected_ballots": 267,
+    "total_votes_cast": 36466,
+    "candidates": [
+      {
+        "name": "Yaw Owusu-Brempong",
+        "party": "NPP",
+        "votes": 16092,
+        "elected": false
+      },
+      {
+        "name": "Andrews Kofi Ahiamata",
+        "party": "NDP",
+        "votes": 87,
+        "elected": false
+      },
+      {
+        "name": "Collins Dauda",
+        "party": "NDC",
+        "votes": 20020,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ASUTIFI NORTH",
+    "region": "AHAFO",
+    "registered_voters": null,
+    "total_valid_votes": 32791,
+    "total_rejected_ballots": 224,
+    "total_votes_cast": 33015,
+    "candidates": [
+      {
+        "name": "Patrick Banor",
+        "party": "NPP",
+        "votes": 14207,
+        "elected": false
+      },
+      {
+        "name": "Ebenezer Kwaku Addo",
+        "party": "NDC",
+        "votes": 18584,
+        "elected": true
+      }
+    ],
+    "notes": "Ebenezer Kwaku Addo's party corrected from NDP to NDC \u2014 confirmed as a source transcription error: raw source had NDP, but he ran as NDC in this same constituency in 2020 (already seeded and verified), and NDP holds no seats in the real 2024 Parliament. Two real, distinct party codes swapped for one candidate."
+  },
+  {
+    "constituency": "TANO SOUTH",
+    "region": "AHAFO",
+    "registered_voters": null,
+    "total_valid_votes": 39492,
+    "total_rejected_ballots": 316,
+    "total_votes_cast": 39808,
+    "candidates": [
+      {
+        "name": "Hon. Dr. Benjamin Yeboah Sekyere",
+        "party": "NPP",
+        "votes": 19061,
+        "elected": false
+      },
+      {
+        "name": "Charles Asiedu",
+        "party": "NDC",
+        "votes": 20056,
+        "elected": true
+      },
+      {
+        "name": "Kofi Nti Christopher",
+        "party": "IND",
+        "votes": 375,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "TANO NORTH",
+    "region": "AHAFO",
+    "registered_voters": null,
+    "total_valid_votes": 38834,
+    "total_rejected_ballots": 267,
+    "total_votes_cast": 39101,
+    "candidates": [
+      {
+        "name": "Dr. Gideon Boako",
+        "party": "NPP",
+        "votes": 21127,
+        "elected": true
+      },
+      {
+        "name": "Pius Opoku Sampson",
+        "party": "NDC",
+        "votes": 17707,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SUNYANI EAST",
+    "region": "BONO",
+    "registered_voters": null,
+    "total_valid_votes": 65275,
+    "total_rejected_ballots": 482,
+    "total_votes_cast": 65757,
+    "candidates": [
+      {
+        "name": "Kwasi Ameyaw-Cheremeh",
+        "party": "NPP",
+        "votes": 22306,
+        "elected": false
+      },
+      {
+        "name": "Sela Mubarak",
+        "party": "NDC",
+        "votes": 34453,
+        "elected": true
+      },
+      {
+        "name": "Alanyina Sampana Sampson",
+        "party": "PNC",
+        "votes": 222,
+        "elected": false
+      },
+      {
+        "name": "Ransford Antwi",
+        "party": "IND",
+        "votes": 8294,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SUNYANI WEST",
+    "region": "BONO",
+    "registered_voters": null,
+    "total_valid_votes": 46543,
+    "total_rejected_ballots": 502,
+    "total_votes_cast": 47045,
+    "candidates": [
+      {
+        "name": "Awuah Ignatius Baffour",
+        "party": "NPP",
+        "votes": 19715,
+        "elected": false
+      },
+      {
+        "name": "Millicent Yeboah Amankwah",
+        "party": "NDC",
+        "votes": 26828,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "DORMAA WEST",
+    "region": "BONO",
+    "registered_voters": null,
+    "total_valid_votes": 20530,
+    "total_rejected_ballots": 262,
+    "total_votes_cast": 20792,
+    "candidates": [
+      {
+        "name": "Ali Maiga Halidu",
+        "party": "NPP",
+        "votes": 9101,
+        "elected": false
+      },
+      {
+        "name": "Vincent Oppong Asamoah",
+        "party": "NDC",
+        "votes": 11299,
+        "elected": true
+      },
+      {
+        "name": "Umar Yusif",
+        "party": "IND",
+        "votes": 130,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "DORMAA CENTRAL",
+    "region": "BONO",
+    "registered_voters": null,
+    "total_valid_votes": 40707,
+    "total_rejected_ballots": 410,
+    "total_votes_cast": 41117,
+    "candidates": [
+      {
+        "name": "Kwaku Agyeman-Manu",
+        "party": "NPP",
+        "votes": 17450,
+        "elected": false
+      },
+      {
+        "name": "Jochee Uroy Edem",
+        "party": "GCPP",
+        "votes": 125,
+        "elected": false
+      },
+      {
+        "name": "Eric Kwaku Yeboah",
+        "party": "NDP",
+        "votes": 97,
+        "elected": false
+      },
+      {
+        "name": "John Kwame Adu Jack",
+        "party": "NDC",
+        "votes": 23035,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "DORMAA EAST",
+    "region": "BONO",
+    "registered_voters": null,
+    "total_valid_votes": 24486,
+    "total_rejected_ballots": 314,
+    "total_votes_cast": 24800,
+    "candidates": [
+      {
+        "name": "Paul Apereku Twum-Barimah",
+        "party": "NPP",
+        "votes": 12050,
+        "elected": false
+      },
+      {
+        "name": "Owusuah Rachel Amma",
+        "party": "NDC",
+        "votes": 12310,
+        "elected": true
+      },
+      {
+        "name": "Emmanuel Twih Gyabaah",
+        "party": "IND",
+        "votes": 126,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BEREKUM EAST",
+    "region": "BONO",
+    "registered_voters": null,
+    "total_valid_votes": 38090,
+    "total_rejected_ballots": 266,
+    "total_votes_cast": 38356,
+    "candidates": [
+      {
+        "name": "Nelson Kyeremeh",
+        "party": "NPP",
+        "votes": 14356,
+        "elected": false
+      },
+      {
+        "name": "Ampaabeng Kyeremeh Simon",
+        "party": "NDC",
+        "votes": 23476,
+        "elected": true
+      },
+      {
+        "name": "Baifi Abigail",
+        "party": "PNC",
+        "votes": 96,
+        "elected": false
+      },
+      {
+        "name": "Adarkwa Blessing Emmanuel Kwame",
+        "party": "PAG",
+        "votes": 162,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BEREKUM WEST",
+    "region": "BONO",
+    "registered_voters": null,
+    "total_valid_votes": 22520,
+    "total_rejected_ballots": 192,
+    "total_votes_cast": 22712,
+    "candidates": [
+      {
+        "name": "Kwaku Agyenim-Boateng",
+        "party": "NPP",
+        "votes": 8651,
+        "elected": false
+      },
+      {
+        "name": "Dickson Kyere-Duah",
+        "party": "NDC",
+        "votes": 13869,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "JAMAN SOUTH",
+    "region": "BONO",
+    "registered_voters": null,
+    "total_valid_votes": 41929,
+    "total_rejected_ballots": 458,
+    "total_votes_cast": 42387,
+    "candidates": [
+      {
+        "name": "Kwadwo Damoah",
+        "party": "NPP",
+        "votes": 21637,
+        "elected": true
+      },
+      {
+        "name": "Bediako Joyce Asare",
+        "party": "NDP",
+        "votes": 116,
+        "elected": false
+      },
+      {
+        "name": "Okofo-Dateh Williams",
+        "party": "NDC",
+        "votes": 20176,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "JAMAN NORTH",
+    "region": "BONO",
+    "registered_voters": null,
+    "total_valid_votes": 36631,
+    "total_rejected_ballots": 391,
+    "total_votes_cast": 37022,
+    "candidates": [
+      {
+        "name": "Enock Nyarko",
+        "party": "NPP",
+        "votes": 15316,
+        "elected": false
+      },
+      {
+        "name": "Ahenkwah Frederick Yaw",
+        "party": "NDC",
+        "votes": 21134,
+        "elected": true
+      },
+      {
+        "name": "Martin Kwame Antwi",
+        "party": "IND",
+        "votes": 181,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BANDA",
+    "region": "BONO",
+    "registered_voters": null,
+    "total_valid_votes": 17261,
+    "total_rejected_ballots": 176,
+    "total_votes_cast": 17437,
+    "candidates": [
+      {
+        "name": "Joe Danquah",
+        "party": "NPP",
+        "votes": 8010,
+        "elected": false
+      },
+      {
+        "name": "Paul Nyankamago",
+        "party": "GCPP",
+        "votes": 31,
+        "elected": false
+      },
+      {
+        "name": "Yeboah Abbrey",
+        "party": "NDP",
+        "votes": 29,
+        "elected": false
+      },
+      {
+        "name": "Ibrahim Ahmed",
+        "party": "NDC",
+        "votes": 9150,
+        "elected": true
+      },
+      {
+        "name": "Isaac K. Annorhene",
+        "party": "IND",
+        "votes": 41,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "TAIN",
+    "region": "BONO",
+    "registered_voters": null,
+    "total_valid_votes": 41989,
+    "total_rejected_ballots": 641,
+    "total_votes_cast": 42630,
+    "candidates": [
+      {
+        "name": "Ababio Alexandeer",
+        "party": "NPP",
+        "votes": 20276,
+        "elected": false
+      },
+      {
+        "name": "Sah Job Kwabena",
+        "party": "NDP",
+        "votes": 235,
+        "elected": false
+      },
+      {
+        "name": "Adama Sulemana",
+        "party": "NDC",
+        "votes": 21478,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "WENCHI",
+    "region": "BONO",
+    "registered_voters": null,
+    "total_valid_votes": 47681,
+    "total_rejected_ballots": 564,
+    "total_votes_cast": 48245,
+    "candidates": [
+      {
+        "name": "Kojo Frempong",
+        "party": "NPP",
+        "votes": 20941,
+        "elected": false
+      },
+      {
+        "name": "Haruna Seidu",
+        "party": "NDC",
+        "votes": 26549,
+        "elected": true
+      },
+      {
+        "name": "David Kusi",
+        "party": "IND",
+        "votes": 191,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "TECHIMAN SOUTH",
+    "region": "BONO EAST",
+    "registered_voters": null,
+    "total_valid_votes": 90308,
+    "total_rejected_ballots": 844,
+    "total_votes_cast": 91152,
+    "candidates": [
+      {
+        "name": "Martin Kwaku Adjei-Mensah Korsah",
+        "party": "NPP",
+        "votes": 46663,
+        "elected": true
+      },
+      {
+        "name": "Christophper Beyere Baasongti",
+        "party": "NDC",
+        "votes": 43429,
+        "elected": false
+      },
+      {
+        "name": "Donkor Moses",
+        "party": "PPP",
+        "votes": 140,
+        "elected": false
+      },
+      {
+        "name": "Boyoung Iddris",
+        "party": "IND",
+        "votes": 76,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KINTAMPO NORTH",
+    "region": "BONO EAST",
+    "registered_voters": null,
+    "total_valid_votes": 46965,
+    "total_rejected_ballots": 773,
+    "total_votes_cast": 47738,
+    "candidates": [
+      {
+        "name": "Isaac Baffoe Ameyaw",
+        "party": "NPP",
+        "votes": 16794,
+        "elected": false
+      },
+      {
+        "name": "Joseph Kwame Kumah",
+        "party": "NDC",
+        "votes": 29606,
+        "elected": true
+      },
+      {
+        "name": "Buare Kojo",
+        "party": "IND",
+        "votes": 565,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KINTAMPO SOUTH",
+    "region": "BONO EAST",
+    "registered_voters": null,
+    "total_valid_votes": 36053,
+    "total_rejected_ballots": 479,
+    "total_votes_cast": 36532,
+    "candidates": [
+      {
+        "name": "Alexander Gyan",
+        "party": "NPP",
+        "votes": 15186,
+        "elected": false
+      },
+      {
+        "name": "Felicia Adjei",
+        "party": "NDC",
+        "votes": 20867,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NKORANZA NORTH",
+    "region": "BONO EAST",
+    "registered_voters": null,
+    "total_valid_votes": 25815,
+    "total_rejected_ballots": 463,
+    "total_votes_cast": 26278,
+    "candidates": [
+      {
+        "name": "Jacqueline Boatemaa Bonsu",
+        "party": "NPP",
+        "votes": 9784,
+        "elected": false
+      },
+      {
+        "name": "Boahene Clement",
+        "party": "LPG",
+        "votes": 92,
+        "elected": false
+      },
+      {
+        "name": "Mensah Kwasi Joseph",
+        "party": "NDC",
+        "votes": 10453,
+        "elected": true
+      },
+      {
+        "name": "Charles Owusu",
+        "party": "IND",
+        "votes": 5486,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NKORANZA SOUTH",
+    "region": "BONO EAST",
+    "registered_voters": null,
+    "total_valid_votes": 49566,
+    "total_rejected_ballots": 418,
+    "total_votes_cast": 49984,
+    "candidates": [
+      {
+        "name": "Harriet Kyeremanteng Oppong",
+        "party": "NPP",
+        "votes": 20912,
+        "elected": false
+      },
+      {
+        "name": "Sabastine Gaata",
+        "party": "LPG",
+        "votes": 112,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Kwadwo Agyekum",
+        "party": "NDC",
+        "votes": 28469,
+        "elected": true
+      },
+      {
+        "name": "Florence Ampour",
+        "party": "PNC",
+        "votes": 73,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Atebubu-Amantin",
+    "region": "BONO EAST",
+    "registered_voters": null,
+    "total_valid_votes": 45034,
+    "total_rejected_ballots": 748,
+    "total_votes_cast": 45782,
+    "candidates": [
+      {
+        "name": "Baduon Dimmie Issah Abu",
+        "party": "NPP",
+        "votes": 18977,
+        "elected": false
+      },
+      {
+        "name": "Sanja Nanja",
+        "party": "NDC",
+        "votes": 25758,
+        "elected": true
+      },
+      {
+        "name": "Hennaa Kwaku Abraham",
+        "party": "PPP",
+        "votes": 299,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "PRU WEST",
+    "region": "BONO EAST",
+    "registered_voters": null,
+    "total_valid_votes": 29587,
+    "total_rejected_ballots": 418,
+    "total_votes_cast": 30005,
+    "candidates": [
+      {
+        "name": "Stephen Pambiin Jalulah",
+        "party": "NPP",
+        "votes": 13876,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Kofi Ntekuni",
+        "party": "NDC",
+        "votes": 15711,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "PRU EAST",
+    "region": "BONO EAST",
+    "registered_voters": null,
+    "total_valid_votes": 31528,
+    "total_rejected_ballots": 561,
+    "total_votes_cast": 32089,
+    "candidates": [
+      {
+        "name": "Apetorgbor Yussif Appeh",
+        "party": "NPP",
+        "votes": 8737,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Kwaku Boam",
+        "party": "NDC",
+        "votes": 20287,
+        "elected": true
+      },
+      {
+        "name": "Felix Nimako",
+        "party": "IND",
+        "votes": 2504,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SENE WEST",
+    "region": "BONO EAST",
+    "registered_voters": null,
+    "total_valid_votes": 27186,
+    "total_rejected_ballots": 385,
+    "total_votes_cast": 27571,
+    "candidates": [
+      {
+        "name": "Joseph Kumah Mackay",
+        "party": "NPP",
+        "votes": 13362,
+        "elected": false
+      },
+      {
+        "name": "Kwame Twumasi Ampofo",
+        "party": "NDC",
+        "votes": 13824,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SENE EAST",
+    "region": "BONO EAST",
+    "registered_voters": null,
+    "total_valid_votes": 18584,
+    "total_rejected_ballots": 477,
+    "total_votes_cast": 19061,
+    "candidates": [
+      {
+        "name": "Wudonyim Kofi Ibrahim",
+        "party": "NPP",
+        "votes": 6954,
+        "elected": false
+      },
+      {
+        "name": "Napare Dominic",
+        "party": "NDC",
+        "votes": 11630,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "TECHIMAN NORTH",
+    "region": "BONO EAST",
+    "registered_voters": null,
+    "total_valid_votes": 42088,
+    "total_rejected_ballots": 426,
+    "total_votes_cast": 42514,
+    "candidates": [
+      {
+        "name": "Martin Oti Gyarko",
+        "party": "NPP",
+        "votes": 19214,
+        "elected": false
+      },
+      {
+        "name": "Elizabeth Ofosu-Adjare",
+        "party": "NDC",
+        "votes": 22513,
+        "elected": true
+      },
+      {
+        "name": "Frank Asare",
+        "party": "IND",
+        "votes": 361,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BUEM",
+    "region": "OTI",
+    "registered_voters": null,
+    "total_valid_votes": 22362,
+    "total_rejected_ballots": 209,
+    "total_votes_cast": 22571,
+    "candidates": [
+      {
+        "name": "Richard Kwadwo Adjei",
+        "party": "NPP",
+        "votes": 4852,
+        "elected": false
+      },
+      {
+        "name": "Adams Iddie Kofi",
+        "party": "NDC",
+        "votes": 17510,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BIAKOYE",
+    "region": "OTI",
+    "registered_voters": null,
+    "total_valid_votes": 27553,
+    "total_rejected_ballots": 295,
+    "total_votes_cast": 27848,
+    "candidates": [
+      {
+        "name": "Frank Yirenkyi",
+        "party": "NPP",
+        "votes": 9696,
+        "elected": false
+      },
+      {
+        "name": "Paul Kwasi Demends",
+        "party": "LPG",
+        "votes": 97,
+        "elected": false
+      },
+      {
+        "name": "Jean-Marie Formadi",
+        "party": "NDC",
+        "votes": 17760,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "AKAN",
+    "region": "OTI",
+    "registered_voters": null,
+    "total_valid_votes": 30175,
+    "total_rejected_ballots": 376,
+    "total_votes_cast": 30551,
+    "candidates": [
+      {
+        "name": "Tassah Mustapha Tassah",
+        "party": "NPP",
+        "votes": 11772,
+        "elected": false
+      },
+      {
+        "name": "Aforla Yawa Mary",
+        "party": "LPG",
+        "votes": 175,
+        "elected": false
+      },
+      {
+        "name": "Gomado, Yao",
+        "party": "NDC",
+        "votes": 18228,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KRACHI EAST",
+    "region": "OTI",
+    "registered_voters": null,
+    "total_valid_votes": 38875,
+    "total_rejected_ballots": 425,
+    "total_votes_cast": 39300,
+    "candidates": [
+      {
+        "name": "Michael Yaw Gyato",
+        "party": "NPP",
+        "votes": 15345,
+        "elected": false
+      },
+      {
+        "name": "Nelson Kofi Djabab",
+        "party": "NDC",
+        "votes": 23530,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KRACHI WEST",
+    "region": "OTI",
+    "registered_voters": null,
+    "total_valid_votes": 24249,
+    "total_rejected_ballots": 254,
+    "total_votes_cast": 24503,
+    "candidates": [
+      {
+        "name": "Justice Mensah Amankwa",
+        "party": "NPP",
+        "votes": 10934,
+        "elected": false
+      },
+      {
+        "name": "Charles Bisi Gyamgbuja",
+        "party": "LPG",
+        "votes": 146,
+        "elected": false
+      },
+      {
+        "name": "Helen Adjoa Ntoso",
+        "party": "NDC",
+        "votes": 13169,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KRACHI NCHUMURU",
+    "region": "OTI",
+    "registered_voters": null,
+    "total_valid_votes": 28223,
+    "total_rejected_ballots": 520,
+    "total_votes_cast": 28743,
+    "candidates": [
+      {
+        "name": "James Mamudu",
+        "party": "NPP",
+        "votes": 11959,
+        "elected": false
+      },
+      {
+        "name": "Ntana Richmond Uwumborbin",
+        "party": "LPG",
+        "votes": 236,
+        "elected": false
+      },
+      {
+        "name": "Solomon Kuyon",
+        "party": "NDC",
+        "votes": 16028,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NKWANTA SOUTH",
+    "region": "OTI",
+    "registered_voters": null,
+    "total_valid_votes": 45132,
+    "total_rejected_ballots": 643,
+    "total_votes_cast": 45775,
+    "candidates": [
+      {
+        "name": "Sherifa Selina Sekyere-Tijani",
+        "party": "NPP",
+        "votes": 18385,
+        "elected": false
+      },
+      {
+        "name": "Nakpatun Obayety Noah",
+        "party": "LPG",
+        "votes": 204,
+        "elected": false
+      },
+      {
+        "name": "Geoffrey Kini",
+        "party": "NDC",
+        "votes": 26543,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NKWANTA NORTH",
+    "region": "OTI",
+    "registered_voters": null,
+    "total_valid_votes": 48055,
+    "total_rejected_ballots": 765,
+    "total_votes_cast": 48820,
+    "candidates": [
+      {
+        "name": "Benjamin Munyum Nador",
+        "party": "NPP",
+        "votes": 22679,
+        "elected": false
+      },
+      {
+        "name": "Gabriel Kwabena Donkor",
+        "party": "LPG",
+        "votes": 114,
+        "elected": false
+      },
+      {
+        "name": "John Kwabena Bless Oti",
+        "party": "NDC",
+        "votes": 25197,
+        "elected": true
+      },
+      {
+        "name": "Oduro Aikens Kofi Yeboah",
+        "party": "IND",
+        "votes": 65,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "GUAN",
+    "region": "OTI",
+    "registered_voters": null,
+    "total_valid_votes": 13043,
+    "total_rejected_ballots": 121,
+    "total_votes_cast": 13164,
+    "candidates": [
+      {
+        "name": "Michael Osibo",
+        "party": "NPP",
+        "votes": 2998,
+        "elected": false
+      },
+      {
+        "name": "Sekor Sussie",
+        "party": "NDP",
+        "votes": 82,
+        "elected": false
+      },
+      {
+        "name": "Agbenyo Fred Kwesi",
+        "party": "NDC",
+        "votes": 9963,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KPANDAI",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 52264,
+    "total_rejected_ballots": 714,
+    "total_votes_cast": 52978,
+    "candidates": [
+      {
+        "name": "Matthew Nyindam",
+        "party": "NPP",
+        "votes": 27947,
+        "elected": true
+      },
+      {
+        "name": "Daniel Nsala Wakpal",
+        "party": "NDC",
+        "votes": 24213,
+        "elected": false
+      },
+      {
+        "name": "Donkor Eric Nipani",
+        "party": "APC",
+        "votes": 104,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BIMBILLA",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 66930,
+    "total_rejected_ballots": 1885,
+    "total_votes_cast": 68815,
+    "candidates": [
+      {
+        "name": "Nitiwul Bingab Aduna Dominic",
+        "party": "NPP",
+        "votes": 34553,
+        "elected": true
+      },
+      {
+        "name": "Joseph Kwabena Manboah-Rockson",
+        "party": "NDC",
+        "votes": 29240,
+        "elected": false
+      },
+      {
+        "name": "Attah Suale",
+        "party": "PPP",
+        "votes": 2387,
+        "elected": false
+      },
+      {
+        "name": "Kamil Bamanpong",
+        "party": "IND",
+        "votes": 750,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "WULENSI",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 43067,
+    "total_rejected_ballots": 846,
+    "total_votes_cast": 43913,
+    "candidates": [
+      {
+        "name": "Haruna Abdulai",
+        "party": "NPP",
+        "votes": 14137,
+        "elected": false
+      },
+      {
+        "name": "Dawuni Abukari",
+        "party": "NDC",
+        "votes": 11498,
+        "elected": false
+      },
+      {
+        "name": "Nandaya Yaw Stanley",
+        "party": "IND",
+        "votes": 17432,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ZABZUGU",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 35815,
+    "total_rejected_ballots": 849,
+    "total_votes_cast": 36664,
+    "candidates": [
+      {
+        "name": "Fawaz Aliu",
+        "party": "NPP",
+        "votes": 15175,
+        "elected": false
+      },
+      {
+        "name": "Alhassan Umar",
+        "party": "NDC",
+        "votes": 15508,
+        "elected": true
+      },
+      {
+        "name": "Obori Bunakpabine Solomon",
+        "party": "IND",
+        "votes": 5135,
+        "elected": false
+      }
+    ],
+    "notes": "Candidate sum (35,818) exceeds stated Total Valid Votes (35,815) by 3. Minor, unresolved."
+  },
+  {
+    "constituency": "Tatale-Sanguli",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 32049,
+    "total_rejected_ballots": 616,
+    "total_votes_cast": 32665,
+    "candidates": [
+      {
+        "name": "Mbomba Thomas",
+        "party": "NPP",
+        "votes": 15590,
+        "elected": false
+      },
+      {
+        "name": "Ntebe Ayo William",
+        "party": "NDC",
+        "votes": 16459,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "YENDI",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 65536,
+    "total_rejected_ballots": 923,
+    "total_votes_cast": 66459,
+    "candidates": [
+      {
+        "name": "Umar Farouk Aliu Mahama",
+        "party": "NPP",
+        "votes": 30441,
+        "elected": false
+      },
+      {
+        "name": "Abdul-Fatawu Alhassan",
+        "party": "NDC",
+        "votes": 30770,
+        "elected": true
+      },
+      {
+        "name": "Hussein Abdul-Karim",
+        "party": "IND",
+        "votes": 4325,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "MION",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 38339,
+    "total_rejected_ballots": 738,
+    "total_votes_cast": 39077,
+    "candidates": [
+      {
+        "name": "Musah Abdul-Aziz Ayaba",
+        "party": "NPP",
+        "votes": 18066,
+        "elected": false
+      },
+      {
+        "name": "Misbahu Mahama Adams",
+        "party": "NDC",
+        "votes": 20273,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SABOBA",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 32709,
+    "total_rejected_ballots": 895,
+    "total_votes_cast": 33604,
+    "candidates": [
+      {
+        "name": "Bintin Charles Binipom",
+        "party": "NPP",
+        "votes": 9170,
+        "elected": false
+      },
+      {
+        "name": "Bukari Nikpe Joseph",
+        "party": "NDC",
+        "votes": 14178,
+        "elected": true
+      },
+      {
+        "name": "Emmanuel Mawanye Kotin",
+        "party": "IND",
+        "votes": 9290,
+        "elected": false
+      },
+      {
+        "name": "Yajabun Janwol Samson",
+        "party": "IND",
+        "votes": 71,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Gushiegu",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 59715,
+    "total_rejected_ballots": 1055,
+    "total_votes_cast": 60770,
+    "candidates": [
+      {
+        "name": "Alhassan Tampuli Sulemana",
+        "party": "NPP",
+        "votes": 30490,
+        "elected": true
+      },
+      {
+        "name": "Mohammed Yussif Malimali",
+        "party": "NDC",
+        "votes": 29225,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KARAGA",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 49308,
+    "total_rejected_ballots": 1131,
+    "total_votes_cast": 50439,
+    "candidates": [
+      {
+        "name": "Mohammed Amin Adam",
+        "party": "NPP",
+        "votes": 27315,
+        "elected": true
+      },
+      {
+        "name": "Alhassan Sualihu Dandaawa",
+        "party": "NDC",
+        "votes": 21993,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SAVELUGU",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 52463,
+    "total_rejected_ballots": 559,
+    "total_votes_cast": 53022,
+    "candidates": [
+      {
+        "name": "Abdul Aziz Fatahiya",
+        "party": "NPP",
+        "votes": 27450,
+        "elected": true
+      },
+      {
+        "name": "Abdulai Jacob Iddriss",
+        "party": "NDC",
+        "votes": 24877,
+        "elected": false
+      },
+      {
+        "name": "Haruna Zakaria",
+        "party": "PNC",
+        "votes": 136,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NANTON",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 31583,
+    "total_rejected_ballots": 250,
+    "total_votes_cast": 31833,
+    "candidates": [
+      {
+        "name": "Mohammed Hardi Tufeiru",
+        "party": "NPP",
+        "votes": 14506,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Sherif Abdul-Khaliq",
+        "party": "NDC",
+        "votes": 17077,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "TAMALE SOUTH",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 89281,
+    "total_rejected_ballots": 852,
+    "total_votes_cast": 90133,
+    "candidates": [
+      {
+        "name": "Fuseini Musah",
+        "party": "NPP",
+        "votes": 20974,
+        "elected": false
+      },
+      {
+        "name": "Kassim Abdul Jalilu",
+        "party": "CPP",
+        "votes": 431,
+        "elected": false
+      },
+      {
+        "name": "Iddrisu Haruna",
+        "party": "NDC",
+        "votes": 67018,
+        "elected": true
+      },
+      {
+        "name": "Sualisu Imoro Nabila",
+        "party": "PNC",
+        "votes": 402,
+        "elected": false
+      },
+      {
+        "name": "Haashimiyu Yahaya",
+        "party": "IND",
+        "votes": 456,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "TAMALE CENTRAL",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 68910,
+    "total_rejected_ballots": 806,
+    "total_votes_cast": 69716,
+    "candidates": [
+      {
+        "name": "Sulemana Salifu",
+        "party": "NPP",
+        "votes": 16647,
+        "elected": false
+      },
+      {
+        "name": "Ibrahim Murtala Muhammed",
+        "party": "NDC",
+        "votes": 52263,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SAGNARIGU",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 60342,
+    "total_rejected_ballots": 474,
+    "total_votes_cast": 60816,
+    "candidates": [
+      {
+        "name": "Felicia Tettey",
+        "party": "NPP",
+        "votes": 15338,
+        "elected": false
+      },
+      {
+        "name": "Atta Issah",
+        "party": "NDC",
+        "votes": 44530,
+        "elected": true
+      }
+    ],
+    "notes": "Candidate sum (59,868) is 474 short of stated Total Valid Votes (60,342). Unresolved."
+  },
+  {
+    "constituency": "TAMALE NORTH",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 41153,
+    "total_rejected_ballots": 239,
+    "total_votes_cast": 41392,
+    "candidates": [
+      {
+        "name": "Abdul-Rahaman Alidu",
+        "party": "NPP",
+        "votes": 12317,
+        "elected": false
+      },
+      {
+        "name": "Alhassan Sayibu Suhuyini",
+        "party": "NDC",
+        "votes": 28521,
+        "elected": true
+      },
+      {
+        "name": "Hudu Fauziya",
+        "party": "IND",
+        "votes": 315,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "TOLON",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 55665,
+    "total_rejected_ballots": 582,
+    "total_votes_cast": 56247,
+    "candidates": [
+      {
+        "name": "Iddrisu Habib",
+        "party": "NPP",
+        "votes": 30893,
+        "elected": true
+      },
+      {
+        "name": "Osman Tahidu Damba",
+        "party": "NDC",
+        "votes": 24772,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "KUMBUNGU",
+    "region": "NORTHERN",
+    "registered_voters": null,
+    "total_valid_votes": 46440,
+    "total_rejected_ballots": 481,
+    "total_votes_cast": 46921,
+    "candidates": [
+      {
+        "name": "Abdul-Salam Hamza Fataw",
+        "party": "NPP",
+        "votes": 19198,
+        "elected": false
+      },
+      {
+        "name": "Hamza Adam",
+        "party": "NDC",
+        "votes": 27242,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BOLE-BAMBOI",
+    "region": "SAVANNAH",
+    "registered_voters": null,
+    "total_valid_votes": 34025,
+    "total_rejected_ballots": 521,
+    "total_votes_cast": 34546,
+    "candidates": [
+      {
+        "name": "Raphael Kumah Abolasom",
+        "party": "NPP",
+        "votes": 7426,
+        "elected": false
+      },
+      {
+        "name": "Yusif Sulemana",
+        "party": "NDC",
+        "votes": 26599,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SAWLA-TUNA-KALBA",
+    "region": "SAVANNAH",
+    "registered_voters": null,
+    "total_valid_votes": 28758,
+    "total_rejected_ballots": 739,
+    "total_votes_cast": 29497,
+    "candidates": [
+      {
+        "name": "Sankara Kuubeneem Ankaara",
+        "party": "NPP",
+        "votes": 7340,
+        "elected": false
+      },
+      {
+        "name": "Chiwitey Andrew Dari",
+        "party": "NDC",
+        "votes": 21418,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "DAMONGO",
+    "region": "SAVANNAH",
+    "registered_voters": null,
+    "total_valid_votes": 30713,
+    "total_rejected_ballots": 356,
+    "total_votes_cast": 31069,
+    "candidates": [
+      {
+        "name": "Jinapor Samuel Abdulai",
+        "party": "NPP",
+        "votes": 16222,
+        "elected": true
+      },
+      {
+        "name": "Adam Mutawakilu",
+        "party": "NDC",
+        "votes": 14425,
+        "elected": false
+      },
+      {
+        "name": "Saaka Baba Moses",
+        "party": "IND",
+        "votes": 66,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Daboya-Mankarigu",
+    "region": "SAVANNAH",
+    "registered_voters": null,
+    "total_valid_votes": 25335,
+    "total_rejected_ballots": 628,
+    "total_votes_cast": 25963,
+    "candidates": [
+      {
+        "name": "Samuel Yeyu Tika",
+        "party": "NPP",
+        "votes": 12596,
+        "elected": false
+      },
+      {
+        "name": "Shaibu Mahama",
+        "party": "NDC",
+        "votes": 12739,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Yapei-Kusawgu",
+    "region": "SAVANNAH",
+    "registered_voters": null,
+    "total_valid_votes": 46818,
+    "total_rejected_ballots": 1087,
+    "total_votes_cast": 47905,
+    "candidates": [
+      {
+        "name": "Amadu Zakria",
+        "party": "NPP",
+        "votes": 14012,
+        "elected": false
+      },
+      {
+        "name": "Awudu Adam",
+        "party": "GUM",
+        "votes": 720,
+        "elected": false
+      },
+      {
+        "name": "John Abdulai Jinapor",
+        "party": "NDC",
+        "votes": 32086,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SALAGA SOUTH",
+    "region": "SAVANNAH",
+    "registered_voters": null,
+    "total_valid_votes": 42863,
+    "total_rejected_ballots": 665,
+    "total_votes_cast": 43528,
+    "candidates": [
+      {
+        "name": "Salifu Adam Braimah",
+        "party": "NPP",
+        "votes": 20164,
+        "elected": false
+      },
+      {
+        "name": "Zuwera Mohammed Ibrahimah",
+        "party": "NDC",
+        "votes": 21454,
+        "elected": true
+      },
+      {
+        "name": "Abraham Mbido Bagyim",
+        "party": "IND",
+        "votes": 987,
+        "elected": false
+      },
+      {
+        "name": "Geoffrey Ayidzoe Razak",
+        "party": "IND",
+        "votes": 258,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SALAGA NORTH",
+    "region": "SAVANNAH",
+    "registered_voters": null,
+    "total_valid_votes": 19297,
+    "total_rejected_ballots": 290,
+    "total_votes_cast": 19587,
+    "candidates": [
+      {
+        "name": "Alhassan Abdallah Iddi",
+        "party": "NPP",
+        "votes": 8472,
+        "elected": false
+      },
+      {
+        "name": "Alhassan Mumuni",
+        "party": "NDC",
+        "votes": 10825,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "WA CENTRAL",
+    "region": "UPPER WEST",
+    "registered_voters": null,
+    "total_valid_votes": 69684,
+    "total_rejected_ballots": 678,
+    "total_votes_cast": 70362,
+    "candidates": [
+      {
+        "name": "Humu Awudu",
+        "party": "NPP",
+        "votes": 30724,
+        "elected": false
+      },
+      {
+        "name": "Abdul-Rashid Hassan Pelpuo",
+        "party": "NDC",
+        "votes": 38579,
+        "elected": true
+      },
+      {
+        "name": "Yakubu Zakaria",
+        "party": "PNC",
+        "votes": 249,
+        "elected": false
+      },
+      {
+        "name": "Rasheed Saeed",
+        "party": "IND",
+        "votes": 132,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "WA WEST",
+    "region": "UPPER WEST",
+    "registered_voters": null,
+    "total_valid_votes": 36388,
+    "total_rejected_ballots": 624,
+    "total_votes_cast": 37012,
+    "candidates": [
+      {
+        "name": "Saatiri James Kpir-Faatey",
+        "party": "NPP",
+        "votes": 10162,
+        "elected": false
+      },
+      {
+        "name": "Peter Lanchene Toobu",
+        "party": "NDC",
+        "votes": 25498,
+        "elected": true
+      },
+      {
+        "name": "Bayong Francis Mwina",
+        "party": "PNC",
+        "votes": 728,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "WA EAST",
+    "region": "UPPER WEST",
+    "registered_voters": null,
+    "total_valid_votes": 32218,
+    "total_rejected_ballots": 453,
+    "total_votes_cast": 32671,
+    "candidates": [
+      {
+        "name": "Ewurah Suleman Kandia Mahama",
+        "party": "NPP",
+        "votes": 11816,
+        "elected": false
+      },
+      {
+        "name": "Godfred Seidu Jasaw",
+        "party": "NDC",
+        "votes": 20402,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NADOWLI-KALEO",
+    "region": "UPPER WEST",
+    "registered_voters": null,
+    "total_valid_votes": 30312,
+    "total_rejected_ballots": 313,
+    "total_votes_cast": 30625,
+    "candidates": [
+      {
+        "name": "Kambotuu Francis Xavier",
+        "party": "NPP",
+        "votes": 5834,
+        "elected": false
+      },
+      {
+        "name": "Sumah Anthony Mwinkaara",
+        "party": "NDC",
+        "votes": 24478,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "DAFFIAMA-BUSSIE-ISSA",
+    "region": "UPPER WEST",
+    "registered_voters": null,
+    "total_valid_votes": 17840,
+    "total_rejected_ballots": 230,
+    "total_votes_cast": 18070,
+    "candidates": [
+      {
+        "name": "Nadi Imoro Sanda",
+        "party": "NPP",
+        "votes": 7392,
+        "elected": false
+      },
+      {
+        "name": "Sebastian Ngmenenso Sandaare",
+        "party": "NDC",
+        "votes": 10448,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "JIRAPA",
+    "region": "UPPER WEST",
+    "registered_voters": null,
+    "total_valid_votes": 30228,
+    "total_rejected_ballots": 574,
+    "total_votes_cast": 30802,
+    "candidates": [
+      {
+        "name": "Aisha Salifu",
+        "party": "NPP",
+        "votes": 6665,
+        "elected": false
+      },
+      {
+        "name": "Cletus Seidu Dapilah",
+        "party": "NDC",
+        "votes": 23563,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Lambussie-Karni",
+    "region": "UPPER WEST",
+    "registered_voters": null,
+    "total_valid_votes": 19768,
+    "total_rejected_ballots": 307,
+    "total_votes_cast": 20075,
+    "candidates": [
+      {
+        "name": "Bright Bakye Yelviel Baligi",
+        "party": "NPP",
+        "votes": 6079,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Imuran",
+        "party": "LPG",
+        "votes": 138,
+        "elected": false
+      },
+      {
+        "name": "Titus Kofi Beyuo",
+        "party": "NDC",
+        "votes": 13551,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "LAWRA",
+    "region": "UPPER WEST",
+    "registered_voters": null,
+    "total_valid_votes": 20598,
+    "total_rejected_ballots": 397,
+    "total_votes_cast": 20995,
+    "candidates": [
+      {
+        "name": "Jacob Domekakpier Dery",
+        "party": "NPP",
+        "votes": 7351,
+        "elected": false
+      },
+      {
+        "name": "Bede Anwataazumo Ziedeng",
+        "party": "NDC",
+        "votes": 12116,
+        "elected": true
+      },
+      {
+        "name": "Dabuo Baanaah Joseph",
+        "party": "IND",
+        "votes": 1131,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NANDOM",
+    "region": "UPPER WEST",
+    "registered_voters": null,
+    "total_valid_votes": 24563,
+    "total_rejected_ballots": 342,
+    "total_votes_cast": 24905,
+    "candidates": [
+      {
+        "name": "Ambrose Dery",
+        "party": "NPP",
+        "votes": 10706,
+        "elected": false
+      },
+      {
+        "name": "Nyine-Kakone Delle Stella Saabedaar",
+        "party": "GUM",
+        "votes": 114,
+        "elected": false
+      },
+      {
+        "name": "Richard Kuuire",
+        "party": "NDC",
+        "votes": 13743,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SISSALA WEST",
+    "region": "UPPER WEST",
+    "registered_voters": null,
+    "total_valid_votes": 30575,
+    "total_rejected_ballots": 364,
+    "total_votes_cast": 30939,
+    "candidates": [
+      {
+        "name": "Salifu Naliwie Baluwie",
+        "party": "NPP",
+        "votes": 12937,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Adams Sukparu",
+        "party": "NDC",
+        "votes": 17436,
+        "elected": true
+      },
+      {
+        "name": "Yussif Shaibu",
+        "party": "PNC",
+        "votes": 202,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "SISSALA EAST",
+    "region": "UPPER WEST",
+    "registered_voters": null,
+    "total_valid_votes": 32410,
+    "total_rejected_ballots": 476,
+    "total_votes_cast": 32886,
+    "candidates": [
+      {
+        "name": "Issahaku Amidu Chinnia",
+        "party": "NPP",
+        "votes": 10789,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Issah Bataglia",
+        "party": "NDC",
+        "votes": 21621,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "WALEWALE",
+    "region": "NORTH EAST",
+    "registered_voters": null,
+    "total_valid_votes": 68101,
+    "total_rejected_ballots": 892,
+    "total_votes_cast": 68993,
+    "candidates": [
+      {
+        "name": "Mahama Tiah Abdul-Kabiru",
+        "party": "NPP",
+        "votes": 36700,
+        "elected": true
+      },
+      {
+        "name": "Abubakari Abdallah",
+        "party": "NDC",
+        "votes": 31401,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "YAGABA-KUBORI",
+    "region": "NORTH EAST",
+    "registered_voters": null,
+    "total_valid_votes": 30302,
+    "total_rejected_ballots": 497,
+    "total_votes_cast": 30799,
+    "candidates": [
+      {
+        "name": "Mustapha Ussif",
+        "party": "NPP",
+        "votes": 18917,
+        "elected": true
+      },
+      {
+        "name": "Musah Sibiri Amidu",
+        "party": "NDC",
+        "votes": 11385,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Nalerigu-Gambaga",
+    "region": "NORTH EAST",
+    "registered_voters": null,
+    "total_valid_votes": 64471,
+    "total_rejected_ballots": 1065,
+    "total_votes_cast": 65536,
+    "candidates": [
+      {
+        "name": "Mumuni Muhammed",
+        "party": "NPP",
+        "votes": 34173,
+        "elected": true
+      },
+      {
+        "name": "Issifu Seidu",
+        "party": "NDC",
+        "votes": 29980,
+        "elected": false
+      },
+      {
+        "name": "Seidu Tia Karim",
+        "party": "PNC",
+        "votes": 318,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BUNKPURUGU",
+    "region": "NORTH EAST",
+    "registered_voters": null,
+    "total_valid_votes": 36193,
+    "total_rejected_ballots": 582,
+    "total_votes_cast": 36775,
+    "candidates": [
+      {
+        "name": "Solomon Namliit Boar",
+        "party": "NPP",
+        "votes": 17554,
+        "elected": false
+      },
+      {
+        "name": "Bandim Abed-Nego Azumah",
+        "party": "NDC",
+        "votes": 18639,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "YUNYOO",
+    "region": "NORTH EAST",
+    "registered_voters": null,
+    "total_valid_votes": 21430,
+    "total_rejected_ballots": 380,
+    "total_votes_cast": 21810,
+    "candidates": [
+      {
+        "name": "Liwaal Oscar",
+        "party": "NPP",
+        "votes": 9416,
+        "elected": false
+      },
+      {
+        "name": "Alhassan Sulemana",
+        "party": "NDC",
+        "votes": 12014,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "CHEREPONI",
+    "region": "NORTH EAST",
+    "registered_voters": null,
+    "total_valid_votes": 33887,
+    "total_rejected_ballots": 447,
+    "total_votes_cast": 34334,
+    "candidates": [
+      {
+        "name": "Tahidu Abdul-Razak",
+        "party": "NPP",
+        "votes": 16801,
+        "elected": false
+      },
+      {
+        "name": "Seidu Alhassan Alajor",
+        "party": "NDC",
+        "votes": 16972,
+        "elected": true
+      },
+      {
+        "name": "Eugene Tamado Koffikan Bashiru",
+        "party": "PNC",
+        "votes": 114,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BUILSA SOUTH",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 15674,
+    "total_rejected_ballots": 284,
+    "total_votes_cast": 15958,
+    "candidates": [
+      {
+        "name": "Daniel Kwame Gariba",
+        "party": "NPP",
+        "votes": 5061,
+        "elected": false
+      },
+      {
+        "name": "Clement Abas Apaak",
+        "party": "NDC",
+        "votes": 8974,
+        "elected": true
+      },
+      {
+        "name": "Seidu Christopher Akanzeboka",
+        "party": "PNC",
+        "votes": 1639,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BUILSA NORTH",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 23647,
+    "total_rejected_ballots": 360,
+    "total_votes_cast": 24007,
+    "candidates": [
+      {
+        "name": "Alonsi Thomas Kofi",
+        "party": "NPP",
+        "votes": 10157,
+        "elected": false
+      },
+      {
+        "name": "Agalga James",
+        "party": "NDC",
+        "votes": 13344,
+        "elected": true
+      },
+      {
+        "name": "Asuok Joseph Ransford",
+        "party": "PNC",
+        "votes": 146,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NAVRONGO CENTRAL",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 38393,
+    "total_rejected_ballots": 495,
+    "total_votes_cast": 38888,
+    "candidates": [
+      {
+        "name": "Abdallah Otito Werseh Achuliwor",
+        "party": "NPP",
+        "votes": 12203,
+        "elected": false
+      },
+      {
+        "name": "Simon Akibange Aworigo",
+        "party": "NDC",
+        "votes": 26190,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "CHIANA-PAGA",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 35432,
+    "total_rejected_ballots": 558,
+    "total_votes_cast": 35990,
+    "candidates": [
+      {
+        "name": "Robert Apechira Aloo",
+        "party": "NPP",
+        "votes": 12884,
+        "elected": false
+      },
+      {
+        "name": "Nikyema Billa Alamzy",
+        "party": "NDC",
+        "votes": 22548,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BOLGATANGA CENTRAL",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 50975,
+    "total_rejected_ballots": 525,
+    "total_votes_cast": 51500,
+    "candidates": [
+      {
+        "name": "Elvis Atia Awonekai",
+        "party": "NPP",
+        "votes": 15470,
+        "elected": false
+      },
+      {
+        "name": "Adongo Isaac",
+        "party": "NDC",
+        "votes": 35101,
+        "elected": true
+      },
+      {
+        "name": "Akunlibe Peter A.",
+        "party": "PNC",
+        "votes": 404,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "Bolgatanga East",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 19478,
+    "total_rejected_ballots": 182,
+    "total_votes_cast": 19660,
+    "candidates": [
+      {
+        "name": "Mathew Silas Amoah",
+        "party": "NPP",
+        "votes": 7415,
+        "elected": false
+      },
+      {
+        "name": "Dominic Akuritinga Ayine",
+        "party": "NDC",
+        "votes": 12002,
+        "elected": true
+      },
+      {
+        "name": "Atiah Edwin",
+        "party": "PAG",
+        "votes": 61,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BONGO",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 39642,
+    "total_rejected_ballots": 617,
+    "total_votes_cast": 40259,
+    "candidates": [
+      {
+        "name": "Diana Aduko Aburiya",
+        "party": "NPP",
+        "votes": 9528,
+        "elected": false
+      },
+      {
+        "name": "Charles Bawaduah",
+        "party": "NDC",
+        "votes": 30114,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "TALENSI",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 32859,
+    "total_rejected_ballots": 404,
+    "total_votes_cast": 33263,
+    "candidates": [
+      {
+        "name": "Alibo Robert Ayinenaba",
+        "party": "NPP",
+        "votes": 8787,
+        "elected": false
+      },
+      {
+        "name": "Daniel Dung Mahama",
+        "party": "NDC",
+        "votes": 22575,
+        "elected": true
+      },
+      {
+        "name": "Dr. Michael Wombeogo",
+        "party": "PNC",
+        "votes": 1497,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "NABDAM",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 17872,
+    "total_rejected_ballots": 278,
+    "total_votes_cast": 18150,
+    "candidates": [
+      {
+        "name": "Ndanbon Charles Taleog",
+        "party": "NPP",
+        "votes": 6680,
+        "elected": false
+      },
+      {
+        "name": "Dr. Mark Kurt Nawaane",
+        "party": "NDC",
+        "votes": 11192,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "ZEBILLA",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 47949,
+    "total_rejected_ballots": 563,
+    "total_votes_cast": 48512,
+    "candidates": [
+      {
+        "name": "John Kingsley Krugu",
+        "party": "NPP",
+        "votes": 12879,
+        "elected": false
+      },
+      {
+        "name": "Ebenezer Alumire Ndebilla",
+        "party": "NDC",
+        "votes": 33657,
+        "elected": true
+      },
+      {
+        "name": "Patience Akparipoka Ndebugre",
+        "party": "IND",
+        "votes": 1413,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BAWKU CENTRAL",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 29513,
+    "total_rejected_ballots": 6277,
+    "total_votes_cast": 35790,
+    "candidates": [
+      {
+        "name": "Agobiri Paul Alale",
+        "party": "NPP",
+        "votes": 3855,
+        "elected": false
+      },
+      {
+        "name": "Mahama Ayariga",
+        "party": "NDC",
+        "votes": 25350,
+        "elected": true
+      },
+      {
+        "name": "Anaba Emmanuel",
+        "party": "APC",
+        "votes": 308,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "PUSIGA",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 35693,
+    "total_rejected_ballots": 954,
+    "total_votes_cast": 36647,
+    "candidates": [
+      {
+        "name": "Abdul-Wahab Hanan",
+        "party": "NPP",
+        "votes": 15798,
+        "elected": false
+      },
+      {
+        "name": "Laadi Ayii Ayamba",
+        "party": "NDC",
+        "votes": 19557,
+        "elected": true
+      },
+      {
+        "name": "Anaba Simon Paul",
+        "party": "APC",
+        "votes": 338,
+        "elected": false
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "GARU",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 25768,
+    "total_rejected_ballots": 338,
+    "total_votes_cast": 26106,
+    "candidates": [
+      {
+        "name": "Azumah Georgina Lardi",
+        "party": "NPP",
+        "votes": 7936,
+        "elected": false
+      },
+      {
+        "name": "Anabah Thomas Winsum",
+        "party": "NDC",
+        "votes": 17832,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "TEMPANE",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 32729,
+    "total_rejected_ballots": 624,
+    "total_votes_cast": 33353,
+    "candidates": [
+      {
+        "name": "Joseph Dindiok Kpemka",
+        "party": "NPP",
+        "votes": 13351,
+        "elected": false
+      },
+      {
+        "name": "Lydia Lamisi Akanvariba",
+        "party": "NDC",
+        "votes": 19378,
+        "elected": true
+      }
+    ],
+    "notes": null
+  },
+  {
+    "constituency": "BINDURI",
+    "region": "UPPER EAST",
+    "registered_voters": null,
+    "total_valid_votes": 29914,
+    "total_rejected_ballots": 341,
+    "total_votes_cast": 30255,
+    "candidates": [
+      {
+        "name": "Abanga Abdulai",
+        "party": "NPP",
+        "votes": 7811,
+        "elected": false
+      },
+      {
+        "name": "Mahmoud Issifu",
+        "party": "NDC",
+        "votes": 21943,
+        "elected": true
+      },
+      {
+        "name": "Amadu Alale",
+        "party": "APC",
+        "votes": 160,
+        "elected": false
+      }
+    ],
+    "notes": null
+  }
+]
