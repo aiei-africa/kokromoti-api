@@ -1,0 +1,8791 @@
+[
+  {
+    "candidates": [
+      {
+        "name": "Mathieu Kwao Bentho",
+        "party": "PPP",
+        "votes": 2613,
+        "elected": false
+      },
+      {
+        "name": "Thomas Elleamo Yankey",
+        "party": "NDC",
+        "votes": 14241,
+        "elected": false
+      },
+      {
+        "name": "Paul Essien",
+        "party": "NPP",
+        "votes": 18694,
+        "elected": true
+      },
+      {
+        "name": "Stenphen Awuah",
+        "party": "UFP",
+        "votes": 101,
+        "elected": false
+      },
+      {
+        "name": "Samia Yaba Christina Nkrumah",
+        "party": "CPP",
+        "votes": 9714,
+        "elected": false
+      },
+      {
+        "name": "Soboe Jemaima",
+        "party": "PNC",
+        "votes": 334,
+        "elected": false
+      },
+      {
+        "name": "Leo Kofi Armah Amenlemah",
+        "party": "IDN",
+        "votes": 1645,
+        "elected": false
+      }
+    ],
+    "constituency": "JOMORO",
+    "region": "WESTERN",
+    "total_valid_votes": 47342
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kenneth Attobrah",
+        "party": "PPP",
+        "votes": 523,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Armah-Kofi Buah",
+        "party": "NDC",
+        "votes": 23425,
+        "elected": true
+      },
+      {
+        "name": "Kwasi Bonzoh",
+        "party": "NPP",
+        "votes": 20875,
+        "elected": false
+      },
+      {
+        "name": "Joseph Justice Kwaw",
+        "party": "NDP",
+        "votes": 50,
+        "elected": false
+      },
+      {
+        "name": "Someah-Addae Ebenezer",
+        "party": "CPP",
+        "votes": 127,
+        "elected": false
+      },
+      {
+        "name": "Marthias B. E. Boateng",
+        "party": "IDN",
+        "votes": 23,
+        "elected": false
+      }
+    ],
+    "constituency": "Ellembelle",
+    "region": "WESTERN",
+    "total_valid_votes": 45023
+  },
+  {
+    "candidates": [
+      {
+        "name": "Prince Fokuoh Agyei",
+        "party": "PPP",
+        "votes": 316,
+        "elected": false
+      },
+      {
+        "name": "Kweku Tanikyi Kessie",
+        "party": "NDC",
+        "votes": 12416,
+        "elected": false
+      },
+      {
+        "name": "Catherine Abelema Afeku",
+        "party": "NPP",
+        "votes": 14002,
+        "elected": true
+      },
+      {
+        "name": "John Kofi Cobbinah",
+        "party": "UFP",
+        "votes": 58,
+        "elected": false
+      }
+    ],
+    "constituency": "Evalue-Ajomoro-Gwira",
+    "region": "WESTERN",
+    "total_valid_votes": 26792
+  },
+  {
+    "candidates": [
+      {
+        "name": "George Kwame Aboagye",
+        "party": "NDC",
+        "votes": 13784,
+        "elected": false
+      },
+      {
+        "name": "Ebenezer Kojo Kum",
+        "party": "NPP",
+        "votes": 30596,
+        "elected": true
+      },
+      {
+        "name": "Isaac Kweku Annan",
+        "party": "CPP",
+        "votes": 546,
+        "elected": false
+      }
+    ],
+    "constituency": "AHANTA WEST",
+    "region": "WESTERN",
+    "total_valid_votes": 44926
+  },
+  {
+    "candidates": [
+      {
+        "name": "Isaac Collins Mensah",
+        "party": "PPP",
+        "votes": 747,
+        "elected": false
+      },
+      {
+        "name": "Alfred Ekow Gyan",
+        "party": "NDC",
+        "votes": 11223,
+        "elected": false
+      },
+      {
+        "name": "Kwabena Okyere Darko-Mensah",
+        "party": "NPP",
+        "votes": 27169,
+        "elected": true
+      }
+    ],
+    "constituency": "TAKORADI",
+    "region": "WESTERN",
+    "total_valid_votes": 39139
+  },
+  {
+    "candidates": [
+      {
+        "name": "Michael Otoo",
+        "party": "NDC",
+        "votes": 11995,
+        "elected": false
+      },
+      {
+        "name": "Joseph Cudjoe",
+        "party": "NPP",
+        "votes": 20315,
+        "elected": true
+      },
+      {
+        "name": "Isaac Baidoo",
+        "party": "CPP",
+        "votes": 308,
+        "elected": false
+      }
+    ],
+    "constituency": "EFFIA",
+    "region": "WESTERN",
+    "total_valid_votes": 32618
+  },
+  {
+    "candidates": [
+      {
+        "name": "Samuel Kwabena Antwi",
+        "party": "PPP",
+        "votes": 987,
+        "elected": false
+      },
+      {
+        "name": "Augustine Arthur",
+        "party": "NDC",
+        "votes": 8260,
+        "elected": false
+      },
+      {
+        "name": "Joseph Mensah",
+        "party": "NPP",
+        "votes": 20382,
+        "elected": true
+      },
+      {
+        "name": "Nana Abakah",
+        "party": "CPP",
+        "votes": 1637,
+        "elected": false
+      },
+      {
+        "name": "Richard Kwame Amissah",
+        "party": "IDN",
+        "votes": 332,
+        "elected": false
+      }
+    ],
+    "constituency": "KWESIMINTSIM",
+    "region": "WESTERN",
+    "total_valid_votes": 31598
+  },
+  {
+    "candidates": [
+      {
+        "name": "Daniel Essuman",
+        "party": "PPP",
+        "votes": 305,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Assafuah",
+        "party": "NDC",
+        "votes": 11075,
+        "elected": false
+      },
+      {
+        "name": "Andrew Kofi Egyapa Mercer",
+        "party": "NPP",
+        "votes": 16839,
+        "elected": true
+      },
+      {
+        "name": "Peter Arthur",
+        "party": "CPP",
+        "votes": 97,
+        "elected": false
+      }
+    ],
+    "constituency": "SEKONDI",
+    "region": "WESTERN",
+    "total_valid_votes": 28316
+  },
+  {
+    "candidates": [
+      {
+        "name": "Joseph Kofi Mensah",
+        "party": "NDC",
+        "votes": 14412,
+        "elected": false
+      },
+      {
+        "name": "Joe Ghartey",
+        "party": "NPP",
+        "votes": 24041,
+        "elected": true
+      },
+      {
+        "name": "Frank Sagoe",
+        "party": "APC",
+        "votes": 108,
+        "elected": false
+      },
+      {
+        "name": "Charles Eisah Arhizi",
+        "party": "CPP",
+        "votes": 271,
+        "elected": false
+      },
+      {
+        "name": "Kwaku Pianim",
+        "party": "IDN",
+        "votes": 1702,
+        "elected": false
+      }
+    ],
+    "constituency": "Essikado-Ketan",
+    "region": "WESTERN",
+    "total_valid_votes": 40534
+  },
+  {
+    "candidates": [
+      {
+        "name": "Joseph Essuman",
+        "party": "PPP",
+        "votes": 2203,
+        "elected": false
+      },
+      {
+        "name": "Gabriel Kodwo Essilfie",
+        "party": "NDC",
+        "votes": 15190,
+        "elected": false
+      },
+      {
+        "name": "Ato Panford",
+        "party": "NPP",
+        "votes": 20165,
+        "elected": true
+      },
+      {
+        "name": "Samuel Adiaw Manful",
+        "party": "CPP",
+        "votes": 116,
+        "elected": false
+      }
+    ],
+    "constituency": "SHAMA",
+    "region": "WESTERN",
+    "total_valid_votes": 37674
+  },
+  {
+    "candidates": [
+      {
+        "name": "Samuel Kmagt",
+        "party": "PPP",
+        "votes": 452,
+        "elected": false
+      },
+      {
+        "name": "Isaac Adjei Mensah",
+        "party": "NDC",
+        "votes": 17920,
+        "elected": true
+      },
+      {
+        "name": "Wilson Arthur",
+        "party": "NPP",
+        "votes": 15906,
+        "elected": false
+      }
+    ],
+    "constituency": "WASSA EAST",
+    "region": "WESTERN",
+    "total_valid_votes": 34278
+  },
+  {
+    "candidates": [
+      {
+        "name": "Joseph Benedict Aubyn",
+        "party": "PPP",
+        "votes": 1857,
+        "elected": false
+      },
+      {
+        "name": "Eric Kweku Kyeremah",
+        "party": "NDC",
+        "votes": 6947,
+        "elected": false
+      },
+      {
+        "name": "Alex Kofi Agyekum",
+        "party": "NPP",
+        "votes": 8364,
+        "elected": true
+      }
+    ],
+    "constituency": "MPOHOR",
+    "region": "WESTERN",
+    "total_valid_votes": 17168
+  },
+  {
+    "candidates": [
+      {
+        "name": "Eric Seedof Asiedu Simpey",
+        "party": "PPP",
+        "votes": 1624,
+        "elected": false
+      },
+      {
+        "name": "Seth Kwame Dzokoto",
+        "party": "NDC",
+        "votes": 24044,
+        "elected": false
+      },
+      {
+        "name": "George Mireku Duker",
+        "party": "NPP",
+        "votes": 42594,
+        "elected": true
+      },
+      {
+        "name": "Kwakye John Justice",
+        "party": "CPP",
+        "votes": 206,
+        "elected": false
+      }
+    ],
+    "constituency": "Tarkwa-Nsuaem",
+    "region": "WESTERN",
+    "total_valid_votes": 68468
+  },
+  {
+    "candidates": [
+      {
+        "name": "Duku Edmund",
+        "party": "PPP",
+        "votes": 848,
+        "elected": false
+      },
+      {
+        "name": "Robert Wisdom Cudjoe",
+        "party": "NDC",
+        "votes": 32073,
+        "elected": false
+      },
+      {
+        "name": "Oteng-Gyasi Barbara",
+        "party": "NPP",
+        "votes": 36444,
+        "elected": true
+      },
+      {
+        "name": "Francis Owusu Eduku",
+        "party": "CPP",
+        "votes": 152,
+        "elected": false
+      },
+      {
+        "name": "Theophilus Badu Samora Baraimah",
+        "party": "IDN",
+        "votes": 755,
+        "elected": false
+      }
+    ],
+    "constituency": "Prestea-Huni Valley",
+    "region": "WESTERN",
+    "total_valid_votes": 70272
+  },
+  {
+    "candidates": [
+      {
+        "name": "Simon Peter Adabor",
+        "party": "PPP",
+        "votes": 635,
+        "elected": false
+      },
+      {
+        "name": "Akwasi Opong-Fosu",
+        "party": "NDC",
+        "votes": 21597,
+        "elected": false
+      },
+      {
+        "name": "Patrick Bogyako-Saime",
+        "party": "NPP",
+        "votes": 26851,
+        "elected": true
+      },
+      {
+        "name": "Ofosuhene Vivian",
+        "party": "CPP",
+        "votes": 144,
+        "elected": false
+      }
+    ],
+    "constituency": "AMENFI EAST",
+    "region": "WESTERN",
+    "total_valid_votes": 49227
+  },
+  {
+    "candidates": [
+      {
+        "name": "Peter Yaw Kwakye-Ackah",
+        "party": "NDC",
+        "votes": 17801,
+        "elected": true
+      },
+      {
+        "name": "Patrick Hockson Ampongteng",
+        "party": "NPP",
+        "votes": 17256,
+        "elected": false
+      },
+      {
+        "name": "Abrokwah Isaac",
+        "party": "CPP",
+        "votes": 207,
+        "elected": false
+      }
+    ],
+    "constituency": "AMENFI CENTRAL",
+    "region": "WESTERN",
+    "total_valid_votes": 35264
+  },
+  {
+    "candidates": [
+      {
+        "name": "Abraham Kojo Buadee",
+        "party": "PPP",
+        "votes": 471,
+        "elected": false
+      },
+      {
+        "name": "Eric Afful",
+        "party": "NDC",
+        "votes": 23673,
+        "elected": true
+      },
+      {
+        "name": "Paul Dekyi",
+        "party": "NPP",
+        "votes": 17336,
+        "elected": false
+      },
+      {
+        "name": "Philip Toku",
+        "party": "CPP",
+        "votes": 143,
+        "elected": false
+      }
+    ],
+    "constituency": "AMENFI WEST",
+    "region": "WESTERN",
+    "total_valid_votes": 41623
+  },
+  {
+    "candidates": [
+      {
+        "name": "Isaac Wilson Kwaw",
+        "party": "PPP",
+        "votes": 853,
+        "elected": false
+      },
+      {
+        "name": "Mathias Kwame Ntow",
+        "party": "NDC",
+        "votes": 22385,
+        "elected": true
+      },
+      {
+        "name": "Samuel Adu-Gyamfi",
+        "party": "NPP",
+        "votes": 20780,
+        "elected": false
+      },
+      {
+        "name": "Solomon Asamoah",
+        "party": "CPP",
+        "votes": 134,
+        "elected": false
+      }
+    ],
+    "constituency": "AOWIN",
+    "region": "WESTERN",
+    "total_valid_votes": 44152
+  },
+  {
+    "candidates": [
+      {
+        "name": "Andrews Boafo",
+        "party": "PPP",
+        "votes": 466,
+        "elected": false
+      },
+      {
+        "name": "Stephen Michael Essuah Kofi Ackah",
+        "party": "NDC",
+        "votes": 6185,
+        "elected": true
+      },
+      {
+        "name": "Christian Baah",
+        "party": "NPP",
+        "votes": 6173,
+        "elected": false
+      },
+      {
+        "name": "Kingsford Quaicoe",
+        "party": "CPP",
+        "votes": 74,
+        "elected": false
+      }
+    ],
+    "constituency": "SUAMAN",
+    "region": "WESTERN",
+    "total_valid_votes": 12898
+  },
+  {
+    "candidates": [
+      {
+        "name": "Benedicta Boamah",
+        "party": "PPP",
+        "votes": 513,
+        "elected": false
+      },
+      {
+        "name": "Moses Kofi Armah",
+        "party": "NDC",
+        "votes": 29901,
+        "elected": false
+      },
+      {
+        "name": "Kingsley Aboagye Gyedu",
+        "party": "NPP",
+        "votes": 33145,
+        "elected": true
+      },
+      {
+        "name": "Benison Boison",
+        "party": "NDP",
+        "votes": 204,
+        "elected": false
+      },
+      {
+        "name": "Kwame Asamoah",
+        "party": "IND",
+        "votes": 228,
+        "elected": false
+      }
+    ],
+    "constituency": "BIBIANI-ANHWIASO-BEKWAI",
+    "region": "WESTERN",
+    "total_valid_votes": 63991
+  },
+  {
+    "candidates": [
+      {
+        "name": "Prince Akomeah Stephen",
+        "party": "GCPP",
+        "votes": 38,
+        "elected": false
+      },
+      {
+        "name": "Sebastian Webster Kwasi Andoh",
+        "party": "PPP",
+        "votes": 459,
+        "elected": false
+      },
+      {
+        "name": "Evans Paul Aidoo",
+        "party": "NDC",
+        "votes": 26105,
+        "elected": false
+      },
+      {
+        "name": "Kwaku Afriyie",
+        "party": "NPP",
+        "votes": 31736,
+        "elected": true
+      },
+      {
+        "name": "Baafi Kwame Fairfax",
+        "party": "CPP",
+        "votes": 114,
+        "elected": false
+      }
+    ],
+    "constituency": "SEFWI WIAWSO",
+    "region": "WESTERN",
+    "total_valid_votes": 58452
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kenneth Yeboah",
+        "party": "NDC",
+        "votes": 11626,
+        "elected": false
+      },
+      {
+        "name": "Djornobuah Alex Tetteh",
+        "party": "NPP",
+        "votes": 11922,
+        "elected": true
+      },
+      {
+        "name": "Awini Salifu",
+        "party": "CPP",
+        "votes": 81,
+        "elected": false
+      },
+      {
+        "name": "Herod Cobbina",
+        "party": "IND",
+        "votes": 4108,
+        "elected": false
+      }
+    ],
+    "constituency": "SEFWI AKONTOMBRA",
+    "region": "WESTERN",
+    "total_valid_votes": 27737
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kwabena Mintah Akandoh",
+        "party": "NDC",
+        "votes": 17233,
+        "elected": true
+      },
+      {
+        "name": "Martha Kwayie Manu",
+        "party": "NPP",
+        "votes": 15604,
+        "elected": false
+      },
+      {
+        "name": "Stephen Mintah Cletron",
+        "party": "NDP",
+        "votes": 164,
+        "elected": false
+      },
+      {
+        "name": "Oppong Ernestina",
+        "party": "CPP",
+        "votes": 111,
+        "elected": false
+      },
+      {
+        "name": "Abdul-Karim Braimah Ibrahim",
+        "party": "PNC",
+        "votes": 87,
+        "elected": false
+      }
+    ],
+    "constituency": "JUABOSO",
+    "region": "WESTERN",
+    "total_valid_votes": 33199
+  },
+  {
+    "candidates": [
+      {
+        "name": "Frimpong-Mansoh Stephen",
+        "party": "GCPP",
+        "votes": 71,
+        "elected": false
+      },
+      {
+        "name": "Ahi Sampson",
+        "party": "NDC",
+        "votes": 13996,
+        "elected": true
+      },
+      {
+        "name": "Ignatius Akwasi Amankwah",
+        "party": "NPP",
+        "votes": 9992,
+        "elected": false
+      },
+      {
+        "name": "Armah Isaac",
+        "party": "CPP",
+        "votes": 176,
+        "elected": false
+      }
+    ],
+    "constituency": "BODI",
+    "region": "WESTERN",
+    "total_valid_votes": 24235
+  },
+  {
+    "candidates": [
+      {
+        "name": "Armah Daniel",
+        "party": "PPP",
+        "votes": 212,
+        "elected": false
+      },
+      {
+        "name": "Augistine Tawiah",
+        "party": "NDC",
+        "votes": 25401,
+        "elected": true
+      },
+      {
+        "name": "John Koah",
+        "party": "NPP",
+        "votes": 11589,
+        "elected": false
+      },
+      {
+        "name": "Konadu Mark",
+        "party": "CPP",
+        "votes": 95,
+        "elected": false
+      }
+    ],
+    "constituency": "BIA WEST",
+    "region": "WESTERN",
+    "total_valid_votes": 37297
+  },
+  {
+    "candidates": [
+      {
+        "name": "Richard Acheampong",
+        "party": "NDC",
+        "votes": 11128,
+        "elected": true
+      },
+      {
+        "name": "Boamah Nimoh Anthony",
+        "party": "NPP",
+        "votes": 4995,
+        "elected": false
+      },
+      {
+        "name": "Francis Appiah",
+        "party": "CPP",
+        "votes": 396,
+        "elected": false
+      }
+    ],
+    "constituency": "BIA EAST",
+    "region": "WESTERN",
+    "total_valid_votes": 16519
+  },
+  {
+    "candidates": [
+      {
+        "name": "John Sterlin",
+        "party": "PPP",
+        "votes": 18860,
+        "elected": false
+      },
+      {
+        "name": "Samuel Atta Mills",
+        "party": "NDC",
+        "votes": 21957,
+        "elected": true
+      },
+      {
+        "name": "Stephen Nana Ato Arthur",
+        "party": "NPP",
+        "votes": 15960,
+        "elected": false
+      },
+      {
+        "name": "Rose Austin Tenadu (Mrs.)",
+        "party": "CPP",
+        "votes": 410,
+        "elected": false
+      }
+    ],
+    "constituency": "KEEA",
+    "region": "CENTRAL",
+    "total_valid_votes": 57187
+  },
+  {
+    "candidates": [
+      {
+        "name": "Bright Edem Droefenu",
+        "party": "PPP",
+        "votes": 606,
+        "elected": false
+      },
+      {
+        "name": "Ricketts Hagan Kweku",
+        "party": "NDC",
+        "votes": 20456,
+        "elected": true
+      },
+      {
+        "name": "Michael Arthur Dazde",
+        "party": "NPP",
+        "votes": 19718,
+        "elected": false
+      },
+      {
+        "name": "Ato Aidoo-Nyanyor",
+        "party": "CPP",
+        "votes": 78,
+        "elected": false
+      },
+      {
+        "name": "Mr Albet Isaac Kofi Cobbinah",
+        "party": "IND",
+        "votes": 203,
+        "elected": false
+      }
+    ],
+    "constituency": "CAPE COAST SOUTH",
+    "region": "CENTRAL",
+    "total_valid_votes": 41061
+  },
+  {
+    "candidates": [
+      {
+        "name": "Sarah Mary Bucknor",
+        "party": "PPP",
+        "votes": 3251,
+        "elected": false
+      },
+      {
+        "name": "Kwabena Owusu Akyeampong",
+        "party": "NDC",
+        "votes": 16309,
+        "elected": false
+      },
+      {
+        "name": "Barbara Asher Ayisi",
+        "party": "NPP",
+        "votes": 19475,
+        "elected": true
+      },
+      {
+        "name": "Peter Caesar Kwegyir Aggrey",
+        "party": "CPP",
+        "votes": 88,
+        "elected": false
+      }
+    ],
+    "constituency": "CAPE COAST NORTH",
+    "region": "CENTRAL",
+    "total_valid_votes": 39123
+  },
+  {
+    "candidates": [
+      {
+        "name": "Clement Abaidoo",
+        "party": "PPP",
+        "votes": 1054,
+        "elected": false
+      },
+      {
+        "name": "Samuel Kweku Hayford",
+        "party": "NDC",
+        "votes": 20508,
+        "elected": false
+      },
+      {
+        "name": "Elvis Morris Donkoh",
+        "party": "NPP",
+        "votes": 22245,
+        "elected": true
+      },
+      {
+        "name": "Kwame Edu Ofori",
+        "party": "PNC",
+        "votes": 116,
+        "elected": false
+      }
+    ],
+    "constituency": "Abura-Asebu-Kwamankese",
+    "region": "CENTRAL",
+    "total_valid_votes": 43923
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kwabena Amuquandoh Okyere",
+        "party": "PPP",
+        "votes": 4043,
+        "elected": false
+      },
+      {
+        "name": "James Essuon",
+        "party": "NDC",
+        "votes": 26021,
+        "elected": false
+      },
+      {
+        "name": "Ekow Hayford",
+        "party": "NPP",
+        "votes": 26747,
+        "elected": true
+      },
+      {
+        "name": "Pius Ebo Dughan",
+        "party": "CPP",
+        "votes": 318,
+        "elected": false
+      }
+    ],
+    "constituency": "MFANTSEMAN",
+    "region": "CENTRAL",
+    "total_valid_votes": 57129
+  },
+  {
+    "candidates": [
+      {
+        "name": "Stephen Quansah",
+        "party": "PPP",
+        "votes": 505,
+        "elected": false
+      },
+      {
+        "name": "Abeiku Crenstil",
+        "party": "NDC",
+        "votes": 11632,
+        "elected": false
+      },
+      {
+        "name": "Francis Kingsley Ato Cudjoe",
+        "party": "NPP",
+        "votes": 12240,
+        "elected": true
+      },
+      {
+        "name": "Kweku Essoun",
+        "party": "CPP",
+        "votes": 70,
+        "elected": false
+      }
+    ],
+    "constituency": "EKUMFI",
+    "region": "CENTRAL",
+    "total_valid_votes": 24447
+  },
+  {
+    "candidates": [
+      {
+        "name": "Jerry Henry Quansah",
+        "party": "PPP",
+        "votes": 194,
+        "elected": false
+      },
+      {
+        "name": "Cassiel Ato Baah Forson",
+        "party": "NDC",
+        "votes": 25601,
+        "elected": true
+      },
+      {
+        "name": "Ransford Emmanuel Kwesi Nyarko",
+        "party": "NPP",
+        "votes": 21903,
+        "elected": false
+      },
+      {
+        "name": "Sarah Mensah",
+        "party": "NDP",
+        "votes": 57,
+        "elected": false
+      },
+      {
+        "name": "Monica Daapong",
+        "party": "CPP",
+        "votes": 55,
+        "elected": false
+      }
+    ],
+    "constituency": "Ajumako-Enyan-Esiam",
+    "region": "CENTRAL",
+    "total_valid_votes": 47810
+  },
+  {
+    "candidates": [
+      {
+        "name": "Charles Yawson",
+        "party": "PPP",
+        "votes": 2086,
+        "elected": false
+      },
+      {
+        "name": "Samuel Fletcher",
+        "party": "NDC",
+        "votes": 21004,
+        "elected": false
+      },
+      {
+        "name": "Alexander Kodwo Kom Abban",
+        "party": "NPP",
+        "votes": 22741,
+        "elected": true
+      },
+      {
+        "name": "Stephen Afriyie",
+        "party": "CPP",
+        "votes": 0,
+        "elected": false
+      }
+    ],
+    "constituency": "GOMOA WEST",
+    "region": "CENTRAL",
+    "total_valid_votes": 45831
+  },
+  {
+    "candidates": [
+      {
+        "name": "Eunice Asemanyi",
+        "party": "PPP",
+        "votes": 920,
+        "elected": false
+      },
+      {
+        "name": "Paitoo De-Graft Desmond",
+        "party": "NDC",
+        "votes": 15010,
+        "elected": false
+      },
+      {
+        "name": "Kojoasemanyi",
+        "party": "NPP",
+        "votes": 17654,
+        "elected": true
+      },
+      {
+        "name": "Godfred Kumedzro Cudjoe",
+        "party": "CPP",
+        "votes": 105,
+        "elected": false
+      },
+      {
+        "name": "Marcus Yaw Danso",
+        "party": "IND",
+        "votes": 1604,
+        "elected": false
+      }
+    ],
+    "constituency": "GOMOA EAST",
+    "region": "CENTRAL",
+    "total_valid_votes": 35293
+  },
+  {
+    "candidates": [
+      {
+        "name": "Grace Ignophia Appiah",
+        "party": "PPP",
+        "votes": 174,
+        "elected": false
+      },
+      {
+        "name": "Rachel Florence Appoh",
+        "party": "NDC",
+        "votes": 12858,
+        "elected": false
+      },
+      {
+        "name": "Naana Eyiah",
+        "party": "NPP",
+        "votes": 14178,
+        "elected": true
+      },
+      {
+        "name": "Emmanuel Appoh Mensah",
+        "party": "CPP",
+        "votes": 280,
+        "elected": false
+      }
+    ],
+    "constituency": "GOMOA CENTRAL",
+    "region": "CENTRAL",
+    "total_valid_votes": 27490
+  },
+  {
+    "candidates": [
+      {
+        "name": "Nana Ofori Owusu",
+        "party": "PPP",
+        "votes": 1427,
+        "elected": false
+      },
+      {
+        "name": "Eric Don-Arthur",
+        "party": "NDC",
+        "votes": 12628,
+        "elected": false
+      },
+      {
+        "name": "Alexander Afenyo Markin",
+        "party": "NPP",
+        "votes": 22964,
+        "elected": true
+      },
+      {
+        "name": "Ebenezer Rolnce Akumbea Sam",
+        "party": "CPP",
+        "votes": 80,
+        "elected": false
+      },
+      {
+        "name": "Murtala Muhammed Umar",
+        "party": "PNC",
+        "votes": 22,
+        "elected": false
+      }
+    ],
+    "constituency": "EFFUTU",
+    "region": "CENTRAL",
+    "total_valid_votes": 37121
+  },
+  {
+    "candidates": [
+      {
+        "name": "Hannah Serwaah Tette",
+        "party": "NDC",
+        "votes": 25664,
+        "elected": false
+      },
+      {
+        "name": "Andah George Nenyi Kojo",
+        "party": "NPP",
+        "votes": 28867,
+        "elected": true
+      },
+      {
+        "name": "Allan Barnes Yawson",
+        "party": "CPP",
+        "votes": 228,
+        "elected": false
+      }
+    ],
+    "constituency": "AWUTU SENYA WEST",
+    "region": "CENTRAL",
+    "total_valid_votes": 54759
+  },
+  {
+    "candidates": [
+      {
+        "name": "Nana Kweku Appiah Kwarteng",
+        "party": "PPP",
+        "votes": 494,
+        "elected": false
+      },
+      {
+        "name": "Adams Nuhu",
+        "party": "NDC",
+        "votes": 24373,
+        "elected": false
+      },
+      {
+        "name": "Mavis Hawa Koomson",
+        "party": "NPP",
+        "votes": 34656,
+        "elected": true
+      },
+      {
+        "name": "Addy Ishmael",
+        "party": "CPP",
+        "votes": 123,
+        "elected": false
+      }
+    ],
+    "constituency": "AWUTU SENYA EAST",
+    "region": "CENTRAL",
+    "total_valid_votes": 59646
+  },
+  {
+    "candidates": [
+      {
+        "name": "Charles Obeng-Inkoom",
+        "party": "NDC",
+        "votes": 23423,
+        "elected": false
+      },
+      {
+        "name": "Cynthia Mamle Morrison",
+        "party": "NPP",
+        "votes": 32770,
+        "elected": true
+      },
+      {
+        "name": "Evans Idan Coffie",
+        "party": "CPP",
+        "votes": 277,
+        "elected": false
+      }
+    ],
+    "constituency": "AGONA WEST",
+    "region": "CENTRAL",
+    "total_valid_votes": 56470
+  },
+  {
+    "candidates": [
+      {
+        "name": "Queenstar Pokuah Sawyerr",
+        "party": "NDC",
+        "votes": 19789,
+        "elected": true
+      },
+      {
+        "name": "James Owusu Barnes",
+        "party": "NPP",
+        "votes": 18513,
+        "elected": false
+      },
+      {
+        "name": "Appiah Kubi Sharfiu",
+        "party": "CPP",
+        "votes": 310,
+        "elected": false
+      }
+    ],
+    "constituency": "AGONA EAST",
+    "region": "CENTRAL",
+    "total_valid_votes": 38612
+  },
+  {
+    "candidates": [
+      {
+        "name": "Richard Ato Quainoo",
+        "party": "PPP",
+        "votes": 237,
+        "elected": false
+      },
+      {
+        "name": "Alhassan Kobina Ghansah",
+        "party": "NDC",
+        "votes": 23330,
+        "elected": false
+      },
+      {
+        "name": "Anthony Effah",
+        "party": "NPP",
+        "votes": 23760,
+        "elected": true
+      },
+      {
+        "name": "Hayford Amoako",
+        "party": "CPP",
+        "votes": 90,
+        "elected": false
+      }
+    ],
+    "constituency": "Asikuma-Odoben-Brakwa",
+    "region": "CENTRAL",
+    "total_valid_votes": 47417
+  },
+  {
+    "candidates": [
+      {
+        "name": "Isaac Manu",
+        "party": "PPP",
+        "votes": 979,
+        "elected": false
+      },
+      {
+        "name": "Samuel Ambre",
+        "party": "NDC",
+        "votes": 10751,
+        "elected": false
+      },
+      {
+        "name": "Abena Durowaa Mensah",
+        "party": "NPP",
+        "votes": 15553,
+        "elected": true
+      },
+      {
+        "name": "Sanni Mahama",
+        "party": "CPP",
+        "votes": 115,
+        "elected": false
+      }
+    ],
+    "constituency": "ASSIN NORTH",
+    "region": "CENTRAL",
+    "total_valid_votes": 27398
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kofi Blankson",
+        "party": "NDC",
+        "votes": 10618,
+        "elected": false
+      },
+      {
+        "name": "Ken Ohene Agyapong",
+        "party": "NPP",
+        "votes": 17979,
+        "elected": true
+      },
+      {
+        "name": "John Dacosta Botchey",
+        "party": "CPP",
+        "votes": 154,
+        "elected": false
+      }
+    ],
+    "constituency": "ASSIN CENTRAL",
+    "region": "CENTRAL",
+    "total_valid_votes": 28751
+  },
+  {
+    "candidates": [
+      {
+        "name": "Sabina Appiah-Kubi",
+        "party": "NDC",
+        "votes": 15683,
+        "elected": false
+      },
+      {
+        "name": "John Ntim Fordjour",
+        "party": "NPP",
+        "votes": 23308,
+        "elected": true
+      },
+      {
+        "name": "Sankofie Abbam Lartey",
+        "party": "CPP",
+        "votes": 141,
+        "elected": false
+      },
+      {
+        "name": "Nana Nti Takra",
+        "party": "IND",
+        "votes": 377,
+        "elected": false
+      }
+    ],
+    "constituency": "ASSIN SOUTH",
+    "region": "CENTRAL",
+    "total_valid_votes": 39509
+  },
+  {
+    "candidates": [
+      {
+        "name": "Samuel Ato Amoah",
+        "party": "NDC",
+        "votes": 14887,
+        "elected": false
+      },
+      {
+        "name": "Abraham Dwuma Oddom",
+        "party": "NPP",
+        "votes": 21231,
+        "elected": true
+      },
+      {
+        "name": "Ebenezer Appiah",
+        "party": "CPP",
+        "votes": 115,
+        "elected": false
+      },
+      {
+        "name": "Abu Ayuba",
+        "party": "PPP",
+        "votes": 273,
+        "elected": false
+      }
+    ],
+    "constituency": "Twifo-Atii Morkwaa",
+    "region": "CENTRAL",
+    "total_valid_votes": 36506
+  },
+  {
+    "candidates": [
+      {
+        "name": "Paul Kingsley Ambanten",
+        "party": "PPP",
+        "votes": 257,
+        "elected": false
+      },
+      {
+        "name": "Foster Joseph Andoh",
+        "party": "NDC",
+        "votes": 10338,
+        "elected": false
+      },
+      {
+        "name": "Bright Wireko-Brobby",
+        "party": "NPP",
+        "votes": 15043,
+        "elected": true
+      },
+      {
+        "name": "John Felix Krampah",
+        "party": "CPP",
+        "votes": 119,
+        "elected": false
+      }
+    ],
+    "constituency": "Hermang Lower Denkyira",
+    "region": "CENTRAL",
+    "total_valid_votes": 25757
+  },
+  {
+    "candidates": [
+      {
+        "name": "Fredrick Enchil",
+        "party": "PPP",
+        "votes": 275,
+        "elected": false
+      },
+      {
+        "name": "Emelia Ankomah",
+        "party": "NDC",
+        "votes": 16297,
+        "elected": false
+      },
+      {
+        "name": "Nana Amoako",
+        "party": "NPP",
+        "votes": 22212,
+        "elected": true
+      },
+      {
+        "name": "Yaw Asamoah",
+        "party": "CPP",
+        "votes": 810,
+        "elected": false
+      },
+      {
+        "name": "Offin Amaniampong Kwabena",
+        "party": "PNC",
+        "votes": 61,
+        "elected": false
+      },
+      {
+        "name": "Patrick Adu",
+        "party": "IND",
+        "votes": 233,
+        "elected": false
+      }
+    ],
+    "constituency": "UPPER DENKYIRA EAST",
+    "region": "CENTRAL",
+    "total_valid_votes": 39888
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ambrose Amoah-Ashyiah",
+        "party": "NDC",
+        "votes": 10655,
+        "elected": false
+      },
+      {
+        "name": "Samuel Nsowah-Djan",
+        "party": "NPP",
+        "votes": 16881,
+        "elected": true
+      }
+    ],
+    "constituency": "UPPER DENKYIRA WEST",
+    "region": "CENTRAL",
+    "total_valid_votes": 27536
+  },
+  {
+    "candidates": [
+      {
+        "name": "Jessica Manuel",
+        "party": "PPP",
+        "votes": 426,
+        "elected": false
+      },
+      {
+        "name": "Obuobia Darko-Opoku",
+        "party": "NDC",
+        "votes": 25087,
+        "elected": false
+      },
+      {
+        "name": "Tina Gifty Naa Ayeley Mensah",
+        "party": "NPP",
+        "votes": 34216,
+        "elected": true
+      }
+    ],
+    "constituency": "Weija-Gbawe",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 59729
+  },
+  {
+    "candidates": [
+      {
+        "name": "Gideon Duodu",
+        "party": "PPP",
+        "votes": 317,
+        "elected": false
+      },
+      {
+        "name": "Sophia Karen Ackuaku",
+        "party": "NDC",
+        "votes": 14301,
+        "elected": true
+      },
+      {
+        "name": "Darison Baba Mohammed",
+        "party": "NPP",
+        "votes": 3710,
+        "elected": false
+      },
+      {
+        "name": "Ekow Jones-Mensah Snr",
+        "party": "CPP",
+        "votes": 93,
+        "elected": false
+      },
+      {
+        "name": "Pius Kwame Fiakuna",
+        "party": "IND",
+        "votes": 2516,
+        "elected": false
+      }
+    ],
+    "constituency": "Domeabra-Obom",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 20937
+  },
+  {
+    "candidates": [
+      {
+        "name": "Adjetey Larbie",
+        "party": "PPP",
+        "votes": 2529,
+        "elected": false
+      },
+      {
+        "name": "Bright Edward Kodzo Demordzi",
+        "party": "NDC",
+        "votes": 19405,
+        "elected": false
+      },
+      {
+        "name": "Habib Saad",
+        "party": "NPP",
+        "votes": 26034,
+        "elected": true
+      },
+      {
+        "name": "Peter Adzido",
+        "party": "CPP",
+        "votes": 200,
+        "elected": false
+      },
+      {
+        "name": "Evans Nii Djabum Mensh",
+        "party": "DPP",
+        "votes": 867,
+        "elected": false
+      }
+    ],
+    "constituency": "Bortianor-Ngleshie-Amanfro",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 49035
+  },
+  {
+    "candidates": [
+      {
+        "name": "Yussif Abdul Rahman",
+        "party": "PPP",
+        "votes": 723,
+        "elected": false
+      },
+      {
+        "name": "David Nii Abossey Braide",
+        "party": "NDC",
+        "votes": 23304,
+        "elected": false
+      },
+      {
+        "name": "Shirley Ayorkor Botchwey",
+        "party": "NPP",
+        "votes": 54165,
+        "elected": true
+      },
+      {
+        "name": "David Kabutey",
+        "party": "CPP",
+        "votes": 243,
+        "elected": false
+      }
+    ],
+    "constituency": "Anyaa-Sowutuom",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 78435
+  },
+  {
+    "candidates": [
+      {
+        "name": "Emmanuel Nii Okai Laryea",
+        "party": "NDC",
+        "votes": 27933,
+        "elected": true
+      },
+      {
+        "name": "Clement Nii Lamptey Wilkinson",
+        "party": "NPP",
+        "votes": 27665,
+        "elected": false
+      },
+      {
+        "name": "Frank Obeng",
+        "party": "CPP",
+        "votes": 454,
+        "elected": false
+      }
+    ],
+    "constituency": "AMASAMAN",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 56052
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kugblenu Noah",
+        "party": "PPP",
+        "votes": 255,
+        "elected": false
+      },
+      {
+        "name": "Maame Efua Sekyi-Aiddo",
+        "party": "NDC",
+        "votes": 26348,
+        "elected": false
+      },
+      {
+        "name": "Diamond Hannah Appiah",
+        "party": "UPP",
+        "votes": 430,
+        "elected": false
+      },
+      {
+        "name": "Moses Anim",
+        "party": "NPP",
+        "votes": 48948,
+        "elected": true
+      },
+      {
+        "name": "Twum Barima Emmanuel",
+        "party": "CPP",
+        "votes": 103,
+        "elected": false
+      }
+    ],
+    "constituency": "TROBU",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 76084
+  },
+  {
+    "candidates": [
+      {
+        "name": "Nurudeen Mohammed",
+        "party": "NDC",
+        "votes": 29392,
+        "elected": false
+      },
+      {
+        "name": "Sarah Adwoa Safo",
+        "party": "NPP",
+        "votes": 63488,
+        "elected": true
+      },
+      {
+        "name": "Martha Akpah Yeboah",
+        "party": "CPP",
+        "votes": 336,
+        "elected": false
+      },
+      {
+        "name": "Abdul Kadri",
+        "party": "PNC",
+        "votes": 157,
+        "elected": false
+      }
+    ],
+    "constituency": "Dome-Kwabenya",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 93373
+  },
+  {
+    "candidates": [
+      {
+        "name": "James Reynolds Boafo-Baafi",
+        "party": "PPP",
+        "votes": 625,
+        "elected": false
+      },
+      {
+        "name": "Amadu Bukari Sorogho",
+        "party": "NDC",
+        "votes": 31650,
+        "elected": false
+      },
+      {
+        "name": "Abu-Bakar Saddique Boniface",
+        "party": "NPP",
+        "votes": 40283,
+        "elected": true
+      },
+      {
+        "name": "Joshua Kwao Nartey",
+        "party": "CPP",
+        "votes": 330,
+        "elected": false
+      },
+      {
+        "name": "Nii Mensah Okpoti Kodia",
+        "party": "IND",
+        "votes": 493,
+        "elected": false
+      }
+    ],
+    "constituency": "MADINA",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 73381
+  },
+  {
+    "candidates": [
+      {
+        "name": "Mohammed Ibrahim Bilal",
+        "party": "PPP",
+        "votes": 438,
+        "elected": false
+      },
+      {
+        "name": "Naser Mahama Toure",
+        "party": "NDC",
+        "votes": 23407,
+        "elected": true
+      },
+      {
+        "name": "Peter Mireku Kwame Antwi",
+        "party": "NPP",
+        "votes": 13599,
+        "elected": false
+      },
+      {
+        "name": "Abdul Ganiyu Shaibu",
+        "party": "CPP",
+        "votes": 174,
+        "elected": false
+      },
+      {
+        "name": "Alhassan Abubakari",
+        "party": "PNC",
+        "votes": 72,
+        "elected": false
+      }
+    ],
+    "constituency": "AYAWASO EAST",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 37690
+  },
+  {
+    "candidates": [
+      {
+        "name": "Yussif I. Jajah",
+        "party": "NDC",
+        "votes": 22144,
+        "elected": true
+      },
+      {
+        "name": "Aminu Mohammed Zakari",
+        "party": "NPP",
+        "votes": 14644,
+        "elected": false
+      },
+      {
+        "name": "Richard Hudson Kofi Ahamazie",
+        "party": "CPP",
+        "votes": 139,
+        "elected": false
+      }
+    ],
+    "constituency": "AYAWASO NORTH",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 36927
+  },
+  {
+    "candidates": [
+      {
+        "name": "Daniel Kofi Aidoo",
+        "party": "PPP",
+        "votes": 265,
+        "elected": false
+      },
+      {
+        "name": "Ani-Agyei William Affum",
+        "party": "NDC",
+        "votes": 27180,
+        "elected": false
+      },
+      {
+        "name": "Henry Quartey",
+        "party": "NPP",
+        "votes": 33726,
+        "elected": true
+      },
+      {
+        "name": "Awua-Peasah Quarshie Gyenyame",
+        "party": "CPP",
+        "votes": 123,
+        "elected": false
+      },
+      {
+        "name": "Benjamin Bediako",
+        "party": "PNC",
+        "votes": 50,
+        "elected": false
+      }
+    ],
+    "constituency": "AYAWASO CENTRAL",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 61344
+  },
+  {
+    "candidates": [
+      {
+        "name": "William Kofi Dowokpor",
+        "party": "PPP",
+        "votes": 1099,
+        "elected": false
+      },
+      {
+        "name": "Delali Kwasi Brempong",
+        "party": "NDC",
+        "votes": 22534,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Kyeremateng Agyarko",
+        "party": "NPP",
+        "votes": 32591,
+        "elected": true
+      },
+      {
+        "name": "Kweku Quansah",
+        "party": "CPP",
+        "votes": 638,
+        "elected": false
+      }
+    ],
+    "constituency": "AYAWASO WEST WUOGON",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 56862
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ahmed Arthur",
+        "party": "NPP",
+        "votes": 33820,
+        "elected": true
+      },
+      {
+        "name": "Alexander Ackuaku",
+        "party": "NDC",
+        "votes": 21944,
+        "elected": false
+      },
+      {
+        "name": "Harriet Anita Abaidoo",
+        "party": "PPP",
+        "votes": 1470,
+        "elected": false
+      },
+      {
+        "name": "Afua Asante",
+        "party": "CPP",
+        "votes": 279,
+        "elected": false
+      }
+    ],
+    "constituency": "OKAIKWEI SOUTH",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 57513
+  },
+  {
+    "candidates": [
+      {
+        "name": "Abdul Razak Issah",
+        "party": "NDC",
+        "votes": 156,
+        "elected": false
+      },
+      {
+        "name": "Alexander Ackuaku",
+        "party": "NDC",
+        "votes": 23617,
+        "elected": false
+      },
+      {
+        "name": "Ahmed Arthur",
+        "party": "NPP",
+        "votes": 28083,
+        "elected": true
+      },
+      {
+        "name": "Afua Asante",
+        "party": "CPP",
+        "votes": 60,
+        "elected": false
+      }
+    ],
+    "constituency": "OKAIKWEI NORTH",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 51916
+  },
+  {
+    "candidates": [
+      {
+        "name": "Michael Mireku Sasu",
+        "party": "PPP",
+        "votes": 246,
+        "elected": false
+      },
+      {
+        "name": "Aabdul Rashid Issah",
+        "party": "NDC",
+        "votes": 17630,
+        "elected": false
+      },
+      {
+        "name": "Patrick Yaw Boamah",
+        "party": "NPP",
+        "votes": 28505,
+        "elected": true
+      },
+      {
+        "name": "Sophia T. Annan",
+        "party": "CPP",
+        "votes": 94,
+        "elected": false
+      }
+    ],
+    "constituency": "OKAIKWEI CENTRAL",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 46475
+  },
+  {
+    "candidates": [
+      {
+        "name": "Sally Amaki Darko Attopee",
+        "party": "NDC",
+        "votes": 26813,
+        "elected": false
+      },
+      {
+        "name": "Nana Akua Owusu Afriyieh",
+        "party": "NPP",
+        "votes": 54698,
+        "elected": true
+      },
+      {
+        "name": "Akwasi Asiamah Adade",
+        "party": "CPP",
+        "votes": 324,
+        "elected": false
+      }
+    ],
+    "constituency": "ABLEKUMA NORTH",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 81835
+  },
+  {
+    "candidates": [
+      {
+        "name": "Alfred Nartey Agbo",
+        "party": "PPP",
+        "votes": 763,
+        "elected": false
+      },
+      {
+        "name": "Halidu Haruna",
+        "party": "NDC",
+        "votes": 40686,
+        "elected": false
+      },
+      {
+        "name": "Ebenezer Gilbert Nii Narh Nartey",
+        "party": "NPP",
+        "votes": 46884,
+        "elected": true
+      },
+      {
+        "name": "Christabel Kye",
+        "party": "NDP",
+        "votes": 84,
+        "elected": false
+      },
+      {
+        "name": "Josephine Ataa Oppong",
+        "party": "CPP",
+        "votes": 170,
+        "elected": false
+      }
+    ],
+    "constituency": "ABLEKUMA CENTRAL",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 88587
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ishmael Paakwesi Longdon",
+        "party": "PPP",
+        "votes": 194,
+        "elected": false
+      },
+      {
+        "name": "Vanderpuije Alfred Okoe",
+        "party": "NDC",
+        "votes": 31927,
+        "elected": true
+      },
+      {
+        "name": "Jerry Ahmed Shaib",
+        "party": "NPP",
+        "votes": 26495,
+        "elected": false
+      },
+      {
+        "name": "Goodman Baah",
+        "party": "NDP",
+        "votes": 31,
+        "elected": false
+      },
+      {
+        "name": "Abdul Obodai Squire",
+        "party": "IND",
+        "votes": 82,
+        "elected": false
+      }
+    ],
+    "constituency": "ABLEKUMA SOUTH",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 58729
+  },
+  {
+    "candidates": [
+      {
+        "name": "Charlotte Kumea Korang",
+        "party": "PPP",
+        "votes": 470,
+        "elected": false
+      },
+      {
+        "name": "Diana Obenewaa Twum",
+        "party": "NDC",
+        "votes": 20976,
+        "elected": false
+      },
+      {
+        "name": "Ursula G. Owusu",
+        "party": "NPP",
+        "votes": 34376,
+        "elected": true
+      },
+      {
+        "name": "Daniel O. Noye",
+        "party": "PNC",
+        "votes": 46,
+        "elected": false
+      },
+      {
+        "name": "Theophilus Nii Ayerkwei Tettey",
+        "party": "IND",
+        "votes": 4484,
+        "elected": false
+      }
+    ],
+    "constituency": "ABLEKUMA WEST",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 60352
+  },
+  {
+    "candidates": [
+      {
+        "name": "William Larbi",
+        "party": "PPP",
+        "votes": 411,
+        "elected": false
+      },
+      {
+        "name": "Edwin Nii Lantey Vanderpuye",
+        "party": "NDC",
+        "votes": 36606,
+        "elected": true
+      },
+      {
+        "name": "Edward Patrick Nii Lantey Bannerman",
+        "party": "NPP",
+        "votes": 26671,
+        "elected": false
+      },
+      {
+        "name": "Jonathan Mitchel Heward-Mills",
+        "party": "APC",
+        "votes": 69,
+        "elected": false
+      },
+      {
+        "name": "Sampson Issaka",
+        "party": "CPP",
+        "votes": 422,
+        "elected": false
+      }
+    ],
+    "constituency": "ODODODIODIOO",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 64179
+  },
+  {
+    "candidates": [
+      {
+        "name": "Rockson Joshua Kofi Brient",
+        "party": "GCPP",
+        "votes": 0,
+        "elected": false
+      },
+      {
+        "name": "Zenator Agyeman Rawlings",
+        "party": "NDC",
+        "votes": 33609,
+        "elected": true
+      },
+      {
+        "name": "Addison Philip Kojo Addo",
+        "party": "NPP",
+        "votes": 29122,
+        "elected": false
+      },
+      {
+        "name": "Godwin Opare Addo",
+        "party": "CPP",
+        "votes": 194,
+        "elected": false
+      },
+      {
+        "name": "Valentino Nii Noi Nortey",
+        "party": "IDN",
+        "votes": 3911,
+        "elected": false
+      }
+    ],
+    "constituency": "KORLE KLOTTEY",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 66836
+  },
+  {
+    "candidates": [
+      {
+        "name": "Nii Amasah Namoale",
+        "party": "NDC",
+        "votes": 38504,
+        "elected": false
+      },
+      {
+        "name": "Vincent Sowah Odotei",
+        "party": "NPP",
+        "votes": 40126,
+        "elected": true
+      },
+      {
+        "name": "Cynthia Mensah",
+        "party": "CPP",
+        "votes": 697,
+        "elected": false
+      }
+    ],
+    "constituency": "DADEKOTOPON",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 79327
+  },
+  {
+    "candidates": [
+      {
+        "name": "Benita Sena Okity-Duah",
+        "party": "NDC",
+        "votes": 43092,
+        "elected": false
+      },
+      {
+        "name": "Benard Okoe Boye",
+        "party": "NPP",
+        "votes": 45259,
+        "elected": true
+      },
+      {
+        "name": "Emmanuel Nii Ashia Anyankor",
+        "party": "CPP",
+        "votes": 433,
+        "elected": false
+      },
+      {
+        "name": "Yakubu Faharudeen",
+        "party": "PNC",
+        "votes": 95,
+        "elected": false
+      },
+      {
+        "name": "Stenphen Stanley Quaye",
+        "party": "IDN",
+        "votes": 310,
+        "elected": false
+      }
+    ],
+    "constituency": "LEDZOKUKU",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 89189
+  },
+  {
+    "candidates": [
+      {
+        "name": "Huppenbauer Hubert Hugo",
+        "party": "PPP",
+        "votes": 626,
+        "elected": false
+      },
+      {
+        "name": "Agnes Naa Momo Lartey",
+        "party": "NDC",
+        "votes": 30357,
+        "elected": false
+      },
+      {
+        "name": "Elizabeth Afoley Quaye",
+        "party": "NPP",
+        "votes": 32463,
+        "elected": true
+      },
+      {
+        "name": "Amartey Fanny",
+        "party": "CPP",
+        "votes": 109,
+        "elected": false
+      }
+    ],
+    "constituency": "KROWOR",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 63555
+  },
+  {
+    "candidates": [
+      {
+        "name": "Robert Kempes Papa Nii Ofofsuware",
+        "party": "NDC",
+        "votes": 27757,
+        "elected": false
+      },
+      {
+        "name": "Daniel Nii Kwartey Titus-Glover",
+        "party": "NPP",
+        "votes": 31782,
+        "elected": true
+      },
+      {
+        "name": "Richmond Lawer Mensah",
+        "party": "CPP",
+        "votes": 229,
+        "elected": false
+      },
+      {
+        "name": "Theophilus Nii Ankamah Densu-Tetteh",
+        "party": "IND",
+        "votes": 408,
+        "elected": false
+      }
+    ],
+    "constituency": "Tema East",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 60176
+  },
+  {
+    "candidates": [
+      {
+        "name": "Marshall Dogbatsey",
+        "party": "PPP",
+        "votes": 404,
+        "elected": false
+      },
+      {
+        "name": "James Enu",
+        "party": "NDC",
+        "votes": 29742,
+        "elected": false
+      },
+      {
+        "name": "Kingsley Carlos Ahenkorah",
+        "party": "NPP",
+        "votes": 44579,
+        "elected": true
+      },
+      {
+        "name": "Kweku Awotwe",
+        "party": "NDP",
+        "votes": 78,
+        "elected": false
+      },
+      {
+        "name": "Peterkin Kwame Kin-Adano",
+        "party": "CPP",
+        "votes": 99,
+        "elected": false
+      }
+    ],
+    "constituency": "Tema West",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 74902
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ebi Bright",
+        "party": "NDC",
+        "votes": 12937,
+        "elected": false
+      },
+      {
+        "name": "Kofi Brako",
+        "party": "NPP",
+        "votes": 28334,
+        "elected": true
+      },
+      {
+        "name": "Nenyi-Pobee Sam",
+        "party": "CPP",
+        "votes": 209,
+        "elected": false
+      }
+    ],
+    "constituency": "Tema Central",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 41480
+  },
+  {
+    "candidates": [
+      {
+        "name": "Stanley Kwesi Klem",
+        "party": "PPP",
+        "votes": 588,
+        "elected": false
+      },
+      {
+        "name": "Joseph Nii Laryea Afotey Agbo",
+        "party": "NDC",
+        "votes": 30541,
+        "elected": true
+      },
+      {
+        "name": "Solomon Tettey Appiah",
+        "party": "NPP",
+        "votes": 27001,
+        "elected": false
+      },
+      {
+        "name": "Pearl Akua Agyemang",
+        "party": "IND",
+        "votes": 1321,
+        "elected": false
+      }
+    ],
+    "constituency": "KPONE-KATAMANSO",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 59451
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kojo Atta Ayetey",
+        "party": "PPP",
+        "votes": 507,
+        "elected": false
+      },
+      {
+        "name": "Ernest Henry Norgbey",
+        "party": "NDC",
+        "votes": 52400,
+        "elected": true
+      },
+      {
+        "name": "Labaran Yakubu Barry",
+        "party": "NPP",
+        "votes": 35697,
+        "elected": false
+      },
+      {
+        "name": "Yakubu Musah",
+        "party": "APC",
+        "votes": 240,
+        "elected": false
+      },
+      {
+        "name": "Hamida Bidolti Damba",
+        "party": "CPP",
+        "votes": 109,
+        "elected": false
+      }
+    ],
+    "constituency": "ASHAIMAN",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 88953
+  },
+  {
+    "candidates": [
+      {
+        "name": "Alhaji Mohammed Muftao",
+        "party": "PPP",
+        "votes": 244,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Adamu Ramadan",
+        "party": "NDC",
+        "votes": 32588,
+        "elected": false
+      },
+      {
+        "name": "Yaw Buaben Asamoa",
+        "party": "NPP",
+        "votes": 33952,
+        "elected": true
+      },
+      {
+        "name": "Alhaji Razak Alhassan",
+        "party": "CPP",
+        "votes": 163,
+        "elected": false
+      },
+      {
+        "name": "Hummi Sinare",
+        "party": "PNC",
+        "votes": 96,
+        "elected": false
+      }
+    ],
+    "constituency": "Adenta",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 67043
+  },
+  {
+    "candidates": [
+      {
+        "name": "Emmanuel Maatey Tetteh",
+        "party": "PPP",
+        "votes": 3203,
+        "elected": false
+      },
+      {
+        "name": "Linda Obenewaa Akweley Ocloo",
+        "party": "NDC",
+        "votes": 20114,
+        "elected": true
+      },
+      {
+        "name": "Stenphen Nene Oyortey",
+        "party": "NPP",
+        "votes": 6518,
+        "elected": false
+      },
+      {
+        "name": "Solomon Narh Dorh",
+        "party": "CPP",
+        "votes": 154,
+        "elected": false
+      }
+    ],
+    "constituency": "SHAI-OSUDOKU",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 29989
+  },
+  {
+    "candidates": [
+      {
+        "name": "Casmire Nii Okine Mensah",
+        "party": "PPP",
+        "votes": 110,
+        "elected": false
+      },
+      {
+        "name": "Samuel Nartey George",
+        "party": "NDC",
+        "votes": 23860,
+        "elected": true
+      },
+      {
+        "name": "Sylvester Tetteh",
+        "party": "NPP",
+        "votes": 13588,
+        "elected": false
+      },
+      {
+        "name": "Richard A. Nartey",
+        "party": "APC",
+        "votes": 103,
+        "elected": false
+      },
+      {
+        "name": "Fredrick Marmah Martey",
+        "party": "CPP",
+        "votes": 212,
+        "elected": false
+      }
+    ],
+    "constituency": "NINGO PRAMPRAM",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 37873
+  },
+  {
+    "candidates": [
+      {
+        "name": "Mortey Inusah Doe",
+        "party": "PPP",
+        "votes": 200,
+        "elected": false
+      },
+      {
+        "name": "Otuteye Christian Corletey",
+        "party": "NDC",
+        "votes": 13269,
+        "elected": true
+      },
+      {
+        "name": "Agorhom Divine Otoo",
+        "party": "NPP",
+        "votes": 11342,
+        "elected": false
+      }
+    ],
+    "constituency": "SEGE",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 24811
+  },
+  {
+    "candidates": [
+      {
+        "name": "Cudjoe Ghansah Comfort Doyoe",
+        "party": "NDC",
+        "votes": 18954,
+        "elected": true
+      },
+      {
+        "name": "Kanor Sanakey",
+        "party": "NPP",
+        "votes": 3162,
+        "elected": false
+      },
+      {
+        "name": "Asupah Manasseh",
+        "party": "NDP",
+        "votes": 1019,
+        "elected": false
+      },
+      {
+        "name": "Daniel Katey Ossah",
+        "party": "CPP",
+        "votes": 435,
+        "elected": false
+      }
+    ],
+    "constituency": "ADA",
+    "region": "GREATER ACCRA",
+    "total_valid_votes": 23570
+  },
+  {
+    "candidates": [
+      {
+        "name": "Prosper Selassie Akpaganah",
+        "party": "PPP",
+        "votes": 295,
+        "elected": false
+      },
+      {
+        "name": "Richard Mawuli Kwaku Quashigah",
+        "party": "NDC",
+        "votes": 28143,
+        "elected": true
+      },
+      {
+        "name": "Anthony Anani Kojo Desewu",
+        "party": "NPP",
+        "votes": 1665,
+        "elected": false
+      },
+      {
+        "name": "Edem Mensah",
+        "party": "NDP",
+        "votes": 230,
+        "elected": false
+      },
+      {
+        "name": "Mathias Kofi Adugu",
+        "party": "CPP",
+        "votes": 601,
+        "elected": false
+      }
+    ],
+    "constituency": "KETA",
+    "region": "VOLTA",
+    "total_valid_votes": 30934
+  },
+  {
+    "candidates": [
+      {
+        "name": "Francis Tamakloe",
+        "party": "PPP",
+        "votes": 6823,
+        "elected": false
+      },
+      {
+        "name": "Clement Kofi Humado",
+        "party": "NDC",
+        "votes": 22216,
+        "elected": true
+      },
+      {
+        "name": "Eddah Edward Kwadzo",
+        "party": "NPP",
+        "votes": 2451,
+        "elected": false
+      },
+      {
+        "name": "Kuatsikor Sylvanus George",
+        "party": "CPP",
+        "votes": 235,
+        "elected": false
+      },
+      {
+        "name": "Kumedzro Gayheart Sena",
+        "party": "IND",
+        "votes": 2980,
+        "elected": false
+      }
+    ],
+    "constituency": "ANLO",
+    "region": "VOLTA",
+    "total_valid_votes": 34705
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kwetey Fifi Fiavi Franklin",
+        "party": "NDC",
+        "votes": 48723,
+        "elected": true
+      },
+      {
+        "name": "Maxwell Koffie Lugudor",
+        "party": "NPP",
+        "votes": 4148,
+        "elected": false
+      },
+      {
+        "name": "Azumah Courage Kwame Mensah",
+        "party": "NDP",
+        "votes": 191,
+        "elected": false
+      },
+      {
+        "name": "Prince Eli Agbeli",
+        "party": "CPP",
+        "votes": 165,
+        "elected": false
+      },
+      {
+        "name": "Albert Kwasi Zigah",
+        "party": "IND",
+        "votes": 2545,
+        "elected": false
+      },
+      {
+        "name": "Jim Yao Morti",
+        "party": "IND",
+        "votes": 18643,
+        "elected": false
+      }
+    ],
+    "constituency": "KETU SOUTH",
+    "region": "VOLTA",
+    "total_valid_votes": 74415
+  },
+  {
+    "candidates": [
+      {
+        "name": "Gbedjeh Liberty Cynthia",
+        "party": "PPP",
+        "votes": 176,
+        "elected": false
+      },
+      {
+        "name": "Dr. James Klutse Avedzi",
+        "party": "NDC",
+        "votes": 25260,
+        "elected": true
+      },
+      {
+        "name": "Samuel Kofi Ahiave Dzamesi",
+        "party": "NPP",
+        "votes": 15596,
+        "elected": false
+      },
+      {
+        "name": "Nyadey Dennis Sedinam",
+        "party": "APC",
+        "votes": 75,
+        "elected": false
+      }
+    ],
+    "constituency": "KETU NORTH",
+    "region": "VOLTA",
+    "total_valid_votes": 41107
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ametame Japhet",
+        "party": "PPP",
+        "votes": 233,
+        "elected": false
+      },
+      {
+        "name": "Bernard Ahiafor",
+        "party": "NDC",
+        "votes": 16916,
+        "elected": true
+      },
+      {
+        "name": "Leo-Nelson Adzidogah",
+        "party": "NPP",
+        "votes": 850,
+        "elected": false
+      },
+      {
+        "name": "Andreas Kwabla Avorgbedor",
+        "party": "CPP",
+        "votes": 50,
+        "elected": false
+      },
+      {
+        "name": "Evans Gadeto Djikunu",
+        "party": "IND",
+        "votes": 11976,
+        "elected": false
+      }
+    ],
+    "constituency": "AKATSI SOUTH",
+    "region": "VOLTA",
+    "total_valid_votes": 30025
+  },
+  {
+    "candidates": [
+      {
+        "name": "Peter Nortsu-Kotoe",
+        "party": "NDC",
+        "votes": 11482,
+        "elected": true
+      },
+      {
+        "name": "Prince Sokode Amuzu",
+        "party": "NPP",
+        "votes": 1379,
+        "elected": false
+      }
+    ],
+    "constituency": "AKATSI NORTH",
+    "region": "VOLTA",
+    "total_valid_votes": 12861
+  },
+  {
+    "candidates": [
+      {
+        "name": "Vorsah Wisdom Justice Kofi",
+        "party": "PPP",
+        "votes": 441,
+        "elected": false
+      },
+      {
+        "name": "Wisdom Kobena Mensah Woyome",
+        "party": "NDC",
+        "votes": 31978,
+        "elected": true
+      },
+      {
+        "name": "Seth Kwasi Agbi",
+        "party": "NPP",
+        "votes": 3595,
+        "elected": false
+      },
+      {
+        "name": "Avuwoada Robert Mensah",
+        "party": "CPP",
+        "votes": 704,
+        "elected": false
+      }
+    ],
+    "constituency": "SOUTH TONGU",
+    "region": "VOLTA",
+    "total_valid_votes": 36718
+  },
+  {
+    "candidates": [
+      {
+        "name": "Hozame Geoffrey",
+        "party": "PPP",
+        "votes": 286,
+        "elected": false
+      },
+      {
+        "name": "Hottordze Alexander R.",
+        "party": "NDC",
+        "votes": 25955,
+        "elected": true
+      },
+      {
+        "name": "Ebenezer Kwadzo Azumah",
+        "party": "NPP",
+        "votes": 2423,
+        "elected": false
+      },
+      {
+        "name": "Patrick Kwadzo Agboyibor",
+        "party": "CPP",
+        "votes": 93,
+        "elected": false
+      }
+    ],
+    "constituency": "CENTRAL TONGU",
+    "region": "VOLTA",
+    "total_valid_votes": 28757
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kudjordzi A.K. Prosper",
+        "party": "PPP",
+        "votes": 66,
+        "elected": false
+      },
+      {
+        "name": "Samuel Okudzeto Ablakwa",
+        "party": "NDC",
+        "votes": 26560,
+        "elected": true
+      },
+      {
+        "name": "Arku Richard Collins",
+        "party": "NPP",
+        "votes": 1086,
+        "elected": false
+      },
+      {
+        "name": "Gordon Bedzra-Gamey",
+        "party": "NDP",
+        "votes": 45,
+        "elected": false
+      },
+      {
+        "name": "Morti-Dzivor Albert Mawuena",
+        "party": "CPP",
+        "votes": 52,
+        "elected": false
+      },
+      {
+        "name": "Chistohper Kofi Eleblu",
+        "party": "IND",
+        "votes": 7376,
+        "elected": false
+      }
+    ],
+    "constituency": "NORTH TONGU",
+    "region": "VOLTA",
+    "total_valid_votes": 35185
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kwame Agbodza",
+        "party": "NDC",
+        "votes": 10337,
+        "elected": true
+      },
+      {
+        "name": "Samuel C. K Buame",
+        "party": "NPP",
+        "votes": 1048,
+        "elected": false
+      },
+      {
+        "name": "Hiagbe Edem Dzanku",
+        "party": "NDP",
+        "votes": 235,
+        "elected": false
+      }
+    ],
+    "constituency": "ADAKLU",
+    "region": "VOLTA",
+    "total_valid_votes": 11620
+  },
+  {
+    "candidates": [
+      {
+        "name": "Charles Agbeve",
+        "party": "NDC",
+        "votes": 11614,
+        "elected": true
+      },
+      {
+        "name": "John Kwaku",
+        "party": "NPP",
+        "votes": 510,
+        "elected": false
+      },
+      {
+        "name": "David Yaoga Sunu",
+        "party": "NDP",
+        "votes": 1329,
+        "elected": false
+      },
+      {
+        "name": "Amenya Wisdom Elvis Ativoe",
+        "party": "IND",
+        "votes": 3229,
+        "elected": false
+      }
+    ],
+    "constituency": "AGOTIME-ZIOPE",
+    "region": "VOLTA",
+    "total_valid_votes": 16682
+  },
+  {
+    "candidates": [
+      {
+        "name": "Adediah Confidence Korbla",
+        "party": "PPP",
+        "votes": 673,
+        "elected": false
+      },
+      {
+        "name": "Benjamin Komla Kpodo",
+        "party": "NDC",
+        "votes": 47330,
+        "elected": true
+      },
+      {
+        "name": "Ernest Yao Gaewu",
+        "party": "NPP",
+        "votes": 6031,
+        "elected": false
+      },
+      {
+        "name": "Tay Perry",
+        "party": "CPP",
+        "votes": 259,
+        "elected": false
+      },
+      {
+        "name": "Franklin Kordzo Amudzi",
+        "party": "PNC",
+        "votes": 189,
+        "elected": false
+      },
+      {
+        "name": "Edwin Tukpeyi",
+        "party": "IDN",
+        "votes": 5065,
+        "elected": false
+      }
+    ],
+    "constituency": "HO CENTRAL",
+    "region": "VOLTA",
+    "total_valid_votes": 59547
+  },
+  {
+    "candidates": [
+      {
+        "name": "Akutey Joshua Kumah",
+        "party": "PPP",
+        "votes": 916,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Kwasi Bedzrah",
+        "party": "NDC",
+        "votes": 27204,
+        "elected": true
+      },
+      {
+        "name": "Isaac Kwame Adika",
+        "party": "NPP",
+        "votes": 3385,
+        "elected": false
+      },
+      {
+        "name": "Jonhnson Melody Dedo",
+        "party": "NDP",
+        "votes": 332,
+        "elected": false
+      },
+      {
+        "name": "Tetteh Edwin Harry",
+        "party": "CPP",
+        "votes": 170,
+        "elected": false
+      }
+    ],
+    "constituency": "HO WEST",
+    "region": "VOLTA",
+    "total_valid_votes": 32007
+  },
+  {
+    "candidates": [
+      {
+        "name": "Lartey Felix",
+        "party": "PPP",
+        "votes": 4277,
+        "elected": false
+      },
+      {
+        "name": "Rockson-Nelson Este Kwami Dafeamekpor",
+        "party": "NDC",
+        "votes": 12369,
+        "elected": true
+      },
+      {
+        "name": "Lovely David Davis",
+        "party": "NPP",
+        "votes": 532,
+        "elected": false
+      },
+      {
+        "name": "Kenneth Kwaku Bonsu",
+        "party": "IND",
+        "votes": 137,
+        "elected": false
+      }
+    ],
+    "constituency": "SOUTH DAYI",
+    "region": "VOLTA",
+    "total_valid_votes": 17315
+  },
+  {
+    "candidates": [
+      {
+        "name": "Della Sowah",
+        "party": "NDC",
+        "votes": 17318,
+        "elected": true
+      },
+      {
+        "name": "Djampoh Elvis Kweku",
+        "party": "NPP",
+        "votes": 3058,
+        "elected": false
+      },
+      {
+        "name": "Daniel Karl",
+        "party": "NDP",
+        "votes": 359,
+        "elected": false
+      },
+      {
+        "name": "Isaac Adjanya",
+        "party": "CPP",
+        "votes": 286,
+        "elected": false
+      }
+    ],
+    "constituency": "KPANDO",
+    "region": "VOLTA",
+    "total_valid_votes": 21021
+  },
+  {
+    "candidates": [
+      {
+        "name": "Joycelyn Tetteh",
+        "party": "NDC",
+        "votes": 12948,
+        "elected": true
+      },
+      {
+        "name": "Samuel Kwasi Anomah",
+        "party": "NPP",
+        "votes": 467,
+        "elected": false
+      },
+      {
+        "name": "Christopher N. A. Dotse",
+        "party": "NDP",
+        "votes": 57,
+        "elected": false
+      },
+      {
+        "name": "Christopher Wise Siale",
+        "party": "CPP",
+        "votes": 66,
+        "elected": false
+      },
+      {
+        "name": "Wogbe Kpikpitse",
+        "party": "IDN",
+        "votes": 2949,
+        "elected": false
+      }
+    ],
+    "constituency": "NORTH DAYI",
+    "region": "VOLTA",
+    "total_valid_votes": 16487
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ameckson Frank Sellasie",
+        "party": "PPP",
+        "votes": 269,
+        "elected": false
+      },
+      {
+        "name": "Bernice Adiku Heloo",
+        "party": "NDC",
+        "votes": 35437,
+        "elected": true
+      },
+      {
+        "name": "Marlon Praises Anipa",
+        "party": "NPP",
+        "votes": 6462,
+        "elected": false
+      },
+      {
+        "name": "Justine Kumordzi Onai Avadu",
+        "party": "NDP",
+        "votes": 383,
+        "elected": false
+      },
+      {
+        "name": "Wisdom Kweku Adetor",
+        "party": "CPP",
+        "votes": 179,
+        "elected": false
+      }
+    ],
+    "constituency": "HOHOE",
+    "region": "VOLTA",
+    "total_valid_votes": 42730
+  },
+  {
+    "candidates": [
+      {
+        "name": "Fia Kwesi Hanson",
+        "party": "PPP",
+        "votes": 612,
+        "elected": false
+      },
+      {
+        "name": "Angela Oforiwa Alorwu-Tay",
+        "party": "NDC",
+        "votes": 19486,
+        "elected": true
+      },
+      {
+        "name": "Senedza Semanu Wisdom",
+        "party": "NPP",
+        "votes": 3133,
+        "elected": false
+      },
+      {
+        "name": "George Kofi Kotoku",
+        "party": "CPP",
+        "votes": 53,
+        "elected": false
+      }
+    ],
+    "constituency": "AFADJATO SOUTH",
+    "region": "VOLTA",
+    "total_valid_votes": 23284
+  },
+  {
+    "candidates": [
+      {
+        "name": "Aziakpa Francis Kofi",
+        "party": "PPP",
+        "votes": 233,
+        "elected": false
+      },
+      {
+        "name": "Daniel Kwasi Ashiamah",
+        "party": "NDC",
+        "votes": 14799,
+        "elected": true
+      },
+      {
+        "name": "Aziale Lawrence Kwame",
+        "party": "NPP",
+        "votes": 5896,
+        "elected": false
+      },
+      {
+        "name": "Nelson Asafo",
+        "party": "CPP",
+        "votes": 193,
+        "elected": false
+      },
+      {
+        "name": "David Kofi Ahose",
+        "party": "IND",
+        "votes": 106,
+        "elected": false
+      }
+    ],
+    "constituency": "BUEM",
+    "region": "VOLTA",
+    "total_valid_votes": 21227
+  },
+  {
+    "candidates": [
+      {
+        "name": "Selorm Agbolosu",
+        "party": "PPP",
+        "votes": 229,
+        "elected": false
+      },
+      {
+        "name": "Kwadwo Nyanpon Aboagye",
+        "party": "NDC",
+        "votes": 18152,
+        "elected": true
+      },
+      {
+        "name": "Komla Onny Esq",
+        "party": "NPP",
+        "votes": 6716,
+        "elected": false
+      },
+      {
+        "name": "Appiah Evans",
+        "party": "NDP",
+        "votes": 66,
+        "elected": false
+      },
+      {
+        "name": "Fredrick Duncan Modzabi",
+        "party": "CPP",
+        "votes": 63,
+        "elected": false
+      }
+    ],
+    "constituency": "BIAKOYE",
+    "region": "VOLTA",
+    "total_valid_votes": 25226
+  },
+  {
+    "candidates": [
+      {
+        "name": "Abdul Aziz Muniru",
+        "party": "NDC",
+        "votes": 13941,
+        "elected": true
+      },
+      {
+        "name": "Kofi Adjei Ntim",
+        "party": "NPP",
+        "votes": 9730,
+        "elected": false
+      },
+      {
+        "name": "Jonathan Tetteh",
+        "party": "ACP",
+        "votes": 149,
+        "elected": false
+      },
+      {
+        "name": "Joseph Kwadwo Ofori",
+        "party": "IDN",
+        "votes": 3486,
+        "elected": false
+      }
+    ],
+    "constituency": "AKAN",
+    "region": "VOLTA",
+    "total_valid_votes": 27306
+  },
+  {
+    "candidates": [
+      {
+        "name": "Henry Awotwe",
+        "party": "PPP",
+        "votes": 199,
+        "elected": false
+      },
+      {
+        "name": "Wisdom Gidisu",
+        "party": "NDC",
+        "votes": 14504,
+        "elected": false
+      },
+      {
+        "name": "Gyato Michael Yaw",
+        "party": "NPP",
+        "votes": 14551,
+        "elected": true
+      }
+    ],
+    "constituency": "KRACHI EAST",
+    "region": "VOLTA",
+    "total_valid_votes": 29254
+  },
+  {
+    "candidates": [
+      {
+        "name": "Helen Adjoa Ntoso",
+        "party": "NDC",
+        "votes": 9644,
+        "elected": true
+      },
+      {
+        "name": "Osei-Nti Douglas",
+        "party": "NPP",
+        "votes": 5016,
+        "elected": false
+      },
+      {
+        "name": "Mprah George Cooper",
+        "party": "CPP",
+        "votes": 52,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Jalulah",
+        "party": "IND",
+        "votes": 5163,
+        "elected": false
+      }
+    ],
+    "constituency": "KRACHI WEST",
+    "region": "VOLTA",
+    "total_valid_votes": 19875
+  },
+  {
+    "candidates": [
+      {
+        "name": "John Majisi",
+        "party": "NDC",
+        "votes": 11833,
+        "elected": true
+      },
+      {
+        "name": "Kakateche Innocent Tache",
+        "party": "NPP",
+        "votes": 10856,
+        "elected": false
+      },
+      {
+        "name": "John Kwasi Ogyemekye",
+        "party": "CPP",
+        "votes": 138,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Abdallah",
+        "party": "IDN",
+        "votes": 491,
+        "elected": false
+      }
+    ],
+    "constituency": "KRACHI NCHUMURU",
+    "region": "VOLTA",
+    "total_valid_votes": 23318
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kini Geoffrey",
+        "party": "NDC",
+        "votes": 21691,
+        "elected": true
+      },
+      {
+        "name": "Edusei Cephas Kujo",
+        "party": "NPP",
+        "votes": 8903,
+        "elected": false
+      },
+      {
+        "name": "Nyame Maxwell",
+        "party": "CPP",
+        "votes": 297,
+        "elected": false
+      },
+      {
+        "name": "Njonam Wisdom Wagya",
+        "party": "IND",
+        "votes": 5670,
+        "elected": false
+      }
+    ],
+    "constituency": "NKWANTA SOUTH",
+    "region": "VOLTA",
+    "total_valid_votes": 36561
+  },
+  {
+    "candidates": [
+      {
+        "name": "Talla William",
+        "party": "PPP",
+        "votes": 420,
+        "elected": false
+      },
+      {
+        "name": "John Oti Kwabena Bless",
+        "party": "NDC",
+        "votes": 20283,
+        "elected": true
+      },
+      {
+        "name": "Tibrum David Makinye",
+        "party": "NPP",
+        "votes": 12248,
+        "elected": false
+      },
+      {
+        "name": "Nakpan Napor Vincent",
+        "party": "CPP",
+        "votes": 219,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Kwadjo Gmanab",
+        "party": "IND",
+        "votes": 588,
+        "elected": false
+      },
+      {
+        "name": "Timothy Odijor",
+        "party": "IND",
+        "votes": 377,
+        "elected": false
+      }
+    ],
+    "constituency": "NKWANTA NORTH",
+    "region": "VOLTA",
+    "total_valid_votes": 34135
+  },
+  {
+    "candidates": [
+      {
+        "name": "Michael Nkansah Yaw",
+        "party": "PPP",
+        "votes": 257,
+        "elected": false
+      },
+      {
+        "name": "Thomas Ampem Nyarko",
+        "party": "NDC",
+        "votes": 20493,
+        "elected": true
+      },
+      {
+        "name": "Kwame Adu-Darkwa",
+        "party": "NPP",
+        "votes": 18668,
+        "elected": false
+      },
+      {
+        "name": "Eva Bernance Andorful",
+        "party": "CPP",
+        "votes": 91,
+        "elected": false
+      }
+    ],
+    "constituency": "ASUOGYAMAN",
+    "region": "EASTERN",
+    "total_valid_votes": 39509
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ebenezer Okletey Tarlabi",
+        "party": "NDC",
+        "votes": 19710,
+        "elected": true
+      },
+      {
+        "name": "Samuel Nuertey Ayertey",
+        "party": "NPP",
+        "votes": 19383,
+        "elected": false
+      },
+      {
+        "name": "Foster Emmanuel Okley",
+        "party": "CPP",
+        "votes": 535,
+        "elected": false
+      }
+    ],
+    "constituency": "LOWER MANYA KROBO",
+    "region": "EASTERN",
+    "total_valid_votes": 39628
+  },
+  {
+    "candidates": [
+      {
+        "name": "Jeff Tetteh Kavianu",
+        "party": "NDC",
+        "votes": 10544,
+        "elected": false
+      },
+      {
+        "name": "Joseph Tetteh",
+        "party": "NPP",
+        "votes": 13920,
+        "elected": true
+      },
+      {
+        "name": "Nicholas Tetteh",
+        "party": "NDP",
+        "votes": 142,
+        "elected": false
+      },
+      {
+        "name": "Angmor Samuel Amoatey",
+        "party": "CPP",
+        "votes": 102,
+        "elected": false
+      }
+    ],
+    "constituency": "UPPER MANYA KROBO",
+    "region": "EASTERN",
+    "total_valid_votes": 24708
+  },
+  {
+    "candidates": [
+      {
+        "name": "Magnus Kofi Amoatey",
+        "party": "NDC",
+        "votes": 23507,
+        "elected": true
+      },
+      {
+        "name": "Francis Djetse Appertey",
+        "party": "NPP",
+        "votes": 15978,
+        "elected": false
+      },
+      {
+        "name": "Kwadjo Samson",
+        "party": "CPP",
+        "votes": 213,
+        "elected": false
+      }
+    ],
+    "constituency": "YILO KROBO",
+    "region": "EASTERN",
+    "total_valid_votes": 39698
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ransford Owusu Boakye",
+        "party": "NDC",
+        "votes": 19918,
+        "elected": false
+      },
+      {
+        "name": "Mark Assibey-Yeboah",
+        "party": "NPP",
+        "votes": 40446,
+        "elected": true
+      },
+      {
+        "name": "Naomi Owusu Sekyere",
+        "party": "CPP",
+        "votes": 522,
+        "elected": false
+      },
+      {
+        "name": "Nana Oboadie Boateng Bonsu",
+        "party": "PNC",
+        "votes": 164,
+        "elected": false
+      }
+    ],
+    "constituency": "NEW JUABEN SOUTH",
+    "region": "EASTERN",
+    "total_valid_votes": 61050
+  },
+  {
+    "candidates": [
+      {
+        "name": "Gabriel Tetteh Norgan",
+        "party": "PPP",
+        "votes": 304,
+        "elected": false
+      },
+      {
+        "name": "Apaw Wiredu Haroun",
+        "party": "NDC",
+        "votes": 8736,
+        "elected": false
+      },
+      {
+        "name": "Kwasi Boateng Adjei",
+        "party": "NPP",
+        "votes": 20379,
+        "elected": true
+      }
+    ],
+    "constituency": "NEW JUABEN NORTH",
+    "region": "EASTERN",
+    "total_valid_votes": 29419
+  },
+  {
+    "candidates": [
+      {
+        "name": "Yaw Appiah-Kubi",
+        "party": "NDC",
+        "votes": 6949,
+        "elected": false
+      },
+      {
+        "name": "Nana Dokua Asiamah Adjei",
+        "party": "NPP",
+        "votes": 26655,
+        "elected": true
+      },
+      {
+        "name": "Asiedu-Offei",
+        "party": "IDN",
+        "votes": 9092,
+        "elected": false
+      },
+      {
+        "name": "Gifty Mercy Anakwa",
+        "party": "CPP",
+        "votes": 102,
+        "elected": false
+      }
+    ],
+    "constituency": "Akwapem North",
+    "region": "EASTERN",
+    "total_valid_votes": 42798
+  },
+  {
+    "candidates": [
+      {
+        "name": "Michael Ofori Offei",
+        "party": "NDC",
+        "votes": 6410,
+        "elected": false
+      },
+      {
+        "name": "Daniel Botwe",
+        "party": "NPP",
+        "votes": 16235,
+        "elected": true
+      },
+      {
+        "name": "Samuel Quajo Adjei",
+        "party": "CPP",
+        "votes": 292,
+        "elected": false
+      }
+    ],
+    "constituency": "OKERE",
+    "region": "EASTERN",
+    "total_valid_votes": 22937
+  },
+  {
+    "candidates": [
+      {
+        "name": "Lawrencia Dziwornu",
+        "party": "NDC",
+        "votes": 8417,
+        "elected": false
+      },
+      {
+        "name": "Osei Bonsu Amoah",
+        "party": "NPP",
+        "votes": 14049,
+        "elected": true
+      },
+      {
+        "name": "Isaac Opare-Addo",
+        "party": "CPP",
+        "votes": 4153,
+        "elected": false
+      }
+    ],
+    "constituency": "Akwapem South",
+    "region": "EASTERN",
+    "total_valid_votes": 26619
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ali Ibn E. Chambas",
+        "party": "PPP",
+        "votes": 485,
+        "elected": false
+      },
+      {
+        "name": "Benedicta Oyo Quartey",
+        "party": "NDC",
+        "votes": 18888,
+        "elected": false
+      },
+      {
+        "name": "Annor-Dompreh Frank",
+        "party": "NPP",
+        "votes": 27159,
+        "elected": true
+      },
+      {
+        "name": "Essuman Nana Kofi Akom Collins",
+        "party": "CPP",
+        "votes": 83,
+        "elected": false
+      },
+      {
+        "name": "Suleman Salifu Vondolie",
+        "party": "IDN",
+        "votes": 99,
+        "elected": false
+      }
+    ],
+    "constituency": "Nsawam-Adoagyiri",
+    "region": "EASTERN",
+    "total_valid_votes": 46714
+  },
+  {
+    "candidates": [
+      {
+        "name": "Margaret Ansei",
+        "party": "NDC",
+        "votes": 20762,
+        "elected": false
+      },
+      {
+        "name": "Frederick Opare-Ansah",
+        "party": "NPP",
+        "votes": 25328,
+        "elected": true
+      }
+    ],
+    "constituency": "SUHUM",
+    "region": "EASTERN",
+    "total_valid_votes": 46090
+  },
+  {
+    "candidates": [
+      {
+        "name": "Menyah T. K. Prince",
+        "party": "PPP",
+        "votes": 204,
+        "elected": false
+      },
+      {
+        "name": "Teddy Addy",
+        "party": "NDC",
+        "votes": 14820,
+        "elected": false
+      },
+      {
+        "name": "Ayeh-Paye Samuel",
+        "party": "NPP",
+        "votes": 18536,
+        "elected": true
+      },
+      {
+        "name": "Kingsley Wise Mensah",
+        "party": "CPP",
+        "votes": 167,
+        "elected": false
+      },
+      {
+        "name": "Kofi Agor",
+        "party": "IDN",
+        "votes": 356,
+        "elected": false
+      }
+    ],
+    "constituency": "AYENSUANO",
+    "region": "EASTERN",
+    "total_valid_votes": 34083
+  },
+  {
+    "candidates": [
+      {
+        "name": "Naana Osei Ampem",
+        "party": "NDC",
+        "votes": 18011,
+        "elected": false
+      },
+      {
+        "name": "Eyiah Kyei Baffour",
+        "party": "NPP",
+        "votes": 27056,
+        "elected": true
+      },
+      {
+        "name": "Osman Mohammed",
+        "party": "CPP",
+        "votes": 124,
+        "elected": false
+      }
+    ],
+    "constituency": "LOWER WEST AKIM",
+    "region": "EASTERN",
+    "total_valid_votes": 45191
+  },
+  {
+    "candidates": [
+      {
+        "name": "Derek Ohene Assifo Bekoe",
+        "party": "NDC",
+        "votes": 17091,
+        "elected": true
+      },
+      {
+        "name": "Sackey Eugene",
+        "party": "NPP",
+        "votes": 16661,
+        "elected": false
+      },
+      {
+        "name": "Muntala Abubakar",
+        "party": "APC",
+        "votes": 251,
+        "elected": false
+      }
+    ],
+    "constituency": "UPPER WEST AKIM",
+    "region": "EASTERN",
+    "total_valid_votes": 34003
+  },
+  {
+    "candidates": [
+      {
+        "name": "Baa Abora",
+        "party": "PPP",
+        "votes": 599,
+        "elected": false
+      },
+      {
+        "name": "Kwabena Nkansah Asare",
+        "party": "NDC",
+        "votes": 6892,
+        "elected": false
+      },
+      {
+        "name": "Quaittoo William Agyapong",
+        "party": "NPP",
+        "votes": 21131,
+        "elected": true
+      },
+      {
+        "name": "George Owusu Agyemang",
+        "party": "CPP",
+        "votes": 161,
+        "elected": false
+      }
+    ],
+    "constituency": "AKIM ODA",
+    "region": "EASTERN",
+    "total_valid_votes": 28783
+  },
+  {
+    "candidates": [
+      {
+        "name": "Richard Roland Acquah",
+        "party": "NDC",
+        "votes": 9746,
+        "elected": false
+      },
+      {
+        "name": "George Kwame Aboagye",
+        "party": "NPP",
+        "votes": 21138,
+        "elected": true
+      }
+    ],
+    "constituency": "Asene-Akroso-Manso",
+    "region": "EASTERN",
+    "total_valid_votes": 30884
+  },
+  {
+    "candidates": [
+      {
+        "name": "Obiri Ernest Amo",
+        "party": "PPP",
+        "votes": 502,
+        "elected": false
+      },
+      {
+        "name": "Robert Samuel Ansah",
+        "party": "NDC",
+        "votes": 4056,
+        "elected": false
+      },
+      {
+        "name": "Kennedy Osei Nyarko",
+        "party": "NPP",
+        "votes": 11458,
+        "elected": true
+      },
+      {
+        "name": "Anim Addo",
+        "party": "CPP",
+        "votes": 25,
+        "elected": false
+      }
+    ],
+    "constituency": "AKIM SWEDRU",
+    "region": "EASTERN",
+    "total_valid_votes": 16041
+  },
+  {
+    "candidates": [
+      {
+        "name": "Yaw Sam-Korankye",
+        "party": "NDC",
+        "votes": 6339,
+        "elected": false
+      },
+      {
+        "name": "Robert Kwasi Amoah",
+        "party": "NPP",
+        "votes": 14659,
+        "elected": true
+      },
+      {
+        "name": "Botwe Ernest",
+        "party": "CPP",
+        "votes": 328,
+        "elected": false
+      }
+    ],
+    "constituency": "ACHIASE",
+    "region": "EASTERN",
+    "total_valid_votes": 21326
+  },
+  {
+    "candidates": [
+      {
+        "name": "John Obiri Yeboah",
+        "party": "PPP",
+        "votes": 9316,
+        "elected": false
+      },
+      {
+        "name": "Tom Budu",
+        "party": "NDC",
+        "votes": 8196,
+        "elected": false
+      },
+      {
+        "name": "Kojo Oppong- Nkrumah",
+        "party": "NPP",
+        "votes": 17797,
+        "elected": true
+      }
+    ],
+    "constituency": "Ofoase-Ayirebi",
+    "region": "EASTERN",
+    "total_valid_votes": 35309
+  },
+  {
+    "candidates": [
+      {
+        "name": "George Agyemang Duah",
+        "party": "NDC",
+        "votes": 14088,
+        "elected": false
+      },
+      {
+        "name": "Kwabena Ohemeng Tinyase",
+        "party": "NPP",
+        "votes": 33442,
+        "elected": true
+      },
+      {
+        "name": "Frank Eshun",
+        "party": "CPP",
+        "votes": 296,
+        "elected": false
+      }
+    ],
+    "constituency": "KADE",
+    "region": "EASTERN",
+    "total_valid_votes": 47826
+  },
+  {
+    "candidates": [
+      {
+        "name": "Baba Jamal Mohammed Ahmed",
+        "party": "NDC",
+        "votes": 15905,
+        "elected": false
+      },
+      {
+        "name": "Adu-Gyamfi Mercy",
+        "party": "NPP",
+        "votes": 21433,
+        "elected": true
+      },
+      {
+        "name": "Joyce Sakyi",
+        "party": "CPP",
+        "votes": 127,
+        "elected": false
+      }
+    ],
+    "constituency": "AKWATIA",
+    "region": "EASTERN",
+    "total_valid_votes": 37465
+  },
+  {
+    "candidates": [
+      {
+        "name": "Mavis Ama Frimpong",
+        "party": "NDC",
+        "votes": 12217,
+        "elected": false
+      },
+      {
+        "name": "Osei Frimpong John",
+        "party": "NPP",
+        "votes": 19208,
+        "elected": true
+      },
+      {
+        "name": "Somuah Dankwah",
+        "party": "CPP",
+        "votes": 63,
+        "elected": false
+      }
+    ],
+    "constituency": "ABIREM",
+    "region": "EASTERN",
+    "total_valid_votes": 31488
+  },
+  {
+    "candidates": [
+      {
+        "name": "Owuraku Amofah",
+        "party": "NDC",
+        "votes": 7697,
+        "elected": false
+      },
+      {
+        "name": "Samuel Atta Akyea",
+        "party": "NPP",
+        "votes": 28449,
+        "elected": true
+      }
+    ],
+    "constituency": "ABUAKWA SOUTH",
+    "region": "EASTERN",
+    "total_valid_votes": 36146
+  },
+  {
+    "candidates": [
+      {
+        "name": "Victor Emmanuel Simith",
+        "party": "NDC",
+        "votes": 11754,
+        "elected": false
+      },
+      {
+        "name": "Gifty Twum-Ampofo",
+        "party": "NPP",
+        "votes": 17838,
+        "elected": true
+      },
+      {
+        "name": "Adjei Danquah Patrick",
+        "party": "IND",
+        "votes": 524,
+        "elected": false
+      }
+    ],
+    "constituency": "ABUAKWA NORTH",
+    "region": "EASTERN",
+    "total_valid_votes": 30116
+  },
+  {
+    "candidates": [
+      {
+        "name": "Joseph Owusu Sarpong",
+        "party": "NDC",
+        "votes": 4519,
+        "elected": false
+      },
+      {
+        "name": "Kwasi Amoako Attah",
+        "party": "NPP",
+        "votes": 16980,
+        "elected": true
+      },
+      {
+        "name": "Justice Yrboah",
+        "party": "CPP",
+        "votes": 152,
+        "elected": false
+      }
+    ],
+    "constituency": "ATIWA WEST",
+    "region": "EASTERN",
+    "total_valid_votes": 21651
+  },
+  {
+    "candidates": [
+      {
+        "name": "Asante Foster",
+        "party": "NDC",
+        "votes": 4962,
+        "elected": false
+      },
+      {
+        "name": "Abena Osei-Asare",
+        "party": "NPP",
+        "votes": 17399,
+        "elected": true
+      }
+    ],
+    "constituency": "ATIWA EAST",
+    "region": "EASTERN",
+    "total_valid_votes": 22361
+  },
+  {
+    "candidates": [
+      {
+        "name": "Amos Nkansah",
+        "party": "PPP",
+        "votes": 483,
+        "elected": false
+      },
+      {
+        "name": "Abass Fuseini Sbaabe",
+        "party": "NDC",
+        "votes": 9472,
+        "elected": false
+      },
+      {
+        "name": "Kwabena Amankwa Asiamah",
+        "party": "NPP",
+        "votes": 11380,
+        "elected": true
+      },
+      {
+        "name": "Ohene Nyarko Solomon",
+        "party": "CPP",
+        "votes": 121,
+        "elected": false
+      }
+    ],
+    "constituency": "FANTEAKWA NORTH",
+    "region": "EASTERN",
+    "total_valid_votes": 21456
+  },
+  {
+    "candidates": [
+      {
+        "name": "Godfred Mark Darkwa",
+        "party": "PPP",
+        "votes": 1256,
+        "elected": false
+      },
+      {
+        "name": "Abigail Elorm Akwambea Mensah",
+        "party": "NDC",
+        "votes": 5726,
+        "elected": false
+      },
+      {
+        "name": "Kofi Oyere Agyekum",
+        "party": "NPP",
+        "votes": 11274,
+        "elected": true
+      },
+      {
+        "name": "Kwablah Isaac Tettey",
+        "party": "CPP",
+        "votes": 66,
+        "elected": false
+      },
+      {
+        "name": "Danso Okra Daniel",
+        "party": "IND",
+        "votes": 223,
+        "elected": false
+      }
+    ],
+    "constituency": "FANTEAKWA SOUTH",
+    "region": "EASTERN",
+    "total_valid_votes": 18545
+  },
+  {
+    "candidates": [
+      {
+        "name": "Tamimu Halidu",
+        "party": "NDC",
+        "votes": 13130,
+        "elected": false
+      },
+      {
+        "name": "Eric Kwakye Darfour",
+        "party": "NPP",
+        "votes": 38218,
+        "elected": true
+      },
+      {
+        "name": "Mark Osei Yeboah",
+        "party": "CPP",
+        "votes": 661,
+        "elected": false
+      }
+    ],
+    "constituency": "NKAWKAW",
+    "region": "EASTERN",
+    "total_valid_votes": 52009
+  },
+  {
+    "candidates": [
+      {
+        "name": "Emmanuel Okoree Boakye",
+        "party": "NDC",
+        "votes": 8505,
+        "elected": false
+      },
+      {
+        "name": "Seth Kwame Acheampong",
+        "party": "NPP",
+        "votes": 21491,
+        "elected": true
+      },
+      {
+        "name": "Nicholas Asiedu Boateng",
+        "party": "CPP",
+        "votes": 188,
+        "elected": false
+      },
+      {
+        "name": "Fredick Frempong",
+        "party": "IND",
+        "votes": 1388,
+        "elected": false
+      }
+    ],
+    "constituency": "MPRAESO",
+    "region": "EASTERN",
+    "total_valid_votes": 31572
+  },
+  {
+    "candidates": [
+      {
+        "name": "Tabi Emmanuel",
+        "party": "NDC",
+        "votes": 7975,
+        "elected": false
+      },
+      {
+        "name": "Bryan Acheampong",
+        "party": "NPP",
+        "votes": 23432,
+        "elected": true
+      }
+    ],
+    "constituency": "ABETIFI",
+    "region": "EASTERN",
+    "total_valid_votes": 31407
+  },
+  {
+    "candidates": [
+      {
+        "name": "Mensah Betty Nana Efua Krosby",
+        "party": "NDC",
+        "votes": 18121,
+        "elected": true
+      },
+      {
+        "name": "Isaac Ofori- Koree",
+        "party": "NPP",
+        "votes": 4795,
+        "elected": false
+      },
+      {
+        "name": "Cornelius Agbeko",
+        "party": "NDP",
+        "votes": 94,
+        "elected": false
+      },
+      {
+        "name": "Michel Ampontia",
+        "party": "CPP",
+        "votes": 91,
+        "elected": false
+      }
+    ],
+    "constituency": "AFRAM PLAINS NORTH",
+    "region": "EASTERN",
+    "total_valid_votes": 23101
+  },
+  {
+    "candidates": [
+      {
+        "name": "Eric Osei Owusu",
+        "party": "NDC",
+        "votes": 11479,
+        "elected": true
+      },
+      {
+        "name": "Hor William",
+        "party": "NPP",
+        "votes": 9376,
+        "elected": false
+      },
+      {
+        "name": "Jordan Yumbow Michael",
+        "party": "CPP",
+        "votes": 360,
+        "elected": false
+      }
+    ],
+    "constituency": "AFRAM PLAINS SOUTH",
+    "region": "EASTERN",
+    "total_valid_votes": 21215
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ernest Kofi Yakah",
+        "party": "NDC",
+        "votes": 14050,
+        "elected": false
+      },
+      {
+        "name": "George Oduro",
+        "party": "NPP",
+        "votes": 18477,
+        "elected": true
+      },
+      {
+        "name": "Solomon Boadu",
+        "party": "CPP",
+        "votes": 191,
+        "elected": false
+      }
+    ],
+    "constituency": "NEW EDUBIASE",
+    "region": "ASHANTI",
+    "total_valid_votes": 32718
+  },
+  {
+    "candidates": [
+      {
+        "name": "Samuel Oppong",
+        "party": "NDC",
+        "votes": 7155,
+        "elected": false
+      },
+      {
+        "name": "Kwabena Appiah Pinkrah",
+        "party": "NPP",
+        "votes": 9693,
+        "elected": true
+      },
+      {
+        "name": "Prosper M.M. Zuma",
+        "party": "NDP",
+        "votes": 310,
+        "elected": false
+      }
+    ],
+    "constituency": "AKROFUOM",
+    "region": "ASHANTI",
+    "total_valid_votes": 17158
+  },
+  {
+    "candidates": [
+      {
+        "name": "Dawud Suleiman",
+        "party": "PPP",
+        "votes": 1093,
+        "elected": false
+      },
+      {
+        "name": "William Adjei-Mensah",
+        "party": "NDC",
+        "votes": 4180,
+        "elected": false
+      },
+      {
+        "name": "Andrew Amoako Asiamah",
+        "party": "NPP",
+        "votes": 14823,
+        "elected": true
+      },
+      {
+        "name": "Kwadwo Osei",
+        "party": "CPP",
+        "votes": 293,
+        "elected": false
+      }
+    ],
+    "constituency": "FOMENA",
+    "region": "ASHANTI",
+    "total_valid_votes": 20389
+  },
+  {
+    "candidates": [
+      {
+        "name": "Amankwah Evans",
+        "party": "NDC",
+        "votes": 12389,
+        "elected": false
+      },
+      {
+        "name": "Kobina Tahir Hammond",
+        "party": "NPP",
+        "votes": 16468,
+        "elected": true
+      },
+      {
+        "name": "Alexander Odoi Larbi",
+        "party": "PNC",
+        "votes": 80,
+        "elected": false
+      },
+      {
+        "name": "Oduro Richard Anokye",
+        "party": "IND",
+        "votes": 1352,
+        "elected": false
+      }
+    ],
+    "constituency": "ADANSI ASOKWA",
+    "region": "ASHANTI",
+    "total_valid_votes": 30289
+  },
+  {
+    "candidates": [
+      {
+        "name": "Addae Clement",
+        "party": "GCPP",
+        "votes": 50,
+        "elected": false
+      },
+      {
+        "name": "Afua Ansaa Asiedu",
+        "party": "PPP",
+        "votes": 2905,
+        "elected": false
+      },
+      {
+        "name": "John Alexander Ackon",
+        "party": "NDC",
+        "votes": 11587,
+        "elected": false
+      },
+      {
+        "name": "Kwaku Agyeman Kwarteng",
+        "party": "NPP",
+        "votes": 32049,
+        "elected": true
+      },
+      {
+        "name": "Bandoh Dabie Kwame",
+        "party": "CPP",
+        "votes": 147,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Issifu",
+        "party": "PNC",
+        "votes": 78,
+        "elected": false
+      }
+    ],
+    "constituency": "OBUASI WEST",
+    "region": "ASHANTI",
+    "total_valid_votes": 46816
+  },
+  {
+    "candidates": [
+      {
+        "name": "Frank Aboagye Danyansah",
+        "party": "PPP",
+        "votes": 1318,
+        "elected": false
+      },
+      {
+        "name": "Richard Ofori-Agyeman Boadi",
+        "party": "NDC",
+        "votes": 10604,
+        "elected": false
+      },
+      {
+        "name": "Patrick Boakye-Yiadom",
+        "party": "NPP",
+        "votes": 27715,
+        "elected": true
+      },
+      {
+        "name": "Emmanuel Oduro Fosu",
+        "party": "CPP",
+        "votes": 98,
+        "elected": false
+      },
+      {
+        "name": "Shaibu Fuseini",
+        "party": "PNC",
+        "votes": 66,
+        "elected": false
+      }
+    ],
+    "constituency": "OBUASI EAST",
+    "region": "ASHANTI",
+    "total_valid_votes": 39801
+  },
+  {
+    "candidates": [
+      {
+        "name": "Juantuah Mary",
+        "party": "NDC",
+        "votes": 7703,
+        "elected": false
+      },
+      {
+        "name": "Joseph Osei Owusu",
+        "party": "NPP",
+        "votes": 49894,
+        "elected": true
+      },
+      {
+        "name": "Boateng Erasmus",
+        "party": "APC",
+        "votes": 169,
+        "elected": false
+      },
+      {
+        "name": "Eric Karikari",
+        "party": "CPP",
+        "votes": 212,
+        "elected": false
+      }
+    ],
+    "constituency": "BEKWAI",
+    "region": "ASHANTI",
+    "total_valid_votes": 57978
+  },
+  {
+    "candidates": [
+      {
+        "name": "Bright Baffuor Asare",
+        "party": "PPP",
+        "votes": 123,
+        "elected": false
+      },
+      {
+        "name": "Kwame Adarkwah",
+        "party": "NDC",
+        "votes": 4550,
+        "elected": false
+      },
+      {
+        "name": "Joyce Adwoa Ako Dei",
+        "party": "NPP",
+        "votes": 15497,
+        "elected": true
+      },
+      {
+        "name": "Yeboah Samuel",
+        "party": "CPP",
+        "votes": 100,
+        "elected": false
+      },
+      {
+        "name": "Nana Yaw Ofori-Kuragu",
+        "party": "IND",
+        "votes": 4655,
+        "elected": false
+      }
+    ],
+    "constituency": "BOSOME FREHO",
+    "region": "ASHANTI",
+    "total_valid_votes": 24925
+  },
+  {
+    "candidates": [
+      {
+        "name": "Owusu Francis",
+        "party": "PPP",
+        "votes": 451,
+        "elected": false
+      },
+      {
+        "name": "Dede Appiah Emmanuel",
+        "party": "NDC",
+        "votes": 4005,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Akwasi Gyamfi",
+        "party": "NPP",
+        "votes": 23255,
+        "elected": true
+      },
+      {
+        "name": "Minka Prince",
+        "party": "CPP",
+        "votes": 223,
+        "elected": false
+      },
+      {
+        "name": "Anthony Danso Appiah",
+        "party": "IND",
+        "votes": 4098,
+        "elected": false
+      },
+      {
+        "name": "Abraham Anokye",
+        "party": "IND",
+        "votes": 3133,
+        "elected": false
+      }
+    ],
+    "constituency": "ODOTOBIRI",
+    "region": "ASHANTI",
+    "total_valid_votes": 35165
+  },
+  {
+    "candidates": [
+      {
+        "name": "Fosuaah Rita",
+        "party": "GCPP",
+        "votes": 44,
+        "elected": false
+      },
+      {
+        "name": "Osei Coffee Isaac",
+        "party": "PPP",
+        "votes": 123,
+        "elected": false
+      },
+      {
+        "name": "Alex Kwame Bonsu",
+        "party": "NDC",
+        "votes": 5503,
+        "elected": false
+      },
+      {
+        "name": "Quarm Joseph Albert",
+        "party": "NPP",
+        "votes": 32140,
+        "elected": true
+      },
+      {
+        "name": "Osei Micheal",
+        "party": "UFP",
+        "votes": 162,
+        "elected": false
+      },
+      {
+        "name": "Nyarko Veronica",
+        "party": "PNC",
+        "votes": 68,
+        "elected": false
+      },
+      {
+        "name": "Afranie Michael",
+        "party": "IND",
+        "votes": 560,
+        "elected": false
+      }
+    ],
+    "constituency": "MANSO NKWANTA",
+    "region": "ASHANTI",
+    "total_valid_votes": 38600
+  },
+  {
+    "candidates": [
+      {
+        "name": "Isaac Bronya",
+        "party": "PPP",
+        "votes": 3092,
+        "elected": false
+      },
+      {
+        "name": "Marfo Benjamin",
+        "party": "NDC",
+        "votes": 7112,
+        "elected": false
+      },
+      {
+        "name": "Yaw Frimpong Addo",
+        "party": "NPP",
+        "votes": 24074,
+        "elected": true
+      },
+      {
+        "name": "Adom Selina",
+        "party": "PNC",
+        "votes": 183,
+        "elected": false
+      }
+    ],
+    "constituency": "MANSO ADUBIA",
+    "region": "ASHANTI",
+    "total_valid_votes": 34461
+  },
+  {
+    "candidates": [
+      {
+        "name": "Nana Asare Bediako",
+        "party": "NDC",
+        "votes": 9780,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Agyei Anhwere",
+        "party": "NPP",
+        "votes": 48264,
+        "elected": true
+      }
+    ],
+    "constituency": "ATWIMA NWABIAGYA SOUTH",
+    "region": "ASHANTI",
+    "total_valid_votes": 58044
+  },
+  {
+    "candidates": [
+      {
+        "name": "Daniel Kwaku Owusu",
+        "party": "NDC",
+        "votes": 7790,
+        "elected": false
+      },
+      {
+        "name": "Benito Owusu Bio",
+        "party": "NPP",
+        "votes": 34759,
+        "elected": true
+      },
+      {
+        "name": "Esther Donkor",
+        "party": "IND",
+        "votes": 5465,
+        "elected": false
+      }
+    ],
+    "constituency": "ATWIMA NWABIAGYA NORTH",
+    "region": "ASHANTI",
+    "total_valid_votes": 48014
+  },
+  {
+    "candidates": [
+      {
+        "name": "Eric Nnison Arthur",
+        "party": "PPP",
+        "votes": 708,
+        "elected": false
+      },
+      {
+        "name": "Stephen Yeboah",
+        "party": "NDC",
+        "votes": 22450,
+        "elected": false
+      },
+      {
+        "name": "Isaac Kwame Asiamah",
+        "party": "NPP",
+        "votes": 33723,
+        "elected": true
+      },
+      {
+        "name": "Asiamah Bright",
+        "party": "NDP",
+        "votes": 142,
+        "elected": false
+      }
+    ],
+    "constituency": "ATWIMA MPONUA",
+    "region": "ASHANTI",
+    "total_valid_votes": 57023
+  },
+  {
+    "candidates": [
+      {
+        "name": "Veronica Antwi Adjei",
+        "party": "NDC",
+        "votes": 7215,
+        "elected": false
+      },
+      {
+        "name": "Yaw Osei Adutwum",
+        "party": "NPP",
+        "votes": 46238,
+        "elected": true
+      },
+      {
+        "name": "Eric Osei Boateng",
+        "party": "CPP",
+        "votes": 235,
+        "elected": false
+      },
+      {
+        "name": "Suleiman Mohammed",
+        "party": "PNC",
+        "votes": 190,
+        "elected": false
+      }
+    ],
+    "constituency": "BOSOMTWE",
+    "region": "ASHANTI",
+    "total_valid_votes": 53878
+  },
+  {
+    "candidates": [
+      {
+        "name": "Davis Abraham Kofi Asuman",
+        "party": "PPP",
+        "votes": 858,
+        "elected": false
+      },
+      {
+        "name": "Kwabena Nkruma",
+        "party": "NDC",
+        "votes": 5692,
+        "elected": false
+      },
+      {
+        "name": "Kojo Appiah-Kubi",
+        "party": "NPP",
+        "votes": 42264,
+        "elected": true
+      },
+      {
+        "name": "James Sarfo",
+        "party": "CPP",
+        "votes": 283,
+        "elected": false
+      },
+      {
+        "name": "Obiba James Annan",
+        "party": "PNC",
+        "votes": 75,
+        "elected": false
+      },
+      {
+        "name": "Ernest Opoku",
+        "party": "IND",
+        "votes": 13659,
+        "elected": false
+      }
+    ],
+    "constituency": "ATWIMA KWANWOMA",
+    "region": "ASHANTI",
+    "total_valid_votes": 62831
+  },
+  {
+    "candidates": [
+      {
+        "name": "Samuel Yaw Adusei",
+        "party": "NDC",
+        "votes": 6344,
+        "elected": false
+      },
+      {
+        "name": "Daniel Okyem Aboagye",
+        "party": "NPP",
+        "votes": 50717,
+        "elected": true
+      },
+      {
+        "name": "Yamoah Kyei Baffour Michael",
+        "party": "CPP",
+        "votes": 173,
+        "elected": false
+      },
+      {
+        "name": "Cyril Spio Quansah",
+        "party": "PNC",
+        "votes": 138,
+        "elected": false
+      }
+    ],
+    "constituency": "BANTAMA",
+    "region": "ASHANTI",
+    "total_valid_votes": 57372
+  },
+  {
+    "candidates": [
+      {
+        "name": "Monica Bawuah",
+        "party": "NDC",
+        "votes": 6263,
+        "elected": false
+      },
+      {
+        "name": "Samiu Kwadwo Nuamah",
+        "party": "NPP",
+        "votes": 61631,
+        "elected": true
+      },
+      {
+        "name": "Kwame Boateng Antwi",
+        "party": "CPP",
+        "votes": 207,
+        "elected": false
+      },
+      {
+        "name": "Adongo Akwasi David",
+        "party": "PNC",
+        "votes": 374,
+        "elected": false
+      }
+    ],
+    "constituency": "KWADASO",
+    "region": "ASHANTI",
+    "total_valid_votes": 68475
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kofi Debrah Afrifa",
+        "party": "PPP",
+        "votes": 611,
+        "elected": false
+      },
+      {
+        "name": "Samuel Sarpong",
+        "party": "NDC",
+        "votes": 9606,
+        "elected": false
+      },
+      {
+        "name": "Kennedy Kwasi Kankam",
+        "party": "NPP",
+        "votes": 47743,
+        "elected": true
+      },
+      {
+        "name": "Sam Osei David",
+        "party": "IND",
+        "votes": 132,
+        "elected": false
+      }
+    ],
+    "constituency": "NHYIAESO",
+    "region": "ASHANTI",
+    "total_valid_votes": 58092
+  },
+  {
+    "candidates": [
+      {
+        "name": "Boadu Richard",
+        "party": "PPP",
+        "votes": 519,
+        "elected": false
+      },
+      {
+        "name": "Sylvester Lewis Kofie",
+        "party": "NDC",
+        "votes": 5043,
+        "elected": false
+      },
+      {
+        "name": "Matthew Opoku Prempeh",
+        "party": "NPP",
+        "votes": 35958,
+        "elected": true
+      },
+      {
+        "name": "Asante Eugen",
+        "party": "CPP",
+        "votes": 210,
+        "elected": false
+      }
+    ],
+    "constituency": "MANHYIA SOUTH",
+    "region": "ASHANTI",
+    "total_valid_votes": 41730
+  },
+  {
+    "candidates": [
+      {
+        "name": "Alhassan Mohammed Jaguri",
+        "party": "GCPP",
+        "votes": 172,
+        "elected": false
+      },
+      {
+        "name": "Bertrin Amponsah Biritwum",
+        "party": "PPP",
+        "votes": 2868,
+        "elected": false
+      },
+      {
+        "name": "Yahuza Abdul Rahman",
+        "party": "NDC",
+        "votes": 10955,
+        "elected": false
+      },
+      {
+        "name": "Collins Owusu Amankwah",
+        "party": "NPP",
+        "votes": 36299,
+        "elected": true
+      },
+      {
+        "name": "Sheihu Mangah",
+        "party": "PNC",
+        "votes": 265,
+        "elected": false
+      }
+    ],
+    "constituency": "MANHYIA NORTH",
+    "region": "ASHANTI",
+    "total_valid_votes": 50559
+  },
+  {
+    "candidates": [
+      {
+        "name": "Oppong Kwaku Michael",
+        "party": "GCPP",
+        "votes": 75,
+        "elected": false
+      },
+      {
+        "name": "Memuna Kabore Abu-Bakr Saddique",
+        "party": "NDC",
+        "votes": 11704,
+        "elected": false
+      },
+      {
+        "name": "Anthony Akoto Osei",
+        "party": "NPP",
+        "votes": 44066,
+        "elected": true
+      },
+      {
+        "name": "Issah Abdul Salam",
+        "party": "CPP",
+        "votes": 92,
+        "elected": false
+      }
+    ],
+    "constituency": "OLD TAFO",
+    "region": "ASHANTI",
+    "total_valid_votes": 55937
+  },
+  {
+    "candidates": [
+      {
+        "name": "Saeed Osman",
+        "party": "GCPP",
+        "votes": 211,
+        "elected": false
+      },
+      {
+        "name": "Yaw Brogya Genfi",
+        "party": "NDC",
+        "votes": 10817,
+        "elected": false
+      },
+      {
+        "name": "Osei Kyei-Mensah-Bonsu",
+        "party": "NPP",
+        "votes": 65260,
+        "elected": true
+      },
+      {
+        "name": "Muniratu Amadu Gariba",
+        "party": "APC",
+        "votes": 112,
+        "elected": false
+      },
+      {
+        "name": "Suleman Mohammed",
+        "party": "CPP",
+        "votes": 413,
+        "elected": false
+      },
+      {
+        "name": "Adam Mohammed",
+        "party": "PNC",
+        "votes": 203,
+        "elected": false
+      }
+    ],
+    "constituency": "SUAME",
+    "region": "ASHANTI",
+    "total_valid_votes": 77016
+  },
+  {
+    "candidates": [
+      {
+        "name": "Teiko Daniel",
+        "party": "PPP",
+        "votes": 693,
+        "elected": false
+      },
+      {
+        "name": "Owusu Ababio",
+        "party": "NDC",
+        "votes": 11591,
+        "elected": false
+      },
+      {
+        "name": "Eugene Boakye Antwi",
+        "party": "NPP",
+        "votes": 47406,
+        "elected": true
+      },
+      {
+        "name": "Leonard Kenneth Erzuah",
+        "party": "CPP",
+        "votes": 189,
+        "elected": false
+      },
+      {
+        "name": "Sulemana Seidu",
+        "party": "PNC",
+        "votes": 625,
+        "elected": false
+      },
+      {
+        "name": "Kwabena Owusu",
+        "party": "IND",
+        "votes": 415,
+        "elected": false
+      }
+    ],
+    "constituency": "SUBIN",
+    "region": "ASHANTI",
+    "total_valid_votes": 60919
+  },
+  {
+    "candidates": [
+      {
+        "name": "Sarah Amponsah-Fordjour",
+        "party": "PPP",
+        "votes": 1071,
+        "elected": false
+      },
+      {
+        "name": "Dorcas Dufie Osei-Boadu",
+        "party": "NDC",
+        "votes": 9812,
+        "elected": false
+      },
+      {
+        "name": "Patricia Appiagyei",
+        "party": "NPP",
+        "votes": 55564,
+        "elected": true
+      },
+      {
+        "name": "Pious Owusu-Ansah",
+        "party": "CPP",
+        "votes": 359,
+        "elected": false
+      }
+    ],
+    "constituency": "ASOKWA",
+    "region": "ASHANTI",
+    "total_valid_votes": 66806
+  },
+  {
+    "candidates": [
+      {
+        "name": "Jonny Osei Kofi",
+        "party": "NDC",
+        "votes": 21611,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Marfo",
+        "party": "NPP",
+        "votes": 62659,
+        "elected": true
+      },
+      {
+        "name": "Salifu Zakari",
+        "party": "CPP",
+        "votes": 390,
+        "elected": false
+      },
+      {
+        "name": "Muniru Seidu Mohammed",
+        "party": "PNC",
+        "votes": 215,
+        "elected": false
+      }
+    ],
+    "constituency": "OFORIKROM",
+    "region": "ASHANTI",
+    "total_valid_votes": 84875
+  },
+  {
+    "candidates": [
+      {
+        "name": "Issa Baba Kompo",
+        "party": "PPP",
+        "votes": 278,
+        "elected": false
+      },
+      {
+        "name": "Alhaji Mohammed-Mubarak Muntaka",
+        "party": "NDC",
+        "votes": 39095,
+        "elected": true
+      },
+      {
+        "name": "Alhaji Alidu Seidu",
+        "party": "NPP",
+        "votes": 33490,
+        "elected": false
+      },
+      {
+        "name": "Elias Mohammed",
+        "party": "CPP",
+        "votes": 111,
+        "elected": false
+      }
+    ],
+    "constituency": "ASAWASE",
+    "region": "ASHANTI",
+    "total_valid_votes": 72974
+  },
+  {
+    "candidates": [
+      {
+        "name": "Grace Affram",
+        "party": "PPP",
+        "votes": 403,
+        "elected": false
+      },
+      {
+        "name": "Adams Iddisah",
+        "party": "NDC",
+        "votes": 13673,
+        "elected": false
+      },
+      {
+        "name": "Francisca Oteng Mensah",
+        "party": "NPP",
+        "votes": 71757,
+        "elected": true
+      },
+      {
+        "name": "Osei Boadu Emmanuel",
+        "party": "CPP",
+        "votes": 172,
+        "elected": false
+      },
+      {
+        "name": "Jahdilhaq Mohammed Mustapha",
+        "party": "PNC",
+        "votes": 364,
+        "elected": false
+      }
+    ],
+    "constituency": "KWABRE EAST",
+    "region": "ASHANTI",
+    "total_valid_votes": 86369
+  },
+  {
+    "candidates": [
+      {
+        "name": "Brobbey Isaac",
+        "party": "PPP",
+        "votes": 283,
+        "elected": false
+      },
+      {
+        "name": "Oppong Kyekyeku Kaakyire",
+        "party": "NDC",
+        "votes": 8217,
+        "elected": false
+      },
+      {
+        "name": "William Owuraku Aidoo",
+        "party": "NPP",
+        "votes": 48184,
+        "elected": true
+      },
+      {
+        "name": "Robert Dambo",
+        "party": "PNC",
+        "votes": 266,
+        "elected": false
+      },
+      {
+        "name": "Millicent Elizabeth Boateng",
+        "party": "IND",
+        "votes": 2018,
+        "elected": false
+      }
+    ],
+    "constituency": "AFIGYA KWABRE SOUTH",
+    "region": "ASHANTI",
+    "total_valid_votes": 58968
+  },
+  {
+    "candidates": [
+      {
+        "name": "Francis Boadu",
+        "party": "PPP",
+        "votes": 197,
+        "elected": false
+      },
+      {
+        "name": "Kwaku Agyekum Asare",
+        "party": "NDC",
+        "votes": 6689,
+        "elected": false
+      },
+      {
+        "name": "Nana Marfo Amaniampong",
+        "party": "NPP",
+        "votes": 17978,
+        "elected": true
+      },
+      {
+        "name": "Frank Opoku",
+        "party": "CPP",
+        "votes": 204,
+        "elected": false
+      },
+      {
+        "name": "Joyce Oduro",
+        "party": "PNC",
+        "votes": 68,
+        "elected": false
+      }
+    ],
+    "constituency": "AFIGYA KWABRE NORTH",
+    "region": "ASHANTI",
+    "total_valid_votes": 25136
+  },
+  {
+    "candidates": [
+      {
+        "name": "Isaac Prah",
+        "party": "PPP",
+        "votes": 859,
+        "elected": false
+      },
+      {
+        "name": "Gloria Korshor Huze",
+        "party": "NDC",
+        "votes": 9485,
+        "elected": false
+      },
+      {
+        "name": "Kwabena Owusu-Aduomi",
+        "party": "NPP",
+        "votes": 54508,
+        "elected": true
+      },
+      {
+        "name": "Alex Appiah Koree",
+        "party": "CPP",
+        "votes": 200,
+        "elected": false
+      }
+    ],
+    "constituency": "EJISU",
+    "region": "ASHANTI",
+    "total_valid_votes": 65052
+  },
+  {
+    "candidates": [
+      {
+        "name": "Nana Prempeh Amankwaah",
+        "party": "NDC",
+        "votes": 5530,
+        "elected": false
+      },
+      {
+        "name": "Ama Pomaa Boateng",
+        "party": "NPP",
+        "votes": 23115,
+        "elected": true
+      },
+      {
+        "name": "Gallo Stephen Ayitey",
+        "party": "CPP",
+        "votes": 553,
+        "elected": false
+      }
+    ],
+    "constituency": "JUABEN",
+    "region": "ASHANTI",
+    "total_valid_votes": 29198
+  },
+  {
+    "candidates": [
+      {
+        "name": "Acheampong Stephen",
+        "party": "PPP",
+        "votes": 249,
+        "elected": false
+      },
+      {
+        "name": "De-Graft Forkuo",
+        "party": "NDC",
+        "votes": 16133,
+        "elected": false
+      },
+      {
+        "name": "Kwaku Asante-Boateng",
+        "party": "NPP",
+        "votes": 32526,
+        "elected": true
+      },
+      {
+        "name": "Inusah Issah",
+        "party": "APC",
+        "votes": 324,
+        "elected": false
+      },
+      {
+        "name": "Kwasi Agyeman O.",
+        "party": "CPP",
+        "votes": 100,
+        "elected": false
+      }
+    ],
+    "constituency": "ASANTE AKIM SOUTH",
+    "region": "ASHANTI",
+    "total_valid_votes": 49332
+  },
+  {
+    "candidates": [
+      {
+        "name": "Denteh Godwin Yaw",
+        "party": "PPP",
+        "votes": 449,
+        "elected": false
+      },
+      {
+        "name": "Nana Asante Yamoah Afrifa",
+        "party": "NDC",
+        "votes": 8023,
+        "elected": false
+      },
+      {
+        "name": "Kwame Anyimadu-Antwi",
+        "party": "NPP",
+        "votes": 27557,
+        "elected": true
+      },
+      {
+        "name": "Ofosu Patrick",
+        "party": "CPP",
+        "votes": 280,
+        "elected": false
+      }
+    ],
+    "constituency": "ASANTE AKIM CENTRAL",
+    "region": "ASHANTI",
+    "total_valid_votes": 36309
+  },
+  {
+    "candidates": [
+      {
+        "name": "Mary Awusi",
+        "party": "NDC",
+        "votes": 10661,
+        "elected": false
+      },
+      {
+        "name": "Andy Kwame Appiah-Kubi",
+        "party": "NPP",
+        "votes": 23251,
+        "elected": true
+      },
+      {
+        "name": "Ernest Kofi Owosu-Bempah Bonsu",
+        "party": "NDP",
+        "votes": 548,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Iddrisu Adama",
+        "party": "CPP",
+        "votes": 73,
+        "elected": false
+      },
+      {
+        "name": "Samuel Anyang-Kusi",
+        "party": "IND",
+        "votes": 1653,
+        "elected": false
+      }
+    ],
+    "constituency": "ASANTE AKIM NORTH",
+    "region": "ASHANTI",
+    "total_valid_votes": 36186
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kofi Lee",
+        "party": "GCPP",
+        "votes": 172,
+        "elected": false
+      },
+      {
+        "name": "Kwesi Owusu Prempeh",
+        "party": "NDC",
+        "votes": 4973,
+        "elected": false
+      },
+      {
+        "name": "Nana Ayew Afriye",
+        "party": "NPP",
+        "votes": 26574,
+        "elected": true
+      },
+      {
+        "name": "Millicent Osei",
+        "party": "CPP",
+        "votes": 219,
+        "elected": false
+      },
+      {
+        "name": "Lovia Berko",
+        "party": "PNC",
+        "votes": 63,
+        "elected": false
+      }
+    ],
+    "constituency": "Effiduase-Asokore",
+    "region": "ASHANTI",
+    "total_valid_votes": 32001
+  },
+  {
+    "candidates": [
+      {
+        "name": "Emmanuel William Amoako",
+        "party": "NDC",
+        "votes": 5899,
+        "elected": false
+      },
+      {
+        "name": "Philip Basoah",
+        "party": "NPP",
+        "votes": 21794,
+        "elected": true
+      },
+      {
+        "name": "Opoku Kyei Clifford",
+        "party": "CPP",
+        "votes": 188,
+        "elected": false
+      }
+    ],
+    "constituency": "KUMAWU",
+    "region": "ASHANTI",
+    "total_valid_votes": 27881
+  },
+  {
+    "candidates": [
+      {
+        "name": "Peter Marfo",
+        "party": "GCPP",
+        "votes": 82,
+        "elected": false
+      },
+      {
+        "name": "Alex Adomako-Mensah",
+        "party": "NDC",
+        "votes": 5644,
+        "elected": true
+      },
+      {
+        "name": "Joseph Owusu",
+        "party": "NPP",
+        "votes": 3549,
+        "elected": false
+      }
+    ],
+    "constituency": "SEKYERE AFRAM PLAINS",
+    "region": "ASHANTI",
+    "total_valid_votes": 9275
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ebenezer Akuoko Frimpong",
+        "party": "NDC",
+        "votes": 8382,
+        "elected": false
+      },
+      {
+        "name": "Kwame Asafu-Adjei",
+        "party": "NPP",
+        "votes": 14792,
+        "elected": true
+      },
+      {
+        "name": "Okyere Nti Samuel",
+        "party": "CPP",
+        "votes": 137,
+        "elected": false
+      },
+      {
+        "name": "Kwabena Sarpong-Kumankamah",
+        "party": "PNC",
+        "votes": 66,
+        "elected": false
+      },
+      {
+        "name": "Yaw Adu Gyimah",
+        "party": "IND",
+        "votes": 5611,
+        "elected": false
+      }
+    ],
+    "constituency": "Nsuta-Kwamang-Beposo",
+    "region": "ASHANTI",
+    "total_valid_votes": 28988
+  },
+  {
+    "candidates": [
+      {
+        "name": "Akuoko Richmond",
+        "party": "GCPP",
+        "votes": 99,
+        "elected": false
+      },
+      {
+        "name": "Rebecca Otum",
+        "party": "PPP",
+        "votes": 358,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Kojo Aboasu",
+        "party": "NDC",
+        "votes": 10214,
+        "elected": false
+      },
+      {
+        "name": "Kwaku Ampratwum Sarpong",
+        "party": "NPP",
+        "votes": 36532,
+        "elected": true
+      },
+      {
+        "name": "Osei Kofi Edward Adepa",
+        "party": "UFP",
+        "votes": 270,
+        "elected": false
+      },
+      {
+        "name": "Christopher Adansi Bona",
+        "party": "CPP",
+        "votes": 118,
+        "elected": false
+      },
+      {
+        "name": "Ahmed Ibrahim Saleh",
+        "party": "PNC",
+        "votes": 175,
+        "elected": false
+      }
+    ],
+    "constituency": "MAMPONG",
+    "region": "ASHANTI",
+    "total_valid_votes": 47766
+  },
+  {
+    "candidates": [
+      {
+        "name": "Muhammad Bawah Braimah",
+        "party": "NDC",
+        "votes": 23277,
+        "elected": true
+      },
+      {
+        "name": "Mohammed Salisu Bamba",
+        "party": "NPP",
+        "votes": 21795,
+        "elected": false
+      },
+      {
+        "name": "Abdallai Mahaman Sani",
+        "party": "CPP",
+        "votes": 132,
+        "elected": false
+      },
+      {
+        "name": "Laari Samuel",
+        "party": "PNC",
+        "votes": 83,
+        "elected": false
+      }
+    ],
+    "constituency": "EJURA SEKYEDUMASE",
+    "region": "ASHANTI",
+    "total_valid_votes": 45287
+  },
+  {
+    "candidates": [
+      {
+        "name": "Awudu Salim",
+        "party": "NDC",
+        "votes": 10141,
+        "elected": false
+      },
+      {
+        "name": "Nkansah-Boadu Mavis",
+        "party": "NPP",
+        "votes": 41694,
+        "elected": true
+      }
+    ],
+    "constituency": "AFIGYA SEKYERE EAST",
+    "region": "ASHANTI",
+    "total_valid_votes": 51835
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kwadwo Amoateng",
+        "party": "PPP",
+        "votes": 3749,
+        "elected": false
+      },
+      {
+        "name": "Julia Anohene",
+        "party": "NDC",
+        "votes": 13942,
+        "elected": false
+      },
+      {
+        "name": "Ben Abdallah Banda",
+        "party": "NPP",
+        "votes": 32496,
+        "elected": true
+      },
+      {
+        "name": "Grace Donyere",
+        "party": "CPP",
+        "votes": 149,
+        "elected": false
+      },
+      {
+        "name": "John Akwasi Amposah",
+        "party": "IND",
+        "votes": 1087,
+        "elected": false
+      }
+    ],
+    "constituency": "OFFINSO SOUTH",
+    "region": "ASHANTI",
+    "total_valid_votes": 51423
+  },
+  {
+    "candidates": [
+      {
+        "name": "Samuel Kojo Appiah-Kubi",
+        "party": "NDC",
+        "votes": 15734,
+        "elected": false
+      },
+      {
+        "name": "Ntim Augustine Collins",
+        "party": "NPP",
+        "votes": 18028,
+        "elected": true
+      },
+      {
+        "name": "Boateng James Kwaku",
+        "party": "CPP",
+        "votes": 106,
+        "elected": false
+      },
+      {
+        "name": "Abdul Nasir Dini",
+        "party": "PNC",
+        "votes": 51,
+        "elected": false
+      }
+    ],
+    "constituency": "OFFINSO NORTH",
+    "region": "ASHANTI",
+    "total_valid_votes": 33919
+  },
+  {
+    "candidates": [
+      {
+        "name": "Paul Agyemang-Bioh",
+        "party": "PPP",
+        "votes": 628,
+        "elected": false
+      },
+      {
+        "name": "Joseph Donkor",
+        "party": "NDC",
+        "votes": 10174,
+        "elected": false
+      },
+      {
+        "name": "Johnson Kwaku Adu",
+        "party": "NPP",
+        "votes": 14949,
+        "elected": true
+      },
+      {
+        "name": "Philemon Oppong",
+        "party": "UFP",
+        "votes": 212,
+        "elected": false
+      },
+      {
+        "name": "Sarfo Adam",
+        "party": "CPP",
+        "votes": 112,
+        "elected": false
+      }
+    ],
+    "constituency": "AHAFO ANO SOUTH WEST",
+    "region": "ASHANTI",
+    "total_valid_votes": 26075
+  },
+  {
+    "candidates": [
+      {
+        "name": "Chris Boadi-Mensah",
+        "party": "NDC",
+        "votes": 11640,
+        "elected": false
+      },
+      {
+        "name": "Francis Manu-Adabor",
+        "party": "NPP",
+        "votes": 14198,
+        "elected": true
+      },
+      {
+        "name": "Awini Zechariah",
+        "party": "CPP",
+        "votes": 54,
+        "elected": false
+      }
+    ],
+    "constituency": "AHAFO ANO SOUTH EAST",
+    "region": "ASHANTI",
+    "total_valid_votes": 25892
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kyei Daniel",
+        "party": "PPP",
+        "votes": 878,
+        "elected": false
+      },
+      {
+        "name": "Adusei Kwasi",
+        "party": "NDC",
+        "votes": 14479,
+        "elected": false
+      },
+      {
+        "name": "Sulemana Adamu Sanid",
+        "party": "NPP",
+        "votes": 18895,
+        "elected": true
+      },
+      {
+        "name": "Abeku Yawson",
+        "party": "CPP",
+        "votes": 102,
+        "elected": false
+      },
+      {
+        "name": "Bright Oppong",
+        "party": "IND",
+        "votes": 2617,
+        "elected": false
+      }
+    ],
+    "constituency": "AHAFO ANO NORTH",
+    "region": "ASHANTI",
+    "total_valid_votes": 36971
+  },
+  {
+    "candidates": [
+      {
+        "name": "Musah Abdulai",
+        "party": "PPP",
+        "votes": 126,
+        "elected": false
+      },
+      {
+        "name": "Eric Opoku",
+        "party": "NDC",
+        "votes": 20618,
+        "elected": true
+      },
+      {
+        "name": "Boakye George",
+        "party": "NPP",
+        "votes": 18091,
+        "elected": false
+      },
+      {
+        "name": "Bright Oppong",
+        "party": "CPP",
+        "votes": 64,
+        "elected": false
+      },
+      {
+        "name": "Asamoah Agyemang",
+        "party": "PNC",
+        "votes": 27,
+        "elected": false
+      }
+    ],
+    "constituency": "ASUNAFO SOUTH",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 38926
+  },
+  {
+    "candidates": [
+      {
+        "name": "Seth Adomako",
+        "party": "PPP",
+        "votes": 275,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Kwaku Doku",
+        "party": "NDC",
+        "votes": 24000,
+        "elected": false
+      },
+      {
+        "name": "Evans Opoku Bobie",
+        "party": "NPP",
+        "votes": 31681,
+        "elected": true
+      },
+      {
+        "name": "Stella Opoku Mensah",
+        "party": "CPP",
+        "votes": 110,
+        "elected": false
+      }
+    ],
+    "constituency": "ASUNAFO NORTH",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 56066
+  },
+  {
+    "candidates": [
+      {
+        "name": "Alhaji Collins Dauda",
+        "party": "NDC",
+        "votes": 15855,
+        "elected": true
+      },
+      {
+        "name": "Mrs. Cecilia Gyan Amoah",
+        "party": "NPP",
+        "votes": 12026,
+        "elected": false
+      },
+      {
+        "name": "Dankwah Kofi Richmond",
+        "party": "CPP",
+        "votes": 44,
+        "elected": false
+      },
+      {
+        "name": "Adu Samuel Kent",
+        "party": "PNC",
+        "votes": 51,
+        "elected": false
+      }
+    ],
+    "constituency": "ASUTIFI SOUTH",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 27976
+  },
+  {
+    "candidates": [
+      {
+        "name": "Eric Addae",
+        "party": "NDC",
+        "votes": 12970,
+        "elected": false
+      },
+      {
+        "name": "Benhazin Joseph Dahah",
+        "party": "NPP",
+        "votes": 15955,
+        "elected": true
+      },
+      {
+        "name": "Nana Appiah Gyekye",
+        "party": "CPP",
+        "votes": 97,
+        "elected": false
+      }
+    ],
+    "constituency": "ASUTIFI NORTH",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 29022
+  },
+  {
+    "candidates": [
+      {
+        "name": "Timothy Anabila",
+        "party": "PPP",
+        "votes": 224,
+        "elected": false
+      },
+      {
+        "name": "Hanna Louisa Bisiw",
+        "party": "NDC",
+        "votes": 17215,
+        "elected": false
+      },
+      {
+        "name": "Benjamin Yeboah Sekyere",
+        "party": "NPP",
+        "votes": 21018,
+        "elected": true
+      },
+      {
+        "name": "Addai Munumkum",
+        "party": "CPP",
+        "votes": 26,
+        "elected": false
+      }
+    ],
+    "constituency": "TANO SOUTH",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 38483
+  },
+  {
+    "candidates": [
+      {
+        "name": "Asante Mark",
+        "party": "PPP",
+        "votes": 339,
+        "elected": false
+      },
+      {
+        "name": "Apraku Lartey",
+        "party": "NDC",
+        "votes": 13801,
+        "elected": false
+      },
+      {
+        "name": "Freda Prempeh",
+        "party": "NPP",
+        "votes": 19815,
+        "elected": true
+      },
+      {
+        "name": "Eric Obrng-Adjei",
+        "party": "CPP",
+        "votes": 146,
+        "elected": false
+      }
+    ],
+    "constituency": "TANO NORTH",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 34101
+  },
+  {
+    "candidates": [
+      {
+        "name": "Vivian Kakie Tetteh",
+        "party": "PPP",
+        "votes": 910,
+        "elected": false
+      },
+      {
+        "name": "Kwasi Oppong Ababio",
+        "party": "NDC",
+        "votes": 14549,
+        "elected": false
+      },
+      {
+        "name": "Kwasi Ameyaw-Cheremeh",
+        "party": "NPP",
+        "votes": 38009,
+        "elected": true
+      },
+      {
+        "name": "Barbies Ghandi Issah",
+        "party": "APC",
+        "votes": 105,
+        "elected": false
+      },
+      {
+        "name": "Titus Eshun",
+        "party": "CPP",
+        "votes": 104,
+        "elected": false
+      },
+      {
+        "name": "Alanyina Sampana Sampson",
+        "party": "PNC",
+        "votes": 221,
+        "elected": false
+      },
+      {
+        "name": "George Kumi",
+        "party": "IND",
+        "votes": 15911,
+        "elected": false
+      }
+    ],
+    "constituency": "SUNYANI EAST",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 69809
+  },
+  {
+    "candidates": [
+      {
+        "name": "Justice Samuel Adjei",
+        "party": "NDC",
+        "votes": 17689,
+        "elected": false
+      },
+      {
+        "name": "Ignatius Baffour Awuah",
+        "party": "NPP",
+        "votes": 29215,
+        "elected": true
+      },
+      {
+        "name": "Baah Fred",
+        "party": "CPP",
+        "votes": 258,
+        "elected": false
+      },
+      {
+        "name": "Adongo Matilda",
+        "party": "PNC",
+        "votes": 118,
+        "elected": false
+      }
+    ],
+    "constituency": "SUNYANI WEST",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 47280
+  },
+  {
+    "candidates": [
+      {
+        "name": "Vincent Oppong Asamoah",
+        "party": "NDC",
+        "votes": 8131,
+        "elected": false
+      },
+      {
+        "name": "Ali Maiga Halidu",
+        "party": "NPP",
+        "votes": 8422,
+        "elected": true
+      }
+    ],
+    "constituency": "DORMAA WEST",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 16553
+  },
+  {
+    "candidates": [
+      {
+        "name": "Samuel Kofi Okrah",
+        "party": "PPP",
+        "votes": 87,
+        "elected": false
+      },
+      {
+        "name": "John Kwame Adu Jack",
+        "party": "NDC",
+        "votes": 19372,
+        "elected": false
+      },
+      {
+        "name": "Kwaku Agyeman-Manu",
+        "party": "NPP",
+        "votes": 22277,
+        "elected": true
+      },
+      {
+        "name": "Kumah Yeboah Asuamah",
+        "party": "CPP",
+        "votes": 181,
+        "elected": false
+      },
+      {
+        "name": "Oteng Adjei Kwame",
+        "party": "PNC",
+        "votes": 52,
+        "elected": false
+      }
+    ],
+    "constituency": "DORMAA CENTRAL",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 41969
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ameyaw Frank",
+        "party": "PPP",
+        "votes": 276,
+        "elected": false
+      },
+      {
+        "name": "Frank Kumi",
+        "party": "NDC",
+        "votes": 8490,
+        "elected": false
+      },
+      {
+        "name": "William Kwasi Sabi",
+        "party": "NPP",
+        "votes": 14637,
+        "elected": true
+      },
+      {
+        "name": "Osei Bismark",
+        "party": "CPP",
+        "votes": 65,
+        "elected": false
+      }
+    ],
+    "constituency": "DORMAA EAST",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 23468
+  },
+  {
+    "candidates": [
+      {
+        "name": "Eric Nana Amponsah",
+        "party": "PPP",
+        "votes": 175,
+        "elected": false
+      },
+      {
+        "name": "Opoku Boakye-Yiadom",
+        "party": "NDC",
+        "votes": 15848,
+        "elected": false
+      },
+      {
+        "name": "Kwabena Twum-Nuamah",
+        "party": "NPP",
+        "votes": 23057,
+        "elected": true
+      },
+      {
+        "name": "Salifu Ali Dayinday",
+        "party": "CPP",
+        "votes": 220,
+        "elected": false
+      },
+      {
+        "name": "Abigail Baifi",
+        "party": "PNC",
+        "votes": 25,
+        "elected": false
+      }
+    ],
+    "constituency": "BEREKUM EAST",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 39325
+  },
+  {
+    "candidates": [
+      {
+        "name": "Solomon Kwadwo Amponsah",
+        "party": "PPP",
+        "votes": 117,
+        "elected": false
+      },
+      {
+        "name": "Dickson Kyere-Duah",
+        "party": "NDC",
+        "votes": 7860,
+        "elected": false
+      },
+      {
+        "name": "Kwaku Agyenim-Boateng",
+        "party": "NPP",
+        "votes": 10289,
+        "elected": true
+      }
+    ],
+    "constituency": "BEREKUM WEST",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 18266
+  },
+  {
+    "candidates": [
+      {
+        "name": "David Awupori Vuguseh",
+        "party": "PPP",
+        "votes": 189,
+        "elected": false
+      },
+      {
+        "name": "Kojo Boakye Djan",
+        "party": "NDC",
+        "votes": 12777,
+        "elected": false
+      },
+      {
+        "name": "Afful Yaw",
+        "party": "NPP",
+        "votes": 24616,
+        "elected": true
+      },
+      {
+        "name": "Joyce Asare Bediako",
+        "party": "NDP",
+        "votes": 197,
+        "elected": false
+      },
+      {
+        "name": "Osei Kyereme Emmanuel",
+        "party": "CPP",
+        "votes": 95,
+        "elected": false
+      },
+      {
+        "name": "Addai Daniel",
+        "party": "PNC",
+        "votes": 72,
+        "elected": false
+      }
+    ],
+    "constituency": "JAMAN SOUTH",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 37946
+  },
+  {
+    "candidates": [
+      {
+        "name": "Nsoah Joseph",
+        "party": "PPP",
+        "votes": 327,
+        "elected": false
+      },
+      {
+        "name": "Ahenkwah Yaw Frederick",
+        "party": "NDC",
+        "votes": 13216,
+        "elected": false
+      },
+      {
+        "name": "Siaka Stevens",
+        "party": "NPP",
+        "votes": 14715,
+        "elected": true
+      },
+      {
+        "name": "Sammor-Duah Emmanuel",
+        "party": "CPP",
+        "votes": 95,
+        "elected": false
+      }
+    ],
+    "constituency": "JAMAN NORTH",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 28353
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ahmed Ibrahim",
+        "party": "NDC",
+        "votes": 6167,
+        "elected": true
+      },
+      {
+        "name": "Joe Danquah",
+        "party": "NPP",
+        "votes": 5660,
+        "elected": false
+      },
+      {
+        "name": "Yeboah Abbrey",
+        "party": "NDP",
+        "votes": 25,
+        "elected": false
+      },
+      {
+        "name": "Obimpeh Kwame",
+        "party": "CPP",
+        "votes": 0,
+        "elected": false
+      }
+    ],
+    "constituency": "BANDA",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 11852
+  },
+  {
+    "candidates": [
+      {
+        "name": "Bekoe Paul",
+        "party": "PPP",
+        "votes": 251,
+        "elected": false
+      },
+      {
+        "name": "Kwasi Agyeman Gyan-Tutu",
+        "party": "NDC",
+        "votes": 14528,
+        "elected": false
+      },
+      {
+        "name": "Gabriel Osei",
+        "party": "NPP",
+        "votes": 14569,
+        "elected": true
+      },
+      {
+        "name": "Jones Tannor",
+        "party": "NDP",
+        "votes": 2477,
+        "elected": false
+      },
+      {
+        "name": "Adjeiwaa Rita",
+        "party": "CPP",
+        "votes": 80,
+        "elected": false
+      }
+    ],
+    "constituency": "TAIN",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 31905
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ibrahim Musah",
+        "party": "PPP",
+        "votes": 1659,
+        "elected": false
+      },
+      {
+        "name": "Osei Hayford Kwadwo",
+        "party": "NDC",
+        "votes": 17110,
+        "elected": false
+      },
+      {
+        "name": "Prof George Gyan-Baffour",
+        "party": "NPP",
+        "votes": 21127,
+        "elected": true
+      },
+      {
+        "name": "Nurudeen Sufyan",
+        "party": "CPP",
+        "votes": 174,
+        "elected": false
+      }
+    ],
+    "constituency": "WENCHI",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 40070
+  },
+  {
+    "candidates": [
+      {
+        "name": "Seulemana Ibrahim",
+        "party": "PPP",
+        "votes": 886,
+        "elected": false
+      },
+      {
+        "name": "Adjei Mensah",
+        "party": "NDC",
+        "votes": 35684,
+        "elected": false
+      },
+      {
+        "name": "Henry Yeboah Yiadom-Boachie",
+        "party": "NPP",
+        "votes": 37257,
+        "elected": true
+      }
+    ],
+    "constituency": "TECHIMAN SOUTH",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 73827
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kwasietu-Bonde",
+        "party": "NDC",
+        "votes": 22407,
+        "elected": true
+      },
+      {
+        "name": "Nkangmah Mateerl Charles",
+        "party": "NPP",
+        "votes": 17610,
+        "elected": false
+      },
+      {
+        "name": "Kwasi Sarpong",
+        "party": "NDP",
+        "votes": 217,
+        "elected": false
+      },
+      {
+        "name": "George Mensah",
+        "party": "CPP",
+        "votes": 231,
+        "elected": false
+      },
+      {
+        "name": "Busih Kwaku Richard",
+        "party": "IND",
+        "votes": 1111,
+        "elected": false
+      }
+    ],
+    "constituency": "KINTAMPO NORTH",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 41576
+  },
+  {
+    "candidates": [
+      {
+        "name": "Felicia Adjei",
+        "party": "NDC",
+        "votes": 15266,
+        "elected": true
+      },
+      {
+        "name": "Gyan Alexander",
+        "party": "NPP",
+        "votes": 14210,
+        "elected": false
+      }
+    ],
+    "constituency": "KINTAMPO SOUTH",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 29476
+  },
+  {
+    "candidates": [
+      {
+        "name": "Osei Kofi",
+        "party": "GCPP",
+        "votes": 94,
+        "elected": false
+      },
+      {
+        "name": "Kwadwo Agye-Dwomor",
+        "party": "NDC",
+        "votes": 9353,
+        "elected": false
+      },
+      {
+        "name": "Derek Oduro",
+        "party": "NPP",
+        "votes": 11606,
+        "elected": true
+      },
+      {
+        "name": "Opoku-Twene Micheal",
+        "party": "CPP",
+        "votes": 137,
+        "elected": false
+      },
+      {
+        "name": "Baseni Joseph",
+        "party": "PNC",
+        "votes": 53,
+        "elected": false
+      }
+    ],
+    "constituency": "NKORANZA NORTH",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 21243
+  },
+  {
+    "candidates": [
+      {
+        "name": "Osei Antwi Emmanuel",
+        "party": "PPP",
+        "votes": 227,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Kwadwo Agyekum",
+        "party": "NDC",
+        "votes": 21315,
+        "elected": false
+      },
+      {
+        "name": "Konadu-Yiadom Charles",
+        "party": "NPP",
+        "votes": 22300,
+        "elected": true
+      },
+      {
+        "name": "Baah Methusala Justice",
+        "party": "CPP",
+        "votes": 100,
+        "elected": false
+      },
+      {
+        "name": "Ampour Florence",
+        "party": "PNC",
+        "votes": 25,
+        "elected": false
+      }
+    ],
+    "constituency": "NKORANZA SOUTH",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 43967
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kugblenu Noah",
+        "party": "PPP",
+        "votes": 255,
+        "elected": false
+      },
+      {
+        "name": "Maame Efua Sekyi- Aidoo",
+        "party": "NDC",
+        "votes": 18078,
+        "elected": false
+      },
+      {
+        "name": "Diamond Nannah Appiah",
+        "party": "UPP",
+        "votes": 0,
+        "elected": false
+      },
+      {
+        "name": "Moses Anim",
+        "party": "NPP",
+        "votes": 19218,
+        "elected": true
+      },
+      {
+        "name": "Twum Barima Emmanuel",
+        "party": "CPP",
+        "votes": 171,
+        "elected": false
+      }
+    ],
+    "constituency": "Atebubu-Amantin",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 37722
+  },
+  {
+    "candidates": [
+      {
+        "name": "Danjumah Desmond",
+        "party": "PPP",
+        "votes": 1580,
+        "elected": false
+      },
+      {
+        "name": "Kwabena Donkor",
+        "party": "NDC",
+        "votes": 13512,
+        "elected": true
+      },
+      {
+        "name": "King-David Kwao A.",
+        "party": "NPP",
+        "votes": 8749,
+        "elected": false
+      },
+      {
+        "name": "Zevor Matteis",
+        "party": "NDP",
+        "votes": 130,
+        "elected": false
+      },
+      {
+        "name": "Noah Ken Bodai",
+        "party": "CPP",
+        "votes": 75,
+        "elected": false
+      }
+    ],
+    "constituency": "PRU EAST",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 24046
+  },
+  {
+    "candidates": [
+      {
+        "name": "Asamoah Kwabena Eric",
+        "party": "PPP",
+        "votes": 145,
+        "elected": false
+      },
+      {
+        "name": "Masawud Mohammed",
+        "party": "NDC",
+        "votes": 10740,
+        "elected": true
+      },
+      {
+        "name": "Jalulah Stephen Pambiin",
+        "party": "NPP",
+        "votes": 10698,
+        "elected": false
+      },
+      {
+        "name": "Akurugu Zakaria Atiah",
+        "party": "CPP",
+        "votes": 43,
+        "elected": false
+      }
+    ],
+    "constituency": "PRU WEST",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 21626
+  },
+  {
+    "candidates": [
+      {
+        "name": "Dramani Manu",
+        "party": "PPP",
+        "votes": 565,
+        "elected": false
+      },
+      {
+        "name": "Kwame Twumasi Ampofo",
+        "party": "NDC",
+        "votes": 10229,
+        "elected": true
+      },
+      {
+        "name": "Joseph Mackay-Kumah",
+        "party": "NPP",
+        "votes": 8747,
+        "elected": false
+      },
+      {
+        "name": "Daniyawu Mohammed",
+        "party": "CPP",
+        "votes": 184,
+        "elected": false
+      }
+    ],
+    "constituency": "SENE WEST",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 19725
+  },
+  {
+    "candidates": [
+      {
+        "name": "Dominic Napare",
+        "party": "NDC",
+        "votes": 9936,
+        "elected": true
+      },
+      {
+        "name": "Mbanyie Abraham Kwadwo",
+        "party": "NPP",
+        "votes": 4694,
+        "elected": false
+      },
+      {
+        "name": "Kofi Faasemkye",
+        "party": "CPP",
+        "votes": 185,
+        "elected": false
+      }
+    ],
+    "constituency": "SENE EAST",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 14815
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ibrahim Kofi Marfo",
+        "party": "PPP",
+        "votes": 708,
+        "elected": false
+      },
+      {
+        "name": "Alex Kyeremeh",
+        "party": "NDC",
+        "votes": 14312,
+        "elected": false
+      },
+      {
+        "name": "Martin Oti Gyarko",
+        "party": "NPP",
+        "votes": 17252,
+        "elected": true
+      },
+      {
+        "name": "Agartha Ampomaa",
+        "party": "CPP",
+        "votes": 68,
+        "elected": false
+      },
+      {
+        "name": "Ben Mubarik",
+        "party": "PNC",
+        "votes": 27,
+        "elected": false
+      }
+    ],
+    "constituency": "TECHIMAN NORTH",
+    "region": "BRONG AHAFO",
+    "total_valid_votes": 32367
+  },
+  {
+    "candidates": [
+      {
+        "name": "Akwesi Osman Daniel",
+        "party": "PPP",
+        "votes": 284,
+        "elected": false
+      },
+      {
+        "name": "Yusif Sulemana",
+        "party": "NDC",
+        "votes": 17326,
+        "elected": true
+      },
+      {
+        "name": "Alele Veronica Heming",
+        "party": "NPP",
+        "votes": 5711,
+        "elected": false
+      },
+      {
+        "name": "Issahaku Siibu",
+        "party": "CPP",
+        "votes": 141,
+        "elected": false
+      }
+    ],
+    "constituency": "Bole-Bamboi",
+    "region": "NORTHERN",
+    "total_valid_votes": 23462
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ibrahim Yakubu",
+        "party": "PPP",
+        "votes": 202,
+        "elected": false
+      },
+      {
+        "name": "Andrew Dari Chiwitey",
+        "party": "NDC",
+        "votes": 17209,
+        "elected": true
+      },
+      {
+        "name": "James Kipo Sunyehzi",
+        "party": "NPP",
+        "votes": 8301,
+        "elected": false
+      },
+      {
+        "name": "Albert Iddisah",
+        "party": "CPP",
+        "votes": 98,
+        "elected": false
+      }
+    ],
+    "constituency": "Sawla-Tuna-Kalba",
+    "region": "NORTHERN",
+    "total_valid_votes": 25810
+  },
+  {
+    "candidates": [
+      {
+        "name": "Abdul-Rashid Lawal",
+        "party": "PPP",
+        "votes": 112,
+        "elected": false
+      },
+      {
+        "name": "Adam Mutawakilu",
+        "party": "NDC",
+        "votes": 10263,
+        "elected": true
+      },
+      {
+        "name": "Albert Kassim Diwura",
+        "party": "NPP",
+        "votes": 8139,
+        "elected": false
+      },
+      {
+        "name": "Sulemana Hamdal",
+        "party": "CPP",
+        "votes": 72,
+        "elected": false
+      }
+    ],
+    "constituency": "DAMONGO",
+    "region": "NORTHERN",
+    "total_valid_votes": 18586
+  },
+  {
+    "candidates": [
+      {
+        "name": "Shaibu Mahama",
+        "party": "NDC",
+        "votes": 9208,
+        "elected": true
+      },
+      {
+        "name": "Tika Samuel Yeyu",
+        "party": "NPP",
+        "votes": 8589,
+        "elected": false
+      },
+      {
+        "name": "Alidu Mahama",
+        "party": "CPP",
+        "votes": 95,
+        "elected": false
+      }
+    ],
+    "constituency": "Daboya-Mankarigu",
+    "region": "NORTHERN",
+    "total_valid_votes": 17892
+  },
+  {
+    "candidates": [
+      {
+        "name": "John Abdulai Jinapor",
+        "party": "NDC",
+        "votes": 23364,
+        "elected": true
+      },
+      {
+        "name": "Yakubu Zakaria",
+        "party": "NPP",
+        "votes": 14242,
+        "elected": false
+      }
+    ],
+    "constituency": "YAPEI-KUSAWGU",
+    "region": "NORTHERN",
+    "total_valid_votes": 37606
+  },
+  {
+    "candidates": [
+      {
+        "name": "Abubakari Ibrahim Dey",
+        "party": "NDC",
+        "votes": 12660,
+        "elected": false
+      },
+      {
+        "name": "Salifu Adam Braimah",
+        "party": "NPP",
+        "votes": 12707,
+        "elected": true
+      },
+      {
+        "name": "Habib Mohammed Saani",
+        "party": "CPP",
+        "votes": 242,
+        "elected": false
+      },
+      {
+        "name": "Muntari Abdul-Jalilu",
+        "party": "PNC",
+        "votes": 135,
+        "elected": false
+      },
+      {
+        "name": "Janda Adam Mahama",
+        "party": "IDN",
+        "votes": 3221,
+        "elected": false
+      },
+      {
+        "name": "Bagyim Mbido Abraham",
+        "party": "IDN",
+        "votes": 2920,
+        "elected": false
+      }
+    ],
+    "constituency": "SALAGA SOUTH",
+    "region": "NORTHERN",
+    "total_valid_votes": 31885
+  },
+  {
+    "candidates": [
+      {
+        "name": "Abdul-Fatawu Abdul-Wahab",
+        "party": "PPP",
+        "votes": 2733,
+        "elected": false
+      },
+      {
+        "name": "Alhassan Mumuni",
+        "party": "NDC",
+        "votes": 6363,
+        "elected": true
+      },
+      {
+        "name": "Lucas Alhassan Abilla",
+        "party": "NPP",
+        "votes": 3037,
+        "elected": false
+      },
+      {
+        "name": "Adam Issahaku",
+        "party": "CPP",
+        "votes": 52,
+        "elected": false
+      }
+    ],
+    "constituency": "SALAGA NORTH",
+    "region": "NORTHERN",
+    "total_valid_votes": 12185
+  },
+  {
+    "candidates": [
+      {
+        "name": "Muniru Salifu Ali Nnan",
+        "party": "PPP",
+        "votes": 463,
+        "elected": false
+      },
+      {
+        "name": "Likpalimor Kwajo Tawia",
+        "party": "NDC",
+        "votes": 18301,
+        "elected": false
+      },
+      {
+        "name": "Mattew Nyindam",
+        "party": "NPP",
+        "votes": 19044,
+        "elected": true
+      },
+      {
+        "name": "Donkor Eric Nipani",
+        "party": "APC",
+        "votes": 85,
+        "elected": false
+      },
+      {
+        "name": "Inusah Rashid",
+        "party": "CPP",
+        "votes": 90,
+        "elected": false
+      }
+    ],
+    "constituency": "KPANDAI",
+    "region": "NORTHERN",
+    "total_valid_votes": 37983
+  },
+  {
+    "candidates": [
+      {
+        "name": "Iddisah Zaharatu",
+        "party": "PPP",
+        "votes": 2905,
+        "elected": false
+      },
+      {
+        "name": "Joseph Kwabena Manboah-Rockson",
+        "party": "NDC",
+        "votes": 17918,
+        "elected": false
+      },
+      {
+        "name": "Nitiwul Bingab Aduna Dominic",
+        "party": "NPP",
+        "votes": 29827,
+        "elected": true
+      },
+      {
+        "name": "Alhassan Somed Dasana",
+        "party": "CPP",
+        "votes": 1013,
+        "elected": false
+      }
+    ],
+    "constituency": "BIMBILLA",
+    "region": "NORTHERN",
+    "total_valid_votes": 51663
+  },
+  {
+    "candidates": [
+      {
+        "name": "Yakubu Limpu",
+        "party": "PPP",
+        "votes": 4214,
+        "elected": false
+      },
+      {
+        "name": "Laliri George Maban",
+        "party": "NDC",
+        "votes": 11061,
+        "elected": false
+      },
+      {
+        "name": "Thomas Donkor Ogajah",
+        "party": "NPP",
+        "votes": 14950,
+        "elected": true
+      },
+      {
+        "name": "Mamani Wumbei Abdulai",
+        "party": "CPP",
+        "votes": 150,
+        "elected": false
+      },
+      {
+        "name": "Habib Tahid Danba",
+        "party": "IDN",
+        "votes": 233,
+        "elected": false
+      }
+    ],
+    "constituency": "WULENSI",
+    "region": "NORTHERN",
+    "total_valid_votes": 30608
+  },
+  {
+    "candidates": [
+      {
+        "name": "Alhassan Umar",
+        "party": "NDC",
+        "votes": 13591,
+        "elected": true
+      },
+      {
+        "name": "Jabaah John Bennam",
+        "party": "NPP",
+        "votes": 13434,
+        "elected": false
+      }
+    ],
+    "constituency": "ZABZUGU",
+    "region": "NORTHERN",
+    "total_valid_votes": 27025
+  },
+  {
+    "candidates": [
+      {
+        "name": "Wumborapak Nkpebe Peter",
+        "party": "PPP",
+        "votes": 791,
+        "elected": false
+      },
+      {
+        "name": "Tampi Acheampong Simon",
+        "party": "NDC",
+        "votes": 9371,
+        "elected": true
+      },
+      {
+        "name": "Thomas Mbomba",
+        "party": "NPP",
+        "votes": 7027,
+        "elected": false
+      },
+      {
+        "name": "Serchen Komba",
+        "party": "CPP",
+        "votes": 482,
+        "elected": false
+      },
+      {
+        "name": "James Cecil Yanwube",
+        "party": "IDN",
+        "votes": 6477,
+        "elected": false
+      }
+    ],
+    "constituency": "Tatale-Sanguli",
+    "region": "NORTHERN",
+    "total_valid_votes": 24148
+  },
+  {
+    "candidates": [
+      {
+        "name": "Wumbei Ugan",
+        "party": "PPP",
+        "votes": 737,
+        "elected": false
+      },
+      {
+        "name": "Yahaya Hamza Alikali",
+        "party": "NDC",
+        "votes": 23964,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Habib Tijani",
+        "party": "NPP",
+        "votes": 27158,
+        "elected": true
+      },
+      {
+        "name": "Andani Abdul Latif",
+        "party": "PNC",
+        "votes": 186,
+        "elected": false
+      }
+    ],
+    "constituency": "YENDI",
+    "region": "NORTHERN",
+    "total_valid_votes": 52045
+  },
+  {
+    "candidates": [
+      {
+        "name": "Mohammed Abdul-Aziz",
+        "party": "NDC",
+        "votes": 15954,
+        "elected": true
+      },
+      {
+        "name": "Mohammed Hashim Abdallah",
+        "party": "NPP",
+        "votes": 10127,
+        "elected": false
+      },
+      {
+        "name": "Mabanun Philemon U-Naye",
+        "party": "CPP",
+        "votes": 1122,
+        "elected": false
+      },
+      {
+        "name": "Sayibu Abdul-Rauf",
+        "party": "PNC",
+        "votes": 80,
+        "elected": false
+      }
+    ],
+    "constituency": "MION",
+    "region": "NORTHERN",
+    "total_valid_votes": 27283
+  },
+  {
+    "candidates": [
+      {
+        "name": "Bukari Nikpe Joseph",
+        "party": "NDC",
+        "votes": 9738,
+        "elected": false
+      },
+      {
+        "name": "Charles Binipom Bintin",
+        "party": "NPP",
+        "votes": 14345,
+        "elected": true
+      },
+      {
+        "name": "Abdul Aziz Issah",
+        "party": "CPP",
+        "votes": 101,
+        "elected": false
+      },
+      {
+        "name": "Joseph Amuzu Ngmangnag",
+        "party": "IDN",
+        "votes": 4482,
+        "elected": false
+      }
+    ],
+    "constituency": "SABOBA",
+    "region": "NORTHERN",
+    "total_valid_votes": 28666
+  },
+  {
+    "candidates": [
+      {
+        "name": "Daniel Musah Nanyame",
+        "party": "PPP",
+        "votes": 131,
+        "elected": false
+      },
+      {
+        "name": "Samuel Abdulai Jabanyite",
+        "party": "NDC",
+        "votes": 13211,
+        "elected": true
+      },
+      {
+        "name": "Azumah Namoro Sanda",
+        "party": "NPP",
+        "votes": 11681,
+        "elected": false
+      },
+      {
+        "name": "Eugene Tamado Kofikan Bashiru",
+        "party": "PNC",
+        "votes": 83,
+        "elected": false
+      }
+    ],
+    "constituency": "CHEREPONI",
+    "region": "NORTHERN",
+    "total_valid_votes": 25106
+  },
+  {
+    "candidates": [
+      {
+        "name": "Alhassan Abass",
+        "party": "PPP",
+        "votes": 316,
+        "elected": false
+      },
+      {
+        "name": "Thomas Kwesi Nasah",
+        "party": "NDC",
+        "votes": 18479,
+        "elected": false
+      },
+      {
+        "name": "Ziblim Iddi",
+        "party": "NPP",
+        "votes": 22529,
+        "elected": true
+      },
+      {
+        "name": "Issah Baba",
+        "party": "CPP",
+        "votes": 228,
+        "elected": false
+      }
+    ],
+    "constituency": "Gushiegu",
+    "region": "NORTHERN",
+    "total_valid_votes": 41552
+  },
+  {
+    "candidates": [
+      {
+        "name": "Mohammed Alhassan Somuah",
+        "party": "PPP",
+        "votes": 5405,
+        "elected": false
+      },
+      {
+        "name": "Alhassan Sualihu Dandawa",
+        "party": "NDC",
+        "votes": 15820,
+        "elected": true
+      },
+      {
+        "name": "Sulemana Ibn Sa-Eed",
+        "party": "NPP",
+        "votes": 10798,
+        "elected": false
+      },
+      {
+        "name": "Osman Adam Iddrisu",
+        "party": "CPP",
+        "votes": 160,
+        "elected": false
+      },
+      {
+        "name": "Alhassan Abdul-Ganiyu",
+        "party": "PNC",
+        "votes": 120,
+        "elected": false
+      }
+    ],
+    "constituency": "KARAGA",
+    "region": "NORTHERN",
+    "total_valid_votes": 32303
+  },
+  {
+    "candidates": [
+      {
+        "name": "Muniru Hardi",
+        "party": "PPP",
+        "votes": 219,
+        "elected": false
+      },
+      {
+        "name": "Alhassan Abdulai Red",
+        "party": "NDC",
+        "votes": 12590,
+        "elected": false
+      },
+      {
+        "name": "Muhamed Abdul-Samed Gunu",
+        "party": "NPP",
+        "votes": 13334,
+        "elected": true
+      },
+      {
+        "name": "Ibrahim Mohammed Awal",
+        "party": "CPP",
+        "votes": 118,
+        "elected": false
+      },
+      {
+        "name": "Shahadu Yussif Dasana",
+        "party": "PNC",
+        "votes": 88,
+        "elected": false
+      },
+      {
+        "name": "Alhassan Iddrisu",
+        "party": "IDN",
+        "votes": 12623,
+        "elected": false
+      }
+    ],
+    "constituency": "SAVELUGU",
+    "region": "NORTHERN",
+    "total_valid_votes": 38972
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ibrahim Mutala Muhammed",
+        "party": "NDC",
+        "votes": 10451,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Hardi Tuferu",
+        "party": "NPP",
+        "votes": 11346,
+        "elected": true
+      },
+      {
+        "name": "Alhassan Mohammed Awal",
+        "party": "CPP",
+        "votes": 90,
+        "elected": false
+      }
+    ],
+    "constituency": "NANTON",
+    "region": "NORTHERN",
+    "total_valid_votes": 21887
+  },
+  {
+    "candidates": [
+      {
+        "name": "Iddrisu Haruna",
+        "party": "NDC",
+        "votes": 52235,
+        "elected": true
+      },
+      {
+        "name": "Yakubu Yussif",
+        "party": "NPP",
+        "votes": 18932,
+        "elected": false
+      },
+      {
+        "name": "Abdul Jalilu Kassim",
+        "party": "CPP",
+        "votes": 625,
+        "elected": false
+      },
+      {
+        "name": "Abdallah Alhassan Goudi",
+        "party": "PNC",
+        "votes": 193,
+        "elected": false
+      }
+    ],
+    "constituency": "TAMALE SOUTH",
+    "region": "NORTHERN",
+    "total_valid_votes": 71985
+  },
+  {
+    "candidates": [
+      {
+        "name": "Baba Alhassan",
+        "party": "PPP",
+        "votes": 310,
+        "elected": false
+      },
+      {
+        "name": "Inusah Abdulai Bistav Fuseini",
+        "party": "NDC",
+        "votes": 38531,
+        "elected": true
+      },
+      {
+        "name": "Ibrahim Anyars Imoro",
+        "party": "NPP",
+        "votes": 25230,
+        "elected": false
+      },
+      {
+        "name": "Abubakari Abdulai Madugu",
+        "party": "CPP",
+        "votes": 221,
+        "elected": false
+      },
+      {
+        "name": "Salifu Iddrisu",
+        "party": "PNC",
+        "votes": 126,
+        "elected": false
+      }
+    ],
+    "constituency": "TAMALE CENTRAL",
+    "region": "NORTHERN",
+    "total_valid_votes": 64418
+  },
+  {
+    "candidates": [
+      {
+        "name": "Abdul Jamaldeen Ahmed",
+        "party": "PPP",
+        "votes": 449,
+        "elected": false
+      },
+      {
+        "name": "A. B. A. Fuseini",
+        "party": "NDC",
+        "votes": 26898,
+        "elected": true
+      },
+      {
+        "name": "Habib Iddrisu",
+        "party": "NPP",
+        "votes": 7888,
+        "elected": false
+      },
+      {
+        "name": "Zalia Issaah",
+        "party": "CPP",
+        "votes": 2820,
+        "elected": false
+      }
+    ],
+    "constituency": "SAGNARIGU",
+    "region": "NORTHERN",
+    "total_valid_votes": 38055
+  },
+  {
+    "candidates": [
+      {
+        "name": "Suhiyini Alhassan Sayibu",
+        "party": "NDC",
+        "votes": 21280,
+        "elected": true
+      },
+      {
+        "name": "Kulsumi Mohammed",
+        "party": "NPP",
+        "votes": 5329,
+        "elected": false
+      },
+      {
+        "name": "Seidu Abdulai Napodoo",
+        "party": "APC",
+        "votes": 62,
+        "elected": false
+      },
+      {
+        "name": "Abdallah Muazu",
+        "party": "CPP",
+        "votes": 142,
+        "elected": false
+      },
+      {
+        "name": "Abdulai David",
+        "party": "PNC",
+        "votes": 62,
+        "elected": false
+      },
+      {
+        "name": "Alhassan Dahamani",
+        "party": "IDN",
+        "votes": 4516,
+        "elected": false
+      }
+    ],
+    "constituency": "TAMALE NORTH",
+    "region": "NORTHERN",
+    "total_valid_votes": 31391
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ziblina Baba Issifu Abukari",
+        "party": "PPP",
+        "votes": 304,
+        "elected": false
+      },
+      {
+        "name": "Abdul-Razak Alidu Umar",
+        "party": "NDC",
+        "votes": 20725,
+        "elected": false
+      },
+      {
+        "name": "Wahab Suhiyini Wumbei",
+        "party": "NPP",
+        "votes": 21782,
+        "elected": true
+      },
+      {
+        "name": "Salifu Samson Hussein",
+        "party": "CPP",
+        "votes": 254,
+        "elected": false
+      }
+    ],
+    "constituency": "TOLON",
+    "region": "NORTHERN",
+    "total_valid_votes": 43065
+  },
+  {
+    "candidates": [
+      {
+        "name": "Abukari Abdul Fatawu",
+        "party": "PPP",
+        "votes": 1623,
+        "elected": false
+      },
+      {
+        "name": "Ras Mubarak",
+        "party": "NDC",
+        "votes": 18777,
+        "elected": true
+      },
+      {
+        "name": "Iddrisu Mutaru",
+        "party": "NPP",
+        "votes": 5196,
+        "elected": false
+      },
+      {
+        "name": "Mohammed Mutaru Sulemana",
+        "party": "APC",
+        "votes": 121,
+        "elected": false
+      },
+      {
+        "name": "Amadu Moses Yahaya",
+        "party": "CPP",
+        "votes": 8405,
+        "elected": false
+      }
+    ],
+    "constituency": "KUMBUNGU",
+    "region": "NORTHERN",
+    "total_valid_votes": 34122
+  },
+  {
+    "candidates": [
+      {
+        "name": "Abdallah Abubakari",
+        "party": "NDC",
+        "votes": 23851,
+        "elected": false
+      },
+      {
+        "name": "Sagre Bambangi",
+        "party": "NPP",
+        "votes": 26431,
+        "elected": true
+      },
+      {
+        "name": "Sabratu Mahama",
+        "party": "CPP",
+        "votes": 329,
+        "elected": false
+      },
+      {
+        "name": "Abudu Kwabena Yussif",
+        "party": "PNC",
+        "votes": 241,
+        "elected": false
+      }
+    ],
+    "constituency": "WALEWALE",
+    "region": "NORTHERN",
+    "total_valid_votes": 50852
+  },
+  {
+    "candidates": [
+      {
+        "name": "Abdul-Rauf Tanko Ibrahim",
+        "party": "NDC",
+        "votes": 10990,
+        "elected": true
+      },
+      {
+        "name": "Ussif Mustapha",
+        "party": "NPP",
+        "votes": 8294,
+        "elected": false
+      },
+      {
+        "name": "Salifu Samsudeen",
+        "party": "CPP",
+        "votes": 54,
+        "elected": false
+      }
+    ],
+    "constituency": "Yagaba-Kubori",
+    "region": "NORTHERN",
+    "total_valid_votes": 19338
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ali Fusheini",
+        "party": "PPP",
+        "votes": 351,
+        "elected": false
+      },
+      {
+        "name": "Issifu Seidu",
+        "party": "NDC",
+        "votes": 23150,
+        "elected": false
+      },
+      {
+        "name": "Alima Mahama",
+        "party": "NPP",
+        "votes": 27501,
+        "elected": true
+      },
+      {
+        "name": "Alhassan Ziblim",
+        "party": "CPP",
+        "votes": 130,
+        "elected": false
+      }
+    ],
+    "constituency": "Nalerigu-Gambaga",
+    "region": "NORTHERN",
+    "total_valid_votes": 51132
+  },
+  {
+    "candidates": [
+      {
+        "name": "Anthony Bueteen Gingong",
+        "party": "NDC",
+        "votes": 14306,
+        "elected": false
+      },
+      {
+        "name": "Solomon Namliin Boar",
+        "party": "NPP",
+        "votes": 14590,
+        "elected": true
+      },
+      {
+        "name": "Nawang David Monipaak",
+        "party": "CPP",
+        "votes": 180,
+        "elected": false
+      },
+      {
+        "name": "Namburr Berrick",
+        "party": "IDN",
+        "votes": 656,
+        "elected": false
+      }
+    ],
+    "constituency": "BUNKPURUGU",
+    "region": "NORTHERN",
+    "total_valid_votes": 29732
+  },
+  {
+    "candidates": [
+      {
+        "name": "Laar Namisub Elijah",
+        "party": "PPP",
+        "votes": 470,
+        "elected": false
+      },
+      {
+        "name": "Joseph Bipoba Naabo",
+        "party": "NDC",
+        "votes": 7031,
+        "elected": true
+      },
+      {
+        "name": "Liwaal Oscar",
+        "party": "NPP",
+        "votes": 6659,
+        "elected": false
+      },
+      {
+        "name": "Dawuda Nafisa",
+        "party": "CPP",
+        "votes": 256,
+        "elected": false
+      },
+      {
+        "name": "Elizabeth Pijit Poyari",
+        "party": "IDN",
+        "votes": 1668,
+        "elected": false
+      }
+    ],
+    "constituency": "YUNYOO",
+    "region": "NORTHERN",
+    "total_valid_votes": 16084
+  },
+  {
+    "candidates": [
+      {
+        "name": "Dr.Apaak A. Clement",
+        "party": "NDC",
+        "votes": 7666,
+        "elected": true
+      },
+      {
+        "name": "Gariba Daniel Kwame",
+        "party": "NPP",
+        "votes": 2814,
+        "elected": false
+      },
+      {
+        "name": "Azong Alhassan",
+        "party": "PNC",
+        "votes": 4462,
+        "elected": false
+      }
+    ],
+    "constituency": "BUILSA SOUTH",
+    "region": "UPPER EAST",
+    "total_valid_votes": 14942
+  },
+  {
+    "candidates": [
+      {
+        "name": "James Agalga",
+        "party": "NDC",
+        "votes": 13886,
+        "elected": true
+      },
+      {
+        "name": "Alonsi Thomas Kofi",
+        "party": "NPP",
+        "votes": 8652,
+        "elected": false
+      },
+      {
+        "name": "Ayaaji William Abaayiak",
+        "party": "CPP",
+        "votes": 147,
+        "elected": false
+      }
+    ],
+    "constituency": "BUILSA NORTH",
+    "region": "UPPER EAST",
+    "total_valid_votes": 22685
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kubirizigah Susana Agoriba",
+        "party": "PPP",
+        "votes": 1084,
+        "elected": false
+      },
+      {
+        "name": "Mark Owen Woyongo",
+        "party": "NDC",
+        "votes": 17203,
+        "elected": false
+      },
+      {
+        "name": "Joseph Kofi Adda",
+        "party": "NPP",
+        "votes": 20667,
+        "elected": true
+      },
+      {
+        "name": "Pwoawuvi Joseph Weguri",
+        "party": "PNC",
+        "votes": 246,
+        "elected": false
+      }
+    ],
+    "constituency": "NAVRONGO CENTRAL",
+    "region": "UPPER EAST",
+    "total_valid_votes": 39200
+  },
+  {
+    "candidates": [
+      {
+        "name": "Abugah Naomi",
+        "party": "PPP",
+        "votes": 5843,
+        "elected": false
+      },
+      {
+        "name": "Rudolf Nsorwinne Amenga-Etego",
+        "party": "NDC",
+        "votes": 15847,
+        "elected": true
+      },
+      {
+        "name": "Clement Dandori Pwaworke",
+        "party": "NPP",
+        "votes": 11939,
+        "elected": false
+      },
+      {
+        "name": "Akumyire Elvis Abagumbire",
+        "party": "CPP",
+        "votes": 130,
+        "elected": false
+      },
+      {
+        "name": "Ayamga Bobongawono Edward",
+        "party": "PNC",
+        "votes": 120,
+        "elected": false
+      }
+    ],
+    "constituency": "Chiana-Paga",
+    "region": "UPPER EAST",
+    "total_valid_votes": 33879
+  },
+  {
+    "candidates": [
+      {
+        "name": "Sampson Ayindongo Akolgo",
+        "party": "PPP",
+        "votes": 288,
+        "elected": false
+      },
+      {
+        "name": "Isaac Adongo",
+        "party": "NDC",
+        "votes": 25042,
+        "elected": true
+      },
+      {
+        "name": "Asanga Rex Simeon Atareyella",
+        "party": "NPP",
+        "votes": 15610,
+        "elected": false
+      },
+      {
+        "name": "Ayamga Richard",
+        "party": "APC",
+        "votes": 169,
+        "elected": false
+      },
+      {
+        "name": "Abdul-Rahaman Latifa",
+        "party": "CPP",
+        "votes": 174,
+        "elected": false
+      },
+      {
+        "name": "Thomas Akurugu",
+        "party": "PNC",
+        "votes": 7431,
+        "elected": false
+      }
+    ],
+    "constituency": "BOLGATANGA CENTRAL",
+    "region": "UPPER EAST",
+    "total_valid_votes": 48714
+  },
+  {
+    "candidates": [
+      {
+        "name": "Starline Ayinenongma Baba",
+        "party": "PPP",
+        "votes": 138,
+        "elected": false
+      },
+      {
+        "name": "Dr. Dominic Akuritinga Ayine",
+        "party": "NDC",
+        "votes": 10492,
+        "elected": true
+      },
+      {
+        "name": "Emmanuel Abugre Abole",
+        "party": "NPP",
+        "votes": 4224,
+        "elected": false
+      }
+    ],
+    "constituency": "BOLGATANGA EAST",
+    "region": "UPPER EAST",
+    "total_valid_votes": 14854
+  },
+  {
+    "candidates": [
+      {
+        "name": "Afari George A-Engbinge",
+        "party": "PPP",
+        "votes": 12932,
+        "elected": false
+      },
+      {
+        "name": "Edward Abambire Bawa",
+        "party": "NDC",
+        "votes": 18442,
+        "elected": true
+      },
+      {
+        "name": "Gabriel Nsoh Ade Agana",
+        "party": "NPP",
+        "votes": 6800,
+        "elected": false
+      },
+      {
+        "name": "Awillum Ebenezer Awine",
+        "party": "CPP",
+        "votes": 259,
+        "elected": false
+      }
+    ],
+    "constituency": "BONGO",
+    "region": "UPPER EAST",
+    "total_valid_votes": 38433
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ayam Johnbosco",
+        "party": "PPP",
+        "votes": 248,
+        "elected": false
+      },
+      {
+        "name": "Benson Tongo Baba",
+        "party": "NDC",
+        "votes": 12874,
+        "elected": true
+      },
+      {
+        "name": "Wuni Thomas Pearson Duanab",
+        "party": "NPP",
+        "votes": 8382,
+        "elected": false
+      },
+      {
+        "name": "Clinton Nambuligyin Bukari",
+        "party": "CPP",
+        "votes": 187,
+        "elected": false
+      },
+      {
+        "name": "Michael Wombeogo",
+        "party": "PNC",
+        "votes": 9200,
+        "elected": false
+      }
+    ],
+    "constituency": "TALENSI",
+    "region": "UPPER EAST",
+    "total_valid_votes": 30891
+  },
+  {
+    "candidates": [
+      {
+        "name": "Dr.Mark Kurt Nawaane",
+        "party": "NDC",
+        "votes": 9373,
+        "elected": true
+      },
+      {
+        "name": "Boniface A. Gambila",
+        "party": "NPP",
+        "votes": 6528,
+        "elected": false
+      }
+    ],
+    "constituency": "NABDAM",
+    "region": "UPPER EAST",
+    "total_valid_votes": 15901
+  },
+  {
+    "candidates": [
+      {
+        "name": "Apambilla Joel Kasim",
+        "party": "PPP",
+        "votes": 298,
+        "elected": false
+      },
+      {
+        "name": "Cletus Apul Avoka",
+        "party": "NDC",
+        "votes": 22121,
+        "elected": false
+      },
+      {
+        "name": "Frank Fuseni Adongo",
+        "party": "NPP",
+        "votes": 22361,
+        "elected": true
+      },
+      {
+        "name": "Elijah Anaazut-Zagisi",
+        "party": "NDP",
+        "votes": 194,
+        "elected": false
+      },
+      {
+        "name": "Anafo Benjamin",
+        "party": "CPP",
+        "votes": 388,
+        "elected": false
+      }
+    ],
+    "constituency": "ZEBILLA",
+    "region": "UPPER EAST",
+    "total_valid_votes": 45362
+  },
+  {
+    "candidates": [
+      {
+        "name": "Awini Paul Mbilla",
+        "party": "PPP",
+        "votes": 233,
+        "elected": false
+      },
+      {
+        "name": "Mahama Ayariga",
+        "party": "NDC",
+        "votes": 22611,
+        "elected": true
+      },
+      {
+        "name": "Agbanwa Gabiana Abugri",
+        "party": "NPP",
+        "votes": 21104,
+        "elected": false
+      },
+      {
+        "name": "Ibrahim Zaliya",
+        "party": "CPP",
+        "votes": 106,
+        "elected": false
+      },
+      {
+        "name": "Ayuuba Seidu",
+        "party": "IND",
+        "votes": 196,
+        "elected": false
+      }
+    ],
+    "constituency": "BAWKU CENTRAL",
+    "region": "UPPER EAST",
+    "total_valid_votes": 44250
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ayamba Laadi Ayii",
+        "party": "NDC",
+        "votes": 12737,
+        "elected": true
+      },
+      {
+        "name": "Osmani Aludiba Ayuba",
+        "party": "NPP",
+        "votes": 7209,
+        "elected": false
+      },
+      {
+        "name": "Simon Akunye Atingban",
+        "party": "IND",
+        "votes": 8405,
+        "elected": false
+      }
+    ],
+    "constituency": "PUSIGA",
+    "region": "UPPER EAST",
+    "total_valid_votes": 28351
+  },
+  {
+    "candidates": [
+      {
+        "name": "Albert Akuka Alalzuuga",
+        "party": "NDC",
+        "votes": 12809,
+        "elected": true
+      },
+      {
+        "name": "Samari Alhassan",
+        "party": "NPP",
+        "votes": 10856,
+        "elected": false
+      },
+      {
+        "name": "Alhassan A. Rahaman",
+        "party": "NDP",
+        "votes": 92,
+        "elected": false
+      },
+      {
+        "name": "Samari Saeed Baba",
+        "party": "APC",
+        "votes": 42,
+        "elected": false
+      },
+      {
+        "name": "Ussif Shaka Nambe",
+        "party": "CPP",
+        "votes": 48,
+        "elected": false
+      },
+      {
+        "name": "Yakubu Pandam Peter",
+        "party": "IND",
+        "votes": 53,
+        "elected": false
+      }
+    ],
+    "constituency": "GARU",
+    "region": "UPPER EAST",
+    "total_valid_votes": 23900
+  },
+  {
+    "candidates": [
+      {
+        "name": "Laar Samson Kangben",
+        "party": "PPP",
+        "votes": 2306,
+        "elected": false
+      },
+      {
+        "name": "David Adakudugu",
+        "party": "NDC",
+        "votes": 10697,
+        "elected": false
+      },
+      {
+        "name": "Joseph Dindiok Kpemka",
+        "party": "NPP",
+        "votes": 13363,
+        "elected": true
+      },
+      {
+        "name": "Ayaaba Samson Asaman",
+        "party": "CPP",
+        "votes": 132,
+        "elected": false
+      },
+      {
+        "name": "Francis Adam Asaanah",
+        "party": "IND",
+        "votes": 2925,
+        "elected": false
+      }
+    ],
+    "constituency": "TEMPANE",
+    "region": "UPPER EAST",
+    "total_valid_votes": 29423
+  },
+  {
+    "candidates": [
+      {
+        "name": "Issaka Joseph Hamidu",
+        "party": "PPP",
+        "votes": 280,
+        "elected": false
+      },
+      {
+        "name": "Robert Baba Kuganablem",
+        "party": "NDC",
+        "votes": 15191,
+        "elected": true
+      },
+      {
+        "name": "Abanga Abdulai",
+        "party": "NPP",
+        "votes": 9577,
+        "elected": false
+      },
+      {
+        "name": "Azure Issifu Salifu",
+        "party": "APC",
+        "votes": 97,
+        "elected": false
+      },
+      {
+        "name": "Osman Sulemana",
+        "party": "CPP",
+        "votes": 58,
+        "elected": false
+      }
+    ],
+    "constituency": "BINDURI",
+    "region": "UPPER EAST",
+    "total_valid_votes": 25203
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kuutine Edgard Yelyaga",
+        "party": "GCPP",
+        "votes": 96,
+        "elected": false
+      },
+      {
+        "name": "Sohimwinye James K",
+        "party": "PPP",
+        "votes": 5894,
+        "elected": false
+      },
+      {
+        "name": "Rashid Pelpuo",
+        "party": "NDC",
+        "votes": 25319,
+        "elected": true
+      },
+      {
+        "name": "Tahiru Issahaku Moomin",
+        "party": "NPP",
+        "votes": 24748,
+        "elected": false
+      },
+      {
+        "name": "Seidu Sadiq Abubakari",
+        "party": "NDP",
+        "votes": 183,
+        "elected": false
+      },
+      {
+        "name": "Issahaque Suleman",
+        "party": "CPP",
+        "votes": 375,
+        "elected": false
+      },
+      {
+        "name": "Abdul Sherif Ghali",
+        "party": "PNC",
+        "votes": 199,
+        "elected": false
+      }
+    ],
+    "constituency": "WA CENTRAL",
+    "region": "UPPER WEST",
+    "total_valid_votes": 56814
+  },
+  {
+    "candidates": [
+      {
+        "name": "Felx S. Pigru",
+        "party": "PPP",
+        "votes": 450,
+        "elected": false
+      },
+      {
+        "name": "Joseph Yieleh Chireh",
+        "party": "NDC",
+        "votes": 12658,
+        "elected": true
+      },
+      {
+        "name": "Dari Daniel Kuusongno",
+        "party": "NPP",
+        "votes": 7415,
+        "elected": false
+      },
+      {
+        "name": "Dare Waribata",
+        "party": "NDP",
+        "votes": 181,
+        "elected": false
+      },
+      {
+        "name": "Jargu Issahaku Sanda",
+        "party": "CPP",
+        "votes": 281,
+        "elected": false
+      },
+      {
+        "name": "Patrick Bandanaa",
+        "party": "IND",
+        "votes": 8806,
+        "elected": false
+      }
+    ],
+    "constituency": "WA WEST",
+    "region": "UPPER WEST",
+    "total_valid_votes": 29791
+  },
+  {
+    "candidates": [
+      {
+        "name": "Ban Saliah",
+        "party": "PPP",
+        "votes": 2995,
+        "elected": false
+      },
+      {
+        "name": "Henry Seidu Dannah",
+        "party": "NDC",
+        "votes": 11387,
+        "elected": false
+      },
+      {
+        "name": "Bayon Godfred Tangu",
+        "party": "NPP",
+        "votes": 12723,
+        "elected": true
+      }
+    ],
+    "constituency": "WA EAST",
+    "region": "UPPER WEST",
+    "total_valid_votes": 27105
+  },
+  {
+    "candidates": [
+      {
+        "name": "Alban Sumana Kinsgford Bagbin",
+        "party": "NDC",
+        "votes": 14044,
+        "elected": true
+      },
+      {
+        "name": "Elvis Banoemuleng Botah",
+        "party": "NPP",
+        "votes": 9154,
+        "elected": false
+      },
+      {
+        "name": "Emmanuel Nassal",
+        "party": "CPP",
+        "votes": 120,
+        "elected": false
+      },
+      {
+        "name": "Anbataayela Bernard Mornah",
+        "party": "PNC",
+        "votes": 5393,
+        "elected": false
+      }
+    ],
+    "constituency": "Nadowli-Kaleo",
+    "region": "UPPER WEST",
+    "total_valid_votes": 28711
+  },
+  {
+    "candidates": [
+      {
+        "name": "Sebastian Ngemenenso Sandaare",
+        "party": "NDC",
+        "votes": 8569,
+        "elected": true
+      },
+      {
+        "name": "Lwanga Saanyeh Bagonluri",
+        "party": "NPP",
+        "votes": 4776,
+        "elected": false
+      },
+      {
+        "name": "Dunee Lwanga",
+        "party": "APC",
+        "votes": 59,
+        "elected": false
+      }
+    ],
+    "constituency": "Daffiama-Bussie-Issa",
+    "region": "UPPER WEST",
+    "total_valid_votes": 13404
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kaawaasan Peter",
+        "party": "GCPP",
+        "votes": 89,
+        "elected": false
+      },
+      {
+        "name": "Francis Bawaana Dakura",
+        "party": "NDC",
+        "votes": 15390,
+        "elected": true
+      },
+      {
+        "name": "Kpieta Jesse Sung",
+        "party": "NPP",
+        "votes": 2071,
+        "elected": false
+      },
+      {
+        "name": "Paalee Jacqueline",
+        "party": "APC",
+        "votes": 70,
+        "elected": false
+      },
+      {
+        "name": "Bagbulo Joseph",
+        "party": "CPP",
+        "votes": 90,
+        "elected": false
+      },
+      {
+        "name": "Paul Deriguba",
+        "party": "IND",
+        "votes": 8249,
+        "elected": false
+      }
+    ],
+    "constituency": "JIRAPA",
+    "region": "UPPER WEST",
+    "total_valid_votes": 25959
+  },
+  {
+    "candidates": [
+      {
+        "name": "Edward Kaale-Ewola Dery",
+        "party": "NDC",
+        "votes": 8931,
+        "elected": true
+      },
+      {
+        "name": "Bakye Yelviel-Dong Baligi",
+        "party": "NPP",
+        "votes": 6110,
+        "elected": false
+      },
+      {
+        "name": "Tawiah Kaapeke",
+        "party": "APC",
+        "votes": 51,
+        "elected": false
+      },
+      {
+        "name": "Mwinifor David Deribaa",
+        "party": "CPP",
+        "votes": 101,
+        "elected": false
+      },
+      {
+        "name": "Ernest Sanyare Beinpuo",
+        "party": "IND",
+        "votes": 128,
+        "elected": false
+      }
+    ],
+    "constituency": "LAMBUSSIE-KARNI",
+    "region": "UPPER WEST",
+    "total_valid_votes": 15321
+  },
+  {
+    "candidates": [
+      {
+        "name": "Bede Anwataazumo Ziedeng",
+        "party": "NDC",
+        "votes": 7476,
+        "elected": false
+      },
+      {
+        "name": "Anthony N-Yoh Puowele Karbo",
+        "party": "NPP",
+        "votes": 8704,
+        "elected": true
+      },
+      {
+        "name": "Sa-Eed M Hasiru",
+        "party": "CPP",
+        "votes": 124,
+        "elected": false
+      },
+      {
+        "name": "Abu Samsom",
+        "party": "IND",
+        "votes": 5651,
+        "elected": false
+      }
+    ],
+    "constituency": "LAWRA",
+    "region": "UPPER WEST",
+    "total_valid_votes": 21955
+  },
+  {
+    "candidates": [
+      {
+        "name": "Kabriku Peter Claver",
+        "party": "PPP",
+        "votes": 262,
+        "elected": false
+      },
+      {
+        "name": "Richard Kuuire",
+        "party": "NDC",
+        "votes": 10229,
+        "elected": false
+      },
+      {
+        "name": "Ambrose Dery",
+        "party": "NPP",
+        "votes": 11107,
+        "elected": true
+      }
+    ],
+    "constituency": "NANDOM",
+    "region": "UPPER WEST",
+    "total_valid_votes": 21598
+  },
+  {
+    "candidates": [
+      {
+        "name": "Amin Amidu Sulemani",
+        "party": "NDC",
+        "votes": 9762,
+        "elected": false
+      },
+      {
+        "name": "Patrick Al-Hassan Adama",
+        "party": "NPP",
+        "votes": 13130,
+        "elected": true
+      },
+      {
+        "name": "Katuo Aasoglenang Henry",
+        "party": "NDP",
+        "votes": 221,
+        "elected": false
+      },
+      {
+        "name": "Nankpa Abu Murana",
+        "party": "CPP",
+        "votes": 49,
+        "elected": false
+      }
+    ],
+    "constituency": "SISSALA WEST",
+    "region": "UPPER WEST",
+    "total_valid_votes": 23162
+  },
+  {
+    "candidates": [
+      {
+        "name": "Abdul-Barri Jaasu Zakaria",
+        "party": "GCPP",
+        "votes": 75,
+        "elected": false
+      },
+      {
+        "name": "Alijata Sulemana Gbentie",
+        "party": "NDC",
+        "votes": 7846,
+        "elected": false
+      },
+      {
+        "name": "Abass Ridwan Dauda",
+        "party": "NPP",
+        "votes": 8811,
+        "elected": true
+      },
+      {
+        "name": "Namuru Tahiru",
+        "party": "UFP",
+        "votes": 93,
+        "elected": false
+      },
+      {
+        "name": "Abiba Fidelia Mohammed",
+        "party": "CPP",
+        "votes": 95,
+        "elected": false
+      },
+      {
+        "name": "Kanton Kingsley Kasim",
+        "party": "PNC",
+        "votes": 8015,
+        "elected": false
+      }
+    ],
+    "constituency": "SISSALA EAST",
+    "region": "UPPER WEST",
+    "total_valid_votes": 24935
+  }
+]
