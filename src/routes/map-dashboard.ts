@@ -6,12 +6,22 @@ import { requireString } from "../lib/params";
 const router = Router();
 const TRACKED_ELECTIONS = ["1996", "2000", "2004", "2008", "2012", "2016", "2020", "2024"];
 
-// GET /map-dashboard/constituency-boundaries — every constituency's real
-// geometry (ConstituencyBoundary, seeded from GM's own ArcGIS-derived
-// shapefile data) plus its most recent (2024) presidential result, as a
+function parseType(req: any): "PRESIDENTIAL" | "PARLIAMENTARY" {
+  return (req.query.type ? String(req.query.type).toUpperCase() : "PRESIDENTIAL") as "PRESIDENTIAL" | "PARLIAMENTARY";
+}
+
+// GET /map-dashboard/constituency-boundaries?type=PRESIDENTIAL|PARLIAMENTARY
+// (default PRESIDENTIAL) — every constituency's real geometry
+// (ConstituencyBoundary, seeded from GM's own ArcGIS-derived shapefile
+// data) plus its most recent (2024) result for the requested race, as a
 // single GeoJSON FeatureCollection ready for the map. One bulk query, not
-// 276 individual lookups.
-router.get("/constituency-boundaries", asyncHandler(async (_req, res) => {
+// 276 individual lookups. UPDATED (16 Jul 2026): was hardcoded to
+// PRESIDENTIAL only — this is what fed the constituency fill colours on
+// the map, so Parliamentary results never appeared on it. Now driven by
+// `type`, defaulting to PRESIDENTIAL to preserve existing behaviour for
+// any caller that doesn't pass it.
+router.get("/constituency-boundaries", asyncHandler(async (req, res) => {
+  const type = parseType(req);
   const boundaries = await prisma.constituencyBoundary.findMany({
     include: {
       constituency: {
@@ -25,7 +35,7 @@ router.get("/constituency-boundaries", asyncHandler(async (_req, res) => {
   const election2024 = await prisma.election.findFirst({ where: { code: "2024" } });
   const results2024 = election2024
     ? await prisma.constituencyResult.findMany({
-        where: { electionId: election2024.id, electionType: "PRESIDENTIAL" },
+        where: { electionId: election2024.id, electionType: type },
         include: { votes: { include: { candidate: { select: { fullName: true, party: { select: { abbreviation: true, colourHex: true } } } } }, orderBy: { votes: "desc" }, take: 1 } },
       })
     : [];
@@ -55,14 +65,17 @@ router.get("/constituency-boundaries", asyncHandler(async (_req, res) => {
   res.json({ type: "FeatureCollection", features });
 }));
 
-// GET /map-dashboard/trend?scope=national|region|constituency&id=X —
-// the same vote-share time series design as /results/history, generalized
-// across scope. National/regional rows come from the pre-aggregated
-// NationalResult/RegionalResult tables (real summed vote totals, not
-// computed per-request); constituency scope reuses the existing
-// per-constituency history logic directly.
+// GET /map-dashboard/trend?scope=national|region|constituency&id=X&type=PRESIDENTIAL|PARLIAMENTARY
+// (default PRESIDENTIAL) — the same vote-share time series design as
+// /results/history, generalized across scope. National/regional rows come
+// from the pre-aggregated NationalResult/RegionalResult tables (real
+// summed vote totals, not computed per-request); constituency scope
+// reuses the existing per-constituency history logic directly. UPDATED
+// (16 Jul 2026): all three scope branches were hardcoded to PRESIDENTIAL —
+// now driven by `type`.
 router.get("/trend", asyncHandler(async (req, res) => {
   const scope = (req.query.scope ? String(req.query.scope) : "national") as "national" | "region" | "constituency";
+  const type = parseType(req);
 
   const elections = await prisma.election.findMany({ where: { code: { in: TRACKED_ELECTIONS } } });
   const electionByCode = new Map(elections.map((e) => [e.code, e]));
@@ -104,7 +117,7 @@ router.get("/trend", asyncHandler(async (req, res) => {
   if (scope === "constituency") {
     const constituencyId = requireString(req.query.id, "id");
     const results = await prisma.constituencyResult.findMany({
-      where: { electionId: { in: electionIds }, electionType: "PRESIDENTIAL", constituencyId },
+      where: { electionId: { in: electionIds }, electionType: type, constituencyId },
       select: {
         electionId: true, registeredVoters: true, totalCast: true, validVotes: true, rejectedBallots: true, turnoutPct: true,
         votes: { include: { candidate: { select: { fullName: true, party: { select: { abbreviation: true, colourHex: true } } } } } },
@@ -114,7 +127,7 @@ router.get("/trend", asyncHandler(async (req, res) => {
   } else if (scope === "region") {
     const regionId = requireString(req.query.id, "id");
     const results = await prisma.regionalResult.findMany({
-      where: { electionId: { in: electionIds }, electionType: "PRESIDENTIAL", regionId },
+      where: { electionId: { in: electionIds }, electionType: type, regionId },
       select: {
         electionId: true, registeredVoters: true, totalCast: true, validVotes: true, rejectedBallots: true, turnoutPct: true,
         votes: { include: { candidate: { select: { fullName: true, party: { select: { abbreviation: true, colourHex: true } } } } } },
@@ -123,7 +136,7 @@ router.get("/trend", asyncHandler(async (req, res) => {
     buildHistoryFromResults(results);
   } else {
     const results = await prisma.nationalResult.findMany({
-      where: { electionId: { in: electionIds }, electionType: "PRESIDENTIAL" },
+      where: { electionId: { in: electionIds }, electionType: type },
       select: {
         electionId: true, registeredVoters: true, totalCast: true, validVotes: true, rejectedBallots: true, turnoutPct: true,
         votes: { include: { candidate: { select: { fullName: true, party: { select: { abbreviation: true, colourHex: true } } } } } },
@@ -149,15 +162,43 @@ router.get("/trend", asyncHandler(async (req, res) => {
     if (sawOthers) trend.Others.points.push({ year: h.year, electionCode: h.electionCode, votePct: Math.round(othersPct * 100) / 100 });
   }
 
-  res.json({ scope, history, trend });
+  res.json({ scope, type, history, trend });
 }));
 
-// GET /map-dashboard/regions — id + shortName for every region, so the
-// frontend can resolve a tapped region's shortName (from the static
-// boundary GeoJSON) to its real database id for the /trend?scope=region call.
-router.get("/regions", asyncHandler(async (_req, res) => {
+// GET /map-dashboard/regions?type=PRESIDENTIAL|PARLIAMENTARY (default
+// PRESIDENTIAL) — id + shortName for every region, so the frontend can
+// resolve a tapped region's shortName (from the static boundary GeoJSON)
+// to its real database id for the /trend?scope=region call. UPDATED (16
+// Jul 2026): now ALSO returns each region's live 2024 winner
+// (winnerParty/winnerColourHex) for the requested type. The national
+// "16 regions" map view's geometry comes from a static file
+// (ghana-regions-16.geojson, unioned from constituency polygons — no live
+// polygon-union capability in the Node backend), which had the 2024
+// PRESIDENTIAL winner baked into each feature's properties at generation
+// time, with no way to show Parliamentary results on that view at all.
+// The geometry itself doesn't need to change for a different race — only
+// the fill colour does — so the frontend now merges this live
+// winnerParty/winnerColourHex data onto the static file's features at
+// render time instead of trusting the file's baked-in property.
+router.get("/regions", asyncHandler(async (req, res) => {
+  const type = parseType(req);
   const regions = await prisma.region.findMany({ select: { id: true, shortName: true, name: true } });
-  res.json(regions);
+
+  const election2024 = await prisma.election.findFirst({ where: { code: "2024" } });
+  const results2024 = election2024
+    ? await prisma.regionalResult.findMany({
+        where: { electionId: election2024.id, electionType: type },
+        include: { votes: { include: { candidate: { select: { party: { select: { abbreviation: true, colourHex: true } } } } }, orderBy: { votes: "desc" }, take: 1 } },
+      })
+    : [];
+  const winnerByRegionId = new Map(
+    results2024.map((r) => [r.regionId, r.votes[0]?.candidate.party ? { party: r.votes[0].candidate.party.abbreviation, colourHex: r.votes[0].candidate.party.colourHex } : null])
+  );
+
+  res.json(regions.map((r) => {
+    const winner = winnerByRegionId.get(r.id);
+    return { id: r.id, shortName: r.shortName, name: r.name, winnerParty: winner?.party ?? null, winnerColourHex: winner?.colourHex ?? null };
+  }));
 }));
 
 export default router;
