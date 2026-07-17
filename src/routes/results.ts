@@ -212,6 +212,61 @@ router.get("/parliamentary/:electionCode/summary", asyncHandler(async (req, res)
   res.json({ election: election.code, ...summary });
 }));
 
+async function computeParliamentaryVotesByParty(electionId: string, regionId?: string) {
+  const votes = await prisma.constituencyResultVote.groupBy({
+    by: ["candidateId"],
+    where: {
+      constituencyResult: {
+        electionId, electionType: "PARLIAMENTARY",
+        ...(regionId ? { constituency: { regionId } } : {}),
+      },
+    },
+    _sum: { votes: true },
+  });
+
+  const candidateIds = votes.map((v) => v.candidateId);
+  const candidates = await prisma.candidate.findMany({
+    where: { id: { in: candidateIds } },
+    select: { id: true, partyId: true, party: { select: { name: true, abbreviation: true, colourHex: true } } },
+  });
+  const partyByCandidateId = new Map(candidates.map((c) => [c.id, c.party]));
+
+  const sumsByParty = new Map<string, { name: string; abbreviation: string; colourHex: string | null; votes: number }>();
+  for (const v of votes) {
+    const party = partyByCandidateId.get(v.candidateId);
+    const key = party?.abbreviation ?? "Independent";
+    const existing = sumsByParty.get(key);
+    const add = v._sum.votes ?? 0;
+    if (existing) existing.votes += add;
+    else sumsByParty.set(key, { name: party?.name ?? "Independent candidates", abbreviation: key, colourHex: party?.colourHex ?? null, votes: add });
+  }
+
+  const total = [...sumsByParty.values()].reduce((s, p) => s + p.votes, 0);
+  // Shaped to match CandidateResult exactly (candidate.fullName = the
+  // party's full name, standing in for "the candidate" at this scope) so
+  // the frontend's existing CandidateResultRow renders this with zero
+  // changes — same component Presidential already uses.
+  const results = [...sumsByParty.values()]
+    .sort((a, b) => b.votes - a.votes)
+    .map((p) => ({
+      candidate: { fullName: p.name, party: { abbreviation: p.abbreviation, colourHex: p.colourHex } },
+      votes: p.votes,
+      votePct: total ? Number(((p.votes / total) * 100).toFixed(2)) : 0,
+    }));
+
+  return { totalValidVotes: total, results };
+}
+
+// GET /results/parliamentary/:electionCode/votes-by-party — national total
+// votes summed by party across every parliamentary candidate. Distinct
+// from /summary above (seats won) — vote share and seat share genuinely
+// diverge under FPTP; both are real, legitimate figures.
+router.get("/parliamentary/:electionCode/votes-by-party", asyncHandler(async (req, res) => {
+  const election = await findElection(requireString(req.params.electionCode, "electionCode"));
+  const data = await computeParliamentaryVotesByParty(election.id);
+  res.json({ election: election.code, ...data });
+}));
+
 // GET /results/parliamentary/:electionCode/region/:regionId/summary — same
 // real seat-tally logic as the national summary above, scoped to one
 // region. NOT a sum of individual MP candidates' votes (that's meaningless
@@ -223,6 +278,15 @@ router.get("/parliamentary/:electionCode/region/:regionId/summary", asyncHandler
   const regionId = requireString(req.params.regionId, "regionId");
   const summary = await computeParliamentarySeatSummary(election.id, regionId);
   res.json({ election: election.code, ...summary });
+}));
+
+// GET /results/parliamentary/:electionCode/region/:regionId/votes-by-party
+// — same real metric as the national route above, scoped to one region.
+router.get("/parliamentary/:electionCode/region/:regionId/votes-by-party", asyncHandler(async (req, res) => {
+  const election = await findElection(requireString(req.params.electionCode, "electionCode"));
+  const regionId = requireString(req.params.regionId, "regionId");
+  const data = await computeParliamentaryVotesByParty(election.id, regionId);
+  res.json({ election: election.code, ...data });
 }));
 
 // GET /results/parliamentary/:electionCode/:constituencyId — single-seat full
