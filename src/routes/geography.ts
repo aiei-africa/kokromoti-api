@@ -137,12 +137,26 @@ router.get("/regions/:id/results/:electionCode", asyncHandler(async (req, res) =
     electionType,
     constituenciesReporting: results.length,
     registeredVoters, totalCast, validVotes, rejectedBallots, turnoutPct,
-    results: candidateResults,
-    byConstituency: results.map((r) => ({
-      constituency: r.constituency.name,
-      winner: r.votes[0] ? { fullName: r.votes[0].candidate.fullName, party: r.votes[0].candidate.party?.abbreviation } : null,
-      turnoutPct: r.turnoutPct ? Number(r.turnoutPct) : null,
-    })),
+    // No real vote data recorded for this region/year at all (e.g. 1992,
+    // where only national totals exist — the EC never had constituency-
+    // level collation capacity that year) — report an empty results list
+    // rather than a misleading "0.00%" per party, so the frontend's
+    // existing empty-state handling (top3.length > 0 guard) correctly
+    // hides the party-breakdown section instead of showing fake zeros.
+    results: validVotes > 0 ? candidateResults : [],
+    byConstituency: results.map((r) => {
+      // Same principle per constituency: a "winner" with 0 recorded votes
+      // isn't a real result — it's an artifact of every candidate tying
+      // at zero and SQL's ORDER BY picking an arbitrary (but consistent)
+      // first row. Only report a winner when they actually have votes.
+      const top = r.votes[0];
+      const hasRealWinner = top && top.votes > 0;
+      return {
+        constituency: r.constituency.name,
+        winner: hasRealWinner ? { fullName: top.candidate.fullName, party: top.candidate.party?.abbreviation } : null,
+        turnoutPct: r.turnoutPct ? Number(r.turnoutPct) : null,
+      };
+    }),
   });
 }));
 
