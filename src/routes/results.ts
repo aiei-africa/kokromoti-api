@@ -40,6 +40,40 @@ router.get("/presidential/:electionCode", asyncHandler(async (req, res) => {
   res.json({ election: election.code, totalValidVotes: total, results });
 }));
 
+// GET /results/presidential/:electionCode/region/:regionId — same roll-up
+// as the national route above, scoped to one region's constituencies.
+// Ghana's national summary and Regions' per-region summary must use
+// identical logic — this mirrors it exactly rather than re-deriving a
+// different calculation for the regional case.
+router.get("/presidential/:electionCode/region/:regionId", asyncHandler(async (req, res) => {
+  const election = await findElection(requireString(req.params.electionCode, "electionCode"));
+  const regionId = requireString(req.params.regionId, "regionId");
+
+  const votes = await prisma.constituencyResultVote.groupBy({
+    by: ["candidateId"],
+    where: { constituencyResult: { electionId: election.id, electionType: "PRESIDENTIAL", constituency: { regionId } } },
+    _sum: { votes: true },
+  });
+
+  const candidateIds = votes.map((v) => v.candidateId);
+  const candidates = await prisma.candidate.findMany({
+    where: { id: { in: candidateIds } },
+    select: { id: true, fullName: true, party: { select: { abbreviation: true, colourHex: true } } },
+  });
+  const candById = new Map(candidates.map((c) => [c.id, c]));
+
+  const total = votes.reduce((s, v) => s + (v._sum.votes ?? 0), 0);
+  const results = votes
+    .map((v) => ({
+      candidate: candById.get(v.candidateId),
+      votes: v._sum.votes ?? 0,
+      votePct: total ? Number((((v._sum.votes ?? 0) / total) * 100).toFixed(2)) : 0,
+    }))
+    .sort((a, b) => b.votes - a.votes);
+
+  res.json({ election: election.code, totalValidVotes: total, results });
+}));
+
 // GET /results/presidential/:electionCode/by-constituency — every seat's FULL
 // candidate breakdown in one call.
 router.get("/presidential/:electionCode/by-constituency", asyncHandler(async (req, res) => {
@@ -133,9 +167,9 @@ router.get("/parliamentary/:electionCode", asyncHandler(async (req, res) => {
 }));
 
 // GET /results/parliamentary/:electionCode/summary — seat count by party
-async function computeParliamentarySeatSummary(electionId: string) {
+async function computeParliamentarySeatSummary(electionId: string, regionId?: string) {
   const results = await prisma.constituencyResult.findMany({
-    where: { electionId, electionType: "PARLIAMENTARY" },
+    where: { electionId, electionType: "PARLIAMENTARY", ...(regionId ? { constituency: { regionId } } : {}) },
     include: {
       votes: {
         include: { candidate: { select: { party: { select: { abbreviation: true, colourHex: true } } } } },
@@ -175,6 +209,19 @@ async function computeParliamentarySeatSummary(electionId: string) {
 router.get("/parliamentary/:electionCode/summary", asyncHandler(async (req, res) => {
   const election = await findElection(requireString(req.params.electionCode, "electionCode"));
   const summary = await computeParliamentarySeatSummary(election.id);
+  res.json({ election: election.code, ...summary });
+}));
+
+// GET /results/parliamentary/:electionCode/region/:regionId/summary — same
+// real seat-tally logic as the national summary above, scoped to one
+// region. NOT a sum of individual MP candidates' votes (that's meaningless
+// across ~5-30 different people) — a genuine count of seats won per party
+// within the region, same method already proven for the national figure
+// and for the map's regional/national trend chart.
+router.get("/parliamentary/:electionCode/region/:regionId/summary", asyncHandler(async (req, res) => {
+  const election = await findElection(requireString(req.params.electionCode, "electionCode"));
+  const regionId = requireString(req.params.regionId, "regionId");
+  const summary = await computeParliamentarySeatSummary(election.id, regionId);
   res.json({ election: election.code, ...summary });
 }));
 
