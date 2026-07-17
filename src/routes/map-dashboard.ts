@@ -124,6 +124,88 @@ router.get("/trend", asyncHandler(async (req, res) => {
       },
     });
     buildHistoryFromResults(results);
+  } else if (type === "PARLIAMENTARY") {
+    // Parliamentary has no single national/regional "candidate" per party —
+    // 276 independent constituency races, not one shared race like
+    // Presidential. RegionalResult/NationalResult (built around Presidential's
+    // shape: a handful of named candidates, one per party, summed across
+    // regions) has no meaningful equivalent here. The metric that IS real
+    // and directly countable at this scope is SEATS WON per party — computed
+    // live from the already-fully-seeded ConstituencyResult PARLIAMENTARY
+    // rows (same precedent this app used for historical data before
+    // RegionalResult existed: "keep computing live via groupBy" was the
+    // original, deliberate design for exactly this kind of gap). No schema
+    // change, no synthetic candidate rows — seat SHARE (seats ÷ total seats
+    // × 100) reuses the existing 0–100% trend chart as-is, and the real
+    // seat COUNT rides along in the same `votes` field the tooltip already
+    // renders (candidates[].votes), so nothing on the frontend needs to
+    // change to show it. Covers BOTH region and national scope in one
+    // branch — a national tally is just an unfiltered version of the same
+    // per-constituency-winner aggregation.
+    let constituencyIdFilter: string[] | undefined;
+    if (scope === "region") {
+      const regionId = requireString(req.query.id, "id");
+      const inRegion = await prisma.constituency.findMany({ where: { regionId }, select: { id: true } });
+      constituencyIdFilter = inRegion.map((c) => c.id);
+    }
+
+    const results = await prisma.constituencyResult.findMany({
+      where: {
+        electionId: { in: electionIds },
+        electionType: "PARLIAMENTARY",
+        ...(constituencyIdFilter ? { constituencyId: { in: constituencyIdFilter } } : {}),
+      },
+      select: {
+        electionId: true, registeredVoters: true, totalCast: true, validVotes: true, rejectedBallots: true,
+        votes: {
+          select: { votes: true, candidate: { select: { party: { select: { abbreviation: true, colourHex: true } } } } },
+          orderBy: { votes: "desc" },
+          take: 1, // only the winner of each constituency is needed for a seat tally
+        },
+      },
+    });
+
+    interface YearAgg {
+      registeredVoters: number; totalCast: number; validVotes: number; rejectedBallots: number;
+      seatsByParty: Map<string, { seats: number; colourHex: string | null }>;
+      totalSeats: number;
+    }
+    const byElectionId = new Map<string, YearAgg>();
+    for (const r of results) {
+      let agg = byElectionId.get(r.electionId);
+      if (!agg) { agg = { registeredVoters: 0, totalCast: 0, validVotes: 0, rejectedBallots: 0, seatsByParty: new Map(), totalSeats: 0 }; byElectionId.set(r.electionId, agg); }
+      agg.registeredVoters += r.registeredVoters ?? 0;
+      agg.totalCast += r.totalCast ?? 0;
+      agg.validVotes += r.validVotes ?? 0;
+      agg.rejectedBallots += r.rejectedBallots ?? 0;
+      const winner = r.votes[0];
+      if (!winner) continue; // undeclared constituency for this year — not counted as a seat either way
+      agg.totalSeats++;
+      const abbr = winner.candidate.party?.abbreviation ?? "Independent";
+      const entry = agg.seatsByParty.get(abbr) ?? { seats: 0, colourHex: winner.candidate.party?.colourHex ?? null };
+      entry.seats++;
+      agg.seatsByParty.set(abbr, entry);
+    }
+
+    for (const code of TRACKED_ELECTIONS) {
+      const election = electionByCode.get(code);
+      if (!election) { history.push({ electionCode: code, year: Number(code), candidates: [], registeredVoters: null, totalCast: null, validVotes: null, rejectedBallots: null, turnoutPct: null, margin: null }); continue; }
+      const agg = byElectionId.get(election.id);
+      if (!agg || agg.totalSeats === 0) { history.push({ electionCode: code, year: election.year, candidates: [], registeredVoters: null, totalCast: null, validVotes: null, rejectedBallots: null, turnoutPct: null, margin: null }); continue; }
+
+      const candidates: CandidateRow[] = [...agg.seatsByParty.entries()]
+        .map(([abbr, { seats, colourHex }]) => ({ name: abbr, party: abbr, colourHex, votes: seats, votePct: Math.round((seats / agg.totalSeats) * 10000) / 100 }))
+        .sort((a, b) => b.votes - a.votes);
+      const margin = candidates.length >= 2 ? Math.round((candidates[0].votePct - candidates[1].votePct) * 100) / 100 : null;
+      const turnoutPct = agg.registeredVoters > 0 ? Math.round((agg.totalCast / agg.registeredVoters) * 10000) / 100 : null;
+
+      history.push({
+        electionCode: code, year: election.year, candidates,
+        registeredVoters: agg.registeredVoters || null, totalCast: agg.totalCast || null,
+        validVotes: agg.validVotes || null, rejectedBallots: agg.rejectedBallots || null,
+        turnoutPct, margin,
+      });
+    }
   } else if (scope === "region") {
     const regionId = requireString(req.query.id, "id");
     const results = await prisma.regionalResult.findMany({
