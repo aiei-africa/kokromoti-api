@@ -265,17 +265,57 @@ router.get("/trend", asyncHandler(async (req, res) => {
 router.get("/regions", asyncHandler(async (req, res) => {
   const type = parseType(req);
   const regions = await prisma.region.findMany({ select: { id: true, shortName: true, name: true } });
-
   const election2024 = await prisma.election.findFirst({ where: { code: "2024" } });
-  const results2024 = election2024
-    ? await prisma.regionalResult.findMany({
-        where: { electionId: election2024.id, electionType: type },
-        include: { votes: { include: { candidate: { select: { party: { select: { abbreviation: true, colourHex: true } } } } }, orderBy: { votes: "desc" }, take: 1 } },
-      })
-    : [];
-  const winnerByRegionId = new Map(
-    results2024.map((r) => [r.regionId, r.votes[0]?.candidate.party ? { party: r.votes[0].candidate.party.abbreviation, colourHex: r.votes[0].candidate.party.colourHex } : null])
-  );
+
+  const winnerByRegionId = new Map<string, { party: string; colourHex: string | null } | null>();
+
+  if (type === "PARLIAMENTARY") {
+    // RegionalResult is Presidential-only by design (no single national/
+    // regional "candidate" per party for Parliamentary — 276 independent
+    // constituency races). Same fix already proven for /trend and for
+    // /results/parliamentary/.../region/.../summary: compute the region's
+    // MAJORITY-SEAT party live from real ConstituencyResult winners,
+    // tallied per region — that majority party colours the region on the
+    // map, same principle as colouring a constituency by its own winner.
+    const results = election2024
+      ? await prisma.constituencyResult.findMany({
+          where: { electionId: election2024.id, electionType: "PARLIAMENTARY" },
+          select: {
+            constituency: { select: { regionId: true } },
+            votes: {
+              select: { candidate: { select: { party: { select: { abbreviation: true, colourHex: true } } } } },
+              orderBy: { votes: "desc" },
+              take: 1,
+            },
+          },
+        })
+      : [];
+    const seatsByRegion = new Map<string, Map<string, { seats: number; colourHex: string | null }>>();
+    for (const r of results) {
+      const winner = r.votes[0]?.candidate.party;
+      if (!winner) continue;
+      const regionId = r.constituency.regionId;
+      const byParty = seatsByRegion.get(regionId) ?? new Map<string, { seats: number; colourHex: string | null }>();
+      const entry = byParty.get(winner.abbreviation) ?? { seats: 0, colourHex: winner.colourHex };
+      entry.seats++;
+      byParty.set(winner.abbreviation, entry);
+      seatsByRegion.set(regionId, byParty);
+    }
+    for (const [regionId, byParty] of seatsByRegion) {
+      const top = [...byParty.entries()].sort((a, b) => b[1].seats - a[1].seats)[0];
+      winnerByRegionId.set(regionId, top ? { party: top[0], colourHex: top[1].colourHex } : null);
+    }
+  } else {
+    const results2024 = election2024
+      ? await prisma.regionalResult.findMany({
+          where: { electionId: election2024.id, electionType: type },
+          include: { votes: { include: { candidate: { select: { party: { select: { abbreviation: true, colourHex: true } } } } }, orderBy: { votes: "desc" }, take: 1 } },
+        })
+      : [];
+    for (const r of results2024) {
+      winnerByRegionId.set(r.regionId, r.votes[0]?.candidate.party ? { party: r.votes[0].candidate.party.abbreviation, colourHex: r.votes[0].candidate.party.colourHex } : null);
+    }
+  }
 
   res.json(regions.map((r) => {
     const winner = winnerByRegionId.get(r.id);
