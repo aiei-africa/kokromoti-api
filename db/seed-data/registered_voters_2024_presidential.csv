@@ -1,0 +1,277 @@
+region,region_id,constituency_id,constituency_name,constituency_slug,total_registered_voters,total_valid_votes,total_rejected,total_vote_cast,turnout
+western-north,1,45,Aowin,aowin,76454,42754,1611,44365,58.03
+western-north,1,85,Bia East,bia-east,34672,20803,1044,21847,63.01
+western-north,1,87,Bibiani-Anhwiaso-Bekwai,bibiani-anhwiaso-bekwai,99446,64608,1526,66134,66.50
+western-north,1,93,Bodi,bodi,35002,22011,580,22591,64.54
+western-north,1,146,Juaboso,juaboso,58510,38753,1287,40040,68.43
+western-north,1,230,Sefwi Akontombra,sefwi-akontombra,42367,29716,0,29716,70.14
+western-north,1,231,Sefwi Wiawso,sefwi-wiawso,87505,57917,0,57917,66.19
+western-north,1,245,Suaman,suaman,24710,16990,525,17515,70.88
+western-north,1,561,Bia West,bia-west,63840,38433,0,38433,60.20
+western,2,28,Ahanta West,ahanta-west,86062,47079,1422,48501,56.36
+western,2,40,Amenfi Central,amenfi-central,70915,48575,0,48575,68.50
+western,2,41,Amenfi East,amenfi-east,101111,55221,1361,56582,55.96
+western,2,42,Amenfi West,amenfi-west,82823,43836,1371,45207,54.58
+western,2,71,Evalue Ajomoro Gwira,avalue-ajomoro-gwira,55131,30168,1005,31173,56.54
+western,2,120,Effia,effia,51013,28767,0,28767,56.39
+western,2,126,Ellembele,ellembele,79227,44517,1022,45539,57.48
+western,2,127,Essikado-Ketan,essikado-ketan,79344,43454,851,44305,55.84
+western,2,143,Jomoro,jomoro,85969,47126,1494,48620,56.56
+western,2,169,Kwesimintsim,kwesimintsim,58002,30955,0,30955,53.37
+western,2,184,Mpohor,mpohor,33209,19797,484,20281,61.07
+western,2,219,Prestea Huni-Valley,prestea-huni-valley,144526,77332,0,77332,53.51
+western,2,233,Sekondi,sekondi,41634,25480,375,25855,62.10
+western,2,239,Shama,shama,67799,39493,1092,40585,59.86
+western,2,252,Takoradi,takoradi,55640,31963,338,32301,58.05
+western,2,259,Tarkwa Nsuaem,tarkwa-nsuaem,140050,75565,1347,76912,54.92
+western,2,389,Wassa East,wassa-east,56252,32721,1168,33889,60.24
+central,3,10,Abura Asebu Kwamankese,abura-asebu-kwamankese,76196,48835,1542,50377,66.12
+central,3,22,Agona East,agona-east,64838,39290,1088,40378,62.28
+central,3,23,Agona West,agona-west,89066,52771,1088,53859,60.47
+central,3,29,Ajumako Enyan Esiam,ajumako-enyan-esiam,88261,51353,1352,52705,59.71
+central,3,53,Asikuma Odoben Brakwa,asikuma-odoben-brakwa,74968,46476,1540,48016,64.05
+central,3,55,Assin Central,assin-central,52441,31782,1424,33206,63.32
+central,3,57,Assin North,assin-north,46675,30984,950,31934,68.42
+central,3,58,Assin South,assin-south,61020,37748,1424,39172,64.20
+central,3,72,Awutu Senya East,awutu-senya-east,173995,93422,1280,94702,54.43
+central,3,73,Awutu Senya West,awutu-senya-west,98849,60087,0,60087,60.79
+central,3,106,Cape Coast North,cape-coast-north,70592,40495,685,41180,58.34
+central,3,107,Cape Coast South,cape-coast-south,54760,37188,538,37726,68.89
+central,3,122,Effutu,effutu,80391,58245,0,58245,72.45
+central,3,125,Ekumfi,ekumfi,43826,28803,1065,29868,68.15
+central,3,132,Gomoa Central,gomoa-central,57418,35280,1454,36734,63.98
+central,3,133,Gomoa East,gomoa-east,116469,58830,1433,60263,51.74
+central,3,134,Gomoa West,gomoa-west,81042,20764,0,20764,25.62
+central,3,136,Hemang Lower Denkyira,hemang-lower-denkyira,41741,26835,833,27668,66.28
+central,3,156,Komenda Edina Eguafo Abrem,komenda-edina-eguafo-abrem,98247,54360,1971,56331,57.34
+central,3,181,Mfantseman,mfantseman,99130,59929,1895,61824,62.37
+central,3,270,Upper Denkyira East,upper-denkyira-east,70041,51353,825,52178,74.50
+central,3,272,Upper Denkyira West,upper-denkyira-west,54371,34672,0,34672,63.77
+central,3,269,Twifo Atti Morkwa,twifo-atti-morkwaa,57823,34672,1155,35827,61.96
+greater-accra,4,3,Ablekuma Central,ablekuma-central,130852,77628,0,77628,59.33
+greater-accra,4,4,Ablekuma North,ablekuma-north,121266,0,0,0,N/A
+greater-accra,4,5,Ablekuma South,ablekuma-south,81144,48597,0,48597,59.89
+greater-accra,4,6,Ablekuma West,ablekuma-west,99579,56890,615,57505,57.75
+greater-accra,4,12,Ada,ada,47784,29433,0,29433,61.60
+greater-accra,4,15,Adentan,adentan,163063,28691,0,28691,17.60
+greater-accra,4,39,Amasaman,amasaman,170371,94166,0,94166,55.27
+greater-accra,4,44,Anyaa-Sowutuom,anyaa-sowutuom,144301,80726,0,80726,55.94
+greater-accra,4,52,Ashaiman,ashaiman,174633,94208,0,94208,53.95
+greater-accra,4,74,Ayawaso Central,ayawaso-central,88312,53207,0,53207,60.25
+greater-accra,4,75,Ayawaso East,ayawaso-east,49966,31379,0,31379,62.80
+greater-accra,4,76,Ayawaso North,ayawaso-north,62777,36667,0,36667,58.41
+greater-accra,4,77,Ayawaso West Wuogon,ayawaso-west-wuogon,120586,67978,0,67978,56.37
+greater-accra,4,98,Bortianor-Ngleshie Amanfro,bortianor-ngleshie-amanfro,117491,65058,0,65058,55.37
+greater-accra,4,112,Dadekotopon,dadekotopon,126503,72814,0,72814,57.56
+greater-accra,4,115,Dome/Kwabenya,dome-kwabenya,182644,28447,0,28447,15.58
+greater-accra,4,116,Domeabra-Obom,domeabra-obom,58661,94208,0,94208,160.60
+greater-accra,4,157,Korle Klottey,korle-klottey,105852,60166,0,60166,56.84
+greater-accra,4,160,Kpone Katamanso,kpone-katamanso,136927,75539,0,75539,55.17
+greater-accra,4,164,Krowor,krowor,68191,61580,0,61580,90.31
+greater-accra,4,172,Ledzokuku,ledzokuku,162058,60166,0,60166,37.13
+greater-accra,4,175,Madina,madina,158918,86265,0,86265,54.28
+greater-accra,4,196,Ningo Prampram,ningo-prampram,104044,58228,0,58228,55.96
+greater-accra,4,208,Odododiodio,odododiodio,109017,63367,0,63367,58.13
+greater-accra,4,214,Okaikwei Central,okaikwei-central,65431,0,0,0,N/A
+greater-accra,4,215,Okaikwei North,okaikwei-north,83617,49367,0,49367,59.04
+greater-accra,4,216,Okaikwei South,okaikwei-south,97109,56892,0,56892,58.59
+greater-accra,4,232,Sege,sege,47784,31310,0,31310,65.52
+greater-accra,4,237,Shai-Osudoku,shai-osudoku,71951,42026,0,42026,58.41
+greater-accra,4,263,Tema Central,tema-central,92967,37865,0,37865,40.73
+greater-accra,4,264,Tema East,tema-east,108153,60014,0,60014,55.49
+greater-accra,4,265,Tema West,tema-west,136927,76754,0,76754,56.05
+greater-accra,4,268,Trobu,trobu,145343,79958,0,79958,55.01
+greater-accra,4,390,Weija-Gbawe,weija-gbawe,118731,66747,0,66747,56.22
+eastern,5,1,Abetifi,abetifi,48720,30356,518,30874,63.37
+eastern,5,2,Abirem,abirem,48442,29803,584,30387,62.73
+eastern,5,7,Abuakwa North,abuakwa-north,48001,29803,0,29803,62.09
+eastern,5,11,Achiase,achiase,34681,23261,715,23976,69.13
+eastern,5,20,Afram Plains North,afram-plains-north,40047,24142,0,24142,60.28
+eastern,5,21,Afram Plains South,afram-plains-south,37338,22380,0,22380,59.94
+eastern,5,33,Akim Oda,akim-oda,45773,26626,383,27009,59.01
+eastern,5,34,Akim Swedru,akim-swedru,22400,14159,306,14465,64.58
+eastern,5,36,Akropong / Akuapem North,akropong,71255,42151,0,42151,59.16
+eastern,5,37,Akuapim South,akuapem-south,49174,30419,650,31069,63.18
+eastern,5,38,Akwatia,akwatia,52328,36112,0,36112,69.01
+eastern,5,61,Asuogyaman,asuogyaman,69698,46931,0,46931,67.33
+eastern,5,65,Atiwa East,atiwa-east,40022,25855,571,26426,66.03
+eastern,5,66,Atiwa West,atiwa-west,37843,46931,0,46931,124.02
+eastern,5,78,Ayensuano,ayensuano,59342,35760,0,35760,60.26
+eastern,5,128,Fanteakwa North,fanteakwa-north,34871,22238,580,22818,65.44
+eastern,5,129,Fanteakwa South,fanteakwa-south,30942,18663,339,19002,61.41
+eastern,5,147,Kade,kade,70957,40988,1170,42158,59.41
+eastern,5,173,Lower Manya Krobo,lower-manya-krobo,78718,44332,0,44332,56.32
+eastern,5,174,Lower West Akim,lower-west-akim,70797,44234,0,44234,62.48
+eastern,5,185,Mpraeso,mpraeso,48822,28305,506,28811,59.01
+eastern,5,193,New Juaben North,new-juaben-north,47036,28155,0,28155,59.86
+eastern,5,197,Nkawkaw,nkawkaw,82124,48428,0,48428,58.97
+eastern,5,204,Nsawam-Adoagyiri,nsawam-adoagyiri,97888,0,0,0,N/A
+eastern,5,212,Ofoase/Ayirebi,ofoase-ayirebi,52516,31690,0,31690,60.34
+eastern,5,217,Okere,okere,35143,21772,0,21772,61.95
+eastern,5,248,Suhum,suhum,78620,48658,1303,49961,63.55
+eastern,5,273,Upper Manya Krobo,upper-manya-krobo,42453,26684,0,26684,62.86
+eastern,5,274,Upper West Akim,upper-west-akim,63021,37586,0,37586,59.64
+eastern,5,8,Abuakwa South,abuakwa-south,55834,34239,0,34239,61.32
+eastern,5,495,Yilo Krobo,yilo-krobo,70096,44370,0,44370,63.30
+eastern,5,51,Asene/Akroso/Manso,asene-akroso-manso,46517,28483,768,29251,62.88
+eastern,5,194,New Juaben South,new-juaben-south,98984,57021,622,57643,58.23
+volta,6,13,Adaklu,adaklu,22204,15252,0,15252,68.69
+volta,6,16,Afadjato South,afadjato-south,39080,24732,0,24732,63.29
+volta,6,24,Agotime Ziope,agotime-ziope,31557,19314,0,19314,61.20
+volta,6,31,Akatsi North,akatsi-north,20809,13979,0,13979,67.18
+volta,6,32,Akatsi South,akatsi-south,53582,34109,0,34109,63.66
+volta,6,43,Anlo,anlo,60432,46598,0,46598,77.11
+volta,6,108,Central Tongu,central-tongu,50607,45895,639,46534,91.95
+volta,6,137,Ho Central,ho-central,112363,34109,0,34109,30.36
+volta,6,138,Ho West,ho-west,54475,33488,0,33488,61.47
+volta,6,139,Hohoe,hohoe,70664,45751,0,45751,64.74
+volta,6,150,Keta,keta,50622,33406,0,33406,65.99
+volta,6,151,Ketu North,ketu-north,70628,46598,0,46598,65.98
+volta,6,153,Ketu South,ketu-south,149155,84019,0,84019,56.33
+volta,6,159,Kpando,kpando,40123,24686,0,24686,61.53
+volta,6,202,North Dayi,north-dayi,26764,17559,0,17559,65.61
+volta,6,203,North Tongu,north-tongu,67220,43791,0,43791,65.15
+volta,6,243,South Dayi,south-dayi,33609,23381,0,23381,69.57
+volta,6,244,South Tongu,south-tongu,69936,46543,427,46970,67.16
+oti,7,30,Akan,akan,47176,29641,926,30567,64.79
+oti,7,86,Biakoye,biakoye,42282,26987,0,26987,63.83
+oti,7,102,Buem,buem,36586,22080,0,22080,60.35
+oti,7,161,Krachi East,krachi-east,55309,38316,0,38316,69.28
+oti,7,162,Krachi Nchumuru,krachi-nchumuru,40100,27733,1054,28787,71.79
+oti,7,163,Krachi West,krachi-west,33700,23901,617,24518,72.75
+oti,7,200,Nkwanta North,nkwanta-north,65718,47405,1461,48866,74.36
+oti,7,201,Nkwanta South,nkwanta-south,70085,44051,1747,45798,65.35
+oti,7,630,Guan,guan,19651,12859,0,12859,65.44
+ashanti,8,19,Afigya Sekyere East,afigya-sekyere-east,70562,48081,0,48081,68.14
+ashanti,8,25,Ahafo Ano North,ahafo-ano-north,57983,0,0,0,N/A
+ashanti,8,35,Akrofruom,akrofuom,29286,18466,0,18466,63.05
+ashanti,8,46,Asante Akim Central,asante-akim-central,57516,37453,0,37453,65.12
+ashanti,8,47,Asante Akim North,asante-akim-north,55252,41798,897,42695,77.27
+ashanti,8,48,Asante Akim South,asante-akim-south,76109,38711,0,38711,50.86
+ashanti,8,50,Asawase,asawase,109089,28447,0,28447,26.08
+ashanti,8,54,Asokwa,asokwa,89881,58311,0,58311,64.88
+ashanti,8,67,Atwima Kwanwoma,atwima-kwanwoma,120668,49046,0,49046,40.65
+ashanti,8,68,Atwima Mponua,atwima-mponua,88623,56956,1293,58249,65.73
+ashanti,8,80,Bantama,bantama,84957,55305,0,55305,65.10
+ashanti,8,82,Bekwai,bekwai,84183,53422,0,53422,63.46
+ashanti,8,100,Bosome Freho,bosome-freho,38048,25576,0,25576,67.22
+ashanti,8,101,Bosomtwe,bosomtwe,89585,59928,0,59928,66.90
+ashanti,8,121,Efiduase/Asokore,effiduase-asokore,44866,31349,0,31349,69.87
+ashanti,8,123,Ejisu,ejisu,112124,73481,0,73481,65.54
+ashanti,8,124,Ejura Sekyedumase,ejura-sekyeredumase,77590,51819,1357,53176,68.53
+ashanti,8,130,Fomena,fomena,35052,24020,0,24020,68.53
+ashanti,8,145,Juaben,juaben,43513,29519,0,29519,67.84
+ashanti,8,165,Kumawu,kumawu,39113,29546,0,29546,75.54
+ashanti,8,167,Kwabre East,kwabre-east,146421,95738,0,95738,65.39
+ashanti,8,168,Kwadaso,kwadaso,91730,58392,0,58392,63.66
+ashanti,8,176,Mampong,mampong,68964,46178,0,46178,66.96
+ashanti,8,177,Manhyia North,manhyia-north,70472,46030,0,46030,65.32
+ashanti,8,178,Manhyia South,manhyia-south,42719,28838,0,28838,67.51
+ashanti,8,179,Manso Adubia,manso-adubia,64776,33954,0,33954,52.42
+ashanti,8,180,Manso Nkwanta,manso-nkwanta,60971,47044,0,47044,77.16
+ashanti,8,192,New Edubease ,new-edubiase,50933,35725,0,35725,70.14
+ashanti,8,195,Nhyiaeso,nhyiaeso,81341,50203,0,50203,61.72
+ashanti,8,205,Nsuta/Kwamang/Beposo,nsuta-kwamang-beposo,44380,28765,0,28765,64.82
+ashanti,8,206,Obuasi East,obuasi-east,57235,46178,0,46178,80.68
+ashanti,8,207,Obuasi West,obuasi-west,65644,63083,626,63709,97.05
+ashanti,8,209,Odotobri,Odotobri,55553,33490,0,33490,60.28
+ashanti,8,210,Offinso North,offinso-north,56982,38480,0,38480,67.53
+ashanti,8,211,Offinso South,offinso-south,82285,54435,0,54435,66.15
+ashanti,8,213,Oforikrom,oforikrom,116455,72640,340,72980,62.67
+ashanti,8,218,Old Tafo,old-tafo,73656,50813,0,50813,68.99
+ashanti,8,234,Sekyere Afram Plains,sekyere-afram-plains,22814,15860,0,15860,69.52
+ashanti,8,246,Suame,suame,100350,45386,0,45386,45.23
+ashanti,8,247,Subin,subin,76990,47603,0,47603,61.83
+ashanti,8,14,Adansi Asokwa,adansi-asokwa,43915,27518,0,27518,62.66
+ashanti,8,17,Afigya Kwabre North,afigya-kwabre-north,43831,29623,520,30143,68.77
+ashanti,8,18,Afigya Kwabre South,afigya-kwabre-south,107633,70500,0,70500,65.50
+ashanti,8,26,Ahafo Ano South East,ahafo-ano-south-east,41353,29450,0,29450,71.22
+ashanti,8,27,Ahafo Ano South West,ahafo-ano-south-west,44155,31873,0,31873,72.18
+ashanti,8,69,Atwima Nwabiagya North,atwima-nwabiagya-north,82959,55416,0,55416,66.80
+ashanti,8,70,Atwima Nwabiagya South,atwima-nwabiagya-south,96757,62394,365,62759,64.86
+bono,9,83,Berekum East,berekum-east,64064,37730,0,37730,58.89
+bono,9,84,Berekum West,berekum-west,35029,20205,0,20205,57.68
+bono,9,117,Dormaa Central,dormaa-central,67367,40279,0,40279,59.79
+bono,9,118,Dormaa East,dormaa-east,39022,23981,0,23981,61.46
+bono,9,119,Dormaa West,dormaa-west,29827,20210,0,20210,67.76
+bono,9,140,Jaman North,jaman-north,57589,36118,0,36118,62.72
+bono,9,141,Jaman South,jaman-south,68104,41174,0,41174,60.46
+bono,9,249,Sunyani East,sunyani-east,116982,65058,967,66025,56.44
+bono,9,250,Sunyani West,sunyani-west,79455,45912,0,45912,57.78
+bono,9,251,Tain,tain,65703,41326,0,41326,62.90
+bono,9,393,Wenchi,wenchi,74046,47095,0,47095,63.60
+bono,9,79,Banda,banda,22728,17494,0,17494,76.97
+ahafo,10,59,Asunafo North,asunafo-north,88318,58278,1140,59418,67.28
+ahafo,10,60,Asunafo South,asunafo-south,59494,43489,850,44339,74.53
+ahafo,10,62,Asutifi North,asutifi-north,45748,32483,0,32483,71.00
+ahafo,10,63,Asutifi South,asutifi-south,49392,35880,625,36505,73.91
+ahafo,10,257,Tano North,tano-north,58264,38394,0,38394,65.90
+ahafo,10,258,Tano South,tano-south,58068,39095,731,39826,68.59
+bono-east,11,64,Atebubu/Amantin,atebubu-amantin,72900,41528,1475,43003,58.99
+bono-east,11,154,Kintampo North,kintampo-north,76155,46333,0,46333,60.84
+bono-east,11,155,Kintampo South,kintampo-south,53580,41528,0,41528,77.51
+bono-east,11,198,Nkoranza North,nkoranza-north,37902,41528,0,41528,109.57
+bono-east,11,199,Nkoranza South,nkoranza-south,71039,47094,0,47094,66.29
+bono-east,11,220,Pru East,pru-east,50420,41528,1219,42747,84.78
+bono-east,11,221,Pru West,pru-west,41555,41528,0,41528,99.94
+bono-east,11,235,Sene East,sene-east,28010,18179,0,18179,64.90
+bono-east,11,236,Sene West,sene-west,37499,26515,1078,27593,73.58
+bono-east,11,261,Techiman North,techiman-north,61515,41528,0,41528,67.51
+bono-east,11,262,Techiman South,techiman-south,142255,88549,0,88549,62.25
+northern,12,90,Bimbilla,bimbilla,91315,66298,2652,68950,75.51
+northern,12,135,Gushegu,gushegu,76221,52197,0,52197,68.48
+northern,12,148,Karaga,karaga,62490,50027,1838,51865,83.00
+northern,12,158,Kpandai,kpandai,66850,52087,1149,53236,79.64
+northern,12,166,Kumbungu,kumbungu,58991,46249,729,46978,79.64
+northern,12,182,Mion,mion,50661,37803,0,37803,74.62
+northern,12,190,Nanton,nanton,40342,31405,0,31405,77.85
+northern,12,224,Saboba,saboba,43922,31152,0,31152,70.93
+northern,12,225,Sagnarigu,sagnarigu,80467,59010,0,59010,73.33
+northern,12,228,Savelugu,savelegu,67303,51824,0,51824,77.00
+northern,12,254,Tamale Central,tamale-central,92967,69549,0,69549,74.81
+northern,12,255,Tamale North,tamale-north,53808,41055,0,41055,76.30
+northern,12,256,Tamale South,tamale-south,123943,89260,0,89260,72.02
+northern,12,260,Tatale-Sanguli,tatale-sanguli,43587,40911,0,40911,93.86
+northern,12,267,Tolon,tolon,72204,53979,0,53979,74.76
+northern,12,400,Wulensi,wulensi,54043,42032,0,42032,77.78
+northern,12,458,Yendi,yendi,86122,64843,0,64843,75.29
+northern,12,521,Zabzugu,zabzugu,44698,33723,0,33723,75.45
+north-east,13,105,Bunkpurugu,bunkpurugu,51686,35542,0,35542,68.77
+north-east,13,109,Chereponi,chereponi,42684,33332,983,34315,80.39
+north-east,13,188,Nalerigu/ Gambaga,nalerigu-gambaga,89506,63083,0,63083,70.48
+north-east,13,318,Walewale,walewale,88422,66659,0,66659,75.39
+north-east,13,419,Yagaba-Kubori,yagaba-kubori,38162,29894,977,30871,80.89
+north-east,13,505,Yunyoo,yunyoo,29423,20841,988,21829,74.19
+savannah,14,94,Bole-Bamboi,bole-bamboi,57873,33646,0,33646,58.14
+savannah,14,111,Daboya/Mankarigu,daboya-mankarigu,34427,24992,1007,25999,75.52
+savannah,14,114,Damongo,damongo,40131,30529,0,30529,76.07
+savannah,14,226,Salaga North,salaga-north,25156,19087,0,19087,75.87
+savannah,14,227,Salaga South,salaga-south,60315,42792,0,42792,70.95
+savannah,14,229,Sawla-Tuna-Kalba,sawla-tuna-kalba,53278,28447,1135,29582,55.52
+savannah,14,427,Yapei/Kusawgu,yapei-kusawgu,71251,40425,0,40425,56.74
+upper-east,15,81,Bawku Central,bawku-central,63632,40802,0,40802,64.12
+upper-east,15,91,Binduri,binduri,43926,29467,0,29467,67.08
+upper-east,15,95,Bolgatanga Central,bolgatanga-central,75209,50370,1236,51606,68.62
+upper-east,15,96,Bolgatanga East,bolgatanga-east,26194,19259,0,19259,73.52
+upper-east,15,97,Bongo,bongo,65214,38667,0,38667,59.29
+upper-east,15,103,Builsa North,builsa-north,33534,23177,0,23177,69.11
+upper-east,15,104,Builsa South,builsa-south,21869,47019,0,47019,215.00
+upper-east,15,110,Chiana Paga,chiana-paga,54916,34761,0,34761,63.30
+upper-east,15,131,Garu,garu,38717,25027,0,25027,64.64
+upper-east,15,186,Nabdam,nabdam,24915,17631,0,17631,70.76
+upper-east,15,191,Navrongo Central,navrongo-central,60397,37582,0,37582,62.22
+upper-east,15,222,Pusiga,pusiga,58005,34521,0,34521,59.51
+upper-east,15,253,Talensi,talensi,48262,32404,0,32404,67.14
+upper-east,15,266,Tempane,tempane,55215,31554,0,31554,57.15
+upper-east,15,523,Zebilla,zebilla,71283,47019,0,47019,65.96
+upper-west,16,113,Daffiama-Bussie-Issa,daffiama-bussie-issa,27400,17513,0,17513,63.92
+upper-west,16,142,Jirapa,jirapa,52827,29548,0,29548,55.93
+upper-west,16,170,Lambussie,lambussie,29344,19450,634,20084,68.44
+upper-west,16,171,Lawra,lawra,34293,20289,0,20289,59.16
+upper-west,16,187,Nadowli/Kaleo,nadowli-kaleo,46109,29952,0,29952,64.96
+upper-west,16,189,Nandom,nandom,34887,24205,708,24913,71.41
+upper-west,16,241,Sissala East,sissala-east,44468,31897,0,31897,71.73
+upper-west,16,242,Sissala West,sissala-west,42934,30217,0,30217,70.38
+upper-west,16,275,Wa Central,wa-central,99041,68955,0,68955,69.62
+upper-west,16,290,Wa East,wa-east,47619,31751,0,31751,66.68
+upper-west,16,302,Wa West,wa-west,59443,35687,0,35687,60.04
