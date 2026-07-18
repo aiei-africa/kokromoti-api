@@ -80,7 +80,7 @@ router.get("/trend", asyncHandler(async (req, res) => {
   const elections = await prisma.election.findMany({ where: { code: { in: TRACKED_ELECTIONS } } });
   const electionByCode = new Map(elections.map((e) => [e.code, e]));
 
-  interface CandidateRow { name: string; party: string | null; colourHex: string | null; votes: number; votePct: number; }
+  interface CandidateRow { name: string; party: string | null; colourHex: string | null; photoUrl: string | null; votes: number; votePct: number; }
   interface YearRow {
     electionCode: string; year: number;
     candidates: CandidateRow[];
@@ -102,6 +102,7 @@ router.get("/trend", asyncHandler(async (req, res) => {
         .sort((a, b) => b.votes - a.votes)
         .map((v) => ({
           name: v.candidate.fullName, party: v.candidate.party?.abbreviation ?? null, colourHex: v.candidate.party?.colourHex ?? null,
+          photoUrl: (v.candidate as any).photoUrl ?? null,
           votes: v.votes, votePct: v.voteShare ? Number(v.voteShare) : 0,
         }));
       const margin = candidates.length >= 2 ? Math.round((candidates[0].votePct - candidates[1].votePct) * 100) / 100 : null;
@@ -120,7 +121,7 @@ router.get("/trend", asyncHandler(async (req, res) => {
       where: { electionId: { in: electionIds }, electionType: type, constituencyId },
       select: {
         electionId: true, registeredVoters: true, totalCast: true, validVotes: true, rejectedBallots: true, turnoutPct: true,
-        votes: { include: { candidate: { select: { fullName: true, party: { select: { abbreviation: true, colourHex: true } } } } } },
+        votes: { include: { candidate: { select: { fullName: true, photoUrl: true, party: { select: { abbreviation: true, colourHex: true } } } } } },
       },
     });
     buildHistoryFromResults(results);
@@ -194,7 +195,7 @@ router.get("/trend", asyncHandler(async (req, res) => {
       if (!agg || agg.totalSeats === 0) { history.push({ electionCode: code, year: election.year, candidates: [], registeredVoters: null, totalCast: null, validVotes: null, rejectedBallots: null, turnoutPct: null, margin: null }); continue; }
 
       const candidates: CandidateRow[] = [...agg.seatsByParty.entries()]
-        .map(([abbr, { seats, colourHex }]) => ({ name: abbr, party: abbr, colourHex, votes: seats, votePct: Math.round((seats / agg.totalSeats) * 10000) / 100 }))
+        .map(([abbr, { seats, colourHex }]) => ({ name: abbr, party: abbr, colourHex, photoUrl: null, votes: seats, votePct: Math.round((seats / agg.totalSeats) * 10000) / 100 }))
         .sort((a, b) => b.votes - a.votes);
       const margin = candidates.length >= 2 ? Math.round((candidates[0].votePct - candidates[1].votePct) * 100) / 100 : null;
       const turnoutPct = agg.registeredVoters > 0 ? Math.round((agg.totalCast / agg.registeredVoters) * 10000) / 100 : null;
@@ -212,7 +213,7 @@ router.get("/trend", asyncHandler(async (req, res) => {
       where: { electionId: { in: electionIds }, electionType: type, regionId },
       select: {
         electionId: true, registeredVoters: true, totalCast: true, validVotes: true, rejectedBallots: true, turnoutPct: true,
-        votes: { include: { candidate: { select: { fullName: true, party: { select: { abbreviation: true, colourHex: true } } } } } },
+        votes: { include: { candidate: { select: { fullName: true, photoUrl: true, party: { select: { abbreviation: true, colourHex: true } } } } } },
       },
     });
     buildHistoryFromResults(results);
@@ -221,7 +222,7 @@ router.get("/trend", asyncHandler(async (req, res) => {
       where: { electionId: { in: electionIds }, electionType: type },
       select: {
         electionId: true, registeredVoters: true, totalCast: true, validVotes: true, rejectedBallots: true, turnoutPct: true,
-        votes: { include: { candidate: { select: { fullName: true, party: { select: { abbreviation: true, colourHex: true } } } } } },
+        votes: { include: { candidate: { select: { fullName: true, photoUrl: true, party: { select: { abbreviation: true, colourHex: true } } } } } },
       },
     });
     buildHistoryFromResults(results);

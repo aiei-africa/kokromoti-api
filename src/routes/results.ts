@@ -24,7 +24,7 @@ router.get("/presidential/:electionCode", asyncHandler(async (req, res) => {
   const candidateIds = votes.map((v) => v.candidateId);
   const candidates = await prisma.candidate.findMany({
     where: { id: { in: candidateIds } },
-    select: { id: true, fullName: true, party: { select: { abbreviation: true, colourHex: true } } },
+    select: { id: true, fullName: true, photoUrl: true, party: { select: { abbreviation: true, colourHex: true } } },
   });
   const candById = new Map(candidates.map((c) => [c.id, c]));
 
@@ -58,7 +58,7 @@ router.get("/presidential/:electionCode/region/:regionId", asyncHandler(async (r
   const candidateIds = votes.map((v) => v.candidateId);
   const candidates = await prisma.candidate.findMany({
     where: { id: { in: candidateIds } },
-    select: { id: true, fullName: true, party: { select: { abbreviation: true, colourHex: true } } },
+    select: { id: true, fullName: true, photoUrl: true, party: { select: { abbreviation: true, colourHex: true } } },
   });
   const candById = new Map(candidates.map((c) => [c.id, c]));
 
@@ -83,7 +83,7 @@ router.get("/presidential/:electionCode/by-constituency", asyncHandler(async (re
     include: {
       constituency: { select: { id: true, name: true, ecCode: true } },
       votes: {
-        include: { candidate: { select: { fullName: true, party: { select: { abbreviation: true, colourHex: true } } } } },
+        include: { candidate: { select: { fullName: true, photoUrl: true, party: { select: { abbreviation: true, colourHex: true } } } } },
         orderBy: { votes: "desc" },
       },
     },
@@ -95,7 +95,7 @@ router.get("/presidential/:electionCode/by-constituency", asyncHandler(async (re
     totalCast: r.totalCast,
     turnoutPct: r.turnoutPct ? Number(r.turnoutPct) : null,
     results: r.votes.map((v) => ({
-      candidate: { fullName: v.candidate.fullName, party: v.candidate.party },
+      candidate: { fullName: v.candidate.fullName, photoUrl: v.candidate.photoUrl, party: v.candidate.party },
       votes: v.votes,
       votePct: v.voteShare ? Number(v.voteShare) : 0,
     })),
@@ -116,7 +116,7 @@ router.get("/presidential/:electionCode/:constituencyId", asyncHandler(async (re
     include: {
       constituency: { select: { name: true, ecCode: true } },
       votes: {
-        include: { candidate: { select: { fullName: true, party: { select: { abbreviation: true, colourHex: true } } } } },
+        include: { candidate: { select: { fullName: true, photoUrl: true, party: { select: { abbreviation: true, colourHex: true } } } } },
         orderBy: { votes: "desc" },
       },
     },
@@ -132,7 +132,7 @@ router.get("/presidential/:electionCode/:constituencyId", asyncHandler(async (re
     turnoutPct: result.turnoutPct ? Number(result.turnoutPct) : null,
     constituency: result.constituency,
     votes: result.votes.map((v) => ({
-      candidate: { fullName: v.candidate.fullName, party: v.candidate.party },
+      candidate: { fullName: v.candidate.fullName, photoUrl: v.candidate.photoUrl, party: v.candidate.party },
       votes: v.votes,
       votePct: v.voteShare ? Number(v.voteShare) : 0,
     })),
@@ -147,7 +147,7 @@ router.get("/parliamentary/:electionCode", asyncHandler(async (req, res) => {
     include: {
       constituency: { select: { id: true, name: true, ecCode: true } },
       votes: {
-        include: { candidate: { select: { fullName: true, party: { select: { abbreviation: true, colourHex: true } } } } },
+        include: { candidate: { select: { fullName: true, photoUrl: true, party: { select: { abbreviation: true, colourHex: true } } } } },
         orderBy: { votes: "desc" },
       },
     },
@@ -159,7 +159,7 @@ router.get("/parliamentary/:electionCode", asyncHandler(async (req, res) => {
     totalCast: r.totalCast,
     turnoutPct: r.turnoutPct ? Number(r.turnoutPct) : null,
     results: r.votes.map((v) => ({
-      candidate: { fullName: v.candidate.fullName, party: v.candidate.party },
+      candidate: { fullName: v.candidate.fullName, photoUrl: v.candidate.photoUrl, party: v.candidate.party },
       votes: v.votes,
       votePct: v.voteShare ? Number(v.voteShare) : 0,
     })),
@@ -300,7 +300,7 @@ router.get("/parliamentary/:electionCode/:constituencyId", asyncHandler(async (r
     include: {
       constituency: { select: { name: true, ecCode: true } },
       votes: {
-        include: { candidate: { select: { fullName: true, party: { select: { abbreviation: true, colourHex: true } } } } },
+        include: { candidate: { select: { fullName: true, photoUrl: true, party: { select: { abbreviation: true, colourHex: true } } } } },
         orderBy: { votes: "desc" },
       },
     },
@@ -316,7 +316,7 @@ router.get("/parliamentary/:electionCode/:constituencyId", asyncHandler(async (r
     turnoutPct: result.turnoutPct ? Number(result.turnoutPct) : null,
     constituency: result.constituency,
     votes: result.votes.map((v) => ({
-      candidate: { fullName: v.candidate.fullName, party: v.candidate.party },
+      candidate: { fullName: v.candidate.fullName, photoUrl: v.candidate.photoUrl, party: v.candidate.party },
       votes: v.votes,
       votePct: v.voteShare ? Number(v.voteShare) : 0,
     })),
