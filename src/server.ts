@@ -8,7 +8,6 @@ import { errorHandler, notFoundHandler } from "./middleware/errorHandler";
 import electionsRouter from "./routes/elections";
 import geographyRouter from "./routes/geography";
 import resultsRouter from "./routes/results";
-import resultsHistoryRouter from "./routes/results-history";
 import mapDashboardRouter from "./routes/map-dashboard";
 import candidatesRouter from "./routes/candidates";
 import partiesRouter from "./routes/parties";
@@ -38,7 +37,6 @@ app.get("/health", (_req, res) => {
 app.use("/elections", electionsRouter);
 app.use("/geography", geographyRouter);
 app.use("/results", resultsRouter);
-app.use("/results", resultsHistoryRouter);
 app.use("/map-dashboard", mapDashboardRouter);
 app.use("/candidates", candidatesRouter);
 app.use("/parties", partiesRouter);
