@@ -15,11 +15,20 @@ import authRouter from "./routes/auth";
 import favouritesRouter from "./routes/favourites";
 
 const app = express();
+const defaultOrigins = [
+  "https://app.aiei-africa.org",
+  "https://kokromoti.aiei-africa.org",
+  "https://kokromoti-web-production.up.railway.app",
+  "http://localhost:3000",
+];
 
-app.set("trust proxy", 1);
+const allowedOrigins = process.env.CORS_ORIGINS
+  ? process.env.CORS_ORIGINS.split(",").map((o) => o.trim())
+  : defaultOrigins;
 
 app.use(cors({
-  origin: [
+  origin: allowedOrigins,
+}));
     "https://app.aiei-africa.org",
     "https://kokromoti-web-production.up.railway.app",
     "http://localhost:3000",
