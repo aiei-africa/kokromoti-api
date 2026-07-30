@@ -29,11 +29,6 @@ const allowedOrigins = process.env.CORS_ORIGINS
 app.use(cors({
   origin: allowedOrigins,
 }));
-    "https://app.aiei-africa.org",
-    "https://kokromoti-web-production.up.railway.app",
-    "http://localhost:3000",
-  ],
-}));
 app.use(express.json());
 app.use(requestLogger);
 
